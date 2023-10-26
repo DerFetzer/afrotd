@@ -10,7 +10,7 @@ use chrono_tz::{Europe::Berlin, Tz};
 use clap::Parser;
 use eyre::eyre;
 use indexmap::IndexMap;
-use maud::{html, Markup, Render, DOCTYPE};
+use maud::{html, Markup, PreEscaped, Render, DOCTYPE};
 use rand::{seq::SliceRandom, thread_rng, Rng};
 use rand_pcg::Pcg64;
 use rand_seeder::Seeder;
@@ -27,6 +27,7 @@ mod parser;
 mod rule;
 
 const PUB_URL: &str = "https://ruleoftheday.de";
+const RSS_SVG: &str = include_str!("../res/rss.svg");
 
 #[derive(Debug, Clone, Parser)]
 struct Cli {
@@ -154,9 +155,19 @@ fn build_rss(rule: &Rule) -> String {
         .items(vec![ItemBuilder::default()
             .title(format!("{} {}", rule.article_nr, rule.title))
             .link(format!(
-                "{}/{}",
+                "{}/rule/{}",
                 PUB_URL,
                 rule.article_nr.to_path_parameter()
+            ))
+            .description(format!(
+                "{}...",
+                rule.text
+                    .lines()
+                    .next()
+                    .unwrap()
+                    .chars()
+                    .take(50)
+                    .collect::<String>()
             ))
             .build()])
         .build()
@@ -182,8 +193,11 @@ fn insert_content_to_site(content: &dyn Render) -> Markup {
                 header.column .is-narrow {
                     section.hero .is-info {
                         .hero-body {
+                            p { a href="/rss.xml" { (PreEscaped(RSS_SVG)) } }
                             p.title ."is-2" { strong { a href="/" { "Rule of the Day 🏈 🦓" } } }
-                            p.subtitle ."is-4" { "Deine tägliche Dosis Regelwissen für " strong { "American Football" } " in Deutschland" }
+                            p.subtitle ."is-4" {
+                                "Deine tägliche Dosis Regelwissen für " strong { "American Football" } " in Deutschland "
+                            }
                         }
                     }
                 }
