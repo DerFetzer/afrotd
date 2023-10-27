@@ -223,6 +223,13 @@ fn insert_content_to_site(content: &dyn Render) -> Markup {
                                 a href="https://afsvd.de/content/files/2023/01/Football_Regelbuch_2023.pdf" { "offiziellen Regelwerk des AFSVD" } " extrahiert. "
                                 "Fehler können nicht ausgeschlossen werden."
                             }
+                            p .has-text-grey-light {
+                                a .has-text-grey-light href="https://legal.matthias-fetzer.de/"
+                                    target="_blank" rel="noreferrer noopener" { "Impressum" }
+                                " • "
+                                a .has-text-grey-light href="https://legal.matthias-fetzer.de/privacy.html"
+                                    target="_blank" rel="noreferrer noopener" { "Datenschutz" }
+                            }
                         }
                     }
                 }
