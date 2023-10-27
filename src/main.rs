@@ -186,6 +186,7 @@ fn insert_content_to_site(content: &dyn Render) -> Markup {
         (DOCTYPE)
         head {
             (css())
+            meta name="viewport" content="width=device-width, initial-scale=1";
             title { "Rule of the Day" }
         }
         body {
