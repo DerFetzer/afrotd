@@ -104,6 +104,7 @@ async fn main() -> eyre::Result<()> {
                     &state.rules,
                     &state.rule_order,
                 );
+                dynamic_state.rss = build_rss(rule);
                 dynamic_state.current_rule_markup = html! { (rule) };
             }
         }
