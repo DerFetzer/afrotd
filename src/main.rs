@@ -221,7 +221,7 @@ fn insert_content_to_site(content: &dyn Render) -> Markup {
                                 "sich regelmäßig mit den Regeln im American Football in Deutschland zu beschäftigen."
                                 br;
                                 "Sie wurden aus dem "
-                                a href="https://afsvd.de/content/files/2023/01/Football_Regelbuch_2023.pdf" { "offiziellen Regelwerk des AFSVD" } " extrahiert. "
+                                a href="https://afsvd.de/content/files/2023/12/Football_Regelbuch_2024.pdf" { "offiziellen Regelwerk des AFSVD" } " extrahiert. "
                                 "Fehler können nicht ausgeschlossen werden."
                             }
                             p .has-text-grey-light {

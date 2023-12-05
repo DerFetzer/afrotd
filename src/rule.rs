@@ -79,7 +79,7 @@ impl Render for Rule {
                     (self.render_text())
                     p {
                         a .button .is-link .is-medium
-                            href=(format!("https://afsvd.de/content/files/2023/01/Football_Regelbuch_2023.pdf#{}", self.article_nr.to_pdf_destination()))
+                            href=(format!("https://afsvd.de/content/files/2023/12/Football_Regelbuch_2024.pdf#{}", self.article_nr.to_pdf_destination()))
                             target="_blank" rel="noreferrer noopener" {
                             "Offizielles Regelwerk"
                         }
@@ -130,7 +130,7 @@ impl ArticleNr {
 
 impl Display for ArticleNr {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
-        write!(f, "{}.{}.{}.", self.0, self.1, self.2)
+        write!(f, "{}.{}.{}", self.0, self.1, self.2)
     }
 }
 
