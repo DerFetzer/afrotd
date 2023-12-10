@@ -125,10 +125,12 @@ impl RulesParser {
     fn extract_interpretations(
         text: String,
     ) -> eyre::Result<IndexMap<ArticleNr, Vec<RuleInterpretation>>> {
-        let re_section = Regex::new(r"(?s)Abschnitt .*?A\.R\.").unwrap();
-        let re_article = Regex::new(r"(?s)Artikel .*?A\.R\.").unwrap();
+        let re_rule = Regex::new(r"(?sm)^Regel .*?A\.R\.").unwrap();
+        let re_section = Regex::new(r"(?sm)^Abschnitt .*?A\.R\.").unwrap();
+        let re_article = Regex::new(r"(?sm)^Artikel .*?A\.R\.").unwrap();
 
-        let mut text = re_section.replace_all(&text, "\nA.R.").to_string();
+        let mut text = re_rule.replace_all(&text, "\nA.R.").to_string();
+        text = re_section.replace_all(&text, "\nA.R.").to_string();
         text = re_section.replace_all(&text, "\nA.R.").to_string();
         text = re_article.replace_all(&text, "\nA.R.").to_string();
 
