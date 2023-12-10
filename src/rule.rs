@@ -1,5 +1,6 @@
 use eyre::eyre;
 use maud::{html, PreEscaped, Render};
+use roman_numerals::ToRoman;
 use std::{fmt::Display, str::FromStr};
 
 #[derive(Debug, Clone, Hash, PartialEq, Eq)]
@@ -77,11 +78,16 @@ impl Render for Rule {
                 }
                 div.message-body {
                     (self.render_text())
-                    p {
+                    div.block {
                         a .button .is-link .is-medium
                             href=(format!("https://afsvd.de/content/files/2023/12/Football_Regelbuch_2024.pdf#{}", self.article_nr.to_pdf_destination()))
                             target="_blank" rel="noreferrer noopener" {
                             "Offizielles Regelwerk"
+                        }
+                    }
+                    div.block {
+                        @for interpretation in &self.interpretations {
+                            (interpretation)
                         }
                     }
                 }
@@ -96,6 +102,29 @@ pub struct RuleInterpretation {
     pub index: u8,
     pub text: String,
     pub ruling: String,
+}
+
+impl Render for RuleInterpretation {
+    fn render(&self) -> maud::Markup {
+        html! {
+            article.message ."is-size-5" .is-info {
+                div.message-header {
+                    p { "A.R. " (self.article_nr) "." (self.index.to_roman()) }
+                }
+                div.message-body {
+                    p { (self.text) }
+                    p {
+                        details {
+                            summary { b { "Regelung" } }
+                            p {
+                                (self.ruling)
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
 }
 
 #[derive(Debug, Copy, Clone, Hash, PartialEq, Eq)]

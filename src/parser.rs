@@ -2,9 +2,10 @@ use eyre::{eyre, Context};
 use indexmap::IndexMap;
 use once_cell::sync::Lazy;
 use regex::{Captures, Regex};
+use roman_numerals::FromRoman;
 use std::{path::Path, process::Command};
 
-use crate::rule::{ArticleNr, Rule};
+use crate::rule::{ArticleNr, Rule, RuleInterpretation};
 
 pub struct RulesParser;
 
@@ -36,33 +37,53 @@ impl RulesParser {
         let mut rules_text =
             String::from_utf8(pdftotext_output.stdout).wrap_err("Stdout is no valid utf8")?;
 
+        rules_text = Self::preprocess_text(rules_text);
+
+        let mut rules = Self::extract_rules(&rules_text)?;
+        let interpretations = Self::extract_interpretations(rules_text)?;
+
+        for (article_nr, article_interpretations) in interpretations {
+            let rule = rules
+                .get_mut(&article_nr)
+                .ok_or_else(|| eyre!("Could not find rule {}", article_nr))?;
+            rule.interpretations = article_interpretations;
+        }
+
+        Ok(rules)
+    }
+
+    fn preprocess_text(mut text: String) -> String {
         // Treat section 9.1. as rule
-        rules_text = rules_text.replace(
+        text = text.replace(
             "Abschnitt 9.1 Persönliche Fouls\nAlle",
             "Artikel 9.1.0 Persönliche Fouls\nAlle",
         );
-        rules_text = rules_text.replace("Regel 9\nVerhalten von Spielern und anderen", "");
+        text = text.replace("Regel 9\nVerhalten von Spielern und anderen", "");
 
         // Fixes for rules that are longer than one line
-        rules_text = rules_text.replace("9.1.4 Targeting und Forcible Contact zum Kopf-/Halsbereich\nverteidigungsloser Spieler",
+        text = text.replace("9.1.4 Targeting und Forcible Contact zum Kopf-/Halsbereich\nverteidigungsloser Spieler",
                                         "9.1.4 Targeting und Forcible Contact zum Kopf-/Halsbereich verteidigungsloser Spieler");
-        rules_text = rules_text.replace(
+        text = text.replace(
             "6.1.3 Berühren, illegales Berühren und Recovern eines Free\nKicks",
             "6.1.3 Berühren, illegales Berühren und Recovern eines Free Kicks",
         );
 
-        let re_new_page = Regex::new(r"-?\n\n\x0C").unwrap();
+        let re_new_page = Regex::new(r"-?\n\x0C").unwrap();
         let re_section = Regex::new(r"(?s)Abschnitt .*?Artikel").unwrap();
         let re_new_chapter = Regex::new(r"\n\x0C.*\n.*\n\n").unwrap();
 
-        rules_text = re_new_page.replace_all(&rules_text, "").to_string();
-        rules_text = re_section.replace_all(&rules_text, "\nArtikel").to_string();
-        rules_text = re_new_chapter.replace_all(&rules_text, "").to_string();
+        text = re_new_page.replace_all(&text, "").to_string();
+        text = re_section.replace_all(&text, "\nArtikel").to_string();
+        text = re_new_chapter.replace_all(&text, "").to_string();
 
-        let rules_start = rules_text
+        text
+    }
+
+    fn extract_rules(text: &str) -> eyre::Result<IndexMap<ArticleNr, Rule>> {
+        let rules_start = text
             .find("Artikel 1.1.1")
             .ok_or(eyre!("Could not find 'Artikel 1.1.1' inside the pdf text"))?;
-        let rules_end = rules_text
+        let rules_end = text
             .find("Die Abkürzungen R, Ab, Art stehen für Regel,")
             .ok_or(eyre!(
                 "Could not find 'Die Abkürzungen R, Ab, Art stehen für Regel,' inside the pdf text"
@@ -73,7 +94,7 @@ impl RulesParser {
         let re_article_header =
             Regex::new(r"(?m)Artikel (?<article_nr>\d+\.\d+\.\d+) (?<title>.*)$").unwrap();
 
-        let rules_part = &rules_text[rules_start..rules_end];
+        let rules_part = &text[rules_start..rules_end];
 
         let captures: Vec<_> = re_article_header.captures_iter(rules_part).collect();
 
@@ -97,10 +118,53 @@ impl RulesParser {
             let rule = Self::extract_rule_from_text(rules_part, last_capture, rules_end)?;
             rules.insert(rule.article_nr, rule);
         }
-        // dbg!(&rules);
         dbg!(rules.len());
-
         Ok(rules)
+    }
+
+    fn extract_interpretations(
+        text: String,
+    ) -> eyre::Result<IndexMap<ArticleNr, Vec<RuleInterpretation>>> {
+        let re_section = Regex::new(r"(?s)Abschnitt .*?A\.R\.").unwrap();
+        let re_article = Regex::new(r"(?s)Artikel .*?A\.R\.").unwrap();
+
+        let mut text = re_section.replace_all(&text, "\nA.R.").to_string();
+        text = re_section.replace_all(&text, "\nA.R.").to_string();
+        text = re_article.replace_all(&text, "\nA.R.").to_string();
+
+        let interpretations_start = text.find("\nA.R. 1.3.2.I ").ok_or(eyre!(
+            "Could not find '\\nA.R. 1.3.2.I ' inside the pdf text"
+        ))?;
+        let interpretations_end = text
+            .find("Teil III")
+            .ok_or(eyre!("Could not find 'Teil III' inside the pdf text"))?;
+
+        let mut interpretations: IndexMap<ArticleNr, Vec<RuleInterpretation>> = IndexMap::new();
+
+        let re_interpretation = Regex::new(r"(?sm)^A\.R\. (?<ar_nr>\d+\.\d+\.\d+.)(?<index>[IVX]+) (?<situation>.*?)Regelung:(?<ruling>.*?)\nA\.R\. ").unwrap();
+
+        let mut interpretations_text = text[interpretations_start..interpretations_end].to_string();
+        interpretations_text.push_str("\nA.R. "); // Add interpretation header to match last one
+        let mut current_position = 0;
+
+        while let Some(captures) =
+            re_interpretation.captures_at(&interpretations_text, current_position)
+        {
+            let article_nr = captures["ar_nr"].parse()?;
+            interpretations
+                .entry(article_nr)
+                .or_default()
+                .push(RuleInterpretation {
+                    article_nr,
+                    index: u8::from_roman(&captures["index"])
+                        .ok_or_else(|| eyre!("Invalid Roman number."))?,
+                    text: captures["situation"].trim().to_string(),
+                    ruling: captures["ruling"].trim().to_string(),
+                });
+            current_position = captures.get(0).unwrap().end() - 5;
+        }
+
+        Ok(interpretations)
     }
 
     fn extract_rule_from_text(
