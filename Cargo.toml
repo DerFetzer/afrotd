@@ -1,28 +1,31 @@
 [package]
 name = "afrotd"
-version = "0.3.1"
+version = "0.3.2"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-axum = { version = "0.6.20", features = ["headers"] }
-chrono = "0.4.31"
-chrono-tz = "0.8.4"
-clap = { version = "4.4.11", features = ["derive"] }
-eyre = "0.6.9"
-indexmap = "2.1.0"
-maud = { version = "0.25.0", features = ["axum"] }
-once_cell = "1.18.0"
+axum = { version = "0.7.4" }
+axum-extra = { version = "0.9.2", features = ["typed-header"] }
+tower = "0.4.13"
+tower-http = { version = "0.5.2", features = ["fs"] }
+chrono = "0.4.35"
+chrono-tz = "0.8.6"
+clap = { version = "4.5.2", features = ["derive"] }
+eyre = "0.6.12"
+indexmap = "2.2.5"
+maud = { version = "0.26.0", features = ["axum"] }
+once_cell = "1.19.0"
 rand = "0.8.5"
 rand_pcg = "0.3.1"
 rand_seeder = "0.2.3"
-regex = "1.10.2"
+regex = "1.10.3"
 roman-numerals = "0.4.0"
-rss = "2.0.6"
-serde = { version = "1.0.193", features = ["derive"] }
-serde_json = "1.0.108"
-tokio = { version = "1.34.0", features = ["full"] }
+rss = "2.0.7"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0.114"
+tokio = { version = "1.36.0", features = ["full"] }
 
 [profile.release]
 lto = "thin"

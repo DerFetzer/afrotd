@@ -1,33 +1,34 @@
 use axum::{
     extract::{Path, State},
-    headers::ContentType,
     http::StatusCode,
     routing::get,
-    Router, TypedHeader,
+    Router,
 };
+use axum_extra::{headers::ContentType, TypedHeader};
 use chrono::prelude::*;
 use chrono_tz::{Europe::Berlin, Tz};
 use clap::Parser;
 use eyre::eyre;
 use indexmap::IndexMap;
-use maud::{html, Markup, PreEscaped, Render, DOCTYPE};
+use maud::{html, Markup, Render, DOCTYPE};
 use rand::{seq::SliceRandom, thread_rng, Rng};
 use rand_pcg::Pcg64;
 use rand_seeder::Seeder;
 use rss::{ChannelBuilder, ItemBuilder};
 use rule::{ArticleNr, Rule};
 use std::{
-    net::SocketAddr,
     path::PathBuf,
     sync::{Arc, RwLock},
 };
 use tokio::time;
+use tower_http::services::ServeDir;
 
 mod parser;
 mod rule;
 
 const PUB_URL: &str = "https://ruleoftheday.de";
-const RSS_SVG: &str = include_str!("../res/rss.svg");
+const RSS_SVG: &str = "/res/rss.svg";
+const OPENGRAPH_PNG: &str = "/res/opengraph.png";
 
 #[derive(Debug, Clone, Parser)]
 struct Cli {
@@ -116,11 +117,11 @@ async fn main() -> eyre::Result<()> {
         .route("/random", get(get_random_rule))
         .route("/rule/:article_nr", get(get_single_rule))
         .route("/rss.xml", get(rss))
+        .nest_service("/res", ServeDir::new("res"))
         .with_state(state);
 
-    let addr = SocketAddr::from(([0, 0, 0, 0], 3000));
-    axum::Server::bind(&addr)
-        .serve(app.into_make_service())
+    let listener = tokio::net::TcpListener::bind("0.0.0.0:3000").await.unwrap();
+    axum::serve(listener, app.into_make_service())
         .await
         .unwrap();
     Ok(())
@@ -193,7 +194,7 @@ fn insert_content_to_site(content: &dyn Render) -> Markup {
             meta property="og:title" content="Rule of the Day";
             meta property="og:description" content="Deine tägliche Dosis Regelwissen für American Football in Deutschland";
             meta property="og:url" content=(PUB_URL);
-            meta property="og:image" content="../res/opengraph.png";
+            meta property="og:image" content=(OPENGRAPH_PNG);
             meta property="og:locale" content="de_DE";
             style {
                 "summary {
@@ -207,7 +208,7 @@ fn insert_content_to_site(content: &dyn Render) -> Markup {
                 header.column .is-narrow {
                     section.hero .is-info {
                         .hero-body {
-                            p { a href="/rss.xml" { (PreEscaped(RSS_SVG)) } }
+                            p { a href="/rss.xml" { img src=(RSS_SVG) height="32" width="32" alt="RSS Feed"; } }
                             p.title ."is-2" { strong { a href="/" { "Rule of the Day 🏈 🦓" } } }
                             p.subtitle ."is-4" {
                                 "Deine tägliche Dosis Regelwissen für " strong { "American Football" } " in Deutschland "
