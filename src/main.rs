@@ -189,6 +189,13 @@ fn insert_content_to_site(content: &dyn Render) -> Markup {
             (css())
             meta name="viewport" content="width=device-width, initial-scale=1";
             title { "Rule of the Day" }
+            meta name="description" content="Deine tägliche Dosis Regelwissen für American Football in Deutschland"
+            meta property="og:title" content="Rule of the Day"
+            meta property="og:description" content="Deine tägliche Dosis Regelwissen für American Football in Deutschland"
+            meta property="og:url" content=PUB_URL
+            meta property="og:image" content="../res/opengraph.png"
+            meta property="og:locale" content="de_DE"
+            style { "summary{cursor:pointer; margin: 12px 0 6px;}" }
         }
         body {
             .columns .is-flex-direction-column style="height:100vh" {
