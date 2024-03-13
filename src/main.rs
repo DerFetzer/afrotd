@@ -195,6 +195,7 @@ fn insert_content_to_site(content: &dyn Render) -> Markup {
             meta property="og:url" content=PUB_URL
             meta property="og:image" content="../res/opengraph.png"
             meta property="og:locale" content="de_DE"
+            style { "summary{cursor:pointer; margin: 12px 0 6px;}" }
         }
         body {
             .columns .is-flex-direction-column style="height:100vh" {
