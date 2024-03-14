@@ -19,6 +19,8 @@ jobs:
     - name: Rustup
       run: rustup update stable && rustup default stable
     - uses: Swatinem/rust-cache@v2.7.3
+    - name: Check Format
+      run: cargo fmt --verbose --check
     - name: Build
       run: cargo build --verbose
     - name: Clippy
