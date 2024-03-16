@@ -186,71 +186,72 @@ fn css() -> Markup {
 fn insert_content_to_site(content: &dyn Render) -> Markup {
     html! {
         (DOCTYPE)
-        head {
-            (css())
-            meta name="viewport" content="width=device-width, initial-scale=1";
-            title { "Rule of the Day" }
-            meta property="description" content="Deine tägliche Dosis Regelwissen für American Football in Deutschland";
-            meta property="og:title" content="Rule of the Day";
-            meta property="og:description" content="Deine tägliche Dosis Regelwissen für American Football in Deutschland";
-            meta property="og:url" content=(PUB_URL);
-            meta property="og:image" content=(OPENGRAPH_PNG);
-            meta property="og:locale" content="de_DE";
-            style {
-                "summary {
-                    cursor:pointer;
-                    margin: 12px 0 6px;
-                }"
+        html lang="de" {
+            head {
+                (css())
+                meta name="viewport" content="width=device-width, initial-scale=1";
+                title { "Rule of the Day" }
+                meta name="description" property="description" content="Deine tägliche Dosis Regelwissen für American Football in Deutschland";
+                meta property="og:title" content="Rule of the Day";
+                meta property="og:description" content="Deine tägliche Dosis Regelwissen für American Football in Deutschland";
+                meta property="og:url" content=(PUB_URL);
+                meta property="og:image" content=(OPENGRAPH_PNG);
+                meta property="og:locale" content="de_DE";
+                style {
+                    "summary {
+                        cursor:pointer;
+                        margin: 12px 0 6px;
+                    }"
+                }
             }
-        }
-        body {
-            .columns .is-flex-direction-column style="height:100vh" {
-                header.column .is-narrow {
-                    section.hero .is-info {
-                        .hero-body {
-                            p { a href="/rss.xml" { img src=(RSS_SVG) height="32" width="32" alt="RSS Feed"; } }
-                            p.title ."is-2" { strong { a href="/" { "Rule of the Day 🏈 🦓" } } }
-                            p.subtitle ."is-4" {
-                                "Deine tägliche Dosis Regelwissen für " strong { "American Football" } " in Deutschland "
+            body {
+                .columns .is-flex-direction-column style="height:100vh" {
+                    header.column .is-narrow {
+                        section.hero .is-info {
+                            .hero-body {
+                                p { a href="/rss.xml" { img src=(RSS_SVG) height="32" width="32" alt="RSS Feed"; } }
+                                p.title ."is-2" { strong { a href="/" { "Rule of the Day 🏈 🦓" } } }
+                                p.subtitle ."is-4" {
+                                    "Deine tägliche Dosis Regelwissen für " strong { "American Football" } " in Deutschland "
+                                }
+                            }
+                        }
+                    }
+                    .column {
+                        (content)
+                    }
+                    footer.column .is-narrow {
+                        footer.footer {
+                            .content .has-text-centered {
+                                p {
+                                    strong { "Rule of the Day" } " von " a href="https://github.com/DerFetzer" { "DerFetzer" } "."
+                                }
+                                p {
+                                    "Der " a href="https://github.com/DerFetzer/afrotd"{ "Quellcode" } " steht unter der "
+                                    a href="https://opensource.org/licenses/mit-license.php" { "MIT" } " Lizenz."
+                                }
+                                p .has-text-grey {
+                                    strong { "Disclaimer: "} "Diese Seite soll eine Möglichkeit bieten, "
+                                    "sich regelmäßig mit den Regeln im American Football in Deutschland zu beschäftigen."
+                                    br;
+                                    "Sie wurden unter freundlicher Genehmigung des " a href="https://afvd.de" { "AFVD" } " aus dem "
+                                    a href="https://afsvd.de/content/files/2023/12/Football_Regelbuch_2024.pdf" { "offiziellen Regelwerk des AFSVD" } " extrahiert. "
+                                    "Fehler können nicht ausgeschlossen werden."
+                                    br;
+                                    "Die Verarbeitung der Inhalte auf dieser Website ist nur nach schriftlicher Genehmigung des AFVD zulässig."
+                                }
+                                p .has-text-grey-light {
+                                    a .has-text-grey-light href="https://legal.matthias-fetzer.de/"
+                                        target="_blank" rel="noreferrer noopener" { "Impressum" }
+                                    " • "
+                                    a .has-text-grey-light href="https://legal.matthias-fetzer.de/privacy.html"
+                                        target="_blank" rel="noreferrer noopener" { "Datenschutz" }
+                                }
                             }
                         }
                     }
                 }
-                .column {
-                    (content)
-                }
-                footer.column .is-narrow {
-                    footer.footer {
-                        .content .has-text-centered {
-                            p {
-                                strong { "Rule of the Day" } " von " a href="https://github.com/DerFetzer" { "DerFetzer" } "."
-                            }
-                            p {
-                                "Der " a href="https://github.com/DerFetzer/afrotd"{ "Quellcode" } " steht unter der "
-                                a href="https://opensource.org/licenses/mit-license.php" { "MIT" } " Lizenz."
-                            }
-                            p .has-text-grey {
-                                strong { "Disclaimer: "} "Diese Seite soll eine Möglichkeit bieten, "
-                                "sich regelmäßig mit den Regeln im American Football in Deutschland zu beschäftigen."
-                                br;
-                                "Sie wurden unter freundlicher Genehmigung des " a href="https://afvd.de" { "AFVD" } " aus dem "
-                                a href="https://afsvd.de/content/files/2023/12/Football_Regelbuch_2024.pdf" { "offiziellen Regelwerk des AFSVD" } " extrahiert. "
-                                "Fehler können nicht ausgeschlossen werden."
-                                br;
-                                "Die Verarbeitung der Inhalte auf dieser Website ist nur nach schriftlicher Genehmigung des AFVD zulässig."
-                            }
-                            p .has-text-grey-light {
-                                a .has-text-grey-light href="https://legal.matthias-fetzer.de/"
-                                    target="_blank" rel="noreferrer noopener" { "Impressum" }
-                                " • "
-                                a .has-text-grey-light href="https://legal.matthias-fetzer.de/privacy.html"
-                                    target="_blank" rel="noreferrer noopener" { "Datenschutz" }
-                            }
-                        }
-                    }
-                }
             }
-
         }
     }
 }
