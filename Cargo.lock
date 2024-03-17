@@ -36,10 +36,7 @@ dependencies = [
  "regex",
  "roman-numerals",
  "rss",
- "serde",
- "serde_json",
  "tokio",
- "tower",
  "tower-http",
 ]
 
