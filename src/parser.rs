@@ -118,7 +118,6 @@ impl RulesParser {
             let rule = Self::extract_rule_from_text(rules_part, last_capture, rules_end)?;
             rules.insert(rule.article_nr, rule);
         }
-        dbg!(rules.len());
         Ok(rules)
     }
 

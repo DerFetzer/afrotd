@@ -21,7 +21,9 @@ use std::{
     sync::{Arc, RwLock},
 };
 use tokio::time;
-use tower_http::services::ServeDir;
+use tower_http::{services::ServeDir, trace::TraceLayer};
+use tracing::{debug, info};
+use tracing_subscriber::{layer::SubscriberExt, util::SubscriberInitExt};
 
 mod parser;
 mod rule;
@@ -54,7 +56,20 @@ struct DynamicState {
 
 #[tokio::main]
 async fn main() -> eyre::Result<()> {
+    tracing_subscriber::registry()
+        .with(
+            tracing_subscriber::EnvFilter::try_from_default_env().unwrap_or_else(|_| {
+                // axum logs rejections from built-in extractors with the `axum::rejection`
+                // target, at `TRACE` level. `axum::rejection=trace` enables showing those events
+                "afrotd=info,tower_http=debug,axum::rejection=trace".into()
+            }),
+        )
+        .with(tracing_subscriber::fmt::layer())
+        .init();
+
     let cli = Cli::parse();
+
+    info!("{cli:?}");
 
     let current_date = get_current_date();
     if cli.start_date > current_date {
@@ -62,10 +77,11 @@ async fn main() -> eyre::Result<()> {
     }
 
     let mut rules = parser::RulesParser::parse(&cli.rules_path)?;
+    info!("Parsed {} rules", rules.len());
     for article_nr in &cli.exclude_rule {
         rules.shift_remove(article_nr);
     }
-    dbg!(rules.len());
+    info!("{} rules after exclusion", rules.len());
 
     let rule_order = {
         let mut rng: Pcg64 = Seeder::from(&cli.start_date).make_rng();
@@ -73,8 +89,10 @@ async fn main() -> eyre::Result<()> {
         rule_order.shuffle(&mut rng);
         rule_order
     };
+    debug!("Rule order: {:?}", rule_order);
 
     let current_rule = get_rule(cli.start_date, current_date, &rules, &rule_order).clone();
+    info!("Current rule: {}", current_rule.article_nr);
     let current_rule_markup = html! { (current_rule) };
 
     let state = Arc::new(AppState {
@@ -105,6 +123,7 @@ async fn main() -> eyre::Result<()> {
                     &state.rules,
                     &state.rule_order,
                 );
+                info!("New rule: {}", rule.article_nr);
                 dynamic_state.rss = build_rss(rule);
                 dynamic_state.current_rule_markup = html! { (rule) };
             }
@@ -117,8 +136,10 @@ async fn main() -> eyre::Result<()> {
         .route("/random", get(get_random_rule))
         .route("/rule/:article_nr", get(get_single_rule))
         .route("/rss.xml", get(rss))
+        .route("/health", get(|| async { "OK" }))
         .nest_service("/res", ServeDir::new("res"))
-        .with_state(state);
+        .with_state(state)
+        .layer(TraceLayer::new_for_http());
 
     let listener = tokio::net::TcpListener::bind("0.0.0.0:3000").await.unwrap();
     axum::serve(listener, app.into_make_service())
