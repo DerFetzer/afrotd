@@ -1,6 +1,6 @@
 [package]
 name = "afrotd"
-version = "0.3.4"
+version = "0.3.5"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
@@ -24,7 +24,7 @@ roman-numerals = "0.4.0"
 rss = "2.0.7"
 tokio = { version = "1.36.0", features = ["full"] }
 tracing = "0.1"
-tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+tracing-subscriber = { version = "0.3", features = ["env-filter", "json"] }
 
 [profile.release]
 lto = "thin"

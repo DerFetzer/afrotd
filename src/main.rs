@@ -64,7 +64,7 @@ async fn main() -> eyre::Result<()> {
                 "afrotd=info,tower_http=debug,axum::rejection=trace".into()
             }),
         )
-        .with(tracing_subscriber::fmt::layer())
+        .with(tracing_subscriber::fmt::layer().json())
         .init();
 
     let cli = Cli::parse();
