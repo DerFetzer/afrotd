@@ -67,6 +67,27 @@ impl Rule {
             }
         }
     }
+
+    pub fn to_description(&self) -> String {
+        format!(
+            "{}...",
+            self.text
+                .lines()
+                .next()
+                .unwrap()
+                .chars()
+                .take(50)
+                .collect::<String>()
+        )
+    }
+
+    pub fn to_title(&self) -> String {
+        format!("{} {}", self.article_nr, self.title)
+    }
+
+    pub fn to_url(&self, base_url: &str) -> String {
+        format!("{}/rule/{}", base_url, self.article_nr.to_path_parameter())
+    }
 }
 
 impl Render for Rule {

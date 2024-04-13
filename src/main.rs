@@ -7,7 +7,7 @@ use axum::{
 use axum_extra::{headers::ContentType, TypedHeader};
 use chrono::prelude::*;
 use chrono_tz::{Europe::Berlin, Tz};
-use clap::Parser;
+use clap::{Args, Parser};
 use eyre::eyre;
 use indexmap::IndexMap;
 use maud::{html, Markup, Render, DOCTYPE};
@@ -15,16 +15,21 @@ use rand::{seq::SliceRandom, thread_rng, Rng};
 use rand_pcg::Pcg64;
 use rand_seeder::Seeder;
 use rss::{ChannelBuilder, ItemBuilder};
-use rule::{ArticleNr, Rule};
+use serenity::{all::GatewayIntents, builder::CreateMessage, Client};
 use std::{
     path::PathBuf,
-    sync::{Arc, RwLock},
+    sync::{atomic::AtomicBool, Arc, RwLock},
 };
 use tokio::time;
 use tower_http::{services::ServeDir, trace::TraceLayer};
-use tracing::{debug, info};
+use tracing::{debug, error, info, warn};
 use tracing_subscriber::{layer::SubscriberExt, util::SubscriberInitExt};
+use veil::Redact;
 
+use discord::{build_discord_message, DiscordEventHandler};
+use rule::{ArticleNr, Rule};
+
+mod discord;
 mod parser;
 mod rule;
 
@@ -39,6 +44,20 @@ struct Cli {
     exclude_rule: Vec<ArticleNr>,
     #[arg(short, long)]
     start_date: NaiveDate,
+    #[command(flatten)]
+    discord_args: DiscordArgs,
+}
+
+#[derive(Redact, Clone, Args)]
+#[group(required = false, multiple = true, requires_all = ["discord_token", "discord_post_hour", "discord_channel_id"])]
+struct DiscordArgs {
+    #[redact(fixed = 10)]
+    #[arg(long)]
+    discord_token: Option<String>,
+    #[arg(long, value_parser = clap::value_parser!(u8).range(0..23))]
+    discord_post_hour: Option<u8>,
+    #[arg(long)]
+    discord_channel_id: Option<u64>,
 }
 
 struct AppState {
@@ -52,6 +71,7 @@ struct DynamicState {
     current_date: NaiveDate,
     current_rule_markup: Markup,
     rss: String,
+    discord_message: CreateMessage,
 }
 
 #[tokio::main]
@@ -103,6 +123,7 @@ async fn main() -> eyre::Result<()> {
             current_date,
             current_rule_markup,
             rss: build_rss(&current_rule),
+            discord_message: build_discord_message(&current_rule),
         }),
     });
 
@@ -125,10 +146,39 @@ async fn main() -> eyre::Result<()> {
                 );
                 info!("New rule: {}", rule.article_nr);
                 dynamic_state.rss = build_rss(rule);
+                dynamic_state.discord_message = build_discord_message(rule);
                 dynamic_state.current_rule_markup = html! { (rule) };
             }
         }
     });
+
+    // Discord task
+    if let (Some(discord_token), Some(discord_post_hour), Some(discord_channel_id)) = (
+        cli.discord_args.discord_token,
+        cli.discord_args.discord_post_hour,
+        cli.discord_args.discord_channel_id,
+    ) {
+        info!("Init discord bot");
+
+        let task_state = state.clone();
+        let intents = GatewayIntents::GUILDS;
+
+        let mut client = Client::builder(&discord_token, intents)
+            .event_handler(DiscordEventHandler {
+                is_loop_running: AtomicBool::new(false),
+                app_state: task_state,
+                discord_post_hour,
+                discord_channel_id,
+            })
+            .await?;
+
+        tokio::spawn(async move {
+            match client.start().await {
+                Ok(_) => warn!("Discord client exìted!"),
+                Err(err) => error!("Could not start discord client: {err}"),
+            }
+        });
+    }
 
     let app = Router::new()
         .route("/", get(get_current_rule))
@@ -176,22 +226,9 @@ fn build_rss(rule: &Rule) -> String {
         .language("de".to_string())
         .last_build_date(now.clone())
         .items(vec![ItemBuilder::default()
-            .title(format!("{} {}", rule.article_nr, rule.title))
-            .link(format!(
-                "{}/rule/{}",
-                PUB_URL,
-                rule.article_nr.to_path_parameter()
-            ))
-            .description(format!(
-                "{}...",
-                rule.text
-                    .lines()
-                    .next()
-                    .unwrap()
-                    .chars()
-                    .take(50)
-                    .collect::<String>()
-            ))
+            .title(rule.to_title())
+            .link(rule.to_url(PUB_URL))
+            .description(rule.to_description())
             .build()])
         .build()
         .to_string()
