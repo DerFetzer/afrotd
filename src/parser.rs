@@ -40,7 +40,7 @@ impl RulesParser {
         rules_text = Self::preprocess_text(rules_text);
 
         let mut rules = Self::extract_rules(&rules_text)?;
-        let interpretations = Self::extract_interpretations(rules_text)?;
+        let interpretations = Self::extract_interpretations(&rules_text)?;
 
         for (article_nr, article_interpretations) in interpretations {
             let rule = rules
@@ -122,13 +122,13 @@ impl RulesParser {
     }
 
     fn extract_interpretations(
-        text: String,
+        text: &str,
     ) -> eyre::Result<IndexMap<ArticleNr, Vec<RuleInterpretation>>> {
         let re_rule = Regex::new(r"(?sm)^Regel .*?A\.R\.").unwrap();
         let re_section = Regex::new(r"(?sm)^Abschnitt .*?A\.R\.").unwrap();
         let re_article = Regex::new(r"(?sm)^Artikel .*?A\.R\.").unwrap();
 
-        let mut text = re_rule.replace_all(&text, "\nA.R.").to_string();
+        let mut text = re_rule.replace_all(text, "\nA.R.").to_string();
         text = re_section.replace_all(&text, "\nA.R.").to_string();
         text = re_section.replace_all(&text, "\nA.R.").to_string();
         text = re_article.replace_all(&text, "\nA.R.").to_string();
@@ -137,8 +137,8 @@ impl RulesParser {
             "Could not find '\\nA.R. 1.3.2.I ' inside the pdf text"
         ))?;
         let interpretations_end = text
-            .find("Teil III")
-            .ok_or(eyre!("Could not find 'Teil III' inside the pdf text"))?;
+            .find("Teil IV")
+            .ok_or(eyre!("Could not find 'Teil IV' inside the pdf text"))?;
 
         let mut interpretations: IndexMap<ArticleNr, Vec<RuleInterpretation>> = IndexMap::new();
 

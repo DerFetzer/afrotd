@@ -31,7 +31,9 @@ impl Rule {
                 @if new_indent > current_indent {
                     (PreEscaped(format!("<ol type={list_type}>")))
                 } @else if new_indent < current_indent {
-                    (PreEscaped("</ol>"))
+                    @for _ in 0..(current_indent - new_indent){
+                        (PreEscaped("</ol>"))
+                    }
                 }
                 @if new_indent != 0 && !l.starts_with("\tAusnahmen") {
                     li { ({
