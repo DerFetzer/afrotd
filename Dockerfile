@@ -1,4 +1,4 @@
-FROM rust:1.77.2-buster as builder
+FROM rust:1.83.0- AS builder
 RUN apt-get update && apt-get install -y --no-install-recommends cmake musl-tools wget && rm -rf /var/lib/apt/lists/*
 RUN rustup target add x86_64-unknown-linux-musl
 WORKDIR /afrotd
