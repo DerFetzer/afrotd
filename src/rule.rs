@@ -103,7 +103,7 @@ impl Render for Rule {
                     (self.render_text())
                     div.block {
                         a .button .is-medium
-                            href=(format!("https://afsvd.de/content/files/2023/12/Football_Regelbuch_2024.pdf#{}", self.article_nr.to_pdf_destination()))
+                            href=(format!("https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#{}", self.article_nr.to_pdf_destination()))
                             target="_blank" rel="noreferrer noopener" {
                             "Offizielles Regelwerk"
                         }
