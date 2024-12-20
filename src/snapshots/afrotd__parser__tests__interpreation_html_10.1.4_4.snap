@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 10.1.4.IV
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            A1 wirft einen illegalen Vorwärtspass und Team B befindet sich beim
+            Snap in der neutralen Zone. B23 fängt den Pass ab und B10 clippt
+            beim Return. B23 wird im Spielfeld getackelt.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Keine Wahlmöglichkeit. Die Fouls heben sich auf und der Down
+                wird wiederholt. Team B kann die Aufhebung der Fouls nicht
+                wählen, da es gefoult hat, bevor es in Ballbesitz kam.
+            </p>
+        </details>
+    </div>
+</article>

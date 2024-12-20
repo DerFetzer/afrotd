@@ -1,0 +1,43 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.5.2.IX
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            1. und 10 von der A-25. Zu einem späten Zeitpunkt in der ersten
+            Spielperiode advanct Ballträger A21 nach rechts in Richtung seiner
+            Teamzone und wird an der A-30 von B54 durch einen Tackle getroffen.
+            A21 setzt seine Vorwärtsbewegung fort und landet mit seinem Körper
+            an der A-34 (a) gerade noch inbounds; (b) im Aus. Es gibt keine
+            weiteren Auswechslungen für Team A.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team A´s Ball, 2. und 1 an der A-34. In (a) hält die Game Clock
+                nicht an und die Play Clock wird auf 40 Sekunden gesetzt und
+                innerhalb einer Sekunde nachdem der Ball dead wurde, gestartet.
+                Team A kann den Ball snappen, wenn dieser spielbereit ist. In
+                (b) wird die Game Clock angehalten und mit Ballfreigabe durch
+                den Referee wieder gestartet. Die Play Clock wird auf 40
+                Sekunden gesetzt und innerhalb einer Sekunde, nachdem der Ball
+                dead wurde, gestartet Dder Referee breitet seine Arme aus (T
+                –Signal) und zeigt so an, dass ein Auswechselprozess im Gange
+                ist und dadurch Team B die Möglichkeit gegeben werden muss,
+                seinerseits Auswechslungen vorzunehmen. Wenn Team A-Spieler
+                nach einem Down zwischen den 20-Meterlinien auf ihrer
+                Spielfeldseite ins Aus gehen, wird der Referee durch das „T
+                –Signal“, den Prozess der Auswechselungsmechanics starten.
+            </p>
+        </details>
+    </div>
+</article>

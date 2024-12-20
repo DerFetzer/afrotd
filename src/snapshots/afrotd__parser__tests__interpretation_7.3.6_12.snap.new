@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 6
+index: 12
+text: "Receiver A85 streckt sich an der B-2 und ergreift einen Vorwärtspass, fällt aber selbstständig zu Boden, als er versucht, das Fan-\ngen zu vervollständigen. Als A85 in der Endzone zu Boden fällt, wird\nder Ball sofort frei und fällt zu Boden."
+ruling: "Unvollständiger Pass.\nJeder Receiver, der während des Fangprozesses selbstständig zu Boden fällt, muss die Kontrolle über den Ball behalten, wenn er zu Boden\nfällt."

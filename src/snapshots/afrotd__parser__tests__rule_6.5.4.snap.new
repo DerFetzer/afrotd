@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 5
+  - 4
+title: Illegaler Block oder Kontakt
+text: "Hat ein Team B-Spieler ein gültiges oder ungültiges Fair Catch-Signal für einen Fair Catch gemacht, berührt aber nicht den Ball, darf er während dieses Downs einen Gegner weder blocken noch foulen (A.R. 6.5.4.I und 6.5.4.II). Strafe: Free Kicks – Ball des Receiving Teams, 10 Meter vom Spot of Foul [S40]. Scrimmage Kicks – 10 Meter, Postscrimmage Kick-Durchführung [S40]. Wird ein persönliches Foul in Zusammenhang mit dieser Aktion verursacht, ist die Strafe 15 Meter und Verursacher schwerer Fouls müssen disqualifiziert werden."
+interpretations: []

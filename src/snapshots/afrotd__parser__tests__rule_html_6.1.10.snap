@@ -1,0 +1,55 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            6.1.10 Illegale Wedge-Formation
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Eine Wedge wird definiert als zwei oder mehr Spieler, die
+                sich jeweils weniger als zwei Meter Schulter an Schulter
+                nebeneinander befinden.
+                </li>
+                <li>
+                    <p>
+                        Nur bei einem Free Kick-Down: Nachdem der Ball gekickt
+                        wurde, ist es illegal,wenn zwei oder mehr Spieler des
+                        Receiving Teams zum Zweck des Blockens für den
+                        Ballträger absichtlich eine Wedge formieren. Das ist
+                        ein Live Ball Foul. Dabei ist es unerheblich, ob es zu
+                        einem Kontakt mit einem Gegner kommt oder nicht.
+                    </p>
+                    <p>
+                        <strong>Strafe: Foul ohne Kontakt. 15 Meter vom Punkt
+                        des Fouls oder 15 Meter vom Punkt, an dem der
+                        anschließende Dead Ball zu Team B gehört, wenn sich
+                        dieser Punkt hinter dem Punkt des Fouls befindet. 15
+                        Meter vom Previous Spot mit Wiederholung des Downs,
+                        wenn der anschließende Dead Ball zu Team A gehört
+                        [S27].</strong>
+                    </p>
+                </li>
+                <li>Das Formieren einer Wedge ist nicht illegal, wenn der Free
+                Kick aus einer offensichtlichen Onside Kick-Formation erfolgt.
+                </li>
+                <li>Es liegt kein Foul vor, wenn der Free-Kick-Down in einem
+                Touchback resultiert, ein Foul für einen Free Kick im Aus
+                vorliegt oder es durch die Fair Catch-Regel endet (A.R.
+                6.1.10.I).
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.6.1.10"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

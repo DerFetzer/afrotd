@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.1.3.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Während eines Spieles, der kein Try ist, erzielt Team B einen
+            Touchdown, nachdem ein Vorwärtspass abgefangen oder ein Fumble oder
+            ein Rückpass abgefangen oder recovert oder ein geblockter
+            Fieldgoalversuch recovert wurde.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Extraperiode und Spiel sind beendet und Team B ist der
+                Gewinner.
+            </p>
+        </details>
+    </div>
+</article>

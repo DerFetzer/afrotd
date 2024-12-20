@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 2
+  - 3
+index: 1
+text: "Während der Verlängerung einer Periode, nachdem der Ball freigegeben wurde und vor dem Snap begeht Team A ein Foul."
+ruling: "Dead Ball Foul. Team A wird für das Foul bestraft und ist berechtigt, den\nDown zu beenden."

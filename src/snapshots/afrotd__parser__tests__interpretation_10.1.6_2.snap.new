@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 1
+  - 6
+index: 2
+text: "Ballträger B17 verhöhnt und beleidigt an der A-11 den ihn verfolgenden A55, bevor er einen abgefangenen Pass zu einem Touchdown trägt. Nachdem B17 die Goalline überquert hat, tackelt ihn A55\nfünf Meter tief in A’s Endzone."
+ruling: "Unsportliches Verhalten von\nB17 und A55. Beide Strafen werden durchgeführt. Die Strafe für B17’s\nLive Ball Foul wird von der A-11, dem Punkt des Fouls durchgeführt.\nDas Dead Ball Foul von A55 wird vom Succeeding Spot durchgeführt.\nB’s Ball, 1. und 10 von der A-13."

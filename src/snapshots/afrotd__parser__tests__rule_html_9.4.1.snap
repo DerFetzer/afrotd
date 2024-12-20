@@ -1,0 +1,49 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            9.4.1 Schlagen eines freien Balles
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Während sich ein Pass im Flug befindet, dürfen nur Spieler,
+                die berechtigt sind, den Ball zu berühren, diesen in jede
+                Richtung schlagen (Ausnahme: Regel 9.4.2).
+                </li>
+                <li>Jeder Spieler darf im Spielfeld oder in einer Endzone einen
+                Scrimmage Kick abblocken.
+                </li>
+                <li>
+                    <p>
+                        Kein Spieler darf andere freie Bälle im Spielfeld nach
+                        vorn schlagen. Kein Spieler darf andere freie Bälle in
+                        irgendeine Richtung schlagen, wenn sich der Ball in
+                        einer Endzone befindet (Regel 2.2.3.a) (Ausnahme: Regel
+                        6.3.11) (A.R. 6.3.11.I, 9.4.1.I bis 9.4.1.X, und A.R.
+                        10.2.2.II).
+                    </p>
+                    <p>
+                        <strong>Strafe: 10 Meter und Downverlust für Team
+                        A-Fouls, soweit der Downverlust nicht im Widerspruch zu
+                        anderen Regeln steht [S9 und S31] ( Ausnahme: kein
+                        Downverlust, wenn sich das Foul ereignet, während sich
+                        ein legaler Scrimmage Kick jenseits der neutralen Zone
+                        befindet).</strong>
+                    </p>
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.9.4.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 5
+  - 2
+  - 9
+title: Endgültigkeit der Regelauslegung
+text: "Eine Regelentscheidung darf nicht geändert werden, nachdem der Ball das nächste Mal legal gesnappt oder beim Free Kick legal gekickt oder die zweite Periode oder die vierte Periode beendet wurde (Regeln 3.2.1.a, 3.3.4.e.2 und 11.1.1) (Ausnahme: Die Nummer eines Downs kann jederzeit innerhalb dieser Downserie oder bevor der Ball das nächste Mal in der folgenden Serie legal ins Spiel gebracht wird, korrigiert werden). Regel 6 Kicks"
+interpretations: []

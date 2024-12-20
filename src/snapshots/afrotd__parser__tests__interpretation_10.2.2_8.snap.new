@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 2
+  - 2
+index: 8
+text: "A1 befindet sich auf seiner 40 und puntet von hinter der neutralen Zone. B1 hält A2 hinter oder jenseits der neutralen Zone fest,\nnachdem der Kick die neutrale Zone überquert hat und bevor er Team\nB berührt."
+ruling: "Strafe - 10 Meter vom Ende des Kicks. Die Strafdurchführung unterliegt dem Postscrimmage Kick Prinzip, wenn Team\nB als nächstes den Ball snappt."

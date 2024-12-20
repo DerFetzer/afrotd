@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 2
+  - 3
+title: Freier Ball
+text: "\ta) Ein freier Ball ist ein Live Ball, der sich nicht im Besitz eines Spielers befindet, während:\n\t\t1. eines Laufspieles;\n\t\t2. eines Scrimmage Kick- oder Free Kick-Spieles, bevor Ballbesitz erlangt oder wiedererlangt wurde oder der Ball den Regeln nach dead ist;\n\t\t3. des Zeitraumes, nachdem ein legaler Vorwärtspass berührt wurde und bevor er vollständig, unvollständig oder abgefangen wird. (Beachte: Dieser Zeitraum besteht während eines VorwärtspassSpieles und jeder Spieler, der berechtigt ist, den Ball zu berühren, darf ihn in jede Richtung schlagen.)\n\tb) Alle Spieler sind berechtigt, einen Fumble (Ausnahme: Regel 7.2.2.a Ausnahme 2 und 8.3.2.d.5) oder einen Rückpass zu berühren, zu fangen oder zu recovern.\n\tc) Die Berechtigung zum Berühren eines Kicks wird durch Regel 6 bestimmt.\n\td) Die Berechtigung zum Berühren eines Vorwärtspasses wird durch Regel 7 bestimmt."
+interpretations: []

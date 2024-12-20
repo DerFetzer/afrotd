@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 10
+title: Unberechtigt jenseits der neutralen Zone
+text: "Kein ursprünglich unberechtigter Receiver darf sich mehr als drei Meter jenseits der neutralen Zone befinden oder befunden haben, bis ein Passer einen legalen Vorwärtspass wirft, der die neutrale Zone überquert. Ein Spieler verletzt diese Regel, wenn ein Teil seines Körpers sich jenseits der Drei-MeterEinschränkung befindet (Ausnahme: legales Spiel, wenn der Passer den Ball legal wegwirft und der Ball in der Nähe oder außerhalb einer Seitenlinie landet) (A.R. 7.3.10.I und 7.3.10.III). Strafe: 5 Meter vom Previous Spot [S37]."
+interpretations: []

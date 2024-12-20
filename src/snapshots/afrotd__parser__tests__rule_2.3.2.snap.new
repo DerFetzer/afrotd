@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 3
+  - 2
+title: Unterhalb der Gürtellinie
+text: "\ta) Ein Block unterhalb der Gürtellinie ist ein Block, bei dem der anfängliche Kontakt mit einem Körperteil des Blockers unterhalb der Gürtellinie eines Gegners erfolgt, der mit einem oder beiden Füßen auf dem Boden steht. Im Zweifel ist der Kontakt unter der Gürtellinie (Regel 9.1.6).\n\tb) Ein Blocker, der seinen Gegner zuerst über der Gürtellinie berührt und anschließend unter die Gürtellinie rutscht, hat nicht unter der Gürtellinie geblockt. Berührt der Blocker zuerst die Hände des Gegners an oder oberhalb der Gürtellinie, so blockt er regelgerecht über der Gürtellinie (Regel 9.1.6)."
+interpretations: []

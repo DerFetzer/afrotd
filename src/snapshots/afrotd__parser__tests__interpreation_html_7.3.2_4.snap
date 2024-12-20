@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 7.3.2.IV
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Nach dem Zwei-Minuten-Timeout wird der Ball über den Kopf von
+            Quarterback A12, der in einer Shotgun-Formation steht, gesnappt.
+            A12 recovert den Ball und wirft ihn sofort vorwärts zu Boden.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Illegaler Vorwärtspass wegen absichtlichen zu Boden werfen
+                eines Balls, um Zeit einzusparen. Strafe – Downverlust am Punkt
+                des Fouls. Da sich dieses Foul nach dem Zwei-Minuten-Timeout
+                ereignet, fällt es unter die 10-Sekunden-Abzugs-Regel (Regeln
+                3.4.4).
+            </p>
+        </details>
+    </div>
+</article>

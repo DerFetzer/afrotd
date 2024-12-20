@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.4.1.X
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Nachdem ein von Team A geworfener legaler Vorwärtspass auf der B-20
+            abgefangen wurde, fumbelt B1 an der B-38 und B2 schlägt den freien
+            Ball an der B-30 illegal weg. Der Ball fliegt nach vorne und ins
+            Aus.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team B-Foul. Strafe – 10 Meter vom Punkt des Fouls. Team B’s
+                Ball, First Down und 10 an der B-20. Hier ist kein Downverlust
+                in der Strafe enthalten, da Team B eine neue Serie nach der
+                Strafdurchführung zuerkannt wird (Regel 5.1.1.e.1).
+            </p>
+        </details>
+    </div>
+</article>

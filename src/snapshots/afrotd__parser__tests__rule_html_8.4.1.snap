@@ -1,0 +1,38 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            8.4.1 Wie erzielt
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Ein Fieldgoal wird erzielt, wenn ein Scrimmage Kick, der
+                ein Drop Kick oder ein Place Kick sein kann, die Querlatte
+                zwischen den aufrechtstehenden Pfosten des Tores des Receiving
+                Teams überfliegt, bevor der Ball einen Spieler des Kicking
+                Teams oder den Boden berührt hat.
+                </li>
+                <li>Wenn ein legaler Fieldgoalversuch über die Querlatte
+                zwischen den Pfosten fliegt und jenseits der Endlinie dead oder
+                zurückgeweht wird, aber nicht über die Querlatte zurückkehrt
+                und irgendwo dead wird, ist ein Fieldgoal erzielt worden. Das
+                gesamte Tor, die Querlatte und die Pfosten sind im Zusammenhang
+                mit dem Forward Progress des Balles als eine Linie und nicht
+                als eine Fläche zu betrachten.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.8.4.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

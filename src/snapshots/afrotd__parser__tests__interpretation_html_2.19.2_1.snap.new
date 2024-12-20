@@ -1,0 +1,28 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 2.19.2.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            A1 versucht, einen Vorwärtspass zu werfen, aber B1 schlägt ihm den
+            Ball aus der Hand, bevor die Vorwärtsbewegung von A1’s Hand
+            beginnt.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Fumble (Regel 2.11.1).
+            </p>
+        </details>
+    </div>
+</article>

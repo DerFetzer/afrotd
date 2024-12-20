@@ -1,0 +1,37 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.2.5.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Zu Ende einer Spielperiode hat Team A keine Timeouts mehr. Als Team
+            A einen First Down erzielt, bleibt die Game Clock bei 0:03 stehen.
+            Team A beabsichtigt, den Ball zu „spiken“, um einen weiteren Down
+            spielen zu können. Der Referee pfeift an, gibt den Ball frei und
+            startet damit die Game Clock. Der Quarterback nimmt den Snap an und
+            hebt den Ball hoch über seinem Kopf, bevor er ihn zu Boden wirft.
+            Die Game Clock bleibt bei 0:00 stehen.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Die Spielzeit ist in dieser Spielperiode ausgelaufen. Obwohl
+                noch drei Sekunden auf der Game Clock waren, als der Referee
+                den Ball freigab, gibt es keine Garantie dafür, dass außer dem
+                zu Boden werfen des Balles noch genug Zeit bleibt, einen
+                weiteren Down zu spielen. Die Offense muss, um die Game Clock
+                anzuhalten, das „Spiken“ unverzüglich durchführen.
+            </p>
+        </details>
+    </div>
+</article>

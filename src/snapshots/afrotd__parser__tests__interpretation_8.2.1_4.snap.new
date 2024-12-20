@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 2
+  - 1
+index: 4
+text: "Quarterback A12 vervollständigt einen Vorwärtspass auf einen\nMitspieler, der in Team B’s Endzone steht. (a) A12 befindet sich jenseits\nder neutralen Zone, als er den Ball wirft. (b) Der Receiver trägt die Trikotnummer 73."
+ruling: "In beiden Fällen ist das Ergebnis des Downs\nein Touchdown. Die Strafe wird je nach Team B’s Optionen vollständig."

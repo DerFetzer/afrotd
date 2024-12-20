@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 1
+  - 1
+title: Das Spiel
+text: "\ta) Das Spiel muss zwischen zwei Teams mit jeweils nicht mehr als 11 Spielern auf einem rechteckigen Feld mit einem regelgerechten Ball ausgetragen werden.\n\tb) Ein Team darf legal mit weniger als 11 Spielern spielen. Es ereignet sich aber ein Foul, wenn die folgenden Auflagen nicht beachtet werden:\n\t\t1. Bei der Durchführung des Free Kicks befinden sich wenigstens vier Team A-Spieler auf jeder Seite des Kickers (Regel 6.1.2.c.3).\n\t\t2. Beim Snap befinden sich wenigstens fünf Spieler, die Trikots mit einer Nummer von 50 bis 79 tragen, an der Offense Scrimmage Line und nicht mehr als vier Spieler befinden sich im Backfield (Regel 2.21.2, 2.27.4 und 7.1.4.a) (Ausnahme: Regel 7.1.4.a.5) (A.R. 7.1.4.IV bis 7.1.4.VI).\n\tc) Ein Spiel kann nur dann ausgetragen werden, wenn die in der BSO Deutschland vorgeschriebenen Ausführungsbestimmungen erfüllt sind.\n\td) Das Spiel ist das Geschehen zwischen dem ersten Kickoff und dem Zeitpunkt, wenn der Referee mit dem Signal S14 das Ende der letzten Spielperiode anzeigt. Dieser Zeitraum beinhaltet auch mögliche Extraperioden. Der Zeitraum vor dem Spiel wird als „vor Spielbeginn“ und der Zeitraum nach dem Spiel als „nach Spielende“ bezeichnet."
+interpretations: []

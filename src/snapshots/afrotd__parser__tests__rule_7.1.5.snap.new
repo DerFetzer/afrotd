@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 1
+  - 5
+title: Einschränkungen der Defense
+text: "Die Defense hat folgende Bedingungen zu erfüllen:\n\ta) Jede der nachfolgenden Aktionen (1-5) sind Dead Ball Fouls. Schiedsrichter sollen abpfeifen und verhindern, dass das Spielgeschehen weiter fortgesetzt wird. Nachdem der Ball spielbereit ist und vor dem Snap:\n\t\t1. Kein Spieler darf den Ball, ausgenommen er wurde entgegen Regel 7.1.3.a.2 illegal bewegt, oder einen Gegner berühren oder ihn in einer anderen Weise behindern (A.R. 7.1.5.I bis 7.1.5.II).\n\t\t2. Kein Spieler darf in die neutrale Zone eindringen und dadurch einen Offense Linespieler dazu bringen, sofort zu reagieren oder ein anderes Dead Ball Offside Foul verursachen (Regeln 2.18.2 und 7.1.2.b.3-Ausnahme) (A.R. 7.1.3.V und A.R. 7.1.5.III).\n\t\t3. Kein Spieler darf die neutrale Zone überqueren und ohne Kontakt seine Bewegung in Richtung eines Backs fortsetzen. Strafe (1-3): Dead Ball Foul, Offside. 5 Meter vom Succeeding Spot [S18]\n\t\t4. Spieler, die sich innerhalb eines Meters, stationär oder in Bewegung, an der Scrimmage Line befinden, dürfen keine schnellen, ruckartigen oder übertriebenen Aktionen vornehmen, die nicht Teil einer normalen Defense Bewegung sind (A.R. 7.1.5.IV).\n\t\t5. Kein Spieler darf Worte oder Signale benutzen, die die Gegner verwirren könnten, wenn diese sich bereitmachen, den Ball ins Spiel zu bringen. Kein Spieler darf Defense Signale benutzen, die den Klang oder den Charakter von Offense Startsignalen haben oder diese Signale in anderer Weise behindern. Strafe (4-5): Dead Ball Foul, Spielverzögerung. 5 Meter vom Succeeding Spot [S21].\n\tb) Wenn der Snap beginnt:\n\t\t1. Kein Spieler darf sich beim Snap in oder jenseits der neutralen Zone befinden.\n\t\t2. Alle Spieler müssen sich inbounds befinden. Strafe: Live Ball Foul. 5 Meter vom Previous Spot [S18]."
+interpretations: []

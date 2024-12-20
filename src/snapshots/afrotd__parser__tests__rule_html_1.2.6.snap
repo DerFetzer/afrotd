@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            1.2.6 Pylone
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Es sind 10x10x45 cm (einschließlich eines 5 cm großen
+                Zwischenraumes zwischen unterem Ende und dem Boden) große
+                Pylone erforderlich, um die Endzone zu kennzeichnen. Sie sollen
+                aus rotem oder orangem, flexiblem Material beschaffen sein. Sie
+                sollen an den Innenecken der acht Schnittpunkte der
+                Seitenlinien mit den Goallines und den Endlinien aufgestellt
+                werden. Die Pylone, die die Schnittpunkte der Endlinien und der
+                verlängerten Hash Marks markieren, sollen ca. 1 m hinter der
+                Endlinie aufgestellt werden.
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.1.2.6"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

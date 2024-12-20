@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.2.1.XI
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Während eines Downs fumbelt der Ballträger und verschiedene Spieler
+            springen nach dem Ball. Es bildet sich ein Spielerknäuel auf dem
+            Boden. B55 ergreift A33 und zieht ihn übertrieben hart von dem
+            Knäuel herunter.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                B55 begeht ein unsportliches Verhalten Foul. 15-Meterstrafe und
+                automatisch First Down. Der Referee erklärt, dass es entweder
+                das erste oder das zweite unsportliche Verhalten Foul von B55
+                ist. Handelt es sich um das zweite unsportliche Verhalten Foul
+                von B55, wird er disqualifiziert.
+            </p>
+        </details>
+    </div>
+</article>

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 1
+  - 3
+title: Live Ball Fouls durch dasselbe Team
+text: "Werden dem Referee zwei oder mehrere Live Ball Fouls durch dasselbe Team gemeldet, kann das gefoulte Team nur eine dieser Strafen auswählen. Jeder Spieler, der ein Foul verursacht, dessen Strafe eine Disqualifikation beinhaltet, muss das Spiel verlassen."
+interpretations: []

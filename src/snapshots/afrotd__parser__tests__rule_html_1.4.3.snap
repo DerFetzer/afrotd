@@ -1,0 +1,46 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            1.4.3 Vorgeschriebene Ausrüstung
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Alle Teammitglieder müssen die folgende vorgeschriebene
+                Ausrüstung tragen:
+            </p>
+            <ol type="a">
+                <li>Helm
+                </li>
+                <li>Hüftschützer
+                </li>
+                <li>Trikot
+                </li>
+                <li>Knieschützer
+                </li>
+                <li>Mundschutz
+                </li>
+                <li>Hosen
+                </li>
+                <li>Schulterschutz
+                </li>
+                <li>Stutzen
+                </li>
+                <li>Oberschenkelschützer.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.1.4.3"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

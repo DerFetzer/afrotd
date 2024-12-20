@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 8.2.1.III
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Der in der Luft befindliche Ballträger A21 überquert fliegend die
+            Seitenlinie. Der Ball in seiner Hand überquert über der B-1 die
+            Seitenlinie. Die Bewegung setzt sich jenseits des Pylons fort und
+            der Ball wird im Besitz von A21 im Aus für dead erklärt.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Der Ball wird an der B-1 für „im Aus“ erklärt (Regeln 2.12.1
+                und 4.2.4.d).
+            </p>
+        </details>
+    </div>
+</article>

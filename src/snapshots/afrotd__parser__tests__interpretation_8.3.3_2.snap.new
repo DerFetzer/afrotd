@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 3
+  - 3
+index: 2
+text: Beide Teams foulen während des Try und Team B erlangte keinen Ballbesitz.
+ruling: Wiederholung des Try vom Previous Spot.

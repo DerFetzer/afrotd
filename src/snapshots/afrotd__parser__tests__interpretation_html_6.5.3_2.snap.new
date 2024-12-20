@@ -1,0 +1,28 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.5.3.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Bei einem Free Kick gibt B1 in der Nähe einer Seitenlinie ein
+            ungültiges Fair Catch-Signal, mufft den Kick und dieser fliegt ins
+            Aus.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team B’s Ball, First Down und 10 am Inbounds Spot.
+            </p>
+        </details>
+    </div>
+</article>

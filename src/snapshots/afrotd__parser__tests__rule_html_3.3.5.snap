@@ -1,0 +1,42 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            3.3.5 Zwei-Minuten-Timeout
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Läuft die Game Clock und der Ball ist nicht live, soll der
+                Referee die Game Clock für das Zwei-Minuten-Timeout anhalten,
+                wenn in der zweiten und der vierten Spielperiode exakt zwei
+                Minuten Spielzeit verbleiben. Ist der Ball live, wenn die Game
+                Clock in der zweiten und der vierten Spielperiode zwei Minuten
+                erreicht, wird das Spiel fortgesetzt und der Referee oder der
+                verantwortliche Schiedsrichter sollen die Game Clock für das
+                Zwei-Minuten-Timeout stoppen, wenn der Ball für dead erklärt
+                wurde.
+                </li>
+                <li>Der TV-Mediapartner soll ein Medien-Timeout für das
+                Zwei-MinutenTimeout zurückhalten. Gibt es keinen Mediapartner
+                in dem Spiel, darf das Timeout nicht länger als eine Minute,
+                plus fünf Sekunden für die Benachrichtigung durch den Referee
+                plus die 25 Sekunden für den Play Clock Intervall dauern. Damit
+                darf das Zwei-Minuten-Timeout nicht länger als eine Minute und
+                30 Sekunden dauern.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.3.3.5"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

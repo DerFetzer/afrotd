@@ -1,0 +1,35 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.3.4 Block in den Rücken
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Ein Block in den Rücken ist der Kontakt gegen einen Gegner,
+                bei dem die Wucht des anfänglichen Kontaktes von hinten und
+                über der Gürtellinie erfolgt. Im Zweifel ist der Kontakt an
+                oder unterhalb der Gürtellinie (siehe auch Clipping, Regel
+                2.5.1) (Regel 9.3.5) (A.R. 9.3.3.I bis 9.3.3.VII und A.R.
+                10.2.2.XII).
+                </li>
+                <li>Die Position des Kopfes des Blockers oder seiner Füße
+                bezeichnen nicht unbedingt den Punkt des anfänglichen
+                Kontaktes.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.3.4"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

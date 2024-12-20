@@ -1,0 +1,41 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            10.2.6 Durchführungsprozedur bei der Distanzhalbierung
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Keine Distanzstrafe darf die Hälfte der Distanz vom Enforcement
+                Spot zur Goalline des verursachenden Teams überschreiten. Das
+                gilt auch für einen Try von oder innerhalb der 3-Meterlinie.
+            </p>
+            <ol type="a">
+                <p>
+                    <strong>Ausnahmen:</strong>
+                </p>
+                <ol type="1">
+                    <li>Defense Passbehinderung bei Scrimmage Downs, außer
+                    einem Try (Regel 7.3.8 und 10.2.5.b) und
+                    </li>
+                    <li>Defense Passbehinderung beim Try, wenn der Ball
+                    außerhalb der 3-Meterlinie gesnappt wird. Regel 11 Der
+                    Schiedsrichter
+                    </li>
+                </ol>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.10.2.6"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

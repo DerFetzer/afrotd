@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 2
+title: Illegaler Vorwärtspass
+text: "Ein Vorwärtspass ist illegal, wenn:\n\ta) er von einem Team A-Spieler geworfen wird, dessen gesamter Körper sich jenseits der neutralen Zone befindet, wenn er den Ball loslässt.\n\tb) er von einem Team B-Spieler geworfen wird.\n\tc) er geworfen wird, nachdem der Team Ballbesitz während dieses Downs gewechselt hat.\n\td) es der zweite Vorwärtspass während desselben Downs ist.\n\te) er von in oder hinter der neutralen Zone geworfen wird, nachdem ein Ballträger mit seinem gesamten Körper und der Ball bereits jenseits der neutralen Zone gewesen sind. Strafe (a-e): 5 Meter vom Punkt des Fouls, zusätzlich Downverlust, wenn das Foul durch Team A vor dem Wechsel des Team Ballbesitzes während eines Scrimmage Downs begangen wurde (A.R. 3.4.3.IV und A.R. 7.3.2.I) [S35 und S9].\n\tf) der Passer, um Zeit zu sparen,\n\t\t1. den Ball direkt zu Boden wirft, nachdem der Ball schon den Boden berührt hatte oder\n\t\t2. den Ball nicht direkt zu Boden wirft, nachdem der Snap kontrolliert wurde.\n\tg) der Passer, um Zeit zu sparen, den Ball in eine Zone wirft, in der sich kein berechtigter Team A-Receiver befindet (A.R. 7.3.2.II bis 7.3.2.VII).\n\th) der Passer, um einen Distanzverlust zu verhindern, vorwärts in eine Zone wirft, in der sich kein berechtigter Team A-Receiver befindet (A.R. 7.3.2.I). (Ausnahme: Es ist kein Foul, wenn der Passer sich außerhalb der Tackle Box befindet oder befunden hat und den Ball wirft, so dass dieser die neutrale Zone überquert oder jenseits der neutralen Zone oder jenseits der über die Seitenlinie hinaus verlängerte neutrale Zone landet (Regel 2.19.3) (A.R. 7.3.2.VIII bis 7.3.2.X). Das bezieht sich nur auf den Spieler, der den Snap oder den daraus resultierenden Rückpass kontrolliert und den Ballbesitz nicht einem anderen Spieler überlässt, bevor er einen Vorwärtspass wirft.) Strafe (f-h): Downverlust am Punkt des Fouls [S36 und S9]."
+interpretations: []

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 5
+  - 4
+index: 2
+text: "B1 zeigt an der 50-Meterlinie einen Fair Catch an und berührt\nden Punt nicht. Während der Ball an der B-45 auf dem Boden rollt, benutzt B1 illegal seine Hände bei dem Versuch, an den Ball zu gelangen\nund der Ball wird in Team B’s Besitz für dead erklärt."
+ruling: "Strafe\n– 10 Meter, Postscrimmage Kick Enforcement. Der Ball gehört zu Team\nB (Regel 10.2.3)."

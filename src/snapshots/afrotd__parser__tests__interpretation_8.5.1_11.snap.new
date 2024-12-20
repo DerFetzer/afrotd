@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 5
+  - 1
+index: 11
+text: "4. und Goal von der B-8. Runner A44 wird an der B-5 getackelt und fumbelt. B54 schlägt den nach Bodenberührung freien Ball an\nder B-3 zurück in seine eigene Endzone. A88 sieht den freien Ball und\nrecovert den Ball, der sich noch in der Endzone befindet."
+ruling: "Safety, zwei Punkte für Team A. Das Wegschlagen ist legal, weil es\nnach hinten erfolgt (Regel 9.4.1.c), aber B54 gibt dem Ball einen neuen Antrieb und ist dafür verantwortlich, dass der Ball in B’s Endzone\ngelangt (Regel 8.7.2.b.1). Als A88 den Ball recovert, wird der Ball aufgrund der Fumble-Regel im 4. Versuch für dead erklärt (Regel 7.2.2.a\nAusnahme 2). Die Regelung ist ein Safety, weil der Ball durch die Regel in der Endzone dead wird und B54 dafür verantwortlich ist, dass\nsich der Ball dort befindet (Regel 8.5.1.a). Die Safety-Regel und die\nFumble-Regel im 4. Versuch scheinen hier in einem Konflikt zueinander zu stehen, aber Geist und Intention der Safety-Regel ist für diesen\nSpielzug die viel speziellere Regelung und hebelt die Fumble-Regel im\n4. Versuch aus, die als generelle Regelung beschreibt, wie Recoveries\ndurch Team A in einem 4. Versuch zu handhaben sind."

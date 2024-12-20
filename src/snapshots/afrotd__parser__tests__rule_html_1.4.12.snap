@@ -1,0 +1,37 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            1.4.12 Mikrofone der Coaches
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Kopfhörer, Mikrofone und andere Kommunikationsvorrichtungen der
+                Coaches unterliegen vor und während des Spieles nicht den
+                Strafbestimmungen der deutschen Regeln und Interpretationen.
+            </p>
+            <ol type="a">
+                <li>Jede Liga kann eigene Bestimmungen erlassen, die
+                Situationen hinsichtlich des Ausfalls der Kopfhörer, Mikrofone
+                oder anderer Kommunikationsvorrichtungen der Coaches regelt.
+                </li>
+                <li>Das jeweilige Teammanagement ist für die Funktion der
+                eigenen Kopfhörer, Mikrofone und andere
+                Kommunikationsvorrichtungen der Coaches selbst verantwortlich.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.1.4.12"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

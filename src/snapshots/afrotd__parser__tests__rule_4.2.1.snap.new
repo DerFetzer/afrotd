@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 4
+  - 2
+  - 1
+title: Spieler im Aus
+text: "\ta) Ein Spieler oder ein in der Luft befindlicher Spieler ist im Aus, wenn irgendein Körperteil dieses Spielers irgendetwas berührt, das sich auf oder außerhalb der Begrenzungslinien befindet, ausgenommen einen anderen Spieler oder einen Schiedsrichter (Regel 2.27.15) (A.R. 4.2.1.I und 4.2.1.II).\n\tb) Ein Spieler im Aus, der zu einem in der Luft befindlichen Spieler wird, bleibt solange im Aus, bis er den Boden inbounds berührt, ohne gleichzeitig im Aus zu sein.\n\tc) Ein Spieler, der einen Pylon berührt, ist im Aus."
+interpretations: []

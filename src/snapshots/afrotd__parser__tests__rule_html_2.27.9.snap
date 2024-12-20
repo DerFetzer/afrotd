@@ -1,0 +1,37 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.27.9 Ersatzspieler
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Ein legaler Ersatzspieler ist ein Teammitglied, welches
+                zwischen den Downs aus der Teamzone ins Spielfeld kommt und
+                einen Spieler, der am vorherigen Down teilgenommen hat, ersetzt
+                und nicht selbst am vorherigen Down teilgenommen hat, oder eine
+                fehlende Position beim unterzähligen Team während einer
+                Unterbrechung zwischen den Downs auffüllt.
+                </li>
+                <li>Ein Ersatzspieler, der legal das Spielfeld oder eine
+                Endzone betritt, wird zum Spieler, sobald er das Spielfeld oder
+                eine Endzone betritt und mit einem Spieler oder Schiedsrichter
+                spricht, das Huddle betritt, sich in einer Offense- oder
+                Defense-Formation aufstellt oder am Spielgeschehen teilnimmt.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.27.9"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

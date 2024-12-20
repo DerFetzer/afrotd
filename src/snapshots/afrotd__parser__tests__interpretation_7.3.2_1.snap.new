@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 2
+index: 1
+text: "Quarterback A10, der sich innerhalb der Tackle Box befindet und\nversucht Raumverlust zu verhindern, wirft absichtlich einen Verzweiflungspass, der in einer Zone, in der kein berechtigter Team A-Spieler\neine geeignete Möglichkeit zum Fangen des Vorwärtspasses hat, unvollständig wird."
+ruling: "Intentional Grounding. Strafe – Downverlust am Spot of Foul. Die Game Clock startet mit dem Snap (Regel\n3.3.2.d.4), sofern nicht Regel 3.4.4 zutrifft."

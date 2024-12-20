@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.3.1.III
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team A fumbelt oder der Ball ist nach einem Rückpass frei. Mehrere
+            Spieler springen auf den Ball, wodurch ein Knäuel aufeinander
+            liegender Spieler entsteht.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Der oder die überwachenden Schiedsrichter müssen die Game Clock
+                anhalten und der 40-SekundenCountdown beginnt. Nach genauer
+                Kenntnis, werden Ball recovert hat, muss der Referee (a) wenn
+                Team A recoverte, in Spielrichtung zeigen und die Game Clock
+                starten (wenn kein First Down erreicht wurde) oder (b) wenn
+                Team B recoverte, in die entsprechende Spielrichtung zeigen und
+                die Game Clock startet mit dem Snap.
+            </p>
+        </details>
+    </div>
+</article>

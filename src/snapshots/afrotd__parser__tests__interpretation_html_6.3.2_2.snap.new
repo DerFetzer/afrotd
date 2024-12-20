@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.3.2.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Während eines Scrimmage Kicks begeht A1 eine Violation, wonach B1
+            den Ball recovert, advanct und fumbelt. A2 recovert den Fum- ble,
+            und während er den Ball advanct, hält, trippt oder schlägt B2.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team A kann den Ball dort übernehmen, wohin ihn die Strafe für
+                Team B’s Foul bringt; aber wenn Team A die Strafe ablehnt, kann
+                Team B wählen, den Ball an der Stelle der illegalen Berührung
+                durch Team A zu übernehmen. Liegt eine Flagge für das Schlagen,
+                wird B2 disqualifiziert.
+            </p>
+        </details>
+    </div>
+</article>

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 10
+index: 2
+text: "Der unberechtigte Lineman A70 berührt einen Gegner innerhalb eines Meters jenseits der neutralen Zone. Er drängt B4 weiter\nals drei Meter jenseits der neutralen Zone zurück und kehrt danach\nhinter die neutrale Zone zurück, bevor A1 einen legalen Vorwärtspass\nwirft, der die neutrale Zone überquert."
+ruling: "Team A-Foul, Offense Passbehinderung. Strafe – 15 Meter vom Previous Spot (Regel\n7.3.8.b)."

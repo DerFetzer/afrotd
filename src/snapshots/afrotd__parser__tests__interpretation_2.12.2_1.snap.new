@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 12
+  - 2
+index: 1
+text: "Ein unberührter Team A-Scrimmage Kick prallt im Spielfeld auf\nden Boden und durchbricht die Fläche über Team B’s Goalline. Während sich der Ball in der Luft befindet, schlägt A81, der sich entweder\nauf der B-1 oder in der Endzone befindet, den Ball ins Spielfeld zurück."
+ruling: "Violation wegen der illegalen Berührung (Regel 6.3.11). Team\nB kann das Ergebnis des Downs akzeptieren oder den Ball als nächstes\nan seiner 20-Meterlinie snappen (Ausnahme: Regel 8.4.2.b)."

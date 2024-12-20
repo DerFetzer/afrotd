@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 8
+index: 16
+text: "A80 und B60 versuchen jenseits der neutralen Zone einen\nVorwärtspass zu fangen, der in Richtung von A80 geworfen wurde. A14,\nder nicht versucht, den Pass zu fangen, blockt B65 jenseits der neutralen Zone, entweder bevor der Pass geworfen wurde oder während der\nnicht fangbare Pass in der Luft ist."
+ruling: "Team A-Foul. Offense\nPassbehinderung. Strafe – 15 Meter vom Previous Spot."

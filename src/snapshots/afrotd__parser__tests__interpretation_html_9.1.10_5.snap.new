@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.1.10.V
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Nachdem er den Ball gesnappt hat, geht Snapper A54 downfield, um
+            den Linebacker zu blocken und streift dabei Nose Guard B62. A54 hat
+            dabei leichten Kontakt mit B62 oder B62 streckt einen Arm aus und
+            versucht, von sich aus einen Kontakt mit A54 aufzunehmen. Während
+            B62 und A54 in Kontakt sind, blockt Right Guard A68 B62 von vorne
+            in Höhe dessen Knie.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Legal. A54 blockt nicht B62. Der unabsichtliche Kontakt oder
+                B62’s anfänglicher Kontakt sind nicht Teil eines kombinierten
+                Blocks und daher ist das auch kein Chop Block.
+            </p>
+        </details>
+    </div>
+</article>

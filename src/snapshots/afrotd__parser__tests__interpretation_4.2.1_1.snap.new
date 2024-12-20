@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 4
+  - 2
+  - 1
+index: 1
+text: "Ein im Spielfeld befindlicher Ballträger prallt gegen einen auf der\nSeitenlinie befindlichen Spieler oder Schiedsrichter oder wird von ihnen\nberührt."
+ruling: Der Ballträger ist nicht im Aus.

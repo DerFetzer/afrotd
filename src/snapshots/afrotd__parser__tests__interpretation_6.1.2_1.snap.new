@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 1
+  - 2
+index: 1
+text: "Der Ball wird gekickt, obwohl er auf einem illegalen Kicking Tee\nstand, beim Kickoff gepuntet wurde oder von einem Punkt zwischen\nder Hash Mark und der näheren Seitenlinie gekickt wurde."
+ruling: "Illegaler Kick. Dead Ball Foul. Strafe – 5 Meter vom Succeeding Spot\n(Regel 2.16.1.b)."

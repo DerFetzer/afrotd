@@ -1,0 +1,36 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.1.2.IV
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            A11 stellt den Ball auf einem Tee in der Mitte des Feldes auf der
+            35-Meterlinie zu einem Free Kick auf. A12 stellt sich in der Nähe
+            des Balles auf. Nach der Ballfreigabe läuft A11 vorwärts, um zu
+            kicken und A12 läuft plötzlich vor ihm her und kickt den Ball. Als
+            der Ball gekickt wird, befindet sich A11 direkt hinter dem Ball,
+            wobei drei Mitspieler sich auf einer Seite des Balles befinden. A12
+            befindet sich mit seinem Standbein auf der gleichen Seite des
+            Balles, auf der sich die drei Mitspieler befinden.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Foul durch Team A wegen der illegalen Formati- on. Strafe – 5
+                Meter vom Previous Spot und Wiederholung des Kicks, wenn sich
+                Team B dafür entscheidet oder 5 Meter von dem Punkt, an dem der
+                Dead Ball zu Team B gehört.
+            </p>
+        </details>
+    </div>
+</article>

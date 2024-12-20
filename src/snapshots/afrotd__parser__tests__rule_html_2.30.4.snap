@@ -1,0 +1,42 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.30.4 Laufspiel und Lauf
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Ein Laufspiel ist jede Live Ball Aktion, ausgenommen einer,
+                die sich während eines Free Kick-, eines Scrimmage Kick- oder
+                eines legalen Vorwärtspass-Spieles ereignet.
+                </li>
+                <li>Ein Lauf ist der Teil eines Laufspieles, während ein
+                Ballträger in Ballbesitz ist.
+                </li>
+                <li>Wenn ein Ballträger den Ballbesitz durch einen Fumble,
+                Rückpass oder illegalen Vorwärtspass verliert, ist der Punkt,
+                an dem der Lauf endet (Regel 2.25.8) die Meterlinie, an der der
+                Ballträger den Ballbesitz verliert. Das Laufspiel beinhaltet
+                den Lauf und die Aktion während des freien Balles, bevor ein
+                Spieler den Ballbesitz erlangt oder wiedererlangt oder der Ball
+                für dead erklärt wird (A.R. 2.30.4.I und 2.30.4.II).
+                </li>
+                <li>Ein neues Laufspiel beginnt, wenn ein Spieler Ballbesitz
+                erlangt oder wiedererlangt.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.30.4"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

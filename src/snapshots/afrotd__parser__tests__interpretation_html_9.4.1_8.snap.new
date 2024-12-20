@@ -1,0 +1,28 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.4.1.VIII
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Ein Rückpass von Team A wird im Flug von B1 weggeschlagen und der
+            Ball geht hinter Team A’s Goalline ins Aus.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Safety. Ein Pass kann in jede Richtung geschlagen werden und
+                der Antrieb des Balles kommt vom Team A-Pass (Regel 8.5.1.a).
+            </p>
+        </details>
+    </div>
+</article>

@@ -1,0 +1,220 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            9.2.1 Unsportliches Verhalten
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Unsportliches Verhalten oder andere Tätigkeiten, die geeignet
+                sind, die ordnungsgemäße Spieldurchführung seitens der Spieler,
+                Ersatzspieler, Coaches, berechtigter Personen oder anderer
+                Personen, die den Regeln unterliegen, zu behindern, sind vor
+                und während des Spieles oder zwischen den Spielperioden
+                verboten. Regelverstöße für diese Aktionen durch Spieler werden
+                entweder als Live Ball Foul oder als Dead Ball Foul geahndet,
+                je nachdem, wann sie sich ereignen (A.R. 9.2.1.I bis 9.2.1.X).
+            </p>
+            <ol type="a">
+                <li>Spezielle verbotene Tätigkeiten oder Verhalten beinhalten:
+                    <ol type="1">
+                        <li>Spieler, Ersatzspieler, Coaches oder andere
+                        Personen, die den Regeln unterliegen, dürfen weder
+                        beleidigende, drohende oder obszöne Bemerkungen oder
+                        Gesten benutzen, noch sich an Aktionen beteiligen, die
+                        ein feindliches Verhalten anderer provozieren könnten.
+                        Sie dürfen sich gegenüber einem Gegner oder einem
+                        Schiedsrichter nicht so verhalten, dass dem Image des
+                        FootballSpieles geschadet wird. Dieses Verhalten
+                        beinhaltet folgende Tätigkeiten, ist aber nicht auf
+                        diese beschränkt:
+                            <ol type="a">
+                                <li>mit Fingern, Händen, Armen oder dem Ball
+                                auf einen Gegner zeigen oder das
+                                „Durchschneiden einer Kehle“.
+                                </li>
+                                <li>Verbales Verspotten, Reizen oder Beleidigen
+                                eines Gegners.
+                                </li>
+                                <li>Aufwiegeln von Gegner oder Zuschauern in
+                                anderer Weise, wie das simulierte Abfeuern
+                                einer Pistole oder das Halten einer Hand vor
+                                einem Ohr, um Anerkennung zu erhalten.
+                                </li>
+                                <li>Jede verzögerte, übertriebene oder
+                                einstudierte Aktion durch einen oder mehrere
+                                Spieler, die versuchen, die Aufmerksamkeit auf
+                                sich zu lenken.
+                                </li>
+                                <li>Das offensichtliche Verlängern der Schritte
+                                beim Annähern an die gegnerische Endzone oder
+                                das Springen in die Endzone, wenn der
+                                Ballträger vollkommen unbedrängt ist.
+                                </li>
+                                <li>Das übertriebene Schlagen oder Trommeln auf
+                                die eigene Brust über einem liegenden oder
+                                knienden Gegner.
+                                </li>
+                                <li>Auf die Tribüne laufen und mit Zuschauern
+                                agieren sowie provozierender Hüftschwung oder
+                                provozierende Verbeugung nach einer guten
+                                Aktion.
+                                </li>
+                                <li>Absichtliches Abnehmen des Helmes, während
+                                der Ball live ist.
+                                </li>
+                                <li>Dead Ball Kontaktfouls wie Wegdrücken,
+                                Stoßen, Schlagen etc., die sich deutlich
+                                nachdem der Ball für dead erklärt wurde
+                                ereignen und nicht Teil des Spielgeschehens
+                                sind (A.R. 9.2.1.X).
+                                </li>
+                                <li>
+                                    <p>
+                                        Nachdem der Ball dead wurde: Forcible
+                                        Contact gegen einen auf anderen
+                                        Spielern liegenden Gegner durch
+                                        Wegziehen oder Wegstoßen (A.R.
+                                        9.2.1.XI).
+                                    </p>
+                                    <p>
+                                        <strong>Strafe: Unsportliches
+                                        Verhalten. Live Ball Foul durch
+                                        Spieler: 15 Meter [S27]. Live Ball
+                                        Fouls von Nichtspielern und alle Dead
+                                        Ball Fouls: 15 Meter [S7 und S27] vom
+                                        Succeeding Spot. Automatisch First Down
+                                        für Fouls durch Team B, soweit das
+                                        nicht in Konflikt zu anderen Regeln
+                                        steht. Verursacher schwerer Fouls, egal
+                                        ob Spieler oder Ersatzspieler, müssen
+                                        disqualifiziert werden [S47]. Für Team
+                                        A-Fouls während eines Free- oder
+                                        Scrimmage KickSpieles: Die Strafe kann
+                                        vom Previous Spot oder, wenn ein
+                                        Scrimmage Kick die neutrale Zone
+                                        überquert, je nach Wahl von Team B, von
+                                        dem Punkt, an dem der anschließende
+                                        Dead Ball zu Team B gehört,
+                                        durchgeführt werden (Fieldgoal-Spiele
+                                        ausgenommen) (Regeln 6.1.8 und 6.3.13).
+                                        Für unsportliche Verhalten Fouls durch
+                                        Team B während eines legalen
+                                        Vorwärtspass-Spieles (Regel 7.3.12 und
+                                        10.2.2.e): Strafdurchführung vom Ende
+                                        des letzten Laufes, wenn dieser
+                                        jenseits der neutralen Zone endet und
+                                        sich kein Team Ballbesitzwechsel
+                                        während des Downs ereignet hat. Ist der
+                                        Pass unvollständig oder wird der Pass
+                                        abgefangen oder es ereignet sich ein
+                                        Team Ballbesitzwechsel während des
+                                        Downs, wird die Strafe vom Previous
+                                        Spot durchgeführt.</strong>
+                                    </p>
+                                </li>
+                            </ol>
+                        </li>
+                        <li>Nachdem Punkte erzielt wurden oder nach einem
+                        anderen Down muss der ballbesitzende Spieler den Ball
+                        unverzüglich zu einem Schiedsrichter bringen oder ihn
+                        in der Nähe des Dead Ball Spots liegen lassen. Das
+                        verbietet:
+                            <ol type="a">
+                                <li>das Wegtreten, Wegwerfen, Spinning
+                                (kreiselnder Ball auf dem Boden) oder Wegnehmen
+                                des Balles (inklusive aus dem Feld) über eine
+                                Distanz, die es erforderlich macht, dass ein
+                                Schiedsrichter den Ball zurückholen muss.
+                                </li>
+                                <li>das „Spiken“ (in den Boden rammen) des
+                                Balles (Ausnahme: Ein Vorwärtspass, um Zeit
+                                einzusparen (Regel 7.3.2.f)).
+                                </li>
+                                <li>das Hoch-in-die-Luft-werfen des Balles.
+                                </li>
+                                <li>
+                                    <p>
+                                        jedes andere unsportliche Verhalten
+                                        oder Tätigkeiten, die das Spiel
+                                        verzögern.
+                                    </p>
+                                    <p>
+                                        <strong>Strafe: Unsportliches
+                                        Verhalten. Dead Ball Foul. 15 Meter vom
+                                        Succeeding Spot [S7 und S27].
+                                        Automatisch First Down für Team
+                                        B-Fouls, soweit das nicht in Konflikt
+                                        zu anderen Regeln steht. Verursacher
+                                        schwerer Fouls müssen disqualifiziert
+                                        werden [S47].</strong>
+                                    </p>
+                                </li>
+                            </ol>
+                        </li>
+                    </ol>
+                </li>
+                <li>andere verbotene Tätigkeiten beinhalten:
+                    <ol type="1">
+                        <li>Während des Spieles dürfen sich Coaches,
+                        Ersatzspieler und berechtigt in der Teamzone
+                        befindliche Personen nicht ohne Erlaubnis des Referees
+                        auf dem Spielfeld oder außerhalb der 20-Meterlinien
+                        aufhalten, um gegen eine Entscheidung der
+                        Schiedsrichter zu protestieren oder um mit Spielern und
+                        Schiedsrichtern zu kommunizieren (Ausnahmen: Regeln
+                        1.2.4.f, 3.3.4.d, 3.3.9.b und 3.5.1).
+                        </li>
+                        <li>Keine disqualifizierte Person darf sich in
+                        unmittelbarer Umgebung des Platzes aufhalten (Regel
+                        9.2.6).
+                        </li>
+                        <li>Personen, die den Regeln unterliegen, ausgenommen
+                        Spieler, Schiedsrichter oder berechtigte Ersatzspieler
+                        dürfen während jeder Spiel- periode das Spielfeld oder
+                        die Endzonen nicht ohne Erlaubnis des Referees
+                        betreten. Ist ein Spieler verletzt, können Betreuer auf
+                        das Feld kommen, um dem Spieler zu helfen, müssen aber
+                        die Erlaubnis eines Schiedsrichters abwarten.
+                        </li>
+                        <li>Kein Ersatzspieler darf das Spielfeld oder die
+                        Endzone mit einer anderen Absicht als dem Ersetzen
+                        eines anderen Spielers oder dem Ausgleichen einer
+                        Unterzahl betreten. Dies gilt auch für Jubelfeiern nach
+                        einem Down (A.R. 9.2.1.I).
+                        </li>
+                        <li>Personen, die den Regeln unterliegen,
+                        einschließlich Musikkapellen und
+                        Audio-/Video-/Beleuchtungs-Bedienpersonal, dürfen
+                        keinen Lärm verursachen, der es einem Team unmöglich
+                        macht, seine Signale zu hören (Regel 1.1.6). Strafe
+                        (1-4): Unsportliches Verhalten. 15 Meter [S7 und S27]
+                        vom Succeeding Spot, wird als Dead Ball Foul geahndet.
+                        Automatisch First Down für Team B-Fouls, soweit das
+                        nicht in Konflikt zu anderen Regeln steht. Spieler oder
+                        Ersatzspieler als Verursacher schwerer Fouls müssen
+                        disqualifiziert werden [S47]. Strafe (5): Unsportliches
+                        Verhalten. Der Referee darf jede Maßnahme ergreifen,
+                        die er für angemessen hält. Dazu gehört auch die
+                        Wiederholung des Down inklusive einer 15-Meter-Strafe,
+                        die Anerkennung von Punkten, die Unterbrechung oder der
+                        Abbruch eines Spiels [S27].
+                        </li>
+                    </ol>
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.9.2.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

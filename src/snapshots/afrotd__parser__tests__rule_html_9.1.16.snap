@@ -1,0 +1,120 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            9.1.16 „Roughing“ oder „Running into“ Kicker oder Holder
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Wenn es offensichtlich ist, dass ein Scrimmage Kick
+                durchgeführt werden soll, darf kein Gegner in einen Kicker oder
+                den Holder eines Place Kicks hineinlaufen (Running into) oder
+                diese mit Forcible Contact (Roughing) angreifen (A.R. 9.1.16.I,
+                9.1.16.III und 9.1.16.VI).
+                    <ol type="1">
+                        <li>Roughing ist ein persönliches Live Ball Foul, das
+                        den Kicker oder Holder gefährdet.
+                        </li>
+                        <li>Running into Kicker oder Holder ist ein Live Ball
+                        Foul, das sich ereignet, wenn der Kicker oder der
+                        Holder von ihren Kick- bzw. Ballhalte-Positionen
+                        verdrängt wurden, das Foul aber kein Roughing ist (A.R.
+                        9.1.16.II).
+                        </li>
+                        <li>Geringfügiger Kontakt mit dem Kicker oder dem
+                        Holder ist kein Foul.
+                        </li>
+                        <li>Der Schutz des Kickers durch diese Regel endet
+                            <ol type="a">
+                                <li>wenn er eine angemessene Zeit hatte, seine
+                                Balance wieder zu erlangen (A.R. 9.1.16.IV)
+                                oder
+                                </li>
+                                <li>sobald er den Ball außerhalb der Tackle Box
+                                besitzt oder aus der Tackle Box (Regel 2.34.1)
+                                herausgetragen hat, bevor er den Ball kickt
+                                oder
+                                </li>
+                                <li>wenn er aus einer Scrimmage Kick Formation
+                                den Ball mehr als fünf Meter hinter der
+                                anfänglichen Position beim Snap trägt oder
+                                besitzt.
+                                </li>
+                            </ol>
+                        </li>
+                        <li>Wenn sich der Kontakt eines Defense Spielers mit
+                        dem Kicker oder Holder durch einen gegnerischen Block
+                        (legal oder illegal) ereignet, der durch ein Mitglied
+                        des Kicking Teams gegen einen Kicker oder Holder
+                        geblockt wird, liegt kein Foul für Running into oder
+                        Roughing gegen den Kicker oder den Holder vor.
+                        </li>
+                        <li>Ein Spieler, der den Kick berührt hat und einen
+                        Kontakt gegen den Kicker oder den Holder herstellt,
+                        begeht kein Foul.
+                        </li>
+                        <li>Ein Spieler, ausgenommen der, der einen Scrimmage
+                        Kick abblockt, begeht ein Foul, wenn er in einen Kicker
+                        oder Holder hineinläuft oder diesen übermäßig hart
+                        angreift.
+                        </li>
+                        <li>
+                            <p>
+                                Im Zweifel, ob es sich um ein Running into-
+                                oder ein RoughingFoul handelt, ist es Roughing.
+                            </p>
+                            <p>
+                                <strong>Strafe: Roughing oder jedes andere
+                                persönliche Foul gegen den Kicker, während
+                                dieser den Kick durchführt oder der Ball
+                                gekickt wurde oder Roughing gegen den Holder:
+                                15 Meter vom Previous Spot und automatisch
+                                First Down, soweit das nicht in Konflikt zu
+                                anderen Regeln steht [S38 und S30]. Running
+                                into Kicker oder Holder: 5 Meter vom Previous
+                                Spot [S30].</strong>
+                            </p>
+                        </li>
+                    </ol>
+                </li>
+                <li>
+                    <p>
+                        Ein Kicker oder Holder, der vortäuscht, man hätte ihn
+                        gefoult (Running oder Roughing) begeht ein
+                        Unsportliches Verhalten Foul (A.R. 9.1.16.V).
+                    </p>
+                    <p>
+                        <strong>Strafe: 15 Meter vom Previous Spot oder, wenn
+                        ein Scrimmage Kick die neutrale Zone überquert hat, von
+                        dem Punkt, an dem der anschließende Dead Ball zu Team B
+                        gehört [S27].</strong>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Der Kicker eines Free Kicks darf nicht geblockt werden,
+                        bis er sich 5 Meter jenseits seiner Restraining Line
+                        befindet oder der Kick einen Spieler, einen
+                        Schiedsrichter oder den Boden berührt hat.
+                    </p>
+                    <p>
+                        <strong>Strafe: 15 Meter vom Previous Spot
+                        [S40].</strong>
+                    </p>
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.9.1.16"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

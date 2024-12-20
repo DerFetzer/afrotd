@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 8.7.2.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Ein Team A-Kick berührt den Boden und ein Team B-Spieler schlägt
+            den Ball über Team B’s Goalline, wo ein Team B-Spieler den Ball am
+            Boden liegend recovert oder der Ball ins Aus geht.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team B gibt dem Ball einen neuen Antrieb. Safety, zwei Punkte
+                für Team A. Das Wegschlagen des Kicks, nachdem dieser den Boden
+                berührt hat, bedeutet, dass damit der Antrieb des Kicks beendet
+                ist und dem Ball ein neuer Antrieb gegeben wurde. Jedoch das
+                einfache Berühren oder Reflektieren des Kicks, oder wenn der
+                Kick jemanden streift, bedeutet nicht, dass der Antrieb des
+                Kicks beendet wurde (Regel 8.5.1.a).
+            </p>
+        </details>
+    </div>
+</article>

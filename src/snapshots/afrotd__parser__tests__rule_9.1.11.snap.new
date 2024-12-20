@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 11
+title: Erhöhen (Leverage) und Überspringen (Leaping)
+text: "\ta) Kein Defense Spieler darf bei dem Versuch, einen Vorteil zu erlangen, auf einen Gegner treten, springen oder stehen.\n\tb) Es ist ein Foul, wenn sich ein Defense Spieler vorwärtsbewegt in der Absicht, einen Kick oder einen womöglichen Kick zu einem Fieldgoal oder einen Try zu blocken, dabei mit seinen Füßen den Boden verlässt und in die Fläche direkt oberhalb des Körperrahmens eines Gegners eindringt. Es ist kein Foul, wenn sich der Spieler beim Snap ursprünglich innerhalb eines Meters von der neutralen Zone aufgestellt hatte.\n\tc) Es ist ein Foul, wenn ein Defense Spieler, der sich innerhalb der Tackle Box befindet, in der Absicht, einen Punt oder einen womöglichen Punt zu blocken, mit seinen Füßen den Boden verlässt und in die Fläche direkt oberhalb des Körperrahmens eines Gegners eindringt.\n\t\t1. Es ist kein Foul, wenn der Spieler bei dem Versuch, den Kick zu blocken, gerade hochspringt, ohne zu versuchen, einen Gegner zu überspringen.\n\t\t2. Es ist kein Foul, wenn der Spieler versucht, durch oder über die Lücke zwischen zwei Gegenspielern zu springen.\n\td) Kein Defense Spieler darf bei dem Versuch, einen Kick oder einen womöglichen Kick zu blocken, zu schlagen oder zu fangen:\n\t\t1. auf einen Mitspieler treten, stehen oder springen.\n\t\t2. sich mit seiner Hand (seinen Händen) auf einen Mitspieler stützen.\n\t\t3. von einem Mitspieler hochgehoben, erhöht, vorangetrieben oder gedrückt werden. Strafe (a-d): 15 Meter, Previous Spot und automatisch First Down [S38].\n\te) Kein Spieler darf sich vor dem Snap mit seinen Füßen auf den Rücken oder die Schultern eines Mitspielers stellen. Strafe: Dead Ball Foul, 15 Meter vom Succeeding Spot. Automatisch First Down für Team B Fouls, soweit das nicht in Konflikt zu anderen Regeln steht [S27]."
+interpretations: []

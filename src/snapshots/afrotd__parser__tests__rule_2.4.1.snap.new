@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 4
+  - 1
+title: In Besitz
+text: "Besitz bezieht sich auf die Kontrolle (a) über einen Live Ball, wie nachfolgend erklärt, oder (b) auf einen Dead Ball, der gesnappt oder als Free Kick durchgeführt werden soll. Besitz bezieht sich entweder auf einen Spieler- oder einen Team-Ballbesitz.\n\ta) Spieler Ballbesitz. Der Ball befindet sich im Besitz eines Spielers, wenn dieser Spieler den Ball sicher im Griff hat, indem er ihn fest in seiner Hand, seinen Händen, seinem Arm oder seinen Armen hält oder kontrolliert, während der Spieler sich inbounds auf dem Boden befindet.\n\tb) Team Ballbesitz Der Ball befindet sich im Besitz eines Teams:\n\t\t1. wenn einer seiner Spieler in Besitz des Balles ist, inklusive wenn er versucht, einen Punt, einen Drop Kick oder einen Place Kick durchzuführen;\n\t\t2. während ein Vorwärtspass fliegt, der von einem Spieler dieses Teams geworfen wurde;\n\t\t3. während eines freien Balles, wenn ein Spieler dieses Teams zuletzt in Ballbesitz war oder\n\t\t4. wenn das Team als nächstes den Ball durch einen Snap oder einen Free Kick ins Spiel bringt.\n\tc) Ein Team ist in legalem Ballbesitz, wenn es in Team Ballbesitz ist und wenn seine Spieler berechtigt sind, den Ball zu fangen oder zu recovern."
+interpretations: []

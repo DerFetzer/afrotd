@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 3
+  - 5
+title: Zwei-Minuten-Timeout
+text: "\ta) Läuft die Game Clock und der Ball ist nicht live, soll der Referee die Game Clock für das Zwei-Minuten-Timeout anhalten, wenn in der zweiten und der vierten Spielperiode exakt zwei Minuten Spielzeit verbleiben. Ist der Ball live, wenn die Game Clock in der zweiten und der vierten Spielperiode zwei Minuten erreicht, wird das Spiel fortgesetzt und der Referee oder der verantwortliche Schiedsrichter sollen die Game Clock für das Zwei-Minuten-Timeout stoppen, wenn der Ball für dead erklärt wurde.\n\tb) Der TV-Mediapartner soll ein Medien-Timeout für das Zwei-MinutenTimeout zurückhalten. Gibt es keinen Mediapartner in dem Spiel, darf das Timeout nicht länger als eine Minute, plus fünf Sekunden für die Benachrichtigung durch den Referee plus die 25 Sekunden für den Play Clock Intervall dauern. Damit darf das Zwei-Minuten-Timeout nicht länger als eine Minute und 30 Sekunden dauern."
+interpretations: []

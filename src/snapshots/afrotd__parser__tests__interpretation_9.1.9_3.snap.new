@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 9
+index: 3
+text: "Quarterback A11 geht zurück in seine Pocket, um einen Pass\nzu werfen. Er läuft nach rechts, stellt sich auf und befindet sich in einer\nstationären Wurfhaltung, als B88 mit seinen Schultern gegen die Knie\nvon A11 springt. A11 behält den Ball und geht durch den Kontakt von\nB88 zu Boden."
+ruling: "Foul von B88, Verletzung der Regel 9.1.9.b.\nObwohl A11 per Definition kein Passer ist, da er noch keinen Pass geworfen hat, ist B88’s Aktion ein Foul gemäß Regel 9.1.9.b, wegen A11’s\nVerwundbarkeit als potentieller Passer in einer stationären Wurfhaltung."

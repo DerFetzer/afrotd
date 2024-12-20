@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 1
+  - 2
+index: 4
+text: "A11 stellt den Ball auf einem Tee in der Mitte des Feldes auf\nder 35-Meterlinie zu einem Free Kick auf. A12 stellt sich in der Nähe\ndes Balles auf. Nach der Ballfreigabe läuft A11 vorwärts, um zu kicken\nund A12 läuft plötzlich vor ihm her und kickt den Ball. Als der Ball gekickt\nwird, befindet sich A11 direkt hinter dem Ball, wobei drei Mitspieler sich\nauf einer Seite des Balles befinden. A12 befindet sich mit seinem Standbein auf der gleichen Seite des Balles, auf der sich die drei Mitspieler\nbefinden."
+ruling: "Foul durch Team A wegen der illegalen Formati-\non. Strafe – 5 Meter vom Previous Spot und Wiederholung des Kicks,\nwenn sich Team B dafür entscheidet oder 5 Meter von dem Punkt, an\ndem der Dead Ball zu Team B gehört."

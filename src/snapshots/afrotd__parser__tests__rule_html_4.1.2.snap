@@ -1,0 +1,115 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            4.1.2 Live Ball wird zum Dead Ball
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Ein Live Ball wird gemäß den Regeln zum Dead Ball oder wenn
+                ein Schiedsrichter abpfeift (auch durch ein irrtümliches
+                Abpfeifen) oder den Ball durch ein Schiedsrichtersignal für
+                dead erklärt (A.R. 4.2.1.II, A.R. 4.2.4.I).
+                </li>
+                <li>Wenn ein Schiedsrichter während eines Downs irrtümlich
+                abpfeift oder den Ball durch ein Schiedsrichtersignal für dead
+                erklärt (Regeln 4.1.3.n, 4.1.3.m und 4.1.3.k) (A.R. 4.1.2.I bis
+                4.1.2.V):
+                    <ol type="1">
+                        <li>Wenn der Ball sich im Besitz eines Spielers
+                        befindet, kann das Team in Ballbesitz wählen, den Ball
+                        an der Stelle ins Spiel zu bringen, wo er für dead
+                        erklärt wurde oder den Down vom Previous Spot zu
+                        wiederholen.
+                        </li>
+                        <li>Wenn der Ball durch einen Fumble, Rückpass oder
+                        illegalen Pass frei ist, kann das Team in Ballbesitz
+                        wählen, den Ball an der Stelle ins Spiel zu bringen, wo
+                        der Ballbesitz verloren ging oder den Down zu
+                        wiederholen. Ausnahmen:
+                            <ol type="a">
+                                <li>Falls der Ball in der unmittelbar folgenden
+                                Aktion nach einem irrtümlichen Abpfeifen ins
+                                Aus geht, gehört der Ballbesitz dem fumbelnden
+                                / passenden Team gemäß Regel 7.2.4.
+                                </li>
+                                <li>Falls der freie Ball in der unmittelbar
+                                folgenden Aktion nach einem irrtümlichen
+                                Abpfeifen klar sichtbar gefangen, recovert oder
+                                abgefangen wird, gehört der Ballbesitz diesem
+                                Team am Punkt der Recovery. Jeglicher
+                                anschließende Raumgewinn nach der Recovery ist
+                                nichtig.
+                                </li>
+                            </ol>
+                        </li>
+                        <li>Während eines legalen Vorwärtspasses oder eines
+                        Free- oder Scrimmage Kicks wird der Ball zum Previous
+                        Spot zurückgebracht und der Down wird wiederholt.
+                        Ausnahmen:
+                            <ol type="a">
+                                <li>Falls, in der unmittelbar folgenden Aktion
+                                nach einem irrtümlichen Abpfeifen, ein legaler
+                                Vorwärtspass unvollständig ist (Regel 7.3.7),
+                                ein Free Kick ins Aus geht (Regel 6.2 ) oder
+                                den Boden auf oder jenseits von Team B’s
+                                Goalline (Regel 6.1.7) berührt, ein Scrimmage
+                                Kick ins Aus geht (Regel 6.3.7 oder 6.3.8 )
+                                oder den Boden auf oder jenseits von Team B’s
+                                Goalline berührt, dann gelten diese Regeln so
+                                als hätte das irrtümliche Abpfeifen nicht
+                                stattgefunden.
+                                </li>
+                                <li>Falls es ein klar sichtbares Fangen,
+                                Recovern oder Abfangen einen Passes oder Kicks
+                                in der sofort folgenden Aktion nach einem
+                                irrtümlichen Abpfeifen gibt, dann gehört der
+                                Ballbesitz dem Team am Punkt, wo es Ballbesitz
+                                erlangt hat. Jeglicher Raumgewinn nachdem
+                                Ballbesitz erlangt wurde, ist nichtig.
+                                </li>
+                                <li>Überquert ein Scrimmage Kick die neutrale
+                                Zone und ist unberührt von Team B jenseits der
+                                neutralen Zone und falls die Ausnahmen
+                                4.1.2.b.3.a und 4.1.2.b.3.b nicht zutreffen und
+                                der Punkt, an dem der Kick endet bekannt ist
+                                (Regel 2.25.9), ist der Ball dead und gehört zu
+                                Team B am Punkt, wo der Kick endete. Damit
+                                können Regeln bezüglich Post Scrimmage Kick
+                                Enforcement unter Berücksichtigung der
+                                Voraussetzungen der Regel 10.2.3, angewandt
+                                werden. Bei einem Fieldgoalversuch werden
+                                Punkte erzielt, sofern die Anforderungen gemäß
+                                Regel 8.4.1 erfüllt sind. (A.R. 4.1.2.I)
+                                </li>
+                            </ol>
+                        </li>
+                        <li>Nachdem Team B während des Try oder einer
+                        Extraperiode Ballbesitz erlangt, ist der Try vorüber
+                        oder die betreffende Ballbesitzserie einer Extraperiode
+                        beendet.
+                        </li>
+                    </ol>
+                </li>
+                <li>Ereignen sich während eines der oben aufgeführten Downs
+                Fouls oder Violations, wird die Strafe oder das
+                Violation-Privileg wie in anderen Spielsituationen
+                durchgeführt, soweit keine Widersprüche zu anderen Regeln
+                bestehen (A.R. 4.1.2.I und 4.1.2.II).
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.4.1.2"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

@@ -1,0 +1,40 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            8.6.1 Wann zuerkannt
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Es ist ein Touchback, wenn:
+            </p>
+            <ol type="a">
+                <li>der Ball, ausgenommen durch einen unvollständigen
+                Vorwärtspass, hinter einer Goalline im Aus dead wird oder im
+                Besitz eines Spielers dead wird und sich der Ball in, über oder
+                hinter der Goalline des ballbesitzenden Teams befindet oder der
+                Regel nach dead wird und das Team, das diese Goalline angreift,
+                dafür verantwortlich ist, dass der Ball sich dort befindet
+                (Regeln 7.2.4.c) (A.R. 7.2.4.I, A.R. 8.6.1.I bis 8.6.1.III).
+                </li>
+                <li>ein Kick gemäß der Regel hinter der Goalline des
+                verteidigenden Teams dead wird und das angreifende Team dafür
+                verantwortlich ist, dass sich der Kick dort befindet (Ausnahme:
+                Regel 8.4.2.b) (A.R. 6.3.4.III).
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.8.6.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

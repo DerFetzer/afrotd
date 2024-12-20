@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 1
+  - 5
+index: 3
+text: "Vor dem Snap überquert ein Team B-Spieler die neutrale Zone, ohne einen Gegenspieler zu berühren, und bewegt sich hinter einem Team A-Lineman weiter auf den Quarterback oder den Kicker zu."
+ruling: "Ein Team B-Spieler, der sich auf Team A’s Seite der neutralen Zone befindet und sich ungehindert auf den Quarterback oder\nden Kicker zu bewegt, während er sich hinter einem Offense Lineman\nbefindet, behindert Team A’s Spielvorbereitung. Strafe - Team B-Foul,\nOffside, Dead Ball. 5 Meter vom Succeeding Spot."

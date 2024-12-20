@@ -1,0 +1,36 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.2.1.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team B erzielt durch einen Kickoff-Return einen Touchdown und die
+            Team B-Ersatzspieler betreten das Spielfeld von der Teamzone aus,
+            ohne am Spiel teilnehmen zu wollen. Sie rennen in die Endzone und
+            gratulieren dem Ballträger, wodurch die Ballfreigabe zum
+            nachfolgenden Try erheblich verzögert wird.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Unsportliches Verhalten. Strafe – 15 Meter, durchgeführt beim
+                Try, dem folgenden Kickoff oder vom Succeeding Spot in
+                Extraperioden. Schiedsrichter sollen die Nummern der
+                verursachenden Spieler für eine mögliche Disqualifikation
+                notieren, falls diese Spieler im weiteren Spielverlauf ein
+                zweites unsportliches Verhalten-Foul verursachen (Regel
+                9.2.1.a.1 Strafe).
+            </p>
+        </details>
+    </div>
+</article>

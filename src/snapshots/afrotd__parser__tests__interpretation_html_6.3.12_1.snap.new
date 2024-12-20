@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.3.12.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            A88 läuft in der Nähe der Seitenlinie, um einen Punt zu covern. Er
+            tritt auf die Seitenlinie und kehrt wieder inbounds zurück, um
+            weiter downfield zu laufen. Er tackelt den Kick Returner an der
+            B-30.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Foul durch A88 für das Zurückkommen ins Spielfeld während eines
+                Scrimmage Kick-Spieles. 5-Meterstrafe. Team B kann nach der
+                Strafdurchführung vom Previous Spot den Down wiederholen lassen
+                oder den Ball an der B-35 ins Spiel bringen.
+            </p>
+        </details>
+    </div>
+</article>

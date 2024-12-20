@@ -1,0 +1,34 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 10.2.5.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team B begeht ein persönliches Foul während eines Downs, in dem
+            Team A einen Touchdown erzielt und danach foult Team A nach dem
+            Touchdown und vor der Freigabe des Balles beim Try.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Der Touchdown gilt. Team A hat die Wahl, die Strafe für Team
+                B’s Foul beim Try, dem anschließenden Kickoff oder vom
+                Succeeding Spot in Extraperioden durchführen zu lassen. Team B
+                hat dann auch die Wahl, die Strafe für Team A’s Foul beim Try,
+                dem anschließenden Kickoff oder vom Succeeding Spot in
+                Extraperioden durchführen zu lassen. Die Distanz der
+                Meterstrafen für Live und Dead Ball Fouls können sich
+                ausgleichen (Regel 10.2.5).
+            </p>
+        </details>
+    </div>
+</article>

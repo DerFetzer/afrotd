@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 23
+  - 1
+index: 2
+text: "3. und 5 von der B-25. QB A12 steht in einer Shotgun Formation. Center A5 startet legal die Rückwärtsbewegung des Snaps mit\neiner schnellen und durchgehenden Bewegung. Während dieser Rückwärtsbewegung (a) rutscht der Ball dem Snapper aus den Händen und\nrollt an der B-29, wo er von B54 recovert wird oder (b) der Center stoppt\noder zögert, bevor er den Ball loslässt und der Ball rutscht dem Snapper\naus den Händen und rollt an der B-29, wo er von B54 recovert wird."
+ruling: "(a) Legaler Snap, der zu einem Rückpass wird. Team B’s Ball,\n1. und 10 von der B-29. (b) Team A Dead Ball Foul, illegaler Snap. Team\nA’s Ball, 3. und 10 von der B-30. Um einen legalen Snap durchzuführen, muss der Ball von seiner Position am Boden in einer schnellen und\ndurchgehenden Bewegung rückwärts bewegt werden, wobei der Ball\ndie Hand des Snappers in dieser Bewegung verlassen muss. Wenn der\nBall während dieser legalen Rückwärtsbewegung des Snaps aus den\nHänden des Snappers rutscht, wird er zu einem Rückpass und der Ball\nbleibt im Spiel. Jede andere Aktion oder Bewegung des Snappers, wie\ndas Nicht-Loslassen des Balles, das Anhalten, das Neustarten oder das\nUnterbrechen der kontinuierlichen Bewegung des Balls während des\nSnaps gilt als illegaler Snap."

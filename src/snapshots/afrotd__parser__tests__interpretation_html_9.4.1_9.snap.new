@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.4.1.IX
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Ein fliegender Free Kick wird von einem Team B-Spieler in dessen
+            Endzone gemufft. Während der freie Ball in der Endzone
+            weiterfliegt, schlägt ein Team B-Spieler den Ball von der Endzone
+            ins Aus.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Das Ergebnis des Downs ist ein Touchback. Team B-Foul für
+                illegales Schlagen eines Balles in der Endzone. Strafe – 10
+                Meter vom Previous Spot.
+            </p>
+        </details>
+    </div>
+</article>

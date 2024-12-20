@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 7.1.5.IV
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Linebacker B56 befindet sich stationär einen Meter jenseits der
+            neutralen Zone. Als die Offense ihre Snap Signale ruft, täuscht B56
+            einen Angriff in Richtung der Line vor und versucht so,
+            offensichtlich einen Fehlstart der Offense zu provozieren.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Dead Ball Foul. Spielverzögerung. 5-Meterstrafe vom Succeeding
+                Spot.
+            </p>
+        </details>
+    </div>
+</article>

@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.27.7 Runner und Ballträger
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Der Runner ist ein Spieler, der sich im Besitz eines Live
+                Balls befindet oder der den Besitz des Live Balls vortäuscht.
+                </li>
+                <li>Ein Ballträger ist ein Runner, der sich tatsächlich im
+                Besitz eines Live Balls befindet.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.27.7"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

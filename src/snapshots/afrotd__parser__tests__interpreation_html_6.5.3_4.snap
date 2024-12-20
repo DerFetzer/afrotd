@@ -1,0 +1,27 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.5.3.IV
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            B1 fängt jenseits der neutralen Zone den Scrimmage Kick und zeigt
+            danach einen Fair Catch an.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Ungültiges Signal. Der Ball ist dead, wenn das Signal zum
+                ersten Mal gegeben wird.
+            </p>
+        </details>
+    </div>
+</article>

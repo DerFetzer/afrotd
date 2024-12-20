@@ -11,6 +11,23 @@ pub struct RulesParser;
 
 impl RulesParser {
     pub fn parse(rules_path: &Path) -> eyre::Result<IndexMap<ArticleNr, Rule>> {
+        let mut rules_text = Self::extract_text_from_pdf(rules_path)?;
+        rules_text = Self::preprocess_text(rules_text);
+
+        let mut rules = Self::extract_rules(&rules_text)?;
+        let interpretations = Self::extract_interpretations(&rules_text)?;
+
+        for (article_nr, article_interpretations) in interpretations {
+            let rule = rules
+                .get_mut(&article_nr)
+                .ok_or_else(|| eyre!("Could not find rule {}", article_nr))?;
+            rule.interpretations = article_interpretations;
+        }
+
+        Ok(rules)
+    }
+
+    fn extract_text_from_pdf(rules_path: &Path) -> eyre::Result<String> {
         let pdftotext_output = Command::new("pdftotext")
             .args([
                 "-x",
@@ -34,22 +51,8 @@ impl RulesParser {
                 String::from_utf8(pdftotext_output.stderr)?
             ));
         }
-        let mut rules_text =
-            String::from_utf8(pdftotext_output.stdout).wrap_err("Stdout is no valid utf8")?;
 
-        rules_text = Self::preprocess_text(rules_text);
-
-        let mut rules = Self::extract_rules(&rules_text)?;
-        let interpretations = Self::extract_interpretations(&rules_text)?;
-
-        for (article_nr, article_interpretations) in interpretations {
-            let rule = rules
-                .get_mut(&article_nr)
-                .ok_or_else(|| eyre!("Could not find rule {}", article_nr))?;
-            rule.interpretations = article_interpretations;
-        }
-
-        Ok(rules)
+        String::from_utf8(pdftotext_output.stdout).wrap_err("Stdout is no valid utf8")
     }
 
     fn preprocess_text(mut text: String) -> String {
@@ -238,5 +241,78 @@ impl RulesParser {
             text,
             interpretations: vec![],
         })
+    }
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    use insta::{assert_snapshot, assert_yaml_snapshot};
+    use maud::html;
+    use std::path::PathBuf;
+    use temp_testdir::TempDir;
+
+    #[test]
+    fn test_parse() {
+        let temp = TempDir::default();
+
+        let mut rules_path = PathBuf::from(temp.as_ref());
+        rules_path.push("rules.pdf");
+
+        let rules_response = reqwest::blocking::get(
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf",
+        )
+        .unwrap()
+        .error_for_status()
+        .unwrap();
+
+        std::fs::write(&rules_path, rules_response.bytes().unwrap()).unwrap();
+
+        let mut rules_text = RulesParser::extract_text_from_pdf(&rules_path).unwrap();
+        assert_snapshot!("text_from_pdf", rules_text);
+
+        rules_text = RulesParser::preprocess_text(rules_text);
+        assert_snapshot!("preprocessed_text", rules_text);
+
+        let rules = RulesParser::extract_rules(&rules_text).unwrap();
+        for (article_nr, rule) in &rules {
+            assert_yaml_snapshot!(format!("rule_{article_nr}"), rule);
+        }
+
+        for (article_nr, rule_html) in rules.values().map(|r| {
+            (
+                r.article_nr,
+                tidier::format(html!((r)).into_string(), false, &Default::default()).unwrap(),
+            )
+        }) {
+            assert_snapshot!(format!("rule_html_{article_nr}"), rule_html);
+        }
+
+        let interpretations = RulesParser::extract_interpretations(&rules_text).unwrap();
+        for interpretation in interpretations.values().flatten() {
+            assert_yaml_snapshot!(
+                format!(
+                    "interpretation_{}_{}",
+                    interpretation.article_nr, interpretation.index
+                ),
+                interpretation
+            );
+        }
+
+        for (article_nr, index, interpretation_html) in
+            interpretations.values().flatten().map(|i| {
+                (
+                    i.article_nr,
+                    i.index,
+                    tidier::format(html!((i)).into_string(), false, &Default::default()).unwrap(),
+                )
+            })
+        {
+            assert_snapshot!(
+                format!("interpretation_html_{article_nr}_{index}"),
+                interpretation_html
+            );
+        }
     }
 }

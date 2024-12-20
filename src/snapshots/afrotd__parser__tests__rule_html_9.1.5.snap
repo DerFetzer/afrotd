@@ -1,0 +1,70 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            9.1.5 Clipping
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Clipping ist verboten (Regel 2.5.1).
+            </p>
+            <ol type="a">
+                <p>
+                    <strong>Ausnahmen:</strong>
+                </p>
+                <ol type="1">
+                    <li>Offense Spieler, die sich beim Snap an der Scrimmage
+                    Line, innerhalb der Blockzone (Regel 2.3.6) befinden,
+                    dürfen in dieser Zone legal clippen. Davon ausgenommen sind
+                    die nachfolgenden Beschränkungen:
+                        <ol type="a">
+                            <li>Ein Spieler in der Blockzone darf keinen Gegner
+                            mit der Wucht des anfänglichen Kontaktes von hinten
+                            an oder unterhalb der Knie blocken.
+                            </li>
+                            <li>Ein Spieler an der Scrimmage Line in der
+                            Blockzone darf diese nicht verlassen und dann
+                            wieder zurückkehren, um legal zu clippen.
+                            </li>
+                            <li>Kein Spieler darf gegen Regel 9.1.6 (Blocken
+                            unter der Gürtellinie) verstoßen. Beachte: Die
+                            Blockzone existiert solange, bis der Ball die Zone
+                            erstmals verlassen hat (Regel 2.3.6).
+                            </li>
+                        </ol>
+                    </li>
+                    <li>wenn ein Spieler seinen Rücken einem möglichen Blocker
+                    zudreht, nachdem dieser seine Blockabsicht durch seine
+                    Richtung oder seine Bewegung angezeigt hat.
+                    </li>
+                    <li>wenn ein Spieler versucht, einen Runner zu erreichen
+                    oder legal versucht, einen Fumble, Muff, Rückpass oder Kick
+                    zu fangen oder zu recovern oder einen berührten
+                    Vorwärtspass zu fangen, darf er einen Gegner unter der
+                    Gürtellinie an oder gegen das Gesäß wegdrücken (Regel 9.3.5
+                    Ausnahme 3).
+                    </li>
+                    <li>wenn ein passberechtigter Spieler hinter der neutralen
+                    Zone einen Gegner unter der Gürtellinie an oder gegen das
+                    Gesäß wegdrückt, um einen Vorwärtspass zu erreichen (Regel
+                    9.3.5 Ausnahme 5).
+                    </li>
+                    <li>Clipping gegen einen Runner ist erlaubt.
+                    </li>
+                </ol>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.9.1.5"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

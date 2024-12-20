@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 10.1.4.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Bei einem Kickoff durch Team A von dessen 35-Meterlinie begeht Team
+            B ein Foul, nachdem der unberührte Ball zwischen den Goallines ins
+            Aus geht.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team B kann eine Wiederholung des Kickoffs wählen, wodurch Team
+                A von dessen 45-Meterlinie erneut einen Free Kick durchführt.
+                Wenn Team B den Ball behält, bekommt es diesen an seiner
+                20-Meterlinie nach einer 15-Meterstrafe von seiner
+                35-Meterlinie oder 15 Meter hinter dem Punkt, an den die
+                5-Meterstrafe gegen Team A den Ball bringt (Regel 6.1.8 und
+                10.1.6).
+            </p>
+        </details>
+    </div>
+</article>

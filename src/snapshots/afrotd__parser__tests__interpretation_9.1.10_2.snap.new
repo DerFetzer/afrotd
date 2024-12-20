@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 10
+index: 2
+text: "Als sich das Spielgeschehen nach links verlagert, löst Tackle\nA77 seinen Kontakt mit B50 über dessen Oberschenkeln, als A27 B50\nan dessen Knien blockt."
+ruling: "Chop Block. 15 Meter vom Basic\nSpot. Strafdurchführung vom Previous Spot, wenn sich das Foul hinter\nder neutralen Zone ereignet."

@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.12.2 Goallines und Pylone
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Die Goallines an jedem Ende des Spielfeldes befinden sich
+                zwischen den Seitenlinien und sind Teil einer vertikalen
+                Fläche, die die Endzonen vom Spielfeld trennt. Die Fläche
+                dieser Goallines erstreckt sich innerhalb der Pylone, welche
+                sich im Aus befinden, und beinhaltet diese. Die beiden
+                Goallines sind 100 m voneinander entfernt. Die gesamte Goalline
+                befindet sich in der Endzone. Die Goalline eines Teams ist die,
+                die es verteidigt.
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.12.2"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

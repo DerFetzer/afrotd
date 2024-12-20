@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 1
+  - 4
+index: 7
+text: "A1 empfängt den Snap, während er auf der Endlinie steht.\nTeam B ist Offside."
+ruling: "Team A’s Foul (im Aus beim Snap) hebt\nTeam B’s Offside auf und der Down wird wiederholt (Beachte: Wenn\nTeam B nicht Offside gewesen wäre, hätte Team B die Strafe wegen\nTeam A’s Foul oder einen Safety wählen können) (Regel 8.5.1.a)."

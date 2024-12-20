@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 3
+title: Berechtigung zum Berühren eines legalen Vorwärtspasses
+text: "\ta) Die Regeln, die zum Berühren eines Vorwärtspasses berechtigen, gelten während eines Downs, in dem ein legaler Vorwärtspass geworfen wird.\n\tb) Alle Team B-Spieler sind berechtigt, einen Vorwärtspasses zu fangen oder zu berühren.\n\tc) Wenn der Ball gesnappt wurde, sind folgende Team A-Spieler berechtigt:\n\t\t1. jeder Lineman, der sich am Ende seiner Scrimmage Line aufgestellt hat und eine andere Nummer als 50 bis 79 trägt\n\t\t2. jeder Back, der eine andere Nummer als 50 bis 79 trägt.\n\td) Ein berechtigter Team A-Spieler verliert seine Berechtigung, wenn er ins Aus geht (Regel 7.3.4) (A.R. 7.3.9.III)."
+interpretations: []

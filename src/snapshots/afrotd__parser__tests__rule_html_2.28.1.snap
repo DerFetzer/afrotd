@@ -1,0 +1,27 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.28.1 Tripping
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Tripping (Beinstellen) ist der absichtliche Einsatz des eigenen
+                Schienbeins oder des Fußes, um einen Gegner zu behindern, wobei
+                dieser unterhalb des Knies getroffen wird (Regel 9.1.2.c).
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.28.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

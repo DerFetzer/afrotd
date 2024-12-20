@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 2
+  - 4
+index: 2
+text: "Beim zweiten Down fumbelt A1 den Ball, der auf den Boden\nprallt und hoch in die Luft zurückspringt. B2 erreicht den Ball, während\ner sich über dem Boden befindet und landet im Aus auf den Boden (a)\njenseits des Fumble-Punktes oder (b) hinter dem Fumble-Punkt."
+ruling: "(a) Team A’s Ball am Fumble-Punkt, (b) Team A’s Ball an dem\nPunkt, an der Ball die Seitenlinie überquert (Regeln 4.2.4 und 7.2.4)."

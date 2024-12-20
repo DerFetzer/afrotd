@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 22
+  - 1
+title: Shift
+text: "\ta) Ein Shift ist ein gleichzeitiger Wechsel der Position oder der Stellung von zwei oder mehreren Offense Spielern, nachdem der Ball vor dem Snap zu einem Scrimmage Down spielbereit ist (A.R. 7.1.3.I und 7.1.3.II und A.R. 7.1.2.I bis 7.1.2.IV).\n\tb) Der Shift endet, wenn alle Spieler für eine volle Sekunde bewegungslos waren.\n\tc) Der Shift wird fortgesetzt, wenn ein oder mehrere Spieler sich bewegen, bevor die Ein-Sekunden-Pause beendet ist."
+interpretations: []

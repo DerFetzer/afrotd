@@ -1,0 +1,27 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.12.7 Hash Marks
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Die beiden Hash Marks sind 18,3 m von den Seitenlinien
+                entfernt. Die Hash Marks und die kurzen Verlängerungen der
+                Meterlinien sollen ca. 60 cm lang sein.
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.12.7"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

@@ -1,0 +1,35 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.3.2.V
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            2. und 8 in der zweiten oder der vierten Spielperiode. B44 fängt
+            einen legalen Vorwärtspass ab und trägt den Ball ins Aus. B79
+            befand sich beim Snap in der neutralen Zone. Als die Game Clock
+            angehalten wird, steht sie bei (a) 2:02; (b) 1:59.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team A nimmt die Strafe an und bleibt in Ballbesitz. In beiden
+                Fällen startet die Game Clock mit dem Signal des Referees, denn
+                Team B führt nicht den nächsten Snap durch. Wenn Team B in b)
+                in Führung liegt, hat Team A die Wahl, die Game Clock mit dem
+                Snap starten zu lassen. Beachte: Ist keine sichtbare Game Clock
+                vorhanden, startet sie in b) aufgrund der durchzuführenden
+                Zwei-Minuten-Warnung mit dem Snap.
+            </p>
+        </details>
+    </div>
+</article>

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 1
+  - 1
+index: 1
+text: "Nachdem die Zuständigkeit der Schiedsrichter begonnen hat, betreten einige Heimteam-Spieler die Spielfläche ohne ihre Trikots bzw.\nohne dass ihre Nummern deutlich sichtbar sind."
+ruling: "Spieler ohne Trikot oder sichtbaren Nummern müssen die Spielfläche verlassen.\nDer Head Coach oder ein auf dem Feld befindlicher Assistenz-Coach\nkönnen in dieser Situation behilflich sein."

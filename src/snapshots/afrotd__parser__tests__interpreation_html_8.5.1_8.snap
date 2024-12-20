@@ -1,0 +1,28 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 8.5.1.VIII
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            B40 fängt einen Pass auf der B-4 ab. Sein Eigenschwung bringt ihn
+            in Richtung der Endzone, als er den Ball an der B-1 fumbelt und (a)
+            B40, der Fumbler, recovert den Ball in der Endzone oder (b) B45,
+            ein Mitspieler des Fumblers, recovert den Fumble in der Endzone.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Safety in beiden Fällen.
+            </p>
+        </details>
+    </div>
+</article>

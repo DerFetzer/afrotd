@@ -1,0 +1,48 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            4.2.4 Im Aus am vordersten Punkt
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Wird ein Live Ball für im Aus erklärt, überquert aber keine
+                Begrenzungslinie, ist er an der Stelle im Aus, an der sich
+                seine vorderste Stelle befand, als er für dead erklärt wurde
+                (A.R. 4.2.4.I) (Ausnahme: Regel 8.5.1.a) (A.R. 8.5.1.I).
+                </li>
+                <li>Vor oder gleichzeitig mit dem Verlassen des Feldes wird ein
+                Touchdown durch den Ballträger erzielt, wenn der Ball, der sich
+                inbounds befindet, die Fläche über der Goalline (Regel 2.12.2)
+                durchbricht.
+                </li>
+                <li>Ein Receiver, der sich in der gegnerischen Endzone befindet
+                und dort den Boden berührt, vervollständigt einen Pass, wenn er
+                über die Seitenoder Endlinie greift und einen legalen Pass
+                fängt.
+                </li>
+                <li>Wird der Ball für im Aus zwischen den Goallines erklärt,
+                ist sein vorderster Punkt der Forward Progress (A.R. 8.2.1.I
+                und A.R. 8.5.1.VII) (Ausnahme: Wenn ein Ballträger sich in der
+                Luft befindet, während er die Seitenlinie überquert (inklusive
+                eines Ballträgers, der die Seitenlinie überschreitet), wird der
+                Forward Progress durch die Position des Balles zum Zeitpunkt
+                seiner Überquerung bestimmt (A.R. 8.2.1.II, 8.2.1.III und
+                8.2.1.V bis 8.2.1.IX)) Regel 5 Serie, Line to Gain
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.4.2.4"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

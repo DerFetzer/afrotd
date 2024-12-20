@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 2
+  - 2
+index: 3
+text: "Ein Free Kick streift im Flug einen Team B-Spieler, der in seiner\nEndzone steht und danach geht der Ball auf der B-3 in Aus."
+ruling: Team B’s Ball an der B-3 am Inbounds Spot.

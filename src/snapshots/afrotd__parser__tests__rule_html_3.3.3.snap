@@ -1,0 +1,63 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            3.3.3 Spielabbruch
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Der Referee kann das Spiel vorübergehend unterbrechen, wenn
+                das seiner Meinung nach erforderlich ist.
+                </li>
+                <li>Wird das Spiel durch Aktionen einer oder mehrerer Personen,
+                die nicht den Regeln unterliegen, oder aus einem anderen Grund,
+                der nicht von den Regeln erfasst wird, unterbrochen und kann
+                nicht fortgesetzt werden, soll der Referee:
+                    <ol type="1">
+                        <li>das Spiel unterbrechen und die Spieler in ihre
+                        Teamzonen schicken;
+                        </li>
+                        <li>das Problem mit den Personen beraten, die für die
+                        Austragung des Spieles verantwortlich sind;
+                        </li>
+                        <li>das Spiel wieder aufnehmen, wenn er festgestellt
+                        hat, dass die Bedingungen für die korrekte
+                        Spieldurchführung wieder hergestellt worden sind.
+                        </li>
+                    </ol>
+                </li>
+                <li>Wird ein Spiel gemäß Regel 3.3.3.a und 3.3.3.b vor dem Ende
+                der vierten Periode unterbrochen und kann nicht wieder
+                aufgenommen werden, so gelten die Bestimmungen der BSO
+                Deutschland entsprechend. Die Wertung eines abgebrochenen
+                Spieles wird durch die BSO Deutschland geregelt.
+                </li>
+                <li>Endet ein Spiel nach vier Spielperioden unentschieden und
+                wird vor der ordnungsgemäßen Fortsetzung zur Bestimmung eines
+                Meisters einer Liga oder dem Vorankommen eines Teams in einem
+                Turnier gemäß Regel 3.3.3.a und 3.3.3.b unterbrochen und kann
+                nicht sofort wieder aufgenommen werden, so gelten die
+                Bestimmungen der BSO Deutschland entsprechend.
+                </li>
+                <li>Wird ein unterbrochenes Spiel wieder aufgenommen, beginnt
+                es mit der gleichen verbleibenden Spielzeit und unter
+                identischen Bedingungen hinsichtlich des Downs, der zu
+                überbrückenden Distanz, der Spielfeldposition, sowie der
+                Berechtigung der Spieler.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.3.3.3"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

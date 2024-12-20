@@ -1,0 +1,35 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.3.2.IV
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team A’s Punt überquert die neutrale Zone und wird zuerst von A80
+            berührt. Danach recovert B40 den Ball, advanct 5 Meter und fumbelt.
+            B70 hält, während B40 advanct. A20 recovert den Fumble und erzielt
+            einen Touchdown.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Die Punkte zählen nicht. 5- und 10Meterstrafen werden nicht auf
+                den Try oder den anschließenden Kickoff übertragen. Durch die
+                illegale Berührung wird ein Enforcement Spot vorgegeben, daher
+                kann die Strafe für Team B’s Foul gemäß der Regel 5.2.4
+                durchgeführt werden. Der Ball gehört Team B entweder am Punkt
+                der illegalen Berührung oder an dem Punkt, der sich aus der
+                Strafdurchführung ergibt (Regeln 10.2.2 und 9.1.3).
+            </p>
+        </details>
+    </div>
+</article>

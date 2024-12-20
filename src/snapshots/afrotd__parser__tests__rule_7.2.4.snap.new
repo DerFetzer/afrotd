@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 2
+  - 4
+title: Im Aus
+text: "\ta) Rückpass. Geht ein Rückpass zwischen den Goallines ins Aus, gehört der Ball zum werfenden Team am Out-of-bounds-Spot.\n\tb) Fumble. Geht ein Fumble zwischen den Goallines\n\t\t1. vom Fumble-Punkt nach vorne ins Aus, gehört der Ball dem fumbelnden Team am Punkt des Fumbles (Regel 3.3.2.e.2);\n\t\t2. hinter dem Fumble-Punkt ins Aus, gehört der Ball dem fumbelnden Team am Out-of-bounds-Spot.\n\tc) Hinter oder jenseits Goalline. Geht ein Fumble oder ein Rückpass hinter oder jenseits einer Goalline ins Aus, ist es, je nach Antrieb und Verantwortlichkeit, ein Safety oder ein Touchback (Regeln 8.5.1, 8.6.1 und 8.7) (A.R. 7.2.4.I, A.R. 8.6.1.I und 8.7.2.IV)."
+interpretations: []

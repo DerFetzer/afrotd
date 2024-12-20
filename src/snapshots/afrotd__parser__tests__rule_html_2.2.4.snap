@@ -1,0 +1,37 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.2.4 Spielbereiter Ball
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Ein Dead Ball ist spielbereit, wenn:
+            </p>
+            <ol type="a">
+                <li>bei laufender 40-Sekunden Play Clock ein Schiedsrichter den
+                Ball an einer Hash Mark oder zwischen den Hash Marks platziert
+                und sich in Position befindet, um seinen Aufgaben nachzukommen.
+                </li>
+                <li>bei auf 25 Sekunden oder nach einer Verletzung oder einem
+                Helmverlust eines Defense Team Spielers auf 40 Sekunden
+                stehender Play Clock der Referee anpfeift und entweder „Game
+                Clock starten“ (S2) oder „Ball spielbereit“ anzeigt (S1) (A.R.
+                4.1.4.I und 4.1.4.II).
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.2.4"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

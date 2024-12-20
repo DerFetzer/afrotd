@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 10.1.5.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            4. und 8 von der 50. Team A erzielt vier Meter Raumgewinn und der
+            Ball wird für dead erklärt. Anschließend springt B1 nach.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team B persönliches Foul. Strafe – 15 Meter vom Succeeding
+                Spot. Team B’s Ball, First Down und 10 (Regel 5.1.1.c). Die
+                Game Clock startet mit dem Snap.
+            </p>
+        </details>
+    </div>
+</article>

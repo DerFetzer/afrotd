@@ -1,0 +1,28 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.5.3.III
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Ein Scrimmage Kick berührt den Boden jenseits der neutralen Zone,
+            prallt hoch in die Luft und danach zeigt B1 einen Fair Catch an.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Ungültiges Signal. Der Ball ist dort dead, wo er recovert
+                wurde.
+            </p>
+        </details>
+    </div>
+</article>

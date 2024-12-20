@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 6
+  - 2
+title: Snap nach Touchback
+text: "Nachdem ein Touchback einem Team zuerkannt wurde, gehört der Ball diesem Team an dessen 20-Meterlinie, es sei denn, der Touchback resultiert aus einem Free Kick. In dem Fall gehört der Ball zu Team B an dessen 25Meterlinie (Ausnahme: Regeln bezüglich Extraperioden). Der Snap wird vom Mittelpunkt zwischen den Hash Marks durchgeführt. Das Team, welches den Ball als nächstes ins Spiel bringt, kann einen anderen Punkt zwischen den Hash Marks wählen, bevor die Play Clock 25 Sekunden anzeigt oder vor der Ballfreigabe. Danach darf der Ball nur dann umplatziert werden, wenn ein Team-Timeout genommen wurde. Dies gilt nicht, wenn sich vorher ein Foul durch Team A oder sich aufhebende Fouls ereignet haben."
+interpretations: []

@@ -1,0 +1,27 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            6.3.8 Im Aus hinter einer Goalline
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Geht ein Scrimmage Kick (außer wenn ein Fieldgoal erzielt wird)
+                hinter einer Goalline ins Aus, wird der Ball dead und gehört zu
+                dem Team, das diese Goalline verteidigt (Regel 8.4.2.b).
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.6.3.8"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

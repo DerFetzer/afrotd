@@ -1,0 +1,81 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            1.4.4 Beschreibung: Vorgeschriebene Ausrüstung
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Helm.
+                    <ol type="1">
+                        <li>Der Helm muss mit einem passenden Helmgitter und
+                        einem geschlossenen 4- oder 6-Punkt-Kinnriemen versehen
+                        sein, bei dem alle Verschlüsse gesichert sind, wenn der
+                        Ball sich im Spiel befindet.
+                        </li>
+                        <li>Außereuropäische Teammitglieder sind durch ein 12
+                        cm großes, deutlich sichtbares „A“ auf der
+                        Helmrückseite zu kennzeichnen.
+                        </li>
+                        <li>Spieler eines Teams sollen Helme gleicher Farbe und
+                        gleichen Designs tragen.
+                        </li>
+                        <li>Der Helm muss ein Warnzeichen tragen, das auf die
+                        Verletzungsgefahr hinweist, und ein amtliches
+                        Prüfzeichen des Herstellers oder des Testers vorweisen,
+                        dass der Helm gemäß der National Operating Comitee on
+                        Standards for Athletic Equipment (NOCSAE) Norm getestet
+                        wurde. Wiederhergestellte Helme müssen ein Prüfzeichen
+                        aufweisen, das darauf hinweist, das alle Standards mit
+                        der NOCSAE- Norm übereinstimmen.
+                        </li>
+                    </ol>
+                </li>
+                <li>Steißbeinschutz und Hüftschützer. Spieler müssen einen
+                Steißbeinschutz und beidseits einen Hüftschutz tragen.
+                </li>
+                <li>Trikot. Siehe Regel 1.4.5
+                </li>
+                <li>Knieschützer. Knieschützer müssen von der Hose überdeckt
+                werden. Außerdem müssen Knieschützer und Hosen die Knie
+                bedecken. Es dürfen keine Pads oder andere schützende
+                Ausrüstungsteile außerhalb der Hosen getragen werden (siehe
+                Anhang B).
+                </li>
+                <li>Mundschutz. Der Mundschutz muss im Mund getragen werden und
+                in einer deutlich sichtbaren Farbe sein. Er darf nicht weiß
+                oder transparent sein. Er muss aus Gel- oder Plastikmaterial
+                hergestellt sein und die oberen Zähne vollständig bedecken. Es
+                wird empfohlen, dass der Mundschutz genau angepasst wird.
+                </li>
+                <li>Hosen. Spieler eines Teams sollen Hosen gleicher Farbe und
+                gleichen Aussehens tragen.
+                </li>
+                <li>Schulterschutz. Es gibt keine besonderen Spezifizierungen
+                für Schulterschützer (siehe Anhang B).
+                </li>
+                <li>Stutzen. Spieler eines Teams sollen sichtbare Stutzen oder
+                Beinbekleidungen tragen, die gleichfarbig und von gleichem
+                Aussehen sind (Ausnahme: unveränderte Kniestützen, Tape oder
+                Bandagen, um eine Verletzung zu schützen oder zu verhindern und
+                barfüßige Kicker).
+                </li>
+                <li>Oberschenkelschützer. Es gibt keine besonderen
+                Spezifizierungen für Oberschenkelschützer (siehe Anhang B).
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.1.4.4"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

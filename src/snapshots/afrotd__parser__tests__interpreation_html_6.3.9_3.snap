@@ -1,0 +1,26 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.3.9.III
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Ein Team B-Spieler berührt in seiner Endzone den fliegenden
+            Scrimmage Kick und Team A recovert den Ball in der Endzone.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team A-Touchdown (Regeln 6.3.3 und 8.2.1.d).
+            </p>
+        </details>
+    </div>
+</article>

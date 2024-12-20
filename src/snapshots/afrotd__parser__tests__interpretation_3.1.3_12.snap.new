@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 1
+  - 3
+index: 12
+text: "Während der ersten Serie in einer Extraperiode wirft A12 einen\nVorwärtspass und Team A verursacht einen illegalen Shift. B25 fängt\nden Pass ab und B38 (a) clippt oder (b) verursacht ein schweres persönliches Foul, bevor B25 Team A’s Goalline überquert."
+ruling: "Die\nPunkte zählen nicht. Die Fouls heben sich auf und der Down wird nicht\nwiederholt. Team A’s Ballbesitz-Serie ist beendet und (a) Team B be-\nginnt seine Ballbesitz-Serie an der 25-Meterlinie. (b) B38 wird disqualifiziert und Team B beginnt seine Ballbesitz-Serie an der 40-Meterlinie."

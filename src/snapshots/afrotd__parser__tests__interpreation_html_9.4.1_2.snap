@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.4.1.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team A versucht ein Fieldgoal von der B-30. Ein Team B-Spieler in
+            der Endzone springt vor der Querlatte hoch und schlägt den
+            fliegenden Ball weg. Der Ball geht in die Endzone und wird dort von
+            Team B recovert.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Foul für Schlagen des Balles in der Endzone. Das Ergebnis des
+                Downs ist ein Touchback. Wird die Strafe angenommen, resultiert
+                diese in einem Safety.
+            </p>
+        </details>
+    </div>
+</article>

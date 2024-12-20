@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            6.5.5 Kein Tackling
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Kein Spieler des Kicking Teams darf einen Gegner, der einen
+                Fair Catch vervollständigt hat, tackeln oder blocken. Nur der
+                Spieler, der das Fair CatchSignal gibt, hat diesen Schutz (A.R.
+                6.5.5.I und 6.5.5.III).
+            </p>
+            <p>
+                <strong>Strafe: Dead Ball Foul. Ball des Receiving Teams, 15
+                Meter vom Succeeding Spot [S7 und S38]. Regel 7 Snappen und
+                Werfen des Balles</strong>
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.6.5.5"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

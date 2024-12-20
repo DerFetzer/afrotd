@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 2
+  - 3
+title: Unfaire Aktionen
+text: "Die folgenden Aktionen sind unfair:\n\ta) Ein Team weigert sich, innerhalb von zwei Minuten weiter zu spielen, nachdem der Referee es zum Spielen aufgefordert hat.\n\tb) Ein Team begeht wiederholt Fouls, die nur mit der Halbierung der Distanz zur Endzone geahndet werden können.\n\tc) Während des Spieles ereignet sich eine offensichtlich unfaire Aktion, die nicht speziell in den Regeln aufgeführt ist. Das schließt Ersatzspieler, Coaches oder andere den Regeln unterliegende Personen, ausgenommen Spieler oder Schiedsrichter, ein, die in irgendeiner Weise einen freien Ball oder einen Spieler behindern, während der Ball im Spiel ist. (A.R. 4.2.1.II, 9.2.3.I und 9.2.3.IV) Strafe: Unsportliches Verhalten. Der Referee darf jede Strafe verhängen, die er für angemessen hält. Dazu gehört auch die Wiederholung des Downs inklusive einer 15-Meterstrafe, die Anerkennung von Punkten, die Unterbrechung oder der Abbruch eines Spieles [S27]."
+interpretations: []

@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.2.3.IV
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Während in der ersten Spielperiode die Spielzeit ausläuft,
+            behindert ein Team A-Spieler einen Gegner beim Fangen eines Kicks
+            (nicht beim Try).
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Strafe – 15 Meter vom Spot of Foul. Die Spielperiode wird nicht
+                verlängert und die Strafe wird zu Beginn der zweiten
+                Spielperiode durchgeführt.
+            </p>
+        </details>
+    </div>
+</article>

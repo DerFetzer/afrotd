@@ -1,0 +1,43 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.8.1 Fair Catch
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Ein Fair Catch eines Scrimmage Kicks ist das Fangen des
+                Balles jenseits der neutralen Zone durch einen Team B-Spieler,
+                der ein gültiges Signal gab, während der Scrimmage Kick
+                jenseits der neutralen Zone unberührt war.
+                </li>
+                <li>Ein Fair Catch eines Free Kicks ist das Fangen des Balles
+                durch einen Team B-Spieler, der ein gültiges Signal gab,
+                während der Free Kick unberührt war.
+                </li>
+                <li>Ein gültiges oder ungültiges Fair Catch-Signal nimmt dem
+                Receiving Team die Möglichkeit, den Ball zu advancen. Der Ball
+                wird an dem Punkt für dead erklärt, an dem er gefangen oder
+                recovert wird. Wenn das Fangen dem Signal vorausgeht, wird der
+                Ball für dead erklärt, wenn das Signal erstmals gegeben wird.
+                </li>
+                <li>Schützt der Receiver seine Augen vor der Sonne, ohne mit
+                seiner(n) Hand (Händen) zu winken, bleibt der Ball im Spiel und
+                kann advanct werden.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.8.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

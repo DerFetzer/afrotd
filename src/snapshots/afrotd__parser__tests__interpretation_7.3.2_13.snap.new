@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 2
+index: 13
+text: "Quarterback A11 geht zurück, um einen Vorwärtspass zu werfen. Er verlässt die Tackle Box. Er fumbelt den Ball, der direkt in seine\nHände zurückspringt. A11 wirft dann den Ball vorwärts und dieser landet jenseits der neutralen Zone in einem offenen Bereich, in dem sich\nkein berechtigter Receiver befindet, der die Möglichkeit hätte, den Ball\nzu fangen."
+ruling: "Legales Spiel, da A11 den Ballbesitz nicht an\neinen anderen Spieler übertrug."

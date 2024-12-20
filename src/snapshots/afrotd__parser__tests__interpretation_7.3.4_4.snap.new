@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 4
+index: 4
+text: "Der berechtigte Receiver A44 läuft eine Passroute in der Nähe\neiner Seitenlinie. Als ein legaler Vorwärtspass in seine Richtung fliegt,\ntritt er versehentlich auf die Seitenlinie, springt, mufft den Pass während\ner sich in der Luft befindet, landet inbounds auf den Boden, ergreift\nden Ball und landet inbounds auf seinen Knien, wobei er den Ball fest\nin seinen Händen hält."
+ruling: "Unvollständiger Vorwärtspass. A44\nberührt den Ball erstmalig, als er sich in der Luft und damit noch im\nAus befindet und sich so noch nicht inbounds etabliert hatte. (Regel\n2.27.15)."

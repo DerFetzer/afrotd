@@ -1,0 +1,62 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            6.3.10 Legale und illegale Kicks
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Ein legaler Scrimmage Kick ist ein Punt, ein Drop Kick oder
+                ein Place Kick, der den Regeln gemäß durchgeführt wird.
+                </li>
+                <li>
+                    <p>
+                        Ein Return Kick ist ein illegaler Kick und ein Live
+                        Ball Foul, wodurch der Ball dead wird (Regel 2.16.8).
+                    </p>
+                    <p>
+                        <strong>Strafe: 5 Meter vom Spot of Foul
+                        [S31].</strong>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Wird ein Scrimmage Kick durchgeführt, während sich der
+                        gesamte Körper des Kickers und der Ball jenseits der
+                        neutralen Zone befindet oder befunden hat, ist das ein
+                        illegaler Kick und ein Live Ball Foul, wodurch der Ball
+                        dead wird.
+                    </p>
+                    <p>
+                        <strong>Strafe: 5 Meter vom Previous Spot und ein
+                        Downverlust [S31 und S9].</strong>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Keine Vorrichtung oder kein Gegenstand darf benutzt
+                        werden, um den Punkt eines Fieldgoal Place Kicks zu
+                        markieren oder den Ball zu erhö- hen. Das ist ein Live
+                        Ball Foul beim Snap (Ausnahme: Regel 2.16.4.a).
+                    </p>
+                    <p>
+                        <strong>Strafe: 5 Meter vom Previous Spot
+                        [S19].</strong>
+                    </p>
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.6.3.10"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

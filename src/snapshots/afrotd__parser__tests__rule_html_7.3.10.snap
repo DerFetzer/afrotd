@@ -1,0 +1,36 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            7.3.10 Unberechtigt jenseits der neutralen Zone
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Kein ursprünglich unberechtigter Receiver darf sich mehr als
+                drei Meter jenseits der neutralen Zone befinden oder befunden
+                haben, bis ein Passer einen legalen Vorwärtspass wirft, der die
+                neutrale Zone überquert. Ein Spieler verletzt diese Regel, wenn
+                ein Teil seines Körpers sich jenseits der
+                Drei-MeterEinschränkung befindet (Ausnahme: legales Spiel, wenn
+                der Passer den Ball legal wegwirft und der Ball in der Nähe
+                oder außerhalb einer Seitenlinie landet) (A.R. 7.3.10.I und
+                7.3.10.III).
+            </p>
+            <p>
+                <strong>Strafe: 5 Meter vom Previous Spot [S37].</strong>
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.7.3.10"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

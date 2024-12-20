@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.12.4 Begrenzungslinien
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Die Begrenzungslinien sind die Seitenlinien und die Endlinien.
+                Die Zone, die durch die Begrenzungslinien eingeschlossen ist,
+                wird mit „inbounds“ bezeichnet und die Zone, die die
+                Begrenzungslinien umgibt, einschließlich der Begrenzungslinien,
+                wird mit „im Aus“ bezeichnet.
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.12.4"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

@@ -1,0 +1,52 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.2.3 Freier Ball
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Ein freier Ball ist ein Live Ball, der sich nicht im Besitz
+                eines Spielers befindet, während:
+                    <ol type="1">
+                        <li>eines Laufspieles;
+                        </li>
+                        <li>eines Scrimmage Kick- oder Free Kick-Spieles, bevor
+                        Ballbesitz erlangt oder wiedererlangt wurde oder der
+                        Ball den Regeln nach dead ist;
+                        </li>
+                        <li>des Zeitraumes, nachdem ein legaler Vorwärtspass
+                        berührt wurde und bevor er vollständig, unvollständig
+                        oder abgefangen wird. (Beachte: Dieser Zeitraum besteht
+                        während eines VorwärtspassSpieles und jeder Spieler,
+                        der berechtigt ist, den Ball zu berühren, darf ihn in
+                        jede Richtung schlagen.)
+                        </li>
+                    </ol>
+                </li>
+                <li>Alle Spieler sind berechtigt, einen Fumble (Ausnahme: Regel
+                7.2.2.a Ausnahme 2 und 8.3.2.d.5) oder einen Rückpass zu
+                berühren, zu fangen oder zu recovern.
+                </li>
+                <li>Die Berechtigung zum Berühren eines Kicks wird durch Regel
+                6 bestimmt.
+                </li>
+                <li>Die Berechtigung zum Berühren eines Vorwärtspasses wird
+                durch Regel 7 bestimmt.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.2.3"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

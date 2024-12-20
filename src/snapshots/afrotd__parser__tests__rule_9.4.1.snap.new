@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 4
+  - 1
+title: Schlagen eines freien Balles
+text: "\ta) Während sich ein Pass im Flug befindet, dürfen nur Spieler, die berechtigt sind, den Ball zu berühren, diesen in jede Richtung schlagen (Ausnahme: Regel 9.4.2).\n\tb) Jeder Spieler darf im Spielfeld oder in einer Endzone einen Scrimmage Kick abblocken.\n\tc) Kein Spieler darf andere freie Bälle im Spielfeld nach vorn schlagen. Kein Spieler darf andere freie Bälle in irgendeine Richtung schlagen, wenn sich der Ball in einer Endzone befindet (Regel 2.2.3.a) (Ausnahme: Regel 6.3.11) (A.R. 6.3.11.I, 9.4.1.I bis 9.4.1.X, und A.R. 10.2.2.II). Strafe: 10 Meter und Downverlust für Team A-Fouls, soweit der Downverlust nicht im Widerspruch zu anderen Regeln steht [S9 und S31] ( Ausnahme: kein Downverlust, wenn sich das Foul ereignet, während sich ein legaler Scrimmage Kick jenseits der neutralen Zone befindet)."
+interpretations: []

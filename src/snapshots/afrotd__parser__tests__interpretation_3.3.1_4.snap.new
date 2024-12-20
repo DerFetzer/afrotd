@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 3
+  - 1
+index: 4
+text: "Ein Schuhriemen, die Schnur eines Schulterschützers, ein Trikot, eine Nummer oder ein Ausrüstungsteil bricht oder zerreißt."
+ruling: "Es wird kein Referee-Timeout zugelassen, um das Ausrüstungsteil zu reparieren oder zu ersetzen."

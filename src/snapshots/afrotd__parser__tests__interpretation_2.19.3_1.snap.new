@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 19
+  - 3
+index: 1
+text: "Quarterback A12 wirft einen legalen Vorwärtspass, und der Receiver A88 berührt den Ball erst, als der Ball sich 1,5 Meter jenseits der\nneutralen Zone befindet. Der hintere Fuß von A88 befindet sich dabei\nnicht jenseits der neutralen Zone."
+ruling: "Der legale Vorwärtspass\nhat die neutrale Zone überquert. Regel 2.19.3.a erklärt, dass ein Pass\ndie neutrale Zone überquert hat, wenn er irgendetwas jenseits der neutralen Zone berührt. Gemäß Regel 2.19.3.b ist A88 als Spieler nicht\njenseits der neutralen Zone. Trotzdem hat der Pass gemäß 2.19.3.a die\nneutrale Zone überquert, da er sich jenseits der neutralen Zone befand,\nals A88 ihn berührt hat. In Bezug auf das Überqueren der neutralen\nZone gilt als Leitlinie der Punkt, an dem sich der Ball befindet, als er\nzuerst berührt wurde."

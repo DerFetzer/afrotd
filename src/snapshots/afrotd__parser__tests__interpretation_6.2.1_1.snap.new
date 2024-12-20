@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 2
+  - 1
+index: 1
+text: "Ein Kickoff von der A-35 geht unberührt von Team B ins Aus und\nTeam A berührte illegal den Ball."
+ruling: "Team B hat vier Wahlmöglichkeiten. Es kann den Ball an der Stelle der illegalen Berührung\nsnappen, eine 5-Meterstrafe vom Previous Spot annehmen, wodurch\nTeam A noch einmal von der A-30 aus kicken muss, den Ball am Inbounds Spot von der B-35 ins Spiel bringen oder am Inbounds Spot,\nnach einer 5-Meterstrafe von dort, wo der Ball ins Aus gegangen ist, ins\nSpiel bringen (Regel 6.1.8)."

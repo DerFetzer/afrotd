@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 4
+  - 1
+index: 9
+text: "4. und 10 von der Mittellinie. Team A’s Scrimmage Kick senkt\nsich an der B-30. B18, von der B-20 kommend, muss an der B-25 um\nA92 herum laufen, um den Kick an der B-30 zu fangen."
+ruling: "Foul\ndurch A92 wegen der Behinderung beim Fangen eines Kicks. Strafe –\n15 Meter vom Punkt des Fouls (B-25)."

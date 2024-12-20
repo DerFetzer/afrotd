@@ -1,0 +1,38 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            9.2.6 Disqualifizierte Spieler und Coaches
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Jeder Coach, Spieler oder jedes identifizierte Teammitglied
+                in Ausrüstung, der zwei unsportliche Verhalten Fouls in einem
+                Spiel begeht, wird disqualifiziert.
+                </li>
+                <li>Wird eine Person, die den Regeln unterliegt,
+                disqualifiziert (2.27.12) muss diese den Platz innerhalb einer
+                angemessenen Zeitspanne verlassen. Dazu gehört, dass sie sich
+                an einer Stelle aufhalten muss, wo sie auf das Spielgeschehen
+                keinen Einfluss nehmen kann und weder von den Spielbeteiligten
+                noch von den Zuschauern gesehen bzw. gehört werden kann.
+                </li>
+                <li>Ein Head Coach, der disqualifiziert wurde, kann einen neuen
+                Head Coach benennen.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.9.2.6"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

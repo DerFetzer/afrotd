@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            5.2.1 Foul während eines Free Kicks
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Folgt einer Strafe für ein Foul, welches sich während eines
+                Free Kick Downs ereignet hat, ein Scrimmage Down, muss die
+                Nummer des nächsten Downs und die Distanz, die durch die Strafe
+                festgelegt wird, ein First Down mit einer neuen Line to Gain
+                sein.
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.5.2.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

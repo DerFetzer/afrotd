@@ -1,0 +1,127 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            7.3.8 Illegaler Kontakt und Passbehinderung
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Während eines Downs, in dem ein legaler Vorwärtspass die
+                neutrale Zone überquert, ist jeder illegale Kontakt durch Team
+                A- und Team BSpieler in dem Zeitraum zwischen Snap und
+                Berührung des Passes durch einen Spieler oder einen
+                Schiedsrichter verboten (A.R. 7.3.8.II).
+                </li>
+                <li>Offense Passbehinderung ist der Kontakt durch einen Team
+                A-Spieler jenseits der neutralen Zone, der einen Team B-Spieler
+                behindert, wenn der Vorwärtspass während eines legalen
+                Vorwärtspass-Spieles die neutrale Zone überquert. Es liegt in
+                der Verantwortung des Offense Spielers, den Gegnern
+                auszuweichen. Es ist keine Offense Passbehinderung (A.R.
+                7.3.8.IV, 7.3.8.V, 7.3.8.X, 7.3.8.XV, 7.3.8.XVI):
+                    <ol type="1">
+                        <li>wenn ein unberechtigter Team A-Spieler sofort nach
+                        dem Snap angreift und einen Gegner an einem Punkt
+                        berührt, der nicht weiter als einen Meter jenseits der
+                        neutralen Zone liegt und den Kontakt nicht weiter als
+                        drei Meter jenseits der neutralen Zone fortsetzt (A.R.
+                        7.3.10.II).
+                        </li>
+                        <li>wenn zwei oder mehr berechtigte Spieler
+                        offensichtlich versuchen, gleichzeitig einen Pass zu
+                        erreichen, zu fangen oder zu schlagen. Berechtigte
+                        Spieler beider Teams haben die gleichen Rechte auf den
+                        Ball (A.R. 7.3.8.IX).
+                        </li>
+                        <li>
+                            <p>
+                                wenn der Pass sich im Flug befindet und zwei
+                                oder mehr berechtigte Spieler sind in der Zone,
+                                wo sie diesen Pass erreichen oder abfangen
+                                könnten und ein Offense Spieler behindert in
+                                dieser Zone einen Gegner und der Pass ist nicht
+                                fangbar.
+                            </p>
+                            <p>
+                                <strong>Strafe: 15 Meter vom Previous Spot
+                                [S33].</strong>
+                            </p>
+                        </li>
+                    </ol>
+                </li>
+                <li>Defense Passbehinderung ist der Kontakt eines Team
+                B-Spielers jenseits der neutralen Zone, dessen Absicht, einen
+                berechtigten Gegner zu behindern, offensichtlich ist und der
+                verhindern könnte, dass der Gegner die Möglichkeit hat, einen
+                fangbaren Vorwärtspass zu erreichen. Im Zweifel ist ein legaler
+                Vorwärtspass fangbar. Defense Passbehinderung kann sich nur
+                ereignen, nachdem ein legaler Vorwärtspass geworfen wurde (A.R.
+                7.3.8.VII, 7.3.8.VIII, 7.3.8.XI und 7.3.8.XVI). Es ist keine
+                Defense Passbehinderung (A.R. 7.3.8.III und 7.3.9.III):
+                    <ol type="1">
+                        <li>wenn sich sofort nach dem Snap gegnerische Spieler
+                        angreifen und den Kontakt mit dem Gegner an einem Punkt
+                        innerhalb eines Meters jenseits der neutralen Zone
+                        herstellen.
+                        </li>
+                        <li>wenn zwei oder mehr berechtigte Spieler
+                        offensichtlich versuchen, gleichzeitig einen Pass zu
+                        erreichen, zu fangen oder zu schlagen. Berechtigte
+                        Spieler beider Teams haben die gleichen Rechte auf den
+                        Ball (A.R. 7.3.8.IX).
+                        </li>
+                        <li>wenn ein Team B-Spieler einen Gegner legal berührt,
+                        bevor der Pass geworfen wurde (A.R. 7.3.8.III und
+                        7.3.8.X).
+                        </li>
+                        <li>
+                            <p>
+                                wenn es während eines Downs, in dem ein
+                                potenziellen Team A-Kicker aus einer Scrimmage
+                                Kick-Formation einen Scrimmage Kick simuliert,
+                                indem er den Ball hoch und weit wirft, zu einem
+                                Kontakt durch einen Team B-Spieler kommt, der
+                                ansonsten eine Passbehinderung wäre.
+                            </p>
+                            <p>
+                                <strong>Strafe: Team A’s Ball am Spot of Foul
+                                und First Down, wenn sich das Foul weniger als
+                                15 Meter jenseits des Previous Spots ereignet.
+                                Ereignet sich das Foul 15 Meter und mehr
+                                jenseits des Previous Spots: Team A’s Ball,
+                                First Down und 15 Meter vom Previous Spot
+                                [S33]. Wurde der Ball auf oder innerhalb Team
+                                B’s17 Meterlinie und außerhalb Team B’s
+                                2-Meterlinie gesnappt und der Spot of Foul
+                                liegt auf oder innerhalb der 2-Meterlinie, so
+                                soll die Strafe den Ball vom Previous Spot auf
+                                die 2-Meterlinie bringen, First Down und Goal
+                                (A.R. 7.3.8.XIV). Keine von außerhalb der
+                                2-Meterlinie durchgeführte Strafe darf den Ball
+                                innerhalb der 2-Meterlinie bringen ( Ausnahme:
+                                Beim Try, wenn der Snap auf oder innerhalb der
+                                3-Meterlinie durchgeführt wird (Regel
+                                10.2.5.b)). Befand sich der Previous Spot auf
+                                oder innerhalb der 2-Meterlinie, First Down und
+                                Distanzhalbierung zwischen Previous Spot und
+                                Goalline (Regel 10.2.6 Ausnahmen).</strong>
+                            </p>
+                        </li>
+                    </ol>
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.7.3.8"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

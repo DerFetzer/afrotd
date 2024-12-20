@@ -1,0 +1,37 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.3.9.V
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Während eines Laufspiels, das inbounds endet, verliert ein
+            Linebacker seinen Helm vollständig. Als der Ball dead wird, wird
+            die Game Clock angehalten und steht bei 0:45 in der zweiten
+            Spielperiode.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Die Play Clock wird auf 40 Sekunden gestellt. Team A hat die
+                Möglichkeit eines 10-Sekundenabzugs von der Game Clock. Wenn
+                Team A diese Option wahrnimmt, wird die Game Clock auf 0:35
+                gesetzt und der Referee startet die Game Clock mit der
+                Ballfreigabe, außer Team B nimmt ein Timeout. Wenn Team B ein
+                Timeout nimmt, um den 10-Sekunden-Abzug von der Game Clock zu
+                vermeiden, bleibt die Game Clock auf 0:45 stehen, die Play
+                Clock wird auf „25“ gestellt und die Game Clock startet mit dem
+                Snap.
+            </p>
+        </details>
+    </div>
+</article>

@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.2.2.V
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team A hat sich in einer Scrimmage Kick Formation aufgestellt und
+            stand für eine Sekunde still. Einer der Offense Backs ruft A40, dem
+            Blocker auf der rechten Seite zu, dass er vom Feld gehen soll. A40
+            bewegt sich in Richtung der Seitenlinie. Beim Snap läuft A40
+            downfield und wird zu einem Pass-Receiver.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Unsportliches Verhalten. 15 Meter vom Previous Spot. Das ist
+                eine Taktik im Zusammenhang mit dem Auswechselprozess, um die
+                Gegner zu verwirren.
+            </p>
+        </details>
+    </div>
+</article>

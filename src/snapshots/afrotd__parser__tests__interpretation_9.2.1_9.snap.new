@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 2
+  - 1
+index: 9
+text: "2. und 5 von der A-45. Ballträger A33 läuft seinen Gegnern davon und hat freien Weg zur Goalline. An der B-2 biegt er plötzlich scharf\nnach links ab und trottet entlang der B-2, während die Defense Spieler\nzu ihm aufholen. Kurz bevor diese ihn erreichen können, trägt A33 den\nBall in B’s Endzone. A33 läuft zu den Zuschauerrängen und klatscht mit\nden Fans „High Five“."
+ruling: "Keine Punkte. A33 hat zwei unsportliche Verhalten Fouls begangen. Ein Live Ball Foul und ein Dead Ball\nFoul. Beide 15-Meterstrafen werden durchgeführt und A33 wird disqualifiziert. A’s Ball, 1. und 10 von der B-32 (Regel 9.2.6)."

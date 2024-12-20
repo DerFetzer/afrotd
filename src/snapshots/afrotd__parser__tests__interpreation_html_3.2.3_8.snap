@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.2.3.VIII
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Die Spielzeit in der ersten Halbzeit läuft während eines Downs aus.
+            A12 befindet sich jenseits der neutralen Zone, als er einen
+            vollständigen Vorwärtspass auf A88 wirft, der sich in B’s Endzone
+            befindet.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team B akzeptiert die Strafe, wodurch die Punkte annulliert
+                werden, aber die Periode wird, nach Wahl des gefoulten Teams,
+                nicht verlängert, da die Strafe einen Downverlust enthält. Die
+                erste Halbzeit ist beendet.
+            </p>
+        </details>
+    </div>
+</article>

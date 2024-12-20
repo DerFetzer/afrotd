@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 4
+  - 1
+  - 2
+index: 1
+text: "4. und 15 von der A-30, Team A puntet. B44 befindet sich in Position zum Fangen des Kicks. Bei dem Versuch, den Kick zu fangen,\nmufft B44 den Kick an der B-35. Während der Ball nach der Berührung\nauf dem Boden rollt, pfeift der Backjudge irrtümlich ab. A88 greift nach\ndem rollenden Ball und recovert ihn in einer unmittelbar folgenden Aktion an der B-30. Während des Kicks hielt B22 einen Gegner fest und es\nliegt eine Flagge auf dem Spielfeld."
+ruling: Irrtümliches Abpfeifen.

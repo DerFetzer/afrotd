@@ -1,0 +1,37 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.17.1 Neutrale Zone
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Die neutrale Zone ist der Bereich zwischen den beiden
+                Scrimmage Lines, verlängert zu den Seitenlinien (Regel 2.21.2).
+                Ihre Breite entspricht der Länge des Balles.
+                </li>
+                <li>Die neutrale Zone ist dann errichtet, wenn der Ball
+                spielbereit ist und auf dem Boden liegt, wobei seine Längsachse
+                im rechten Winkel zur Scrimmage Line, parallel zu den
+                Seitenlinien, liegt.
+                </li>
+                <li>Die neutrale Zone existiert, bis es einen Wechsel des Team
+                Ballbesitzes gibt, bis ein Scrimmage Kick die neutrale Zone
+                überquert oder bis der Ball für dead erklärt wird.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.17.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

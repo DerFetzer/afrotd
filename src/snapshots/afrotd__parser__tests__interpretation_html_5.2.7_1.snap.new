@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 5.2.7.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            3. und 4 von der B-30. Ballträger A22 geht an der B-18 ins Aus. B88
+            begeht ein Foul, unmittelbar nachdem der Ball im Aus ist.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                First Down und Goal für Team A von der B-9. Die Game Clock
+                startet, außer nach dem Zwei-Minuten-Timeout, mit der
+                Ballfreigabe.
+            </p>
+        </details>
+    </div>
+</article>

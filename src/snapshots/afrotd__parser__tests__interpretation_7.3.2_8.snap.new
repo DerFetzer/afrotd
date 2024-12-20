@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 2
+index: 8
+text: "QB A10 sprintet in Richtung einer Seitenlinie und befindet sich\naußerhalb der Tackle Box, als er einen legalen Vorwärtspass wirft, der\nvon einem Defense Lineman weggeschlagen wird und dann hinter der\nneutralen Zone landet."
+ruling: "Legales Spiel. Ohne das Wegschlagen wäre der Ball jenseits der neutralen Zone gelandet, so dass A10 im\nSinne der Regel gehandelt hat."

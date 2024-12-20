@@ -1,0 +1,27 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 10.2.5.XIV
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Eines der Teams foult.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Führe die Strafe beim Kickoff durch, es sei denn, der Try ist
+                der letzte Down in einem Spiel.
+            </p>
+        </details>
+    </div>
+</article>

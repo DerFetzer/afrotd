@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            9.2.7 Tabakkonsum
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                In der Zeit vom Aufruf der Team Captains zum Coin Toss bis der
+                Referee das Spiel für beendet erklärt, ist es Spielern,
+                Teammitgliedern und anderem Personal (z. B. Coaches,
+                Physiotherapeuten, Spieloffiziellen und Schiedsrichtern) auf
+                dem Platz verboten, Tabakprodukte zu konsumieren.
+            </p>
+            <p>
+                <strong>Strafe: Disqualifikation. Dead Ball Foul, 15 Meter vom
+                Succeeding Spot [S27 und S47].</strong>
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.9.2.7"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

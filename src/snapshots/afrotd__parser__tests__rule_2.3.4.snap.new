@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 3
+  - 4
+title: Block in den Rücken
+text: "\ta) Ein Block in den Rücken ist der Kontakt gegen einen Gegner, bei dem die Wucht des anfänglichen Kontaktes von hinten und über der Gürtellinie erfolgt. Im Zweifel ist der Kontakt an oder unterhalb der Gürtellinie (siehe auch Clipping, Regel 2.5.1) (Regel 9.3.5) (A.R. 9.3.3.I bis 9.3.3.VII und A.R. 10.2.2.XII).\n\tb) Die Position des Kopfes des Blockers oder seiner Füße bezeichnen nicht unbedingt den Punkt des anfänglichen Kontaktes."
+interpretations: []

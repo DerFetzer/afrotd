@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 30
+  - 4
+title: Laufspiel und Lauf
+text: "\ta) Ein Laufspiel ist jede Live Ball Aktion, ausgenommen einer, die sich während eines Free Kick-, eines Scrimmage Kick- oder eines legalen Vorwärtspass-Spieles ereignet.\n\tb) Ein Lauf ist der Teil eines Laufspieles, während ein Ballträger in Ballbesitz ist.\n\tc) Wenn ein Ballträger den Ballbesitz durch einen Fumble, Rückpass oder illegalen Vorwärtspass verliert, ist der Punkt, an dem der Lauf endet (Regel 2.25.8) die Meterlinie, an der der Ballträger den Ballbesitz verliert. Das Laufspiel beinhaltet den Lauf und die Aktion während des freien Balles, bevor ein Spieler den Ballbesitz erlangt oder wiedererlangt oder der Ball für dead erklärt wird (A.R. 2.30.4.I und 2.30.4.II).\n\td) Ein neues Laufspiel beginnt, wenn ein Spieler Ballbesitz erlangt oder wiedererlangt."
+interpretations: []

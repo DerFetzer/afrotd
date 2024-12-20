@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 5
+  - 2
+  - 7
+title: Fouls zwischen den Serien
+text: "\ta) Die Strafe für jedes Dead Ball Foul (inklusive Live Ball Fouls, die als Dead Ball Fouls behandelt werden), das sich ereignet, nachdem eine Serie beendet ist und bevor der Ball das nächste Mal spielbereit ist, muss durchgeführt werden, bevor die Line to Gain eingerichtet wird.\n\tb) Jede Strafe für ein Dead Ball Foul, das sich ereignet, nachdem der Ball spielbereit ist, muss nach Errichtung der Line to Gain durchgeführt werden (A.R. 5.2.7.I bis 5.2.7.V)."
+interpretations: []

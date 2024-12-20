@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 1
+  - 4
+index: 7
+text: "Team A hat sich an der B-45 in einer Formation aufgestellt, in\nder der Snapper A88 sich am rechten Ende der Line befindet. Die Linemen zu seiner Linken sind mit 56, 63, 72, 22, 79 und 25 nummeriert.\nEs befinden sich vier Team A-Spieler im Backfield. A44 steht 10 Meter\ndirekt hinter dem Snapper und die anderen Backs stehen zu seiner Linken einige Meter hinter der Scrimmage Line. Kein Spieler befindet sich\nin Position als Holder für einen Place Kick. Nach dem Snap wirft A44\neinen vollständigen Vorwärtspass auf Snapper A88, der einen Touchdown erzielt. Das ereignet sich (a) beim ersten oder zweiten Down;\n(b) dritten oder vierten Down."
+ruling: "Da nur vier Offense Linemen Trikots mit Nummern von 50 bis 79 tragen, hängt die Legalität\nder Offense Formation davon ab, ob sich Team A in einer Scrimmage\nKick-Formation befindet. Eine Voraussetzung für die Scrimmage KickFormation ist, „dass es offensichtlich ist, dass ein Kick versucht werden\nwird.“ (a) Illegale Formation: beim ersten und zweiten Down ist es eher\nunwahrscheinlich, dass ein Team punten wird. Daher ist es nicht offensichtlich, dass ein Kick versucht werden wird. (b) Legales Spiel: Touchdown. Beim dritten oder vierten Down ist es wahrscheinlich, dass ein\nTeam kicken wird. (Regel 2.16.10)."

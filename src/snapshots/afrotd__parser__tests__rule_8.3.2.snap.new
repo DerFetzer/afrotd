@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 3
+  - 2
+title: Gelegenheit zum Punkten
+text: "Der Try ist die Gelegenheit für eines der Teams, einen oder zwei Punkte zu erzielen, während die Game Clock nach einem Touchdown angehalten wurde oder in der dritten oder den nachfolgenden Extraperioden. Der Try ist ein besonderer Teil im Spiel, der nur zum Zweck der Strafdurchführung sowohl einen Down als auch den Zeitraum der Ballfreigabe umfasst.\n\ta) Der Ball muss von dem Team gesnappt werden, das einen SechsPunkte-Touchdown erzielt hat. Nach einem Touchdown ist der Try vorgeschrieben (Ausnahme: Extraperioden).\n\tb) Der Try, der ein Scrimmage Down ist, beginnt, wenn der Ball freigegeben wird.\n\tc) Der Snap wird vom Mittelpunkt zwischen den Hash Marks von der gegnerischen 3-Meterlinie durchgeführt. Das Team, welches den Ball als nächstes ins Spiel bringt, kann einen anderen Punkt zwischen den Hash Marks auf oder hinter der gegnerischen 3-Meterlinie wählen, bevor die Play Clock 25 Sekunden anzeigt oder vor der Ballfreigabe. Ist die Play Clock auf oder unter 25 Sekunden oder nach der Ballfreigabe darf der Ball nur dann umplatziert werden, wenn ein Team-Timeout genommen wurde. Dies gilt nicht, wenn sich vorher ein Foul durch Team A oder sich aufhebende Fouls ereignet haben (Regeln 8.3.3.a und 8.3.3.c.1).\n\td) Der Try endet, wenn:\n\t\t1. eines der Teams Punkte erzielt.\n\t\t2. der Ball gemäß der Regel dead wird (A.R. 8.3.2.IV und 8.3.2.VI).\n\t\t3. eine angenommene Strafe einen Punktgewinn ergibt.\n\t\t4. eine Strafe gegen Team A einen Downverlust enthält und die Strafe angenommen wird (Regel 8.3.3.c.2).\n\t\t5. ein Team A-Spieler fumbelt und der Ball von einem anderen Team A-Spieler als dem Fumbler gefangen oder recovert wird. Es gibt keine Punkte für Team A (A.R. 8.3.2.VIII)."
+interpretations: []

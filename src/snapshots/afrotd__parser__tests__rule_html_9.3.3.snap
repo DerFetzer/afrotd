@@ -1,0 +1,98 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            9.3.3 Halten und Benutzen von Händen oder Armen: Offense
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Benutzen von Händen Ein Mitspieler eines Ballträgers oder
+                Passers darf mit seinen Schultern, Händen, Außenseiten der Arme
+                oder einem anderen Körperteil unter folgenden Voraussetzungen
+                legal blocken:
+                    <ol type="1">
+                        <li>Die Hand/Hände müssen:
+                            <ol type="a">
+                                <li>sich vor dem (den) Ellenbogen befinden.
+                                </li>
+                                <li>sich innerhalb des Körperrahmens des
+                                Gegenspielers befinden (Ausnahme: wenn der
+                                Gegner dem Blocker den Rücken zuwendet)(A.R.
+                                9.3.3.VI und 9.3.3.VII).
+                                </li>
+                                <li>sich an oder unter der (den) Schulter(n)
+                                des Blockers und des Gegners befinden
+                                (Ausnahme: wenn der Gegner sich duckt, bückt
+                                oder wegdreht).
+                                </li>
+                                <li>getrennt sein und dürfen nie verschränkt
+                                werden.
+                                </li>
+                            </ol>
+                        </li>
+                        <li>Die Hand/Hände muss (müssen) geöffnet sein und die
+                        Handfläche(n) soll(en) dem Körperrahmen des Gegners
+                        zugewandt oder geschlossen oder gewölbt sein, wobei die
+                        Handfläche(n) nicht dem Gegner zugewandt ist (sind)
+                        (A.R. 9.3.3.I bis 9.3.3.IV und 9.3.3.VI bis
+                        9.3.3.VIII).
+                        </li>
+                    </ol>
+                </li>
+                <li>Halten Die Hand / Hände und der Arm / die Arme dürfen nicht
+                benutzt werden, um einen Gegner zu ergreifen, zu ziehen, zu
+                umfassen, festzuhaken, zu sperren oder zu umklammern oder ihn
+                in sonstiger Weise illegal zu behindern.
+                </li>
+                <li>Kicking Team Ein Spieler des Kicking Teams darf:
+                    <ol type="1">
+                        <li>während eines Scrimmage Kick-Spieles seine Hand /
+                        Hände und / oder Arm / Arme benutzen, um einen Gegner
+                        abzuwehren, wenn dieser versucht, ihn zu blocken, wenn
+                        er sich jenseits der neutralen Zone befindet;
+                        </li>
+                        <li>während eines Free Kick-Spieles seine Hand / Hände
+                        und/oder Arm / Arme benutzen, um einen Gegner
+                        abzuwehren, der versucht, ihn zu blocken;
+                        </li>
+                        <li>während eines Scrimmage Kick- oder eines Free
+                        Kick-Spieles, bei dem er berechtigt ist, den Ball zu
+                        berühren, seine Hand / Hände und / oder Arm / Arme
+                        legal benutzen, um einen Gegner wegzudrücken, wenn er
+                        versucht, an einen freien Ball zu gelangen.
+                        </li>
+                    </ol>
+                </li>
+                <li>
+                    <p>
+                        passendes Team: Ein berechtigter Spieler des passenden
+                        Teams darf legal seine Hand / Hände und / oder Arm /
+                        Arme benutzen, um einen Gegner abzuwehren oder
+                        wegzudrücken, wenn er versucht, an einen freien Ball zu
+                        gelangen, nachdem ein legaler Vorwärtspass von
+                        irgendeinem Spieler oder einem Schiedsrichter berührt
+                        wurde (Regeln 7.3.5, 7.3.8, 7.3.9 und 7.3.11).
+                    </p>
+                    <p>
+                        <strong>Strafe: 10 Meter. Strafen für Team A-Fouls
+                        hinter der neutralen Zone werden vom Previous Spot
+                        durchgeführt. Safety, wenn sich das Foul hinter Team
+                        A’s Goalline ereignet [S42].</strong>
+                    </p>
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.9.3.3"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

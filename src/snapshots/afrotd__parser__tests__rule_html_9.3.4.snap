@@ -1,0 +1,65 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            9.3.4 Halten und Benutzen von Händen oder Armen: Defense
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Defense Spieler dürfen die Hände und Arme benutzen, um
+                Offense Spieler wegzudrücken, zu ziehen, zu ergreifen oder
+                anzuheben:
+                    <ol type="1">
+                        <li>wenn sie versuchen, an einen Runner zu gelangen.
+                        </li>
+                        <li>wenn die Offense Spieler offensichtlich versuchen,
+                        sie zu blocken.
+                        </li>
+                    </ol>
+                </li>
+                <li>Ein Defense Spieler darf bei dem Versuch, einen freien Ball
+                zu erreichen, seine Hand / Hände oder Arm / Arme legal
+                benutzen, um einen Spieler wegzudrücken oder zu blocken (Regel
+                9.1.5 Ausnahmen 3 und 4 und Regel 9.3.5 Ausnahmen 3 und 5):
+                    <ol type="1">
+                        <li>während eines Rückpasses, eines Fumbles oder eines
+                        Kicks, bei dem er berechtigt ist, den Ball zu berühren.
+                        </li>
+                        <li>während eines Vorwärtspasses, der die neutrale Zone
+                        überquert und von einem Spieler oder einem
+                        Schiedsrichter berührt wurde.
+                        </li>
+                    </ol>
+                </li>
+                <li>Wenn kein Versuch gemacht wird, an den Ball oder einen
+                Runner zu gelangen, unterliegen Defense Spieler den
+                Beschränkungen der Regeln 9.3.3.a und 9.3.3.b.
+                </li>
+                <li>Defense Spieler dürfen die Hände und Arme nicht benutzen,
+                um einen Gegner, ausgenommen einen Runner, zu tackeln,
+                festzuhalten oder in sonstiger Weise illegal zu behindern.
+                </li>
+                <li>Defense Spieler dürfen einen berechtigten Pass-Receiver
+                abwehren oder legal blocken, bis sich dieser auf derselben
+                Meterlinie wie der Defense Spieler befindet oder bis der Gegner
+                ihn nicht mehr blocken kann. Fortwährender Kontakt ist illegal
+                (A.R. 9.3.4.I). Strafe (c-e:): 10 Meter plus automatisch First
+                Down, soweit das nicht in Konflikt zu anderen Regeln steht
+                [S42].
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.9.3.4"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

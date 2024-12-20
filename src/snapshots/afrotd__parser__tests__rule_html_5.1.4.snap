@@ -1,0 +1,53 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            5.1.4 Fortsetzung der Serie unterbrochen
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Die Fortsetzung einer Serie von Scrimmage Downs ist
+                unterbrochen, wenn:
+            </p>
+            <ol type="a">
+                <li>der Team Ballbesitz während des Downs wechselt;
+                </li>
+                <li>ein Scrimmage Kick die neutrale Zone überquert hat;
+                </li>
+                <li>ein Kick ins Aus geht;
+                </li>
+                <li>ein Kick zur Ruhe kommt und kein Spieler versucht, ihn zu
+                sichern;
+                </li>
+                <li>Team A am Ende eines Downs einen neuen First Down erreicht
+                hat;
+                </li>
+                <li>Team A es versäumt hat, nach dem vierten Down einen First
+                Down zu erzielen;
+                </li>
+                <li>eine akzeptierte Strafe einen First Down enthält;
+                </li>
+                <li>Punkte erzielt wurden;
+                </li>
+                <li>einem Team ein Touchback zuerkannt wird;
+                </li>
+                <li>die zweite Spielperiode endet;
+                </li>
+                <li>die vierte Periode endet.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.5.1.4"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

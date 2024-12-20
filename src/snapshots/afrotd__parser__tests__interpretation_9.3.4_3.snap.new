@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 3
+  - 4
+index: 3
+text: "4. und 12 von der A-35. Team A stellt sich in einer Scrimmage\nKick Formation auf und beabsichtigt zu punten. Unmittelbar nach dem\nSnap ergreift B55 den RT A77 und zieht ihn zur Seite, damit B21 durch\ndie so entstandene Lücke stürmen kann, um den Punt zu blocken. Der\nKicker kann den Kick durchführen und der Ball wird an der B-35 dead."
+ruling: "Halten durch B55. Das Foul ereignete sich vor dem Kick\nund die Strafe unterliegt nicht den Voraussetzungen des Post Scrimmage Kick Enforcements. Die 10-Meterstrafe wird vom Previous Spot\ndurchgeführt und beinhaltet einen automatischen First Down. Team A’s\nBall, 1. und 10 von der A-45."

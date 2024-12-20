@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            7.2.1 Während eines Live Balls
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Ein Ballträger darf einen Ball jederzeit zurückwerfen oder nach
+                hinten übergeben, ausgenommen, er wirft den Ball absichtlich
+                ins Aus, um Zeit einzusparen.
+            </p>
+            <p>
+                <strong>Strafe: 5 Meter vom Spot of Foul, zusätzlich
+                Downverlust, wenn Team A das Foul während eines Scrimmage
+                Downs, vor dem Wechsel des Team Ballbesitzes, verursacht hat
+                (A.R. 3.4.3.III) [S35 und S9].</strong>
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.7.2.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

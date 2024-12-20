@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 4
+  - 7
+index: 4
+text: "Als Team A sein Huddle auflöst, erkennt der Referee, dass A35\nein überbautes Helmgitter trägt."
+ruling: "A35 muss das Feld für\neinen Down verlassen, um das Helmgitter auszutauschen. Team A kann\nein Team Timeout nutzen, damit A35 auf dem Feld bleiben kann. Allerdings muss das illegale Helmgitter während des Timeouts ausgetauscht\nwerden."

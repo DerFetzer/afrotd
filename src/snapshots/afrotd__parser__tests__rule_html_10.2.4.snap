@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            10.2.4 Fouls durch Team A während Kicks
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Strafen für alle Fouls durch das Kicking Team, außer
+                Behinderung beim Fangen eines Kicks (Regel 6.4), während eines
+                Free Kick-Spieles oder eines Scrimmage Kick-Spieles, bei dem
+                der Kick die neutrale Zone überquert (außer Fieldgoalversuche),
+                werden gemäß der Regeln entweder vom Previous Spot als Basic
+                Spot (Ausnahme: die Strafoption für ein Foul in Team A’s
+                Endzone ist ein Safety) mit der Wiederholung des Downs oder von
+                dem Punkt durchgeführt werden, an dem der anschließende Dead
+                Ball zu Team B gehört (Regeln 6.1.8 und 6.3.13).
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.10.2.4"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

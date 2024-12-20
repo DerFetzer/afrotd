@@ -1,0 +1,42 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            6.3.2 Jenseits der neutralen Zone
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Kein Spieler des Kicking Teams, der sich inbounds befindet,
+                darf einen Scrimmage Kick berühren, der die neutrale Zone
+                überquert hat, bevor der Ball einen Gegner berührt. Das ist ein
+                illegales Berühren, eine Violation, die dem Receiving Team das
+                Recht gibt, den Ball am Punkt der Violation zu übernehmen
+                (Ausnahme: Regel 6.3.4) (A.R. 2.12.2.I und A.R. 6.3.2.I).
+                </li>
+                <li>Das Privileg ist aufgehoben, wenn eine Strafe für ein Live
+                Ball Foul durch eines der Teams angenommen wird (A.R. 6.3.2.I
+                bis 6.3.2.IV, A.R. 6.3.11.I bis 6.3.11.III und A.R.
+                10.1.4.VII).
+                </li>
+                <li>Das Privileg ist aufgehoben, wenn sich Fouls ereignen, die
+                sich aufheben.
+                </li>
+                <li>Illegales Berühren des Kicks während eines Try, während
+                Extraperioden oder in Team A’s Endzone wird ignoriert.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.6.3.2"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

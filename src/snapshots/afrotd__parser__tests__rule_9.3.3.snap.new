@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 3
+  - 3
+title: "Halten und Benutzen von Händen oder Armen: Offense"
+text: "\ta) Benutzen von Händen Ein Mitspieler eines Ballträgers oder Passers darf mit seinen Schultern, Händen, Außenseiten der Arme oder einem anderen Körperteil unter folgenden Voraussetzungen legal blocken:\n\t\t1. Die Hand/Hände müssen:\n\t\t\ta. sich vor dem (den) Ellenbogen befinden.\n\t\t\tb. sich innerhalb des Körperrahmens des Gegenspielers befinden (Ausnahme: wenn der Gegner dem Blocker den Rücken zuwendet)(A.R. 9.3.3.VI und 9.3.3.VII).\n\t\t\tc. sich an oder unter der (den) Schulter(n) des Blockers und des Gegners befinden (Ausnahme: wenn der Gegner sich duckt, bückt oder wegdreht).\n\t\t\td. getrennt sein und dürfen nie verschränkt werden.\n\t\t2. Die Hand/Hände muss (müssen) geöffnet sein und die Handfläche(n) soll(en) dem Körperrahmen des Gegners zugewandt oder geschlossen oder gewölbt sein, wobei die Handfläche(n) nicht dem Gegner zugewandt ist (sind) (A.R. 9.3.3.I bis 9.3.3.IV und 9.3.3.VI bis 9.3.3.VIII).\n\tb) Halten Die Hand / Hände und der Arm / die Arme dürfen nicht benutzt werden, um einen Gegner zu ergreifen, zu ziehen, zu umfassen, festzuhaken, zu sperren oder zu umklammern oder ihn in sonstiger Weise illegal zu behindern.\n\tc) Kicking Team Ein Spieler des Kicking Teams darf:\n\t\t1. während eines Scrimmage Kick-Spieles seine Hand / Hände und / oder Arm / Arme benutzen, um einen Gegner abzuwehren, wenn dieser versucht, ihn zu blocken, wenn er sich jenseits der neutralen Zone befindet;\n\t\t2. während eines Free Kick-Spieles seine Hand / Hände und/oder Arm / Arme benutzen, um einen Gegner abzuwehren, der versucht, ihn zu blocken;\n\t\t3. während eines Scrimmage Kick- oder eines Free Kick-Spieles, bei dem er berechtigt ist, den Ball zu berühren, seine Hand / Hände und / oder Arm / Arme legal benutzen, um einen Gegner wegzudrücken, wenn er versucht, an einen freien Ball zu gelangen.\n\td) passendes Team: Ein berechtigter Spieler des passenden Teams darf legal seine Hand / Hände und / oder Arm / Arme benutzen, um einen Gegner abzuwehren oder wegzudrücken, wenn er versucht, an einen freien Ball zu gelangen, nachdem ein legaler Vorwärtspass von irgendeinem Spieler oder einem Schiedsrichter berührt wurde (Regeln 7.3.5, 7.3.8, 7.3.9 und 7.3.11). Strafe: 10 Meter. Strafen für Team A-Fouls hinter der neutralen Zone werden vom Previous Spot durchgeführt. Safety, wenn sich das Foul hinter Team A’s Goalline ereignet [S42]."
+interpretations: []

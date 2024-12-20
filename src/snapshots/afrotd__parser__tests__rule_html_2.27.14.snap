@@ -1,0 +1,70 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.27.14 Verteidigungsloser Spieler
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Ein verteidigungsloser Spieler ist ein Spieler, der durch seine
+                körperliche Position und dem Fokus seiner Konzentration
+                besonders anfällig für Verletzungen ist. Im Zweifel ist ein
+                Spieler verteidigungslos. Beispiele für verteidigungslose
+                Spieler sind (diese Aufzählung ist nicht abschließend):
+            </p>
+            <ol type="a">
+                <li>ein Spieler, der gerade einen Pass wirft oder gerade
+                geworfen hat. Dies gilt für jeden Offense-Spieler, der sich in
+                einer stationären oder nahezu stationären Wurfhaltung für einen
+                Pass mit Fokus downfield befindet;
+                </li>
+                <li>ein Receiver, der versucht einen Vorwärtspass zu fangen
+                oder der sich in einer Position zum Fangen eines Rückpasses
+                befindet, oder ein Receiver, der einen Pass gefangen hat und
+                keine Zeit hatte, sich selbst zu schützen oder der noch nicht
+                eindeutig zu einem Ballträger wurde;
+                </li>
+                <li>ein Kicker im Moment oder unmittelbar nach dem Kicken eines
+                Balles oder während des Kicks oder des Returns;
+                </li>
+                <li>ein Kick Returner, der versucht, einen Kick zu fangen oder
+                zu recovern oder ein Kick Returner, der das Fangen oder
+                Recovern eines Kicks vervollständigt hat und keine Zeit hatte,
+                sich selbst zu schützen oder der noch nicht eindeutig zu einem
+                Ballträger wurde;
+                </li>
+                <li>ein Spieler, der sich auf dem Boden befindet;
+                </li>
+                <li>ein Spieler, der offensichtlich nicht am Spielgeschehen
+                teilnimmt;
+                </li>
+                <li>ein Spieler, der einen Block von der Seite erhält, auf die
+                er sich nicht konzentriert (Blind Side Block);
+                </li>
+                <li>ein Ballträger, der sich bereits im Griff eines oder
+                mehrerer Gegenspieler befindet und dessen Forward Progress
+                gestoppt wurde;
+                </li>
+                <li>ein Quarterback, der nach einem Ballbesitzwechsel nicht am
+                Spielgeschehen teilnimmt;
+                </li>
+                <li>ein Ballträger, der offensichtlich keinen weiteren
+                Raumgewinn erzielen will und mit den Füßen voran auf dem Boden
+                rutscht.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.27.14"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

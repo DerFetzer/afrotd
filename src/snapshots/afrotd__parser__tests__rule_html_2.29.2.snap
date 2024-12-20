@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.29.2 Play Clock
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Sind sichtbare Play Clocks vorhanden, sollen sich diese an
+                jedem Ende des Platzes (Spielortes) befinden. Die Play Clock
+                muss in der Lage sein, sowohl von 40 Sekunden als auch von 25
+                Sekunden herunterzuzählen. Sie sollte automatisch auf 40
+                Sekunden zurückgesetzt werden und sofort starten, nachdem sie
+                vom Bediener der Play Clock zurückgesetzt wurde. Der Bediener
+                der Play Clock muss die 40-Sekunden-Play Clock stets innerhalb
+                einer Sekunde starten, nachdem ein Schiedsrichter angezeigt
+                hat, dass der Ball während eines Downs dead wurde.
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.29.2"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

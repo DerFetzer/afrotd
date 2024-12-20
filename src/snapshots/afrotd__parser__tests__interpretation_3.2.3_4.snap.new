@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 2
+  - 3
+index: 4
+text: "Während in der ersten Spielperiode die Spielzeit ausläuft, behindert ein Team A-Spieler einen Gegner beim Fangen eines Kicks\n(nicht beim Try)."
+ruling: "Strafe – 15 Meter vom Spot of Foul. Die\nSpielperiode wird nicht verlängert und die Strafe wird zu Beginn der\nzweiten Spielperiode durchgeführt."

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 5
+  - 2
+index: 2
+text: "Team A puntet. Nachdem B1 an seiner B-20 einen Fair Catch\nangezeigt hat, lässt er absichtlich den Ball zu Boden fallen, wo B2 den\nabprallenden Ball recovert und ihn zu der B-35 trägt."
+ruling: "Der\nBall ist am Punkt der Recovery dead. Der Raumgewinn ist illegal. Strafe\n– 5 Meter vom Succeeding Spot, dem Punkt der Recovery. Team B’s\nBall, First Down und 10 (Regel 5.2.7)."

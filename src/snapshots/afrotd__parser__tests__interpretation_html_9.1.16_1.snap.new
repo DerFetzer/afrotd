@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.1.16.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            A1 fängt einen langen Snap und will von hinter seiner Scrimmage
+            Line punten, trifft aber nicht den Ball, der zu Boden fällt. Danach
+            wird A1 von B1 berührt.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Kein Foul. Team A-Fumble. Es gibt keinen Kicker, bis der Ball
+                tatsächlich gekickt wurde.
+            </p>
+        </details>
+    </div>
+</article>

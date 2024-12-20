@@ -1,0 +1,37 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.3.3.IX
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            A12 nimmt den Snap an und geht zurück, um einen Pass zu werfen.
+            Defense End B95 gelangt an Tackle A75 vorbei und ist im Begriff
+            A12, der sich immer noch in der Tackle Box befindet, zu tackeln.
+            A75 drückt B95 in Höhe der Trikotnummer in den Rücken, um zu
+            verhindern, dass dieser A12 tackelt. A12’s Pass wird zu einem
+            Touchdown vervollständigt.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Der Touchdown zählt, kein Foul von A75. Diese Aktionen, die
+                sich auf den Schutz des Passers beziehen, während dieser sich
+                innerhalb der Tackle Box befindet, liegen im Sinne der
+                Ausnahmen zu Regel 9.3.5 und sind daher legal. Wenn es sich bei
+                dem Block jedoch um eine separate Aktion und damit um einen
+                neuen Block außerhalb der Blockzone handelt, ist das ein Foul
+                für einen Block in den Rücken.
+            </p>
+        </details>
+    </div>
+</article>

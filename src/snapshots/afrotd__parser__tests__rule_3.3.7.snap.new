@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 3
+  - 7
+title: Zwangsweiser Abzug eines Timeouts
+text: Für eine Violation im Zusammenhang mit einer Head Coach‘s Conference (3.3.4.e) wird dem betreffenden Team eines seiner Timeouts abgezogen (Regel 3.4.2.b.2).
+interpretations: []

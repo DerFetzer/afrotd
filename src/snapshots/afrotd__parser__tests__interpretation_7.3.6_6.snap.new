@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 6
+index: 6
+text: "A86 wird von B18 an der B-2 legal ins Aus geblockt. A86 versucht, sofort wieder ins Spielfeld zurückzukommen und springt von außen in die Luft. Er befindet sich in der Luft, als er QB A16’s legalen Vor-\nwärtspass erreicht. Er landet in Team B’s Endzone mit dem Ball in seinen Händen."
+ruling: "Unvollständiger Vorwärtspass. A86 etablierte\nsich nicht inbounds, bevor er den Pass berührte und war damit faktisch\nim Aus (Regel 2.27.15)."

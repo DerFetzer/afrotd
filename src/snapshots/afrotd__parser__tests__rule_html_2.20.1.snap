@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.20.1 Strafe
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Eine Strafe ist eine durch die Regel festgelegte Sanktion gegen
+                ein Team, welches ein Foul begangen hat. Die Strafe kann eine
+                oder mehrere der nachfolgenden Möglichkeiten enthalten:
+                Distanzverlust, Downverlust, automatischer First Down,
+                Disqualifikation, Abzug von der Game Clock oder eine Verwarnung
+                (Regel 10.1.1.b).
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.20.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

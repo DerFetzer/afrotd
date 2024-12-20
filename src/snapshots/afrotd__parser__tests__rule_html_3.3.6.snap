@@ -1,0 +1,97 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            3.3.6 Verletzungs-Timeout
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Im Falle eines oder mehrerer verletzter Spieler:
+                    <ol type="1">
+                        <li>Nimmt ein Schiedsrichter ein Verletzungs-Timeout,
+                        müssen der oder die Spieler, für die das Timeout
+                        genommen wurde, für mindestens einen Down das Feld
+                        verlassen, auch dann, wenn sein Team ein eigenes
+                        Team-Timeout nimmt. Im Zweifel nehmen die
+                        Schiedsrichter ein Timeout für einen verletzten
+                        Spieler.
+                        </li>
+                        <li>Der oder die Spieler dürfen nicht eher ins Spiel
+                        zurückkehren, bis er oder sie eine Erlaubnis durch das
+                        medizinische Personal des entsprechenden Teams erhalten
+                        haben.
+                        </li>
+                        <li>Wenn ein Spielteilnehmer (Spieler oder
+                        Schiedsrichter) blutet oder seine Uniform mit Blut
+                        getränkt ist oder Blut auf unbedeckter Haut sichtbar
+                        ist, muss der Spieler oder der Schiedsrichter zur
+                        Teamzone gehen, um sich medizinisch versorgen zu
+                        lassen. Er darf das Feld ohne Genehmigung des
+                        medizinischen Personals nicht wieder betreten (A.R.
+                        3.3.5.I bis 3.3.5.VII).
+                        </li>
+                    </ol>
+                </li>
+                <li>Das Vortäuschen einer Verletzung, egal aus welchem Grund,
+                ist unehrenhaft. Einem verletzten Spieler muss der volle Schutz
+                der Regeln gegeben werden, aber das Vortäuschen einer
+                Verletzung ist unehrlich, unsportlich und widerspricht dem
+                Geist der Regeln. Um einen möglichen Zeitvorteil durch das
+                Vortäuschen einer Verletzung zu vermeiden, wird ausdrücklich
+                auf die Erklärungen des „Football Ehrenkodex, Abschnitt
+                Verhalten der Coaches, Unterpunkt g)“ hingewiesen.
+                </li>
+                <li>Einem Timeout wegen der Verletzung eines oder mehrerer
+                Spieler kann ein Team-Timeout folgen.
+                </li>
+                <li>Der Referee kann von sich aus ein Timeout wegen eines
+                verletzten Schiedsrichters nehmen.
+                </li>
+                <li>Nach einem Timeout für einen verletzten Team B-Spieler soll
+                eine sichtbare Play Clock auf 40 Sekunden gesetzt werden, außer
+                nach einem Team Timeout oder wenn die Game Clock für das
+                Zwei-Minuten-Timeout angehalten wurde.
+                </li>
+                <li>10-Sekunden-Abzug von der Game Clock: Wenn nach dem
+                Zwei-Minuten-Timeout die Verletzung eines Spielers der einzige
+                Grund (außer der verletzte Spieler oder ein Mitspieler verliert
+                seinen Helm, Regel 3.3.10) zum Anhalten der Game Clock ist, hat
+                das gegnerische Team die Wahl eines 10-Sekunden-Abzuges von der
+                Game Clock.
+                    <ol type="1">
+                        <li>Die Play Clock wird auf 40 Sekunden für einen
+                        verletzten Defense Spieler und auf 25 Sekunden für
+                        einen verletzten Offense Spieler (Regel 3.2.4.c.5)
+                        gesetzt.
+                        </li>
+                        <li>Wird der 10-Sekunden-Abzug durchgeführt, startet
+                        die Game Clock mit dem Signal des Referees. Wird der
+                        10-Sekunden-Abzug nicht durchgeführt, startet die Game
+                        Clock mit dem Snap.
+                        </li>
+                        <li>Der 10-Sekunden-Abzug kann vermieden werden, wenn
+                        das betreffende Team eines seiner verbleibenden
+                        Team-Timeouts verbraucht.
+                        </li>
+                        <li>Es gibt keine Möglichkeit eines 10-Sekunden-Abzugs,
+                        wenn Spieler beider Teams verletzt sind (A.R.
+                        3.3.5.VIII und 3.3.5.IX).
+                        </li>
+                    </ol>
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.3.3.6"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

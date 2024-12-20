@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 2
+  - 5
+index: 6
+text: Team B ist während eines erfolgreichen Fieldgoal-Downs offside.
+ruling: "Team A hat die Wahl, die Strafe vom Previous Spot\nanzunehmen und den Down zu wiederholen oder die Punkte durch die\nAblehnung der Strafe anzunehmen."

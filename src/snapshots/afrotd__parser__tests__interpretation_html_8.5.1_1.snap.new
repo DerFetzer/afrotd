@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 8.5.1.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            A10 erreicht den Snap in seiner eigenen Endzone und wird zu Boden
+            gebracht, wobei sich der Ball auf seiner Goalline und mit seinem
+            vordersten Punkt im Spielfeld befindet.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Safety, weil ein Teil des Dead Balls sich auf der Goalline des
+                Ballträgers befindet.
+            </p>
+        </details>
+    </div>
+</article>

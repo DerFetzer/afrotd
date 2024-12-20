@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 2
+index: 3
+text: "A11 wirft einen vollständigen Vorwärtspass auf A88, der einen\nRaumgewinn von 12 Metern erzielt und dann getackelt wird. Während\ndes Downs verursacht B88 ein persönliches Foul gegen A79."
+ruling: "Die 15-Meterstrafe wird von dem Punkt, an dem A88 getackelt\nwurde, durchgeführt (Regeln 7.3.12 und 9.1 Strafe)."

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 2
+  - 5
+title: Mindestspielzeit für einen Down
+text: "Wird die Game Clock mit drei oder mehr Sekunden verbleibender Spielzeit in einer Spielperiode angehalten und startet danach wieder mit der Ballfreigabe durch den Referee, kann die Offense den Ball nach dem Snap direkt zu Boden werfen (Regel 7.3.2.f) , um die Game Clock legal anzuhalten und hat voraussichtlich noch genug Zeit für einen weiteren Down. Bei zwei oder einer Sekunde verbleibender Spielzeit in einer Spielperiode auf der Game Clock ist nur noch genug Zeit für einen Down (A.R. 3.2.5.I)."
+interpretations: []

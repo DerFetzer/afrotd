@@ -1,0 +1,59 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.4.1 In Besitz
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Besitz bezieht sich auf die Kontrolle (a) über einen Live Ball,
+                wie nachfolgend erklärt, oder (b) auf einen Dead Ball, der
+                gesnappt oder als Free Kick durchgeführt werden soll. Besitz
+                bezieht sich entweder auf einen Spieler- oder einen
+                Team-Ballbesitz.
+            </p>
+            <ol type="a">
+                <li>Spieler Ballbesitz. Der Ball befindet sich im Besitz eines
+                Spielers, wenn dieser Spieler den Ball sicher im Griff hat,
+                indem er ihn fest in seiner Hand, seinen Händen, seinem Arm
+                oder seinen Armen hält oder kontrolliert, während der Spieler
+                sich inbounds auf dem Boden befindet.
+                </li>
+                <li>Team Ballbesitz Der Ball befindet sich im Besitz eines
+                Teams:
+                    <ol type="1">
+                        <li>wenn einer seiner Spieler in Besitz des Balles ist,
+                        inklusive wenn er versucht, einen Punt, einen Drop Kick
+                        oder einen Place Kick durchzuführen;
+                        </li>
+                        <li>während ein Vorwärtspass fliegt, der von einem
+                        Spieler dieses Teams geworfen wurde;
+                        </li>
+                        <li>während eines freien Balles, wenn ein Spieler
+                        dieses Teams zuletzt in Ballbesitz war oder
+                        </li>
+                        <li>wenn das Team als nächstes den Ball durch einen
+                        Snap oder einen Free Kick ins Spiel bringt.
+                        </li>
+                    </ol>
+                </li>
+                <li>Ein Team ist in legalem Ballbesitz, wenn es in Team
+                Ballbesitz ist und wenn seine Spieler berechtigt sind, den Ball
+                zu fangen oder zu recovern.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.4.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

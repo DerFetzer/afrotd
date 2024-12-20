@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 6
+index: 13
+text: "3. und 10 von der A-25. Back A21 steht stationär innerhalb\nder Tackle Box beim Snap. Direkt nach dem Snap läuft A21 nach vorne\nund blockt den blitzenden Linebacker einen Meter jenseits der neutralen\nZone. Der Block ist unterhalb der Gürtellinie und von vorn."
+ruling: "Legaler Block von A21. Ein Block, der maximal einen Meter jenseits\nder neutralen Zone initiiert wird, wird als Block innerhalb der Tackle Box\ngewertet. Das gilt für Backs und Lineman, solange alle anderen Voraussetzungen für einen legalen tiefen Block gegeben sind."

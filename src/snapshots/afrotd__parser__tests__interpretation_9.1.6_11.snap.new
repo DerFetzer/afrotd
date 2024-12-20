@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 6
+index: 11
+text: "3. und 10 von der A-25. Der linke Tackle A77 hat sich innerhalb der Tackle Box aufgestellt. Defender B55 hat sich in der Nähe der\nScrimmage Line und etwas außerhalb von A77 aufgestellt. Beim Snap\ngeht A77 zurück, um als Pass-Blocker zu fungieren und B55 stürmt gerade auf den im Backfield stehenden QB A12 zu. Während des ersten\nAngriffs an der Scrimmage Line durch B55 blockt A77 B55 unter der\nGürtellinie und der Block hinter der neutralen Zone ist deutlich von der\nSeite. A77 hat einen Fuß in der Tackle Box, als er den Block beginnt."
+ruling: "Legaler Block von A77. Diese Aktion wird als Teil des ersten\nAngriffs an der Scrimmage Line gewertet. A77 kann unter der Gürtellinie blocken und der Block muss nicht von vorne sein. Nach dem ersten\nAngriff an der Scrimmage Line, und wenn es deutlich eine zweite Aktion ist, ist A77 bezüglich tiefen Blockens in der Tackle Box eingeschränkt\nund ein tiefer Block muss von vorne erfolgen."

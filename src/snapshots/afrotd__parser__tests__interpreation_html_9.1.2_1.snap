@@ -1,0 +1,28 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.1.2.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Ein Defense Spieler streckt seinen Fuß aus und ein Gegner fällt
+            darüber. (a) Der Gegner ist ein Wide Receiver, der eine Passroute
+            läuft. (b) Der Gegner ist ein Ballträger.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                In beiden Fällen (a) und (b) ist es ein persönliches Foul,
+                Tripping. Strafe – 15 Meter, automatisch First Down.
+            </p>
+        </details>
+    </div>
+</article>

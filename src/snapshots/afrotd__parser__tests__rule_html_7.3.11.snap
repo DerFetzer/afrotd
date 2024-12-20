@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            7.3.11 Illegales Berühren
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Kein inbounds befindlicher, ursprünglich unberechtigter Spieler
+                darf einen legalen Vorwärtspass absichtlich berühren, bevor
+                dieser einen Gegner oder einen Schiedsrichter berührt hat (A.R.
+                5.2.3.I und A.R. 7.3.11.I bis 7.3.11.II).
+            </p>
+            <p>
+                <strong>Strafe: 5 Meter vom Previous Spot und Downverlust [S16
+                und S9].</strong>
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.7.3.11"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

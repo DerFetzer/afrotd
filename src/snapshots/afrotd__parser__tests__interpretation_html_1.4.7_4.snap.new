@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 1.4.7.IV
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Als Team A sein Huddle auflöst, erkennt der Referee, dass A35 ein
+            überbautes Helmgitter trägt.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                A35 muss das Feld für einen Down verlassen, um das Helmgitter
+                auszutauschen. Team A kann ein Team Timeout nutzen, damit A35
+                auf dem Feld bleiben kann. Allerdings muss das illegale
+                Helmgitter während des Timeouts ausgetauscht werden.
+            </p>
+        </details>
+    </div>
+</article>

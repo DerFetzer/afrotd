@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 10.2.2.XII
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Während des Zurücktragens eines Scrimmage Kicks blockt B40 an der
+            B-25 A80 über der Gürtellinie in den Rücken. Team B’s Ballträger
+            wird an der B-40 mit dem Ball in seinem Besitz zu Boden gebracht.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team B-Foul, illegaler Block in den Rücken. Strafe – 10 Meter
+                vom Punkt des Fouls. Team B’s Ball, First Down und 10 von der
+                B-15.
+            </p>
+        </details>
+    </div>
+</article>

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 2
+  - 4
+index: 1
+text: "Nachdem der Ball nach einem Laufspiel im Aus dead wurde, wird\ndie 40-Sekunden-Uhr gestartet. Der Umpire erhält einen Ball vom Linejudge, und als er diesen auf den Boden legt, stellt er fest, dass es sich\ndabei um einen von der B-Bällen handelt. Er wirft den Ball zum Linejudge, der versucht, einen Team A-Ball von einem Balljungen zu erhalten."
+ruling: "Wenn die Play Clock „25“ oder weniger Sekunden anzeigt,\nbevor der korrekte Ball von der Seitenlinie hereingebracht werden kann\nund spielbereit ist, versucht der Referee die Play Clock zurückzusetzen,\nohne die Game Clock zu stoppen. Wenn die Play Clock nicht schnell zurückgesetzt werden kann, nimmt der Referee ein Timeout, lässt die Play\nClock auf 25 Sekunden setzen und gibt den Ball frei. Die Game Clock\nstartet mit dem Snap, es sei denn, sie lief, als der Referee das Timeout\nnahm."

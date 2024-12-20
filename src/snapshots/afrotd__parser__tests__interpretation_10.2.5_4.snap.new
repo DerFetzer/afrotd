@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 2
+  - 5
+index: 4
+text: "Team B schlägt einen Gegner während oder nach Team A’s\nTouchdownlauf. Team B ist offside beim erfolgreichen Try."
+ruling: "Der Touchdown gilt, Disqualifikation des Team B-Spielers wegen der\nSchlägerei. Team A hat die Wahl, die Strafe für Team B’s Foul beim Try,\ndem anschließenden Kickoff oder vom Succeeding Spot in Extraperioden durchführen zu lassen. Nach dem erfolgreichen Try könnte Team\nA den Try wiederholen, wobei die Strafe für das Offside durchgeführt\nwird (Regel 10.2.5 und 8.3.3.b)."

@@ -1,0 +1,184 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            1.4.11 Verbotene Gegenstände am Spielort
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Die Zuständigkeit in Bezug auf das Vorhandensein und des
+                Standortes der Kommunikationsausrüstung (Kameras, Lautsprecher,
+                etc.) innerhalb des Stadions unterliegt dem Heimmanagement.
+            </p>
+            <ol type="a">
+                <li>Fernsehapparate oder Monitore sind an den Seitenlinien, der
+                Press Box oder an anderen Orten des Stadions zum Coaching
+                verboten. Videobilder, jede Art von Film, Faxgeräte,
+                Videobänder, Fotografien, Geräte zur Übermittlung von
+                Schriftstücken und Computer dürfen zu keiner Zeit während des
+                Spieles oder zwischen den Perioden von Coaches zum Zwecke des
+                Coachings genutzt werden. Computer, Tablets etc. sind in den
+                Coaches Kabinen nicht erlaubt.
+                    <p>
+                        <strong>Ausnahmen:</strong>
+                    </p>
+                    <ol type="1">
+                        <li>Monitore dürfen nur benutzt werden, um die Fernseh-
+                        oder Webübertragungen des laufenden Spieles
+                        (Direktübertragung) anzuzeigen. Das Heimteam ist
+                        verantwortlich für die Bereitstellung identischer
+                        Fernsehgeräte in den Coaches Kabinen beider Teams.
+                        Diese Geräte dürfen keine Aufnahme- oder
+                        Wiedergabemöglichkeiten enthalten.
+                        </li>
+                        <li>Ein Monitor ist an der Seitenlinie nur zur
+                        Verfügung des medizinischen Personals zur Behandlung
+                        oder Diagnose verletzter Spielteilnehmer erlaubt.
+                        </li>
+                        <li>Tablets sind als Videowiedergabe des laufenden
+                        Spieles nur in den nachfolgenden Fällen erlaubt:
+                            <ol type="a">
+                                <li>Tablets werden beschränkt auf das laufende
+                                Spiel und sie dürfen keine
+                                Analysemöglichkeiten, Daten oder
+                                Datenzugriffsmöglichkeiten oder andere
+                                Kommunikationsmöglichkeiten enthalten. Andere
+                                Videos sind nicht erlaubt (beispielsweise
+                                Scouting Video, Trainingsvideo, etc.)
+                                </li>
+                                <li>Tablets dürfen in den Coaches Kabinen, an
+                                der Seitenlinie und in den Teamkabinen genutzt
+                                werden. Sie dürfen nicht mit anderen Geräten
+                                vernetzt sein, um größere oder zusätzliche
+                                Bilder anzuzeigen.
+                                </li>
+                                <li>Das Video darf die Seitenlinie eines
+                                Coaches, die Endzone eines Coaches sowie eine
+                                Aufbereitung der Spielzüge des laufenden
+                                Spieles zeigen und kann auch Spielumstände wie
+                                Down, Distanz, Zeit, Spielviertel, Down und
+                                Punkte enthalten.
+                                </li>
+                                <li>Ein Team darf bis zu 18 Tablets zur
+                                Verfügung haben und alle Teammitglieder dürfen
+                                die Tablets nutzen.
+                                </li>
+                                <li>Teammitglieder, die sich mit einem Tablet
+                                an einen Schiedsrichter wenden, um ein Video
+                                oder ein Replay zu zeigen, begehen automatisch
+                                ein unsportliches Verhalten Foul.
+                                </li>
+                                <li>Der jeweilige Ligaträger kann eine
+                                Richtlinie im Umgang mit Ausfällen von Tablets
+                                entwickeln.
+                                </li>
+                            </ol>
+                        </li>
+                    </ol>
+                </li>
+                <li>Es ist nur eine Sprechverbindung zwischen der Press Box und
+                der Teamzone erlaubt. Werden Räumlichkeiten als Coaches Booth
+                (Kabine zur Spielbeobachtung) vorgesehen, müssen sie
+                hinsichtlich Fläche und Standort für das Heimteam und das
+                Gastteam ungefähr gleich sein und sich im Bereich der
+                traditionellen Press Box befinden. Ist keine Press Box
+                vorhanden, ist eine Sprechverbindung zur Teamzone nur in der
+                Verlängerung hinter der jeweiligen Teamzone zwischen den
+                20-Meterlinien erlaubt. Jede weitere Sprechverbindung für die
+                Belange des Coachings ist verboten. Das gilt auch für
+                Sprechverbindungen von außerhalb des Spielortes (remote
+                coaching).
+                </li>
+                <li>Kommunikations-Einrichtungen der Medien, einschließlich
+                Kameras, Schallvorrichtungen, Computer und Mikrofone, sind auf
+                und über dem Feld oder in und über der Teamzone verboten (Regel
+                2.31.2).
+                    <p>
+                        <strong>Ausnahmen:</strong>
+                    </p>
+                    <ol type="1">
+                        <li>Eine Kamera hinter Pfosten und Querlatte, die am
+                        Tor befestigt ist.
+                        </li>
+                        <li>Kameras, die in den Pylonen eingebettet sind.
+                        </li>
+                        <li>Die Schiedsrichter können eine Bodycam ohne
+                        Audiokomponente tragen nach Genehmigung durch die für
+                        die Liga zuständige Institution.
+                        </li>
+                        <li>Eine Kamera ohne Audiokomponente kann über den
+                        Teamzonen und dem Spielfeld, einschließlich der
+                        Endzonen, angebracht werden.
+                        </li>
+                        <li>Nach einem Team-Ballbesitzwechsel oder einem
+                        Timeout wird eine Kamera eines TV-Senders am Platz
+                        erlaubt, um die Auswechslungen der Teams aufzunehmen.
+                        Mit der TV-Kamera dürfen die Teamzonen oder ein Huddle
+                        nicht betreten werden und sie muss das Feld verlassen,
+                        wenn Spieler ein Huddle betreten oder sich in einer
+                        Formation aufstellen. Die TV-Kamera ist beschränkt auf
+                        die Bereiche außerhalb der Hash Marks.
+                        </li>
+                        <li>Nach einem Touchdown ist eine TV-Kamera in der
+                        Endzone erlaubt, um die Reaktionen der Teams
+                        aufzunehmen. Die Kamera muss das Feld sofort verlassen,
+                        wenn der Ball für den Try spielbereit ist.
+                        </li>
+                        <li>Eine von den 60 Personen, die sich neben den
+                        Teammitgliedern in Ausrüstung in einer Teamzone
+                        aufhält, darf Videoaufnahmen machen. Dieses Video darf
+                        nicht für die Liveübertragung oder ein Videostreaming
+                        des Spieles genutzt werden.
+                        </li>
+                    </ol>
+                </li>
+                <li>Drohnen sind über dem Feld oder über einer Teamzone nicht
+                erlaubt, wenn Spielteilnehmer auf dem Platz anwesend sind.
+                Außerhalb der Limit Lines wird die Drohnenaktivität durch die
+                BSO geregelt.
+                </li>
+                <li>Mikrofone, die von den Coaches getragen werden, um von
+                Medien Mitteilungen zu erhalten, sind während des Spieles
+                verboten.
+                </li>
+                <li>Mitglieder eines Teams dürfen von Beginn der ersten
+                Periode, bis der Referee das Spielende erklärt, nicht
+                interviewt werden (Ausnahme: Nur Head Coaches dürfen in der
+                Pause zwischen der ersten und der zweiten Spielperiode, der
+                Halbzeit und in der Pause zwischen der dritten und vierten
+                Spielperiode interviewt werden. Die Interviews der Head Coaches
+                zwischen der ersten und zweiten, sowie der dritten und vierten
+                Spielperiode dürfen nicht während Live Aktionen, sondern nur
+                während eines TV-Timeouts stattfinden. Das TV-Timeout darf
+                nicht zum Zwecke des Interviews verlängert werden. Das
+                Interview muss außerhalb der Teamzone durchgeführt werden.).
+                </li>
+                <li>Niemand in der Teamzone oder in der Coaching Box darf
+                künstliche Klangverstärker benutzen, um mit den Spielern auf
+                dem Feld zu kommunizieren.
+                </li>
+                <li>Jeder Versuch, entweder durch Ton- oder Filmmittel Signale
+                aufzunehmen, die von gegnerischen Spielern, gegnerischen
+                Coaches oder an- derem gegnerischen Teampersonal gegeben
+                werden, ist verboten.
+                </li>
+                <li>Ballpersonen und Mitglieder der Kettencrew dürfen keine
+                Smartuhren oder andere Kommunikations-Technologien benutzen,
+                wenn sie sich auf der gegnerischen Spielfeldseite befinden.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.1.4.11"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

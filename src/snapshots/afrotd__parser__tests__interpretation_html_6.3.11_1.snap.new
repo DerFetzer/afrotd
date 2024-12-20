@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.3.11.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team A snappt von der 50-Meterlinie und puntet. Der Kick ist
+            jenseits der neutralen Zone unberührt, als er fliegend Team B’s
+            Goalline überquert. A88 schlägt den Ball zurück ins Spielfeld, und
+            der Ball rollt an der B-4 ins Aus.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Kein Foul für Schlagen des Balles in der Endzone. Illegales
+                Berühren. Der Punkt der Violation ist die B-20. B’s Ball, 1.
+                und 10 von der B-20.
+            </p>
+        </details>
+    </div>
+</article>

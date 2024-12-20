@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 3
+  - 2
+title: Behinderung für oder Helfen des Ballträgers oder Passers
+text: "\ta) Der Ballträger oder der Passer darf seine Hände oder Arme benutzen, um einen Gegner abzuwehren oder wegzudrücken.\n\tb) Der Ballträger darf keinen Mitspieler ergreifen, und kein anderer Spieler seines Teams darf den Ballträger ergreifen, ziehen oder anheben, um ihm in seiner Vorwärtsbewegung zu helfen (A.R. 9.3.2.I).\n\tc) Mitspieler des Ballträgers dürfen andere Spieler durch Wegblocken für den Ballträger oder Passer behindern; sie dürfen sich dabei nicht durch Greifen, Umfassen oder Unterhaken miteinander verhaken, während sie einen Gegner berühren. Strafe: 5 Meter [S44]"
+interpretations: []

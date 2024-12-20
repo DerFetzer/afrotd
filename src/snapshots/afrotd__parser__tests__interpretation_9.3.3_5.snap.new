@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 3
+  - 3
+index: 5
+text: "A2 berührt B2 mit einem legalen Block. B2 dreht sich, um dem\nBlock durch A2 zu entgehen. Dabei berühren A2’s Hände den Rücken\nvon B2."
+ruling: Legaler Block.

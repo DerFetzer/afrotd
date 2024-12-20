@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.2.3.V
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team A erzielt während eines Downs, in dem die Spielzeit ausläuft,
+            einen Touchdown. Nach dem Touchdown, aber vor dem Try foult eines
+            der Teams.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Die Periode wird nur für den Try verlängert. Wird noch eine
+                weitere Periode gespielt, kann die Strafe beim Try oder dem
+                nachfolgenden Kickoff in der nächsten Spielperiode oder am
+                Succeeding Spot in Extraperioden geahndet werden.
+            </p>
+        </details>
+    </div>
+</article>

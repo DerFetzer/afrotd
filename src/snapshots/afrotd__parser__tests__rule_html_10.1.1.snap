@@ -1,0 +1,39 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            10.1.1 Wie und wann vollständig
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Eine Strafe ist vollständig, wenn sie angenommen, abgelehnt
+                oder gemäß den Regeln aufgehoben wird oder wenn dem Referee die
+                Wahl offensichtlich ist.
+                </li>
+                <li>Jede Strafe kann abgelehnt werden, aber ein
+                disqualifizierter Spieler muss das Spiel verlassen, egal, ob
+                die Strafe angenommen oder abgelehnt wird (Regel 2.27.12).
+                </li>
+                <li>Wurde ein Foul begangen, muss die Strafe vervollständigt
+                werden, bevor der Ball für den nachfolgenden Down freigegeben
+                wird.
+                </li>
+                <li>Strafen, die im Konflikt mit anderen Regeln stehen, dürfen
+                nicht durchgeführt werden.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.10.1.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

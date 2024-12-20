@@ -1,0 +1,35 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.1.4.IV
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            A12, der normalerweise auf der Quarterback Position spielt, hat
+            sich als Wide Receiver im Offense Backfield aufgestellt. A33
+            befindet sich fünf Meter hinter dem Snapper in einer „Shotgun
+            Formation“. Nach dem Snap läuft A12 downfield und A33 versucht
+            einen Vorwärtspass auf A12 zu werfen. Der Vorwärtspass wird
+            abgefangen. Während des Interception Returns springt B55 auf A33 zu
+            und trifft ihn mit einem Arm seitlich am Helm.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Foul von B55 für Targeting und Herbeiführen eines Kontakts am
+                Kopf eines verteidigungslosen Spielers. Bezüglich Regel 2.27.14
+                ist A33 ein verteidigungsloser Spieler, weil er in dem Down die
+                Position des Quarterbacks eingenommen hat.
+            </p>
+        </details>
+    </div>
+</article>

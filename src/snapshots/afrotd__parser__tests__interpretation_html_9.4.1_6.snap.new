@@ -1,0 +1,27 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.4.1.VI
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team A versucht ein Fieldgoal und B23, der sich in der Endzone
+            befindet, springt vor Querlatte hoch und fängt den Ball.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Kein Foul.
+            </p>
+        </details>
+    </div>
+</article>

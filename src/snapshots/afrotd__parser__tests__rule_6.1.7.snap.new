@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 1
+  - 7
+title: Ball dead in Endzone
+text: "\ta) Wenn ein von Team B unberührter Free Kick den Boden auf oder hinter Team B’s Goalline berührt, wird der Ball dead und gehört zu Team B.\n\tb) Ist das Ergebnis des Free Kick-Spieles ein Touchback (Regel 8.6.2) für Team B, dann bringt Team B den Ball an der eigenen 25-Meterlinie ins Spiel."
+interpretations: []

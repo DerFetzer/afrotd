@@ -1,0 +1,28 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 8.3.4.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            B1 fängt Team A’s legalen Vorwärtspass ab und trägt ihn zur
+            Spielfeldmitte. Während des Laufes nach dem abgefangenen Pass
+            clippt B2 in Team B’s Endzone.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Die Strafe wird durch die Regel aufgehoben.
+            </p>
+        </details>
+    </div>
+</article>

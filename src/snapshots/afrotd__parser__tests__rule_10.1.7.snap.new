@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 1
+  - 7
+title: Fouls während Pausen
+text: "Strafen für Fouls, die sich zwischen dem Ende der vierten Spielperiode und dem Beginn einer Extraperiode, zwischen den Ballbesitzserien, während einer Extraperiode und zwischen den Extraperioden ereignen, werden vom Punkt, an dem die nächste Ballbesitz-Serie begonnen wird, durchgeführt (Ausnahme: Regel 10.2.5) (A.R. 10.2.5.I bis 10.2.5.XII)."
+interpretations: []

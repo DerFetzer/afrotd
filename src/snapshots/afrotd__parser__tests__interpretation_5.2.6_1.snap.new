@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 5
+  - 2
+  - 6
+index: 1
+text: "4. und 2 von der A-35. A1 fängt den Snap und fumbelt den Ball\nan der A-38 und der Ball geht (a) an der A-40 oder (b) an der A-30 ins\nAus. Unmittelbar nachdem der Ball ins Aus gerollt ist, begeht Team A\nein persönliches Foul."
+ruling: "(a) Team A’s Ball, First Down und 10\nvon der A-23. Die Game Clock startet mit der Ballfreigabe. (b) Team B’s\nBall, First Down und 10 von der A-15. Die Game Clock startet mit dem\nSnap."

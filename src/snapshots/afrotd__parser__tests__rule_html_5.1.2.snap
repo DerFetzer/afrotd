@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            5.1.2 Line to Gain
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Die Line to Gain für eine Serie wird in einer Entfernung
+                von 10 Metern zum vordersten Punkt des Balles festgelegt.
+                Befindet sich die Line to Gain in der gegnerischen Endzone, ist
+                dessen Goalline die Line to Gain.
+                </li>
+                <li>Die Line to Gain ist festgelegt, wenn der Ball vor einem
+                First Down einer neuen Serie für spielbereit erklärt wurde.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.5.1.2"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

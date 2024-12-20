@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.15.1 Hurdling
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Hurdling ist der Versuch eines Spielers, mit einem oder
+                beiden Füßen oder Knien voran über einen Gegner zu springen,
+                der sich noch auf seinen Füßen befindet (Regel 9.1.13).
+                </li>
+                <li>„Auf seinen Füßen“ bedeutet, dass sich kein Körperteil des
+                Gegners, außer einem oder beider Füße, im Kontakt mit dem Boden
+                befindet.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.15.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

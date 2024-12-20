@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.4.1.VI
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            B25 steht an der B-35 in Position zum Fangen eines Punts. Während
+            sich der Ball in der Luft befindet, läuft A88 sehr nah an B25
+            seitlich vorbei, so dass B25 seine Position verändern muss, um den
+            Kick zu fangen. A88 berührt B25 nicht und betritt auch nicht die
+            1-Meterzone direkt vor B25.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Foul von A88, Behinderung beim Fangen eines Kicks,
+                15-Meterstrafe vom Punkt des Fouls. Auch wenn B25 in der Lage
+                ist, den Kick zu fangen, verdrängt A88 ihn mit seiner Aktion
+                von seiner ursprünglichen Position und behindert dadurch die
+                Möglichkeit zum Fangen.
+            </p>
+        </details>
+    </div>
+</article>

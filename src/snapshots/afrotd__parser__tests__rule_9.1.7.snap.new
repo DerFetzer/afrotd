@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 7
+title: "Nachspringen, Aktionen im Aus"
+text: "\ta) Nachspringen, Fallenlassen auf oder das Werfen des eigenen Körpers gegen einen Gegner ist verboten, nachdem der Ball dead wurde (A.R. 9.1.7.I).\n\tb) Kein Gegner darf einen Runner blocken oder tackeln, wenn sich dieser eindeutig im Aus befindet oder ihn zu Boden werfen, wenn der Ball dead wurde.\n\tc) Es ist illegal für jeden Spieler, der sich deutlich im Aus befindet, einen Gegner zu blocken, der sich ebenfalls im Aus befindet. Der Punkt des Fouls befindet sich dort, wo der Blocker die Seitenlinie ins Aus überquerte."
+interpretations: []

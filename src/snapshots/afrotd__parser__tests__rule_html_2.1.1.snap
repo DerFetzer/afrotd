@@ -1,0 +1,34 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.1.1 Anerkannte Regelauslegung
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Eine anerkannte Regelauslegung (A.R.) ist eine offizielle
+                Entscheidung, die auf Tatsachen beruht. Sie dient zur
+                Verdeutlichung und Anwendung der Regeln. Die Relation zwischen
+                den Regeln und einer anerkannten Regelauslegung ist analog zur
+                Relation zwischen festgeschriebenem Gesetz und einer
+                Entscheidung des obersten Gerichtshofes.
+                </li>
+                <li>Das Zeichen eines Schiedsrichters (S) richtet sich nach den
+                Schiedsrichter Football-Signalen 1 bis 47.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.1.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

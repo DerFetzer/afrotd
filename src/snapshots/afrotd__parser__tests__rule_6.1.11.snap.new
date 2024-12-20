@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 1
+  - 11
+title: Spieler im Aus
+text: "Ein Team A-Spieler, der während eines Free Kick-Spieles ins Aus geht, darf das Feld während dieses Downs nicht wieder betreten (Ausnahme: Dies gilt nicht für einen Team A-Spieler, der ins Aus geblockt wurde und versucht, sofort wieder ins Feld zu gelangen). Strafe: Live Ball Foul. 5 Meter vom Previous Spot oder 5 Meter von dem Punkt, an dem der anschließende Dead Ball zu Team B gehört oder von dem Punkt, an dem der Ball nach einem Touchback platziert wird [S19]."
+interpretations: []

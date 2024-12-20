@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 2
+  - 2
+index: 6
+text: "Nachdem der Down vorüber ist, schickt Team A drei Ersatzspieler auf das Spielfeld und drei Spieler laufen in Richtung Seitenlinie. A88,\nder am vorherigen Down teilgenommen hat, begleitet die drei ersetzten\nSpieler in Richtung Team A’s Seitenlinie. Die drei ersetzten Spieler setzen ihren Weg in die Teamzone fort, während A88 stoppt und sich an\nder Scrimmage Line, sehr nahe an der Seitenlinie aufstellt. Nach dem\nSnap läuft A88 downfield und fängt einen Vorwärtspass."
+ruling: "Team A-Foul beim Snap. Unsportliches Verhalten für unfaire Taktiken:\nAusnutzung des Auswechselprozesses, um den Gegner zu täuschen.\nLive Ball Foul, 15-Meterstrafe vom Previous Spot."

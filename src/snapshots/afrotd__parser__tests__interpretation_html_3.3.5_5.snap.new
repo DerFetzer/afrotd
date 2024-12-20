@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.3.5.V
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            B10 tackelt A12. Ein Schiedsrichter stellt fest, dass B10’s Trikot
+            durch eine Verletzung an A12’s Arm mit Blut durchtränkt wurde.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Beide Spieler müssen das Spiel verlassen; A12 zur Behandlung
+                seiner offenen Wunde und B10 zur Feststellung durch das
+                medizinische Personal, ob das Trikot gewechselt werden muss.
+            </p>
+        </details>
+    </div>
+</article>

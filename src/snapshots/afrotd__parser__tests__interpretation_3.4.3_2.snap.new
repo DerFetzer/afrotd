@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 4
+  - 3
+index: 2
+text: "Nach dem Zwei-Minuten-Timeout in der vierten Spielperiode\nund bei laufender Game Clock hat Team B keine Timeouts mehr verfügbar. Bei dem Versuch, Zeit einzusparen, überquert B-77 die neutrale\nZone und berührt einen Team A-Spieler."
+ruling: "Dead Ball Foul.\nStrafe – 5 Meter vom Succeeding Spot. Da sich das Foul nach dem\nZwei-Minuten-Timeout ereignet, fällt dieses Foul unter die 10-Sekunden-Abzug-Regel (Regel 3.4.4)."

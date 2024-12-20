@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 2
+  - 1
+index: 8
+text: "Safety B33 fängt an der B-10 einen Vorwärtspass ab und advanct zu einem Touchdown. Als der Linejudge die Seitenlinie entlang\nläuft, prallt er an der B-40 gegen den im Spielfeld stehenden Team B\nHead Coach. Der Linejudge wirft dafür eine Flagge."
+ruling: "Obwohl\nsich dieses Foul während einer Live Ball Aktion ereignet, wird es doch\nals Dead Ball Foul gegen das Team behandelt, weil es sich bei dem Verursacher nicht um einen Spieler handelt. Der Touchdown zählt und die\nStrafe wird, je nach Team A’s Wahl, entweder beim Try, dem anschließenden Kickoff oder vom Succeeding Spot in Extraperioden durchgeführt."

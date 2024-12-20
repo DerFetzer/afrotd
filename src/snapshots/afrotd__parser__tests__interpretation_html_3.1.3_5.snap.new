@@ -1,0 +1,28 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.1.3.V
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Beim ersten, zweiten oder dritten Down wird Team A’s
+            Fieldgoalversuch geblockt und überquert nicht die neutrale Zone.
+            A23 recovert den Ball und wird kurz vor der Line to Gain getackelt.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team A’s Ball, nächster Down.
+            </p>
+        </details>
+    </div>
+</article>

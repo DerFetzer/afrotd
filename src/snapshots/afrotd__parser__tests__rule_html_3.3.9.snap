@@ -1,0 +1,46 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            3.3.9 Benachrichtigungspflicht des Referees
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Während eines vollen Team-Timeouts (Regel 3.3.8.a) muss der
+                Referee beide Teams nach 60 Sekunden informieren, dass das
+                Timeout endet. Fünf Sekunden später soll er den Ball für
+                spielbereit erklären. Während eines 30Sekunden-Timeouts (Regel
+                3.3.8.b und 3.3.8.c) soll der Referee beide Teams nach 30
+                Sekunden informieren. Fünf Sekunden später soll er den Ball für
+                spielbereit erklären.
+            </p>
+            <ol type="a">
+                <li>Wurde einem Team das dritte Timeout in einer Halbzeit
+                angerechnet, muss der Referee den Team Captains auf dem Feld
+                und den Head Coach dieses Teams dahingehend informieren.
+                </li>
+                <li>Ist die sichtbare Game Clock nicht die offizielle
+                Zeitnahmevorrichtung, muss der Referee oder sein Stellvertreter
+                nach dem Zwei-Minuten-Timeout in der zweiten und vierten
+                Spielperiode jeden Team Captain auf dem Feld und jeden Head
+                Coach über die verbleibende Spielzeit informieren, wenn die
+                Game Clock den Regeln gemäß angehalten wurde. Ein Vertreter
+                jedes Teams darf die Teamzone entlang der Begrenzungslinien
+                verlassen, um zu diesem Zweck die Zeitansagen entgegenzunehmen.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.3.3.9"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

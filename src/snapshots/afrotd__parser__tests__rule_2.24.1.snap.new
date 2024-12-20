@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 24
+  - 1
+title: Serie
+text: "Eine Serie beinhaltet bis zu vier aufeinander folgende Downs, die jeweils mit einem Snap beginnen (Regel 5.1.1)."
+interpretations: []

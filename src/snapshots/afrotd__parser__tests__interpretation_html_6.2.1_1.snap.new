@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.2.1.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Ein Kickoff von der A-35 geht unberührt von Team B ins Aus und Team
+            A berührte illegal den Ball.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team B hat vier Wahlmöglichkeiten. Es kann den Ball an der
+                Stelle der illegalen Berührung snappen, eine 5-Meterstrafe vom
+                Previous Spot annehmen, wodurch Team A noch einmal von der A-30
+                aus kicken muss, den Ball am Inbounds Spot von der B-35 ins
+                Spiel bringen oder am Inbounds Spot, nach einer 5-Meterstrafe
+                von dort, wo der Ball ins Aus gegangen ist, ins Spiel bringen
+                (Regel 6.1.8).
+            </p>
+        </details>
+    </div>
+</article>

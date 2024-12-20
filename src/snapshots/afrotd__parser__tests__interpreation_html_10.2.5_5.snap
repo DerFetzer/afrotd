@@ -1,0 +1,27 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 10.2.5.V
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team B rought den Passer während eines Touchdown-PassSpieles.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Der Touchdown gilt. Team A hat die Option, die Strafe beim Try,
+                dem anschließenden Kickoff oder vom Succeeding Spot in
+                Extraperioden durchführen zu lassen.
+            </p>
+        </details>
+    </div>
+</article>

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 14
+index: 1
+text: "A10 steht in einer „Shotgun“ ähnlichen Formation 7,5 m hinter\ndem Snapper, der seinen Kopf gesenkt hält und zwischen seinen Beinen zurückschaut. Unmittelbar nach dem Snap greift Nose Guard B55\nden Snapper direkt an und berührt ihn, indem er ihn zurückdrückt."
+ruling: "Legal. Dem Snapper wird kein spezieller Schutz zugesprochen, weil Team A sich nicht in einer Scrimmage Kick-Formation befindet, da A10 sich nicht wenigstens 10 Meter hinter der neutralen Zone\nbefindet (Regel 9.1.3). Der Snapper hat den üblichen Schutz gegen jedes persönliche Foul."

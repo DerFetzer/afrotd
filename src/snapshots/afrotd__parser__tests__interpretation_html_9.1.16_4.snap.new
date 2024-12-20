@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.1.16.IV
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            B1 läuft in den Spieler A1, der den Ball gekickt hat und
+            ausreichend Zeit hatte, seine Balance wiederherzustellen.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Kein Foul durch B1, es sein denn, dass seine Aktion als
+                Umlaufen oder Werfen gegen einen Gegner, der offensichtlich
+                nicht am Spielgeschehen teilnimmt, angesehen wird (Regel
+                9.1.12).
+            </p>
+        </details>
+    </div>
+</article>

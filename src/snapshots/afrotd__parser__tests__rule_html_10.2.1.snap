@@ -1,0 +1,34 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            10.2.1 Enforcement Spots
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Für viele Fouls ist der Enforcement Spot in der
+                Strafandrohung festgelegt. Wenn der Enforcement Spot in der
+                Strafandrohung nicht festgelegt ist, wird der Enforcement Spot
+                durch das Drei-und-Eins-Prinzip festgestellt (Regeln 2.33.1 und
+                10.2.2.c).
+                </li>
+                <li>Mögliche Enforcement Spot sind: der Previous Spot, der Spot
+                of Foul, der Succeeding Spot, der Punkt, an dem der Lauf endet
+                und, nur für Scrimmage Kicks, der Postscrimmage Kick Spot.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.10.2.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

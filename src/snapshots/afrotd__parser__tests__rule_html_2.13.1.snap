@@ -1,0 +1,40 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.13.1 Ballübergabe
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Übergabe des Balles bedeutet die Übertragung des
+                Ballbesitzes von einem Mitspieler zum anderen, ohne den Ball zu
+                passen, zu fumbeln oder zu kicken.
+                </li>
+                <li>Außer wenn es die Regeln erlauben, ist die Vorwärtsübergabe
+                des Balles zu einem Mitspieler unzulässig.
+                </li>
+                <li>Der Verlust des Spieler Ballbesitzes bei der erfolglosen
+                Durchführung der Ballübergabe ist ein Fumble durch den Spieler,
+                der zuletzt in Ballbesitz war (Ausnahme: der Snap (Regel
+                2.23.1.c)).
+                </li>
+                <li>Eine Ballübergabe nach hinten ist dann gegeben, wenn der
+                Ballträger den Ball loslässt, bevor dieser sich jenseits der
+                Meterlinie befindet, an der sich der Ballträger befindet.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.13.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

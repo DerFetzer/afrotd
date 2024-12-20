@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 3
+  - 2
+index: 6
+text: "Bei einem Ein-Punkt-Try wird Team A’s Kick geblockt. Der Ball\nwird von B3 recovert und über Team A’s Goalline advanct. Während\nB3’s Lauf clippt B4."
+ruling: "Keine Punkte, der Try ist beendet, und\ndie Strafe wird durch die Regel aufgehoben (Regel 8.3.4.b)."

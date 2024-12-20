@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.1.2.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Ballträger A1 schlägt den Tackler B6 mit seinem ausgestreckten
+            Unterarm, unmittelbar bevor B6 ihn tackeln kann.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Persönliches Foul. Strafe – 15 Meter. Die Strafe wird vom
+                Previous Spot durchgeführt, wenn sich das Foul hinter der
+                neutralen Zone ereignet. Disqualifikation des Verursachers bei
+                schweren Fouls. Safety, wenn sich das Foul in Team A’s Endzone
+                ereignet.
+            </p>
+        </details>
+    </div>
+</article>

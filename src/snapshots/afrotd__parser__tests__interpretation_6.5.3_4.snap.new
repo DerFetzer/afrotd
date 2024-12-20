@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 5
+  - 3
+index: 4
+text: "B1 fängt jenseits der neutralen Zone den Scrimmage Kick und\nzeigt danach einen Fair Catch an."
+ruling: "Ungültiges Signal. Der\nBall ist dead, wenn das Signal zum ersten Mal gegeben wird."

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 2
+  - 5
+title: "Ball, der zur Ruhe kommt"
+text: "\ta) Rückpass Wenn ein Rückpass inbounds zur Ruhe kommt und kein Spieler versucht, diesen zu recovern, wird der Ball dead und gehört dem werfenden Team am Dead Ball Spot.\n\tb) Fumble Wenn ein Fumble inbounds zur Ruhe kommt und kein Spieler versucht, diesen zu recovern, wird der Ball dead und gehört dem Team, das den Ball gefumbelt hat\n\t\t1. am Dead Ball Spot, wenn dieser sich hinter dem Fumble-Spot befindet.\n\t\t2. am Fumble-Spot, wenn der Dead Ball Spot sich jenseits des FumbleSpots befindet."
+interpretations: []

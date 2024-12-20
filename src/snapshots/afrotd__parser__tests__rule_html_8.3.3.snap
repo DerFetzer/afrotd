@@ -1,0 +1,96 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            8.3.3 Foul während des Try, vor einem Team Ballbesitzwechsel
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Fouls, die sich aufheben: Ereignen sich Fouls durch beide
+                Teams während es Downs und Team B foult vor dem Team
+                Ballbesitzwechsel, heben sich die Fouls auf und der Down wird
+                wiederholt, auch wenn sich weitere Fouls nach dem Team
+                Ballbesitzwechsel ereignen. Jede Wiederholung des Downs nach
+                sich aufhebenden Fouls muss vom Previous Spot durchgeführt
+                werden (A.R. 8.3.3.II).
+                </li>
+                <li>Fouls durch Team B bei einem Try:
+                    <ol type="1">
+                        <li>Wenn der Try erfolgreich ist, hat Team A die Wahl,
+                        die erreichten Punkte abzulehnen und den Try nach der
+                        Strafdurchführung zu wiederholen oder die Strafe(n)
+                        abzulehnen und die Punkte zu akzeptieren. Team A kann
+                        die Punkte akzeptieren, wobei Strafen für persönliche
+                        Fouls und Fouls für unsportliches Verhalten beim
+                        anschließenden Kickoff oder vom Succeeding Spot in
+                        Extraperioden geahndet werden (A.R. 3.2.3.VI; A.R.
+                        8.3.2.II, 8.3.3.I und A.R. 10.2.5.IX bis 10.2.5.XI).
+                        </li>
+                        <li>Die Wiederholung des Try nach einer Strafe gegen
+                        Team B kann von einem Punkt auf oder zwischen den Hash
+                        Marks, auf oder hinter der Meterlinie durchgeführt
+                        werden, auf die die Strafe den Ball bringt (A.R.
+                        8.3.3.I).
+                        </li>
+                    </ol>
+                </li>
+                <li>Fouls durch Team A bei einem Try:
+                    <ol type="1">
+                        <li>Nach dem Foul durch Team A beim erfolgreichen Try
+                        muss der Ball an der Stelle gesnappt werden, an die die
+                        Strafe den Ball bringt (A.R. 8.3.3.I).
+                        </li>
+                        <li>Wenn Team A ein Foul verursacht, bei dem die Strafe
+                        einen Downverlust beinhaltet, ist der Try vorüber, die
+                        erzielten Punkte werden annulliert und es wird keine
+                        Distanzstrafe beim anschließenden Kickoff durchgeführt.
+                        </li>
+                        <li>Verursacht Team A vor einem Team Ballbesitzwechsel
+                        ein Foul, welches nicht aufgehoben wird, und während
+                        des Downs ereignen sich weder ein weiterer Team
+                        Ballbesitzwechsel noch irgendwelche Punkte, wird die
+                        Strafe durch die Regel aufgehoben.
+                        </li>
+                    </ol>
+                </li>
+                <li>Strafdurchführung bei Dead Ball Fouls:
+                    <ol type="1">
+                        <li>Strafen für Fouls, die sich ereignen, nachdem der
+                        Ball vor dem nächsten Snap spielbereit ist, werden vor
+                        dem nächsten Snap durchgeführt.
+                        </li>
+                        <li>Strafen für Live Ball Fouls, die als Dead Ball
+                        Fouls behandelt werden und sich während des Try
+                        ereignen, werden beim nachfolgenden Kickoff oder vom
+                        Succeeding Spot bei Extraperioden durchgeführt. Wird
+                        der Try jedoch wiederholt, werden diese Strafen vor der
+                        Wiederholung durchgeführt (Regel 10.1.6) (A.R.
+                        3.2.3.VII).
+                        </li>
+                    </ol>
+                </li>
+                <li>„Roughing“ oder „Running into“ Kickers oder Holders:
+                Forcible Contact (Roughing) oder Hineinlaufen (Running into)
+                gegen einen Kicker oder einen Holder nach dem Kick ist ein Live
+                Ball Foul.
+                </li>
+                <li>Behinderung beim Fangen eines Kicks: Die Strafe für eine
+                Behinderung beim Fangen eines Kicks wird durch die Regel
+                aufgehoben. Jeder Punktgewinn durch Team A wird annulliert.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.8.3.3"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

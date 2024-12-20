@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.3.4.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team A’s langer Fieldgoalversuch wird zuerst durch A1 berührt, als
+            dieser den rollenden Ball zurückschlägt. Der Ball prallt gegen den
+            in der Nähe stehenden B1.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Illegale Berührung durch A1. Team B’s Ballberührung wird nicht
+                beachtet (Regeln 2.11.4 und 8.4.2.b).
+            </p>
+        </details>
+    </div>
+</article>

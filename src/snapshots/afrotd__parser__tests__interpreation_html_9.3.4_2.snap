@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.3.4.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            3. und 15 von der B-45. QB A12 geht zurück und schaut downfield
+            nach A88, der als primäres Ziel anvisiert werden soll. B21 hält A88
+            an der B-35 fest. A12 wirft einen legalen Vorwärtspass auf seinen
+            zweiten Receiver A44, aber der Pass fällt an der B-46 unvollständig
+            zu Boden
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                A’s Ball, 1. und 10 von der B-35, Snap. Die Strafe für das
+                Halten durch B21 wird mit 10 Metern vom Previous Spot und einen
+                automatischen First Down geahndet. Halten durch die Defense
+                beinhaltet einen automatischen First Down.
+            </p>
+        </details>
+    </div>
+</article>

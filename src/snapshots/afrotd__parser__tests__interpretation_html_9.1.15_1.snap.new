@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.1.15.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Als der Ballträger A20 in der Nähe der Seitenlinie das Feld
+            hinunterläuft, ergreift ihn Defender B56 von hinten am Kragen des
+            Trikots oder an der Kragenöffnung des Schulterschutzes. A20 wird
+            zwar aufgehalten, geht aber nicht zu Boden, bis er von einem
+            anderen Defender getackelt wird.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Legales Spiel, B56 beging kein Foul, da er A20 nicht abrupt
+                nach unten zog.
+            </p>
+        </details>
+    </div>
+</article>

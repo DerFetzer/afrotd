@@ -1,0 +1,37 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            9.1.7 Nachspringen, Aktionen im Aus
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Nachspringen, Fallenlassen auf oder das Werfen des eigenen
+                Körpers gegen einen Gegner ist verboten, nachdem der Ball dead
+                wurde (A.R. 9.1.7.I).
+                </li>
+                <li>Kein Gegner darf einen Runner blocken oder tackeln, wenn
+                sich dieser eindeutig im Aus befindet oder ihn zu Boden werfen,
+                wenn der Ball dead wurde.
+                </li>
+                <li>Es ist illegal für jeden Spieler, der sich deutlich im Aus
+                befindet, einen Gegner zu blocken, der sich ebenfalls im Aus
+                befindet. Der Punkt des Fouls befindet sich dort, wo der
+                Blocker die Seitenlinie ins Aus überquerte.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.9.1.7"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

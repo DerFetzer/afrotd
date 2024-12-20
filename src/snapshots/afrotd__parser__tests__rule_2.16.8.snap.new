@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 16
+  - 8
+title: Return Kick
+text: "Ein Return Kick ist ein Kick durch einen Spieler des Teams in Ballbesitz, nach dem Wechsel des Team Ballbesitzes während eines Downs. Er ist ein illegaler Kick und ein Live Ball Foul, durch das der Ball dead wird (Regel 6.3.10.b)."
+interpretations: []

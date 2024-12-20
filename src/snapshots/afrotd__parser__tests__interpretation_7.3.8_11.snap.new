@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 8
+index: 11
+text: "Wide Receiver A88 und Defender B1 laufen Schulter an Schulter und Seite an Seite 15 Meter jenseits der neutrale Zone. A88 befindet sich dabei näher zur Seitenlinie und B1 näher zur Hash Mark.\nEin legaler Vorwärtspass wird in Richtung eines Torpfostens geworfen.\nWährend der Ball fliegt, biegt A88 nach innen, in Richtung des fangbaren Vorwärtspasses ab. B1 bewegt sich nicht zur Seite und macht auch\nkeinen Versuch, an den Ball zu gelangen und A88 prallt gegen ihn."
+ruling: "Team B-Foul. Defense Passbehinderung. 15-Meterstrafe vom\nPrevious Spot und First Down."

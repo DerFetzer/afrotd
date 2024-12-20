@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 3
+  - 13
+index: 4
+text: "4. und 15 von der A-5. Punter A88 befindet sich in A’s Endzone, als er den Ball kickt. Tackle A77 hält einen Gegner in A’s Endzone\nund es liegt dafür eine Flagge auf dem Boden. Team B advanct den\nBall bis zu der B-45."
+ruling: "Team B hat die Wahl den Ball an der\nA-45 nach der Strafdurchführung von der B-45 zu übernehmen oder die\nPunkte für den Safety zu akzeptieren, da die Annahme der Strafe in der\nEndzone in einen Safety resultiert (Regel 10.2.4)."

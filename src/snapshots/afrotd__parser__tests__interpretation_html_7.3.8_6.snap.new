@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 7.3.8.VI
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Bevor der Ball geworfen wird, läuft Wide Receiver A88 schräg nach
+            innen, wo der Linebacker B1 versucht, ihn zu blocken. A88 benutzt
+            seine Hände, um B1 wegzuschieben.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team A-Foul. Offense Passbehinderung, wenn der legale
+                Vorwärtspass die neutrale Zone überquert. Wenn B1 seinen
+                ursprünglichen Kontakt jenseits der neutrale Zone unterhalb der
+                Gürtellinie angesetzt hatte, hat Team B auch gefoult und die
+                Live Ball Fouls heben sich auf.
+            </p>
+        </details>
+    </div>
+</article>

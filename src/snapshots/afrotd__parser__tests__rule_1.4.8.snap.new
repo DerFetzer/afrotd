@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 4
+  - 8
+title: Verfahren bei vorgeschriebener und illegaler Ausrüstung
+text: "\ta) Keinem Spieler, der illegale Ausrüstungsteile trägt, bzw. dessen Ausrüstung unvollständig ist, darf es erlaubt werden, am Spiel teilzunehmen.\n\tb) Wenn ein Schiedsrichter einen Spieler mit unvollständiger bzw. illegaler Ausrüstung erkennt, muss der Spieler das Feld für wenigstens einen Down verlassen, und er darf nicht eher zurückkehren, bis die Legalität bzw. die Vollständigkeit der Ausrüstung wieder hergestellt ist. Der Spieler darf auf dem Feld bleiben, wenn sein Team ein Team-Timeout verbraucht, aber der Spieler darf in keinem Fall mit illegaler Ausrüstung spielen.\n\tc) Wird die Ausrüstung während eines Downs illegal oder unvollständig, muss der Spieler das Feld nicht zwangsläufig für mindestens einen Down verlassen, aber er darf nicht am Spiel teilnehmen, bis die Ausrüstung wieder legal ist (A.R. 1.4.7.II)."
+interpretations: []

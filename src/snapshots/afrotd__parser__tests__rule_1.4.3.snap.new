@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 4
+  - 3
+title: Vorgeschriebene Ausrüstung
+text: "Alle Teammitglieder müssen die folgende vorgeschriebene Ausrüstung tragen:\n\ta) Helm\n\tb) Hüftschützer\n\tc) Trikot\n\td) Knieschützer\n\te) Mundschutz\n\tf) Hosen\n\tg) Schulterschutz\n\th) Stutzen\n\ti) Oberschenkelschützer."
+interpretations: []

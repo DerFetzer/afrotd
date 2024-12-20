@@ -1,0 +1,45 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            1.2.8 Markierungstafeln und Hindernisse
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Alle Markierungstafeln und Hindernisse innerhalb des
+                Spielortes (Regel 2.31.5) müssen so platziert und konstruiert
+                sein, dass jede mögliche Gefährdung der Spielteilnehmer
+                ausgeschlossen ist. Das beinhaltet jede Gefährdung für
+                jedermann auf den Grenzlinien.
+                </li>
+                <li>Nach der Überprüfung des Spielortes durch die
+                Schiedsrichter muss der Referee anordnen, dass alle
+                Gefahrenquellen innerhalb der Grenzlinien beseitigt werden.
+                </li>
+                <li>Der Referee soll dem Heimteammanagement alle
+                Gefahrenquellen innerhalb des Platzes und außerhalb der
+                Grenzlinien melden. Die abschließende Bewertung von
+                sicherheitsrelevanten Korrekturmaßnahmen unterliegt dem
+                Heimteammanagement.
+                </li>
+                <li>Nachdem die Schiedsrichter ihre Inspektion des Platzes vor
+                dem Spiel beendet haben, ist das Heimteammanagement dafür
+                verantwortlich, dass die Sicherheit während des gesamten
+                Spieles gewährleistet ist.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.1.2.8"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

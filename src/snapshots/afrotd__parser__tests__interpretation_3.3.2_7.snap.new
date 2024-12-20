@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 3
+  - 2
+index: 7
+text: "Free Kick von der A-35. Team A führt einen Onside Kick aus.\nNachdem der Kick 10 Meter fliegend zurückgelegt hat, (a) gibt B21 ein\ngültiges Fair Catch Signal und fängt den Kick deutlich; (b) ist A80 der\nerste, der den Kick erreicht und fängt oder recovert ihn legal; (c) fängt\noder recovert B21 den Kick und fällt sofort zu Boden; (d) recovert B21\ndeutlich den Kick, während er sich mit beiden Knien am Boden befindet."
+ruling: "Der Ball wird für dead erklärt und (a) und (b) die Game\nClock wird nicht gestartet; (c) der Bediener der Game Clock startet die\nGame Clock mit der legalen Berührung und hält sie an, wenn der Ball\nfür dead erklärt wird (Regel 3.3.2.a); (d) die Game Clock wird nicht gestartet."

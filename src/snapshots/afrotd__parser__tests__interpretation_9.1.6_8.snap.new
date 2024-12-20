@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 6
+index: 8
+text: "Beim Snap hat sich Tight End A85 sechs Meter vom Snapper aufgestellt. Bevor der Ball die Tackle Box verlassen hat, blockt A85\nTackle B77 von der Seite unter der Gürtellinie."
+ruling: "Illegaler tiefer\nBlock A85 hatte sich beim Snap anfänglich in einer Position außerhalb\nder Tackle Box befunden, daher kann A85 nicht legal tief blocken. 15Meterstrafe."

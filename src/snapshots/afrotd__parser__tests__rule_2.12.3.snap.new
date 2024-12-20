@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 12
+  - 3
+title: Endlinien
+text: "Eine Endlinie erstreckt sich zwischen den Seitenlinien, 10 m hinter einer Goalline und trennt die Endzone von der Zone, die sich im Aus befindet. Die gesamte Endlinie befindet sich im Aus."
+interpretations: []

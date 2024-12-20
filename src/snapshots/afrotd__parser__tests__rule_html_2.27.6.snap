@@ -1,0 +1,39 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.27.6 Spieler
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Spieler ist jeder Spielteilnehmer, der kein Ersatzspieler
+                oder ausgewechselter Spieler ist. Er unterliegt den Regeln,
+                wenn er sich inbounds oder im Aus befindet.
+                </li>
+                <li>Ein Spieler, der sich in der Luft befindet, ist ein
+                Spieler, der keinen Kontakt mit dem Boden hat, weil er nicht
+                normal läuft, sondern hoch oder vorwärts gesprungen ist oder
+                sich in anderer Weise vom Boden abgehoben hat.
+                </li>
+                <li>Ein hinausgehender Spieler ist ein Spieler, der das Feld
+                verlässt, nachdem er durch einen Ersatzspieler ersetzt wurde.
+                </li>
+                <li>Die Definition eines außereuropäischen Spielers ergibt sich
+                aus der BSO Deutschland.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.27.6"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

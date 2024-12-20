@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 16
+index: 2
+text: "A1 kickt den Ball, wonach B1, der den Kick abblocken wollte\nund seine Bewegung nicht mehr stoppen kann, gegen den Kicker oder\nden Holder läuft."
+ruling: "Diese Aktion kann entweder „Roughing“\ndes Kickers oder Holders oder „Running into“ den Kicker oder Holder\nsein. Im Zweifel ist es ein „Roughing“, welches eine 15-Meterstrafe und\neinen automatischen First Down enthält."

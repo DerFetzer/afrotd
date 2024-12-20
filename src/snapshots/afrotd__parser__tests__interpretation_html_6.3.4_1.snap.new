@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.3.4.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team A kickt von der A-30. Der unberührte Kick kommt an der B-3 zur
+            Ruhe, als B1 von A3 in den Ball geblockt wird, wodurch der Ball
+            durch die Endzone und über die Endlinie getrieben wird.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Touchback. Da A3 B1 in den Ball geblockt hat, hat B1 nicht die
+                Verantwortung für die Ballberührung. Der Antrieb des Balles
+                wird nicht Team B, sondern dem Kick durch Team A angelastet
+                (Regel 8.7.1).
+            </p>
+        </details>
+    </div>
+</article>

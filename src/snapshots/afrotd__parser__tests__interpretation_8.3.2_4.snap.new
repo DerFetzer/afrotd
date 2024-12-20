@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 3
+  - 2
+index: 4
+text: Bei einem Ein-Punkt-Try wird Team A’s Kick geblockt. A2 recovert den Ball im Spielfeld jenseits der neutralen Zone.
+ruling: "Der\nBall ist dort dead, wo er durch A2 recovert wurde. Der Try ist beendet."

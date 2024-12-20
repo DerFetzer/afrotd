@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 7
+  - 2
+title: Ursprünglicher Antrieb
+text: "\ta) Der Antrieb, der dem Ball von einem Spieler durch einen Kick, Pass, Snap oder Fumble verliehen wird, ist für die Fortbewegung des Balles in jede Richtung verantwortlich. Das gilt auch dann, wenn der Ball abgefälscht oder zurückgetrieben wird, nachdem er den Boden, einen Schiedsrichter oder irgendeinen Spieler eines der Teams berührt hat (A.R. 6.3.4.III, A.R. 8.5.1.II, 8.5.1.VI und 8.5.1.VIII und A.R. 8.7.2.I bis 8.7.2.IV).\n\tb) Der ursprüngliche Antrieb, der dem Ball verliehen wurde, ist als verbraucht anzusehen und die Verantwortung für die Fortbewegung des Balles ist einem Spieler zuzuordnen, wenn:\n\t\t1. dieser Spieler einen Ball kickt, der sich nicht im Besitz eines Spielers befindet oder einen freien Ball schlägt, nachdem dieser den Boden berührt hat.\n\t\t2. der Ball zur Ruhe kommt und ein Spieler dem Ball durch jeden Kontakt mit ihm, ausgenommen einer erzwungenen Berührung (Regel 2.11.4.c), einen neuen Antrieb gibt.\n\tc) Ein freier Ball behält seinen ursprünglichen Status, wenn ihm ein neuer Antrieb verliehen wurde."
+interpretations: []

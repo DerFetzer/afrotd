@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 4.1.3.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Während A1 den Ball zu einem Place Kick hält, (a) wird er von einem
+            Team B-Spieler getackelt und ein Team B-Spieler recovert einen
+            freien Ball, (b) entreißt ein Team B-Spieler A1 den Ball oder (c)
+            schlägt ein Team B-Spieler A1 den Ball aus den Händen.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                (a) und (b) Der Ball bleibt im Spiel, (c) das Schlagen durch B1
+                ist legal und resultiert in einem Fumble.
+            </p>
+        </details>
+    </div>
+</article>

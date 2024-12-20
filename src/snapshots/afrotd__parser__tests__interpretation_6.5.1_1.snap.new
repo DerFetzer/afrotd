@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 5
+  - 1
+index: 1
+text: "Nach einem gültigen oder ungültigen Signal mufft B1 den Punt\nund B2, der nicht signalisierte, fängt den Ball nach dem Kick. Rege-\nlung: Der Ball wird dead, als er von B2 gefangen wird. Er wird anschließend an den Punkt der ersten Berührung durch B1 platziert.\nA.R. 6.5.1.II B1 steht mit einem Bein im Aus und mit dem anderen im Spielfeld, als er ein gültiges oder ein ungültiges Fair Catch-Signal anzeigt. Er\nfängt dann den Kick inbounds."
+ruling: "Es gibt keine Regelung für\neinen Receiving Team Spieler, der während eines Kicks ins Aus geht.\nDas Fangen ist legal und der Ball wird mit dem Fangen dead."

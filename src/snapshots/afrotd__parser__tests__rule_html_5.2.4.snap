@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            5.2.4 Foul nach dem Wechsel des Team Ballbesitzes
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Wird eine Strafe für ein Foul akzeptiert, das sich während
+                eines Downs nach dem Wechsel des Team Ballbesitzes ereignet, so
+                gehört der Ball zu dem Team, in dessen Besitz er sich befand,
+                als sich das Foul ereignete. Die Nummer des Downs und die
+                zurückzulegende Distanz für jede solche Strafe, ist ein First
+                Down mit einer neuen Line to Gain (Ausnahme: Regel 10.2.5.a).
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.5.2.4"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 4
+index: 1
+text: "Receiver A83 springt in die Luft, um einen Vorwärtspass zu erreichen. Als er mit dem Ball landet und im Begriff ist, seine Balance\nzu finden, wird er von B45 berührt, als dieser mit seinem Helm oder\nseiner Schulter voran gegen A83 prallt, der dabei über seiner Schulterpartie von B45 getroffen wird."
+ruling: "Foul durch B45 für Targeting\nauf einen verteidigungslosen Spieler und Herbeiführen eines Forcible\nContact über dessen Schultern. 15 Meter und automatisch First Down,\nsowie automatische Disqualifikation von B45."

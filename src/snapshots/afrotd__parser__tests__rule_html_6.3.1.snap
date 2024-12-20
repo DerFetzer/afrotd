@@ -1,0 +1,35 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            6.3.1 Hinter der neutralen Zone
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Wenn ein Scrimmage Kick die neutrale Zone nicht überquert,
+                bleibt er im Spiel. Alle Spieler können den Ball hinter der
+                neutralen Zone fangen oder recovern und advancen (A.R. 6.3.1.I
+                bis 6.3.1.III).
+                </li>
+                <li>Das Blocken eines Scrimmage Kicks durch einen Gegner des
+                Kicking Teams, der sich nicht mehr als drei Meter jenseits der
+                neutralen Zone befindet, wird so geregelt, als hätte es sich
+                innerhalb oder hinter der neutralen Zone ereignet (Regel
+                2.11.5).
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.6.3.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

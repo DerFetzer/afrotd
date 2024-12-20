@@ -1,0 +1,51 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.18.2 Offside
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Nach der Ballfreigabe ereignet sich ein Offside (Regel 7.1.5),
+                wenn ein Defense Spieler:
+            </p>
+            <ol type="a">
+                <li>sich in oder jenseits der neutralen Zone befindet, wenn der
+                Ball legal gesnappt wird oder
+                </li>
+                <li>einen Gegner jenseits der neutralen Zone berührt, bevor der
+                Ball gesnappt wird oder
+                </li>
+                <li>den Ball berührt, bevor dieser gesnappt wird oder
+                </li>
+                <li>einen Offense Lineman angreift, der sofort darauf reagiert,
+                bevor der Ball gesnappt wird (Regel 7.1.2.b.3 Ausnahme, A.R.
+                7.1.3.V Beachte) oder
+                </li>
+                <li>die neutrale Zone überquert und einen Team A-Back angreift
+                (A.R. 7.1.5.III) oder
+                </li>
+                <li>sich nicht hinter seiner Restraining Line befindet, während
+                der Ball beim Free Kick gekickt wird (Regel 6.1.2). Offside
+                ereignet sich, wenn sich ein oder mehrere Spieler des Kicking
+                Teams nicht hinter ihrer Restraining Line befinden, wenn ein
+                legaler Free Kick durchgeführt wird. (Ausnahme: Der Kicker und
+                der Holder haben kein Offside begangen, wenn sie sich jenseits
+                ihrer Restraining Line befinden.)
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.18.2"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

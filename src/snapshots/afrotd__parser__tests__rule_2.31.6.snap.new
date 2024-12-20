@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 31
+  - 6
+title: Seitenzone
+text: Die Seitenzone ist der Bereich zwischen der Hash Mark und der nächsten Seitenlinie.
+interpretations: []

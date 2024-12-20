@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 6
+index: 6
+text: "A’s Ball, 3. und 7 von der A-30. Der Ball liegt auf der linken Hash\nMark. Back A22 hat sich vollständig außerhalb des Körperrahmens des\nlinken Tackle aufgestellt. B40 bewegt sich im Defense Backfield in Richtung von A22, um ihn zu covern. Der Handoff geht an A44, der über die\nrechte Seite läuft. Als sich das Spielgeschehen entwickelt, folgt B40\ndem Spielgeschehen und A22 verfolgt ihn. An der A-34, jenseits der\nHash Mark überholt A22 B40 und blockt ihn deutlich unter der Gürtellinie und direkt von vorne. A44 wird an der B-45 getackelt."
+ruling: "Illegaler tiefer Block. A22 hatte sich beim Snap außerhalb der Tackle\nBox aufgestellt, daher kann A22 nicht legal tief blocken."

@@ -1,0 +1,34 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.2.4.V
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            1. und 10 von der A-25. Zu einem frühen Zeitpunkt in der vierten
+            Spielperiode. Back A21 erhält den Handoff, advanct und wird nach
+            einem Raumgewinn von 15 Metern inbounds zu Boden gebracht. Während
+            des Down begeht A88 ein Halten an der A-30 und (a) B54 verliert
+            seinen Helm (nicht als Ergebnis eines Fouls) oder (b) B54 wird
+            verletzt.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Das Halten-Foul durch A88 wird mit 10 Metern vom Punkt des
+                Fouls geahndet und Team A hat einen 1. und 15 von der A-20. In
+                beiden Fällen (a) und (b), wird die Play Clock auf 40 Sekunden
+                gesetzt und sowohl die Play Clock als auch die Game Clock
+                starten mit der Ballfreigabe durch den Referee.
+            </p>
+        </details>
+    </div>
+</article>

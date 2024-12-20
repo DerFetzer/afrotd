@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 9
+title: Roughing gegen den Passer
+text: "\ta) Roughing the passer Kein Defense Spieler darf einen Passer unnötig hart angreifen, wenn es offensichtlich ist, dass der Pass bereits geworfen wurde. Die nachfolgenden Aktionen sind illegal, die Aufzählung ist aber nicht auf diese beschränkt:\n\t\t1. Targeting Fouls gemäß Regeln 9.1.3 und 9.1.4.\n\t\t2. Forcible Contact gegen den Kopf- oder den Halsbereich, der nicht die Voraussetzungen der Regel 9.1.4 erfüllt (auch Verweis auf Regel 9.1.2).\n\t\t3. Forcible Contact, nachdem der Ball die Hand des Passers verlassen hat (Ausnahme: Ein Defense Spieler, der von einem oder mehreren Team A-Spieler(n) mit solcher Wucht geblockt wird, dass er keine Möglichkeit hat, den Kontakt mit dem Passer zu vermeiden. Allerdings befreit dies den Defense Spieler nicht von der Verantwortlichkeit für die in der Regel 9 beschriebenen persönlichen Fouls).\n\t\t4. Forcible Contact durch das zu-Boden-Werfen des Passers, insbesondere wenn der Verteidiger anschließend auf dem Passer landet, um ihn auf diese Art zu beeindrucken.\n\t\t5. Jede Aktion, die ein persönliches Foul gemäß Regel 9 darstellt.\n\tb) Tiefe Kontakte gegen den (potentiellen) Passer Wenn ein Offense Spieler sich in einer stationären oder nahezu stationären Wurfhaltung für einen Vorwärtspass befindet und dabei mit einem oder beiden Füßen auf dem Boden steht, darf kein Defense Spieler, der sich ihm ungehindert nähert, ihn gegen oder unterhalb des Kniebereiches blocken. Der Defense Spieler darf sich ebenfalls nicht über den Boden wälzen oder zum Gegner springen und diesen dann gegen oder unterhalb des Kniebereiches blocken. Ein Foul kann nur dann vorliegen, wenn der Offense Spieler sich im Besitz eines Live Balls befindet oder einen Vorwärtspass geworfen hat.\n\tAusnahmen:\n\t\t1. Es ist kein Foul, wenn der Offense Spieler in irgendeine Richtung läuft und sich daher nicht in einer stationären oder nahezu stationären Wurfhaltung für einen Vorwärtspass befindet.\n\t\t2. Es ist kein Foul, wenn der Defense Spieler den potentiellen Passer ergreift oder umfasst und versucht, einen konventionellen Tackle durchzuführen, ohne Forcible Contact mit dem Kopf oder der Schulter herbeizuführen.\n\t\t3. Es ist kein Foul, wenn der Defense Spieler sich dem potentiellen Passer nicht ungehindert nähert oder durch einen Gegenspieler legal oder illegal gegen diesen geblockt wird. In beiden Fällen (a und b) wird die Strafe auf das Ende des letzten Laufes hinzugefügt, wenn der Lauf jenseits der neutralen Zone endet und sich während des Downs kein Team Ballbesitzwechsel ereignet hat (A.R. 9.1.9.II und 9.1.9.III)."
+interpretations: []

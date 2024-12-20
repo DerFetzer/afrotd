@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 10.2.2.XV
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            B17 fängt tief in seiner Endzone einen legalen Vorwärtspass ab
+            (kein Try) und als er versucht, die Endzone zu verlassen, clippt
+            A19 in der Endzone. Nach dem Foul und bevor B17 die Endzone
+            verlässt, fumbelt er und A26 recovert an der B-2.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Strafe – 15 Meter von der Goalline. Team B’s Ball, First Down
+                und 10 von der B-15 (Regel 10.2.2.d.2.c).
+            </p>
+        </details>
+    </div>
+</article>

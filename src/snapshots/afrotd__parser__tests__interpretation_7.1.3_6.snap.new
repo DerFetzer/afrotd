@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 1
+  - 3
+index: 6
+text: "Vor dem Snap verpasst A80, der kein eingeschränkter innerer\nLineman oder Back ist, den Snap-Count und macht eine gewöhnliche\nBewegung, die nicht abrupt, schnell oder ruckartig ist und den Start\ndes Spieles nicht vortäuscht. Keiner der Team B-Spieler reagiert."
+ruling: Kein Foul durch Team A.

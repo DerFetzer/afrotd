@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 1
+  - 6
+index: 4
+text: "Team B ist Offside bei einem Down von der B-3 (kein Try) und\nTeam A wirft einen legalen Vorwärtspass in Team B’s Endzone. Team\nB fängt den Pass ab und läuft 101 Meter in Team A’s Endzone, wonach\nTeam A clippt."
+ruling: "Wiederhole den Down, wobei Team A den\nBall an der B-16,5 ins Spiel bringt."

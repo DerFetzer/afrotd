@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 27
+  - 6
+title: Spieler
+text: "\ta) Spieler ist jeder Spielteilnehmer, der kein Ersatzspieler oder ausgewechselter Spieler ist. Er unterliegt den Regeln, wenn er sich inbounds oder im Aus befindet.\n\tb) Ein Spieler, der sich in der Luft befindet, ist ein Spieler, der keinen Kontakt mit dem Boden hat, weil er nicht normal läuft, sondern hoch oder vorwärts gesprungen ist oder sich in anderer Weise vom Boden abgehoben hat.\n\tc) Ein hinausgehender Spieler ist ein Spieler, der das Feld verlässt, nachdem er durch einen Ersatzspieler ersetzt wurde.\n\td) Die Definition eines außereuropäischen Spielers ergibt sich aus der BSO Deutschland."
+interpretations: []

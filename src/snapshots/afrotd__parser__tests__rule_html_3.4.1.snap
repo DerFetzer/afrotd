@@ -1,0 +1,56 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            3.4.1 Startverzögerung einer Halbzeit
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>
+                    <p>
+                        Jedes Team muss seine Spieler zum festgesetzten
+                        Zeitpunkt auf dem Feld haben, um das Spiel eröffnen zu
+                        können und eine Halbzeit zu beginnen. Wenn beide Teams
+                        es ablehnen, zu Beginn einer Halbzeit als erste den
+                        Platz zu betreten, muss das Heimteam als erstes das
+                        Feld betreten.
+                    </p>
+                    <p>
+                        <strong>Strafe: 15 Meter vom Succeeding Spot
+                        [S21].</strong>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Das Heimteam-Management ist für die Räumung des
+                        Spielfeldes und der Endzonen zu Beginn jeder Halbzeit
+                        verantwortlich, damit das Spiel zur vorgesehenen Zeit
+                        beginnen kann. Präsentationen oder andere Aktivitäten
+                        unterliegen der Aufsicht des Heimteam-Managements, und
+                        ein pünktlicher Start jeder Halbzeit ist
+                        vorgeschrieben.
+                    </p>
+                    <p>
+                        <strong>Strafe: 10 Meter vom Succeeding Spot [S21].
+                        (Ausnahme: Der Referee kann von der Strafe absehen,
+                        wenn die Umstände, die zur Verzögerung führen,
+                        außerhalb der Kontrollmöglichkeit des
+                        Heimteam-Managements liegen.)</strong>
+                    </p>
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.3.4.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

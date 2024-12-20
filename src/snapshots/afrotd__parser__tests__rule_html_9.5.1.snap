@@ -1,0 +1,38 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            9.5.1 Vor, während und nach dem Spiel
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Personen, die den Regeln unterliegen, dürfen sich weder auf
+                noch außerhalb des Feldes vor dem Spiel, während jeder
+                Halbzeit, während der Halbzeitpause und nach dem Spiel an einer
+                Schlägerei beteiligen (Regel 2.32.1).
+            </p>
+            <p>
+                <strong>Strafe: 15 Meter vom Basic Spot oder vom Succeeding
+                Spot, automatisch First Down für Team B-Fouls, soweit der First
+                Down nicht im Widerspruch zu anderen Regeln steht, und
+                Disqualifikation [S7, S27, S38 und S47]. Für Verstöße nach dem
+                Spiel wird keine formelle Strafe durch die Schiedsrichter
+                durchgeführt. Der Referee führt entsprechende Verstöße nach dem
+                Spiel im Spielbericht auf. Regel 10 Durchführung von
+                Strafen</strong>
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.9.5.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 6
+index: 1
+text: "Zwei gegnerische Spieler erreichen einen legalen Vorwärtspass,\nwährend sie springen, und beide Spieler kehren gleichzeitig auf den\nBoden innerhalb des Feldes zurück."
+ruling: "Gleichzeitiges Fangen,\nBall wird dem passenden Team zuerkannt (Regel 2.4.4)."

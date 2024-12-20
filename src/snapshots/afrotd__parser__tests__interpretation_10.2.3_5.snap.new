@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 2
+  - 3
+index: 5
+text: "Team A’s unberührter, erfolgloser Fieldgoalversuch wird von\nder B-30 gesnappt. Team B foult während des Kicks an der B-15."
+ruling: "Team B’s Ball. Der Postscrimmage Kick Spot ist die B-30 und die\nStrafe wird von der B-15 durchgeführt, dem Punkt des Fouls, wobei keine Wiederholung des Downs möglich ist (Regeln 2.25.11 und 8.4.2.b)."

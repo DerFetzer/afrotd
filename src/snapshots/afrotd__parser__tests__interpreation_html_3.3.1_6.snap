@@ -1,0 +1,40 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.3.1.VI
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            3. und 5 von der B-30. Zu einem späten Zeitpunkt in der Halbzeit
+            haben beide Teams ihre Team-Timeouts noch verfügbar. Während Team A
+            sich an der Scrimmage Line befindet und bereit ist, den Snap
+            durchzuführen, verlangt Team B’s Head Coach ein Timeout und dem
+            Verlangen wird stattgegeben. Nach dem Timeout sind beide Teams in
+            Position und der Ball ist spielbereit. Unmittelbar vor dem Snap
+            begeht A-77 einen Fehlstart. Team A erhält eine 5-Meterstrafe und
+            es ist damit ein 3. und 10 von der B-35. Beide Teams stellen sich
+            auf, sind in Position und der Ball ist spielbereit, als Team B’s
+            Head Coach ein Timeout verlangt.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Die Schiedsrichter sollen Team B’s TimeoutVerlangen ignorieren.
+                Team B hat zwar noch zwei Timeouts, aber sie haben in dieser
+                Dead Ball Periode bereits ein Timeout genommen, so dass ein
+                weiteres Timeout nicht zugelassen wird. Da der Fehlstart ein
+                Dead Ball Foul ist, befindet man sich immer noch in derselben
+                Dead Ball Periode in der Team B bereits ein Timeout verbraucht
+                hat. Daher wird Team B kein weiteres Timeout erlaubt.
+            </p>
+        </details>
+    </div>
+</article>

@@ -1,0 +1,34 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            1.1.6 Personen, die den Regeln unterliegen
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Alle Personen, die den Regeln unterliegen, müssen den
+                Entscheidungen der Schiedsrichter Folge leisten.
+                </li>
+                <li>Personen, die den Regeln unterliegen, sind: jeder in der
+                Teamzone, Spieler, Ersatzspieler, ausgewechselte Spieler,
+                Coaches, Physiotherapeuten, Cheerleader, Musiker, Maskottchen
+                in Uniform, Werbe-Maskottchen, Stadionsprecher, Audio-, Video-
+                und Beleuchtungstechniker und andere Personen, die den Teams
+                verbunden sind.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.1.1.6"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

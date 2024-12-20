@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 4
+  - 1
+index: 2
+text: "Ein Team B-Spieler, der im Begriff ist, einen Scrimmage Kick zu\nfangen, wird getackelt, bevor er den Ball erreicht, fängt aber im Fallen\nden Ball."
+ruling: "Behinderung beim Fangen eines Kicks. Strafe – 15\nMeter vom Spot of Foul. Disqualifikation des Team A-Spielers, wenn es\nsich um ein schweres Foul handelt. Wenn das Foul sich zwischen den\nGoallines ereignet, wird die Strafe vom Spot of Foul durchgeführt und\nTeam B bringt den Ball durch einen Snap ins Spiel. Ereignet sich das\nFoul hinter Team B’s Goalline, wird Team B ein Touchback zuerkannt\nund die Strafe wird vom Succeeding Spot durchgeführt. Die Regelung\nbliebe die gleiche, wenn der Ball gemufft oder gefumbelt wird. Die Regelung bliebe bei einem erfolglosen Fieldgoalversuch die gleiche, weil\nTeam B den Ball jenseits neutralen Zone berührte."

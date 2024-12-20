@@ -1,0 +1,79 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            9.1.11 Erhöhen (Leverage) und Überspringen (Leaping)
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Kein Defense Spieler darf bei dem Versuch, einen Vorteil zu
+                erlangen, auf einen Gegner treten, springen oder stehen.
+                </li>
+                <li>Es ist ein Foul, wenn sich ein Defense Spieler
+                vorwärtsbewegt in der Absicht, einen Kick oder einen
+                womöglichen Kick zu einem Fieldgoal oder einen Try zu blocken,
+                dabei mit seinen Füßen den Boden verlässt und in die Fläche
+                direkt oberhalb des Körperrahmens eines Gegners eindringt. Es
+                ist kein Foul, wenn sich der Spieler beim Snap ursprünglich
+                innerhalb eines Meters von der neutralen Zone aufgestellt
+                hatte.
+                </li>
+                <li>Es ist ein Foul, wenn ein Defense Spieler, der sich
+                innerhalb der Tackle Box befindet, in der Absicht, einen Punt
+                oder einen womöglichen Punt zu blocken, mit seinen Füßen den
+                Boden verlässt und in die Fläche direkt oberhalb des
+                Körperrahmens eines Gegners eindringt.
+                    <ol type="1">
+                        <li>Es ist kein Foul, wenn der Spieler bei dem Versuch,
+                        den Kick zu blocken, gerade hochspringt, ohne zu
+                        versuchen, einen Gegner zu überspringen.
+                        </li>
+                        <li>Es ist kein Foul, wenn der Spieler versucht, durch
+                        oder über die Lücke zwischen zwei Gegenspielern zu
+                        springen.
+                        </li>
+                    </ol>
+                </li>
+                <li>Kein Defense Spieler darf bei dem Versuch, einen Kick oder
+                einen womöglichen Kick zu blocken, zu schlagen oder zu fangen:
+                    <ol type="1">
+                        <li>auf einen Mitspieler treten, stehen oder springen.
+                        </li>
+                        <li>sich mit seiner Hand (seinen Händen) auf einen
+                        Mitspieler stützen.
+                        </li>
+                        <li>von einem Mitspieler hochgehoben, erhöht,
+                        vorangetrieben oder gedrückt werden. Strafe (a-d): 15
+                        Meter, Previous Spot und automatisch First Down [S38].
+                        </li>
+                    </ol>
+                </li>
+                <li>
+                    <p>
+                        Kein Spieler darf sich vor dem Snap mit seinen Füßen
+                        auf den Rücken oder die Schultern eines Mitspielers
+                        stellen.
+                    </p>
+                    <p>
+                        <strong>Strafe: Dead Ball Foul, 15 Meter vom Succeeding
+                        Spot. Automatisch First Down für Team B Fouls, soweit
+                        das nicht in Konflikt zu anderen Regeln steht
+                        [S27].</strong>
+                    </p>
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.9.1.11"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

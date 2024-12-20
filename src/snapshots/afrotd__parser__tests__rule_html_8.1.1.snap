@@ -1,0 +1,36 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            8.1.1 Punkterzielung
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Die Anzahl der Punkte eines gewinnbringenden Downs ergibt sich
+                aus der nachfolgenden Tabelle: Touchdown . . . . . . . . . . .
+                . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                . . . . . . . . . . . . . 6 Punkte Fieldgoal . . . . . . . . .
+                . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                . . . . . . . . . . . . . . . . . 3 Punkte Safety (Punkte
+                werden dem Gegner zuerkannt) . . . . . . . . . . . . . . . . .
+                . . . 2 Punkte Erfolgreicher Try: Touchdown . . . . . . . . . .
+                . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                . . . . . . . . . . . . . . 2 Punkte Fieldgoal oder Safety . .
+                . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                . . . . . . . . . . . . . 1 Punkt
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.8.1.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

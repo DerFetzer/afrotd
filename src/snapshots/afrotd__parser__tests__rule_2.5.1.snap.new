@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 5
+  - 1
+title: Clipping
+text: "\ta) Clipping ist ein Block gegen einen Gegner, bei dem die Wucht des anfänglichen Kontaktes von hinten und an oder unterhalb der Gürtellinie erfolgt (Regel 9.1.5)\n\tb) Die Position des Kopfes des Blockers oder seiner Füße bezeichnen nicht unbedingt den Punkt des ursprünglichen Kontaktes."
+interpretations: []

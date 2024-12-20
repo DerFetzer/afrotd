@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 5
+  - 1
+title: Spielerwechsel
+text: "Zwischen den Perioden, nachdem Punkte erzielt wurden oder nach einem Try oder während einer Unterbrechung zwischen den Downs kann jedes Team eine beliebige Anzahl von Ersatzspielern auf das Spielfeld schicken, jedoch ausschließlich, um Spieler auszuwechseln oder eine Unterzahl auszugleichen."
+interpretations: []

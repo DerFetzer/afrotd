@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 16
+  - 6
+title: Kickoff
+text: "Ein Kickoff ist ein Free Kick, mit dem jede Halbzeit startet und der jedem Try oder Fieldgoal folgt (Ausnahme: in Extraperioden). Es muss ein Place Kick oder ein Drop Kick sein."
+interpretations: []

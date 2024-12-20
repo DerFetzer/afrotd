@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            1.1.7 Mitglieder, die den Regeln unterliegen
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Alle AFVD-Mitglieder müssen ihre Wettkämpfe nach den
+                offiziellen Football Spielregeln des AFVD austragen (Ausnahme:
+                internationale Spiele).
+                </li>
+                <li>Die Schiedsrichterorganisationen innerhalb des AFVD sollen
+                das jeweils von der AFSVD herausgegebene gültige
+                Mechanics-Handbuch verwenden.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.1.1.7"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

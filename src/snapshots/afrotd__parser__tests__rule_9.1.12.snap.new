@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 12
+title: "Kontakt gegen einen Gegner, der nicht am Spielgeschehen teilnimmt"
+text: "\ta) Kein Spieler darf einen Receiver tackeln oder umreißen, wenn ein Vorwärtspass für diesen offensichtlich unerreichbar ist. Das ist ein persönliches Foul und keine Passbehinderung.\n\tb) Bevor oder nachdem der Ball dead wurde, darf sich kein Spieler mit seinem Körper gegen einen Gegner werfen oder in ihn hineinlaufen, wenn dieser offensichtlich nicht mehr am Spielgeschehen teilnimmt."
+interpretations: []

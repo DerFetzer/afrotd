@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 7.3.6.XII
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Receiver A85 streckt sich an der B-2 und ergreift einen
+            Vorwärtspass, fällt aber selbstständig zu Boden, als er versucht,
+            das Fan- gen zu vervollständigen. Als A85 in der Endzone zu Boden
+            fällt, wird der Ball sofort frei und fällt zu Boden.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Unvollständiger Pass. Jeder Receiver, der während des
+                Fangprozesses selbstständig zu Boden fällt, muss die Kontrolle
+                über den Ball behalten, wenn er zu Boden fällt.
+            </p>
+        </details>
+    </div>
+</article>

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 14
+  - 1
+title: Huddle
+text: "Huddle ist die Gruppierung von zwei oder mehr Spielern, nachdem der Ball spielbereit ist, und vor dem Snap oder vor einem Free Kick."
+interpretations: []

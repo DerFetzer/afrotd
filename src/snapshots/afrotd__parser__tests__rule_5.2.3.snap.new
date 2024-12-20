@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 5
+  - 2
+  - 3
+title: Foul vor dem Wechsel des Team Ballbesitzes
+text: "\ta) Wird eine Strafe für ein Foul angenommen, welches sich zwischen den Goallines vor einem Wechsel des Team Ballbesitzes während des Downs ereignet hat, gehört der Ball zu Team A. Der Down soll wiederholt werden, außer die Strafe enthält einen Downverlust, schreibt einen First Down vor oder belässt den Ball auf oder jenseits der Line to Gain (Ausnahmen: Regeln 8.3.3.b.1, 10.2.3, 10.2.4 und 10.2.5) (A.R. 10.2.3.I).\n\tb) Beinhaltet die Strafe einen Downverlust, wird der Down als einer von vieren in dieser Serie gewertet."
+interpretations: []

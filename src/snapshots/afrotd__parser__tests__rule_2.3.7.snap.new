@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 3
+  - 7
+title: Blind Side Block
+text: "Ein Blind Side Block ist ein Block im „offenen Feld“ gegen einen Gegner, wobei der Blocker von außerhalb des Sichtfeldes des Gegners gegen den Geblockten vorgeht oder der Block so ausgeführt wird, dass der Gegner sich nicht vernünftig selbst gegen den Block verteidigen kann."
+interpretations: []

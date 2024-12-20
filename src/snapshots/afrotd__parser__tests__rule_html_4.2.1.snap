@@ -1,0 +1,36 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            4.2.1 Spieler im Aus
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Ein Spieler oder ein in der Luft befindlicher Spieler ist
+                im Aus, wenn irgendein Körperteil dieses Spielers irgendetwas
+                berührt, das sich auf oder außerhalb der Begrenzungslinien
+                befindet, ausgenommen einen anderen Spieler oder einen
+                Schiedsrichter (Regel 2.27.15) (A.R. 4.2.1.I und 4.2.1.II).
+                </li>
+                <li>Ein Spieler im Aus, der zu einem in der Luft befindlichen
+                Spieler wird, bleibt solange im Aus, bis er den Boden inbounds
+                berührt, ohne gleichzeitig im Aus zu sein.
+                </li>
+                <li>Ein Spieler, der einen Pylon berührt, ist im Aus.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.4.2.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

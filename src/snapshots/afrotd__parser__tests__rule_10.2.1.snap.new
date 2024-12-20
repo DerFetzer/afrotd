@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 2
+  - 1
+title: Enforcement Spots
+text: "\ta) Für viele Fouls ist der Enforcement Spot in der Strafandrohung festgelegt. Wenn der Enforcement Spot in der Strafandrohung nicht festgelegt ist, wird der Enforcement Spot durch das Drei-und-Eins-Prinzip festgestellt (Regeln 2.33.1 und 10.2.2.c).\n\tb) Mögliche Enforcement Spot sind: der Previous Spot, der Spot of Foul, der Succeeding Spot, der Punkt, an dem der Lauf endet und, nur für Scrimmage Kicks, der Postscrimmage Kick Spot."
+interpretations: []

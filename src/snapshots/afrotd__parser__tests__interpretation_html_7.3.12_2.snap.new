@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 7.3.12.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            2. und 15 von der A-20. A11 wirft einen legalen Vorwärtspass, der
+            für A88 gedacht ist. Während des Passes erhält Defensive End B99
+            eine Flagge für ein unsportliches Verhalten. Der Pass auf A88 ist
+            (a) vollständig, wonach A88 advanct und an der A-30 zu Boden
+            gebracht wird; (b) unvollständig oder abgefangen.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                (a) Die Strafe wird vom Ende des Laufes, A-30, durchgeführt. 1.
+                und 10 für Team A an der A-45. (b) Die Strafe wird vom Previous
+                Spot durchgeführt, 1. und 10 für Team A von der A-35 (Regel
+                9.2.1.a.1 Strafe).
+            </p>
+        </details>
+    </div>
+</article>

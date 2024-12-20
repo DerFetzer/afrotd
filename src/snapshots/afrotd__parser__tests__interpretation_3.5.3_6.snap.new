@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 5
+  - 3
+index: 6
+text: "Team A stellt sich an der B-3 zu einem Zweipunkteversuch beim\nTry auf. Team B hat elf Spieler in seiner Defense Formation. Der zwölfte\nTeam B-Spieler läuft unmittelbar vor oder mit dem Snap auf das Spielfeld. A22 erhält vom Quarterback den Handoff und (a) wird an der B-1\ngetackelt; (b) trägt den Ball in B’s Endzone."
+ruling: "Live Ball Foul\ngegen Team B, Auswechselfehler. (a) Team B wird mit Halbierung der\nDistanz zur Goalline bestraft und den Try von der B-1,5 wiederholen\nlassen. (b) Team A lehnt die Strafe beim erfolgreichen Try ab."

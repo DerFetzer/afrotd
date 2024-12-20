@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 1
+  - 5
+title: "Free Kick, der zur Ruhe kommt"
+text: "Kommt der Free Kick im Feld zur Ruhe und versucht kein Spieler, den Ball zu sichern, wird der Ball dead und gehört zum Receiving Team am Dead Ball Spot."
+interpretations: []

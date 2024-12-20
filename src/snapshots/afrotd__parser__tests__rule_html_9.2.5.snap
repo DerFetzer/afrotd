@@ -1,0 +1,63 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            9.2.5 Behinderung der Spieldurchführung
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Während sich der Ball im Spiel befindet und bei den
+                weiterführenden Aktionen, nachdem der Ball für dead erklärt
+                wurde:
+            </p>
+            <ol type="a">
+                <li>
+                    <p>
+                        Coaches, Ersatzspieler und berechtigte Personen in der
+                        Teamzone müssen sich hinter der Coaching Line
+                        aufhalten.
+                    </p>
+                    <p>
+                        <strong>Strafe: Wird als Dead Ball Foul behandelt.
+                        Erster Regelverstoß: Warnung für eine Behinderung an
+                        der Seitenlinie. Keine Meterstrafe [S15]. Zweiter und
+                        dritter Regelverstoß: Spielverzögerung für Behinderung
+                        an der Seitenlinie, 5 Meter vom Succeeding Spot [S21
+                        und S29]. Vierter und jeder nachfolgende Regelverstoß:
+                        unsportliches Verhalten durch das Team für Behinderung
+                        an der Seitenlinie, 15 Meter vom Succeeding Spot.
+                        Automatisch First Down für Team B-Fouls, soweit dies
+                        nicht in Konflikt zu anderen Regeln steht
+                        [S27].</strong>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Physischer Kontakt mit einem Schiedsrichter ist ein
+                        Foul für unsportliches Verhalten durch das betreffende
+                        Team (A.R. 9.2.5.I).
+                    </p>
+                    <p>
+                        <strong>Strafe: Unsportliches Verhalten durch das Team.
+                        Wird als Dead Ball Foul behandelt. 15 Meter vom
+                        Succeeding Spot. Automatisch First Down für Team
+                        B-Fouls, soweit das nicht in Konflikt zu anderen Regeln
+                        steht [S27].</strong>
+                    </p>
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.9.2.5"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

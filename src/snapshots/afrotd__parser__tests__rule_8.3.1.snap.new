@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 3
+  - 1
+title: Wie erzielt
+text: "Der Punkt bzw. die Punkte werden gemäß der Punkte-Tabelle in Regel 8.1.1 zuerkannt, wenn der Try in einem Down resultiert, der unter normalen Umständen einen Touchdown, Safety oder ein Fieldgoal erzielt hätte (A.R. 8.3.1.I und 8.3.1.II und A.R. 8.3.2.I bis 8.3.2.III und 8.3.2.VI und A.R. 10.2.5.X bis 10.2.5.XV)."
+interpretations: []

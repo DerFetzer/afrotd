@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 2
+index: 4
+text: "1. und 10 von der A-25. Defender B21 steht in einer engen Deckung und schlägt gegen das Gesichtsgitter von Receiver A88. A88 wird\ndadurch daran gehindert, seine Passroute zu laufen. A12 wird für sieben Meter Raumverlust gesackt."
+ruling: "Persönliches Foul durch\nB21 für Schlagen von A88. Team A erhält einen 1. und 10 von der A40. Bei dieser Art von Aktion ist für ein Foul keine Voraussetzung, dass\nein andauernder Kontakt zum Gesicht, Helm (inklusive Helmgitter) oder\nHals vorliegt, wie in Regel 9.1.8.a."

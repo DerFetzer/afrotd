@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.1.4.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Als der Ballträger A20 um den letzten Spieler am Ende seiner
+            Scrimmage Line herumläuft und downfield advanct, senkt er seinen
+            Kopf und berührt Defensive End B89, als dieser versucht, A20 zu
+            tackeln. B89’s Kopf ist hoch und die Helme der beiden Spieler
+            prallen gegeneinander.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Kein Foul. Weder A20 noch B89 sind verteidigungslose Spieler
+                und kein Spieler hat im Sinne der Regel 9.1.3 seinen Gegner
+                durch ein Targeting angegriffen.
+            </p>
+        </details>
+    </div>
+</article>

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 3
+  - 1
+title: Timeout
+text: "\ta) Ein Schiedsrichter muss ein Timeout signalisieren, wenn die Regeln das Anhalten der Game Clock vorsehen oder wenn einem Team oder dem Referee ein Timeout angerechnet wird. Andere Schiedsrichter sollen die Timeout Signale wiederholen. Der Referee kann willkürlich ein Timeout nehmen, das ihm angerechnet wird, wenn er aus irgendeinem Grund, der in den Regeln nicht erfasst ist, das Spiel unterbricht (A.R. 3.3.1.IV).\n\tb) Sollte ein Team alle seine Timeouts verbraucht haben oder keine Timeouts mehr verfügbar sein und ein Timeout verlangen, dürfen die Schiedsrichter diesem Verlangen nicht stattgeben (Regel 3.3.4).\n\tc) Sobald das Spiel beginnt, dürfen Spieler, ausgenommen während der Halbzeitpause, weder im Spielfeld noch in den Endzonen mit einem Ball üben."
+interpretations: []

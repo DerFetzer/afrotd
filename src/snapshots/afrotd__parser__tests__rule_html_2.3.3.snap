@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.3.3 Chop Block
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Ein Chop Block ist ein hoch/tief oder tief/hoch kombinierter
+                Block durch zwei Spieler gegen einen Gegner (außer einem
+                Ballträger), mit oder ohne Verzögerung zwischen den Blocks, auf
+                dem gesamten Feld, wobei der tiefe Kontakt sich an oder unter
+                den Oberschenkeln des Gegners ereignet (A.R. 9.1.10.I bis
+                9.1.10.IV). Es ist kein Foul, wenn der Kontakt vom gegnerischen
+                Spieler ausgeht (A.R. 9.1.10.V).
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.3.3"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

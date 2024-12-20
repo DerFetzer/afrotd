@@ -1,0 +1,36 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            6.5.4 Illegaler Block oder Kontakt
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Hat ein Team B-Spieler ein gültiges oder ungültiges Fair
+                Catch-Signal für einen Fair Catch gemacht, berührt aber nicht
+                den Ball, darf er während dieses Downs einen Gegner weder
+                blocken noch foulen (A.R. 6.5.4.I und 6.5.4.II).
+            </p>
+            <p>
+                <strong>Strafe: Free Kicks – Ball des Receiving Teams, 10 Meter
+                vom Spot of Foul [S40]. Scrimmage Kicks – 10 Meter,
+                Postscrimmage Kick-Durchführung [S40]. Wird ein persönliches
+                Foul in Zusammenhang mit dieser Aktion verursacht, ist die
+                Strafe 15 Meter und Verursacher schwerer Fouls müssen
+                disqualifiziert werden.</strong>
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.6.5.4"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

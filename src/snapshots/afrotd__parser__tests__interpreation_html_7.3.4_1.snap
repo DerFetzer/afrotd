@@ -1,0 +1,27 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 7.3.4.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Der berechtigte A88 geht freiwillig ins Aus, kehrt zurück inbounds
+            und ist der erste Spieler, der den legalen Vorwärtspass berührt.
+            Diese Berührung durch A88 ereignet sich in Team B’s Endzone.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Illegale Berührung. Strafe – Downverlust am Previous Spot.
+            </p>
+        </details>
+    </div>
+</article>

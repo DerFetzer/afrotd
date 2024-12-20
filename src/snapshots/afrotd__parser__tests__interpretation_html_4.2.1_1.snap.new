@@ -1,0 +1,28 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 4.2.1.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Ein im Spielfeld befindlicher Ballträger prallt gegen einen auf der
+            Seitenlinie befindlichen Spieler oder Schiedsrichter oder wird von
+            ihnen berührt.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Der Ballträger ist nicht im Aus.
+            </p>
+        </details>
+    </div>
+</article>

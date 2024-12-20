@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 2
+  - 3
+index: 3
+text: "Team A’s Punt wird hinter der neutralen Zone geblockt, bevor sich ein Clipping oder ein Halten jenseits der neutralen Zone durch\nTeam B ereignet. Der Ball überquerte während des Downs die neutrale\nZone nicht."
+ruling: "Regel 10.2.3 trifft nur dann zu, wenn ein Scrimmage Kick die neutrale Zone überquert. Team A’s behält den Ballbesitz\nnach Durchführung der Strafe vom Previous Spot."

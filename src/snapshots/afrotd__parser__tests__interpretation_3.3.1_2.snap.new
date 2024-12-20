@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 3
+  - 1
+index: 2
+text: "Beim 2. und 14 erzielt A45 sechs Meter Raumgewinn und wird\nzu Boden gebracht, wobei sich der Ball in seinem Besitz befindet. Der\nLinesman hält die hintere Stange der Kette für die vordere Stange und\ngibt irrtümlicherweise das Zeichen zum Anhalten der Uhr."
+ruling: "Sobald der Fehler von irgendeinem Schiedsrichter entdeckt wird, muss\ndieser anzeigen, dass die Game Clock gestartet werden soll."

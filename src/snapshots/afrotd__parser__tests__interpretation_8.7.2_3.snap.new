@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 7
+  - 2
+index: 3
+text: "Team A puntet. Der Ball wird von Team B berührt (kein neuer\nAntrieb) und überquert Team B’s Goalline. Dann fällt Team B auf den\nBall oder der Ball geht von der Endzone ins Aus."
+ruling: "Touchback.\nDie gleiche Regel trifft zu, wenn ein fliegender Kick Team B streift oder\nder Ball durch ein versuchtes Fangen lediglich abgelenkt wird. Team B\nkann den Ball recovern und advancen und es ist ein Touchback, wenn\nein Team B-Spieler in der Endzone zu Boden gebracht wird oder er\nhinter der Goalline ins Aus geht (Regel 8.6.1.a)."

@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.2.5.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Während ein Kickoff weit zurückgetragen wird, muss der Sidejudge
+            stoppen und um den Head Coach herumlaufen, der sich außerhalb der
+            Coaching Box in der Schiedsrichterzone oder auf dem Spielfeld in
+            der Nähe der Seitenlinie befindet.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team Foul für unsportliches Verhalten. Als Dead Ball Foul
+                durchführen. Die 15-Meterstrafe wird vom Succeeding Spot
+                geahndet. Das ist ein Team Foul und es wird nicht als ein
+                unsportliches Verhalten vom Head Coach gewertet.
+            </p>
+        </details>
+    </div>
+</article>

@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 10.1.4.V
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            A1’s Vorwärtspass wird von B1 abgefangen, der advanct und fumbelt.
+            B2 recovert den Ball und advanct ihn fünf weitere Meter. Team A
+            foult während oder nach dem Down und Team B foult während des
+            Laufes von B2 oder während des Fumbles.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Wenn Team A’s Foul ein Live Ball Foul war, kann Team B wählen,
+                dass sich die Fouls aufheben und den Down wiederholen lassen
+                oder eine Möglichkeit wählen, den Ball nach Vervollständigung
+                dessen Strafe zu behalten. Wenn Team A’s Foul ein Dead Ball
+                Foul war, behält Team B nach Durchführung beider Strafen den
+                Ball.
+            </p>
+        </details>
+    </div>
+</article>

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 9
+index: 3
+text: "Während A88 eine Passroute in der Nähe einer Seitenlinie läuft,\nberührt er die Seitenlinie, unmittelbar bevor ein Defense Spieler gegen\nihn springt und den Pass zu Boden schlägt."
+ruling: "Keine Defense\nPassbehinderung. A88 wurde zu einem unberechtigten Spieler, als er\nauf die Seitenlinie trat (Regel 7.3.3)."

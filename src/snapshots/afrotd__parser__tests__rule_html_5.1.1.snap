@@ -1,0 +1,66 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            5.1.1 Zuerkennung einer Serie
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Dem Team, das nach einem Free Kick, Touchback, Fair Catch,
+                dem Wechsel des Team Ballbesitzes oder als angreifendes Team in
+                einer Extraperiode als nächstes den Ball durch einen Snap ins
+                Spiel bringt, wird eine Serie (Regel 2.24.1) von bis zu vier
+                aufeinander folgenden Scrimmage Downs zuerkannt.
+                </li>
+                <li>Team A wird eine neue Serie zuerkannt, wenn es legal auf
+                oder jenseits der Line to Gain in Ballbesitz ist, wenn der Ball
+                für dead erklärt wird.
+                </li>
+                <li>Team B wird eine neue Serie zuerkannt, wenn Team A es nach
+                dem vierten Down versäumt hat, einen First Down zu erreichen
+                (A.R. 10.1.5.I).
+                </li>
+                <li>Eine neue Serie wird Team B zuerkannt, wenn Team A’s
+                Scrimmage Kick ins Aus geht oder zur Ruhe kommt und kein
+                Spieler versucht, ihn zu recovern (Ausnahme: Regel 8.5.1.a).
+                </li>
+                <li>Eine neue Serie wird dem Team zuerkannt, das sich in
+                legalem Ballbesitz befindet, wenn der Ball für dead erklärt
+                wird und
+                    <ol type="1">
+                        <li>sich ein Team Ballbesitzwechsel während eines Downs
+                        ereignet;
+                        </li>
+                        <li>ein Scrimmage Kick die neutrale Zone überquert hat
+                        (Ausnahmen: wenn ein Down wiederholt wird und Regel
+                        6.3.7);
+                        </li>
+                        <li>eine Strafe angenommen wird und dadurch dem
+                        gefoulten Team der Ballbesitz zuerkannt wird;
+                        </li>
+                        <li>eine Strafe angenommen wird, die einen First Down
+                        vorschreibt.
+                        </li>
+                    </ol>
+                </li>
+                <li>Eine neue Serie wird Team B zuerkannt, wenn sich Team B
+                nach einem Scrimmage Kick dafür entscheidet, den Ball am Punkt
+                einer illegalen Berührung in Besitz zu nehmen (Ausnahme: wenn
+                ein Down wiederholt wird) (Regeln 6.3.2.a und 6.3.2.b).
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.5.1.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 2
+  - 3
+index: 8
+text: "Die Spielzeit in der ersten Halbzeit läuft während eines Downs\naus. A12 befindet sich jenseits der neutralen Zone, als er einen vollständigen Vorwärtspass auf A88 wirft, der sich in B’s Endzone befindet."
+ruling: "Team B akzeptiert die Strafe, wodurch die Punkte annulliert\nwerden, aber die Periode wird, nach Wahl des gefoulten Teams, nicht\nverlängert, da die Strafe einen Downverlust enthält. Die erste Halbzeit\nist beendet."

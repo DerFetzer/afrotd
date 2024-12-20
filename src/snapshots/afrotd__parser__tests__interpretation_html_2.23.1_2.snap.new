@@ -1,0 +1,45 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 2.23.1.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            3. und 5 von der B-25. QB A12 steht in einer Shotgun Formation.
+            Center A5 startet legal die Rückwärtsbewegung des Snaps mit einer
+            schnellen und durchgehenden Bewegung. Während dieser
+            Rückwärtsbewegung (a) rutscht der Ball dem Snapper aus den Händen
+            und rollt an der B-29, wo er von B54 recovert wird oder (b) der
+            Center stoppt oder zögert, bevor er den Ball loslässt und der Ball
+            rutscht dem Snapper aus den Händen und rollt an der B-29, wo er von
+            B54 recovert wird.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                (a) Legaler Snap, der zu einem Rückpass wird. Team B’s Ball, 1.
+                und 10 von der B-29. (b) Team A Dead Ball Foul, illegaler Snap.
+                Team A’s Ball, 3. und 10 von der B-30. Um einen legalen Snap
+                durchzuführen, muss der Ball von seiner Position am Boden in
+                einer schnellen und durchgehenden Bewegung rückwärts bewegt
+                werden, wobei der Ball die Hand des Snappers in dieser Bewegung
+                verlassen muss. Wenn der Ball während dieser legalen
+                Rückwärtsbewegung des Snaps aus den Händen des Snappers
+                rutscht, wird er zu einem Rückpass und der Ball bleibt im
+                Spiel. Jede andere Aktion oder Bewegung des Snappers, wie das
+                Nicht-Loslassen des Balles, das Anhalten, das Neustarten oder
+                das Unterbrechen der kontinuierlichen Bewegung des Balls
+                während des Snaps gilt als illegaler Snap.
+            </p>
+        </details>
+    </div>
+</article>

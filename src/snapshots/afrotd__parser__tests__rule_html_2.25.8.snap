@@ -1,0 +1,45 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.25.8 Punkt, an dem der Lauf endet
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Der Punkt, an dem der Lauf endet, ist der Punkt, an dem:
+            </p>
+            <ol type="a">
+                <li>der Ball im Besitz eines Spielers für dead erklärt wird;
+                </li>
+                <li>ein Spieler den Ballbesitz durch einen Fumble verliert;
+                </li>
+                <li>sich eine Ballübergabe ereignet;
+                </li>
+                <li>ein illegaler Vorwärtspass geworfen wird;
+                </li>
+                <li>ein Rückpass geworfen wird;
+                </li>
+                <li>ein illegaler Scrimmage Kick jenseits der neutrale Zone
+                durchgeführt wird;
+                </li>
+                <li>sich ein Return-Kick ereignet;
+                </li>
+                <li>Spieler Ballbesitz unter den Voraussetzungen der „Momentum
+                Regel“ erlangt wird (Regel 8.5.1.a Ausnahmen).
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.25.8"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

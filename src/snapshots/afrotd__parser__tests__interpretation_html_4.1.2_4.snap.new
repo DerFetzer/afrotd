@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 4.1.2.IV
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            4. und 15 von der A-30, Team A puntet. B44 befindet sich in
+            Position zum Fangen des Kicks. Bei dem Versuch, den Kick zu fangen,
+            mufft B44 den Kick an der B-35. Als B44 den Kick scheinbar fängt,
+            pfeift der Backjudge irrtümlich ab, aber der Ball rollt auf dem
+            Boden, nachdem B44 ihn gemufft hat. A88 verfolgt den Ball und
+            recovert ihn in der unmittelbar folgenden Aktion nach dem Pfiff an
+            der B-30.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Irrtümliches Abpfeifen. Regel 4.1.2.b.2.b trifft zu. Team A
+                erhält den Ball mit einem 1. und 10 an der B-30.
+            </p>
+        </details>
+    </div>
+</article>

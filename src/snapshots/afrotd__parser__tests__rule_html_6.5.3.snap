@@ -1,0 +1,42 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            6.5.3 Ungültige Signale: Fangen oder Recovern
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Das Fangen nach einem ungültigen Signal ist kein Fair Catch
+                und der Ball ist dort dead, wo er gefangen oder recovert wird
+                (Ausnahme: Gibt ein Team B-Spieler während eines Free Kicks
+                irgendein Winksignal, welches nicht die Anforderungen eines
+                gültigen Fair Catch-Signales erfüllt, und fängt anschließend
+                den Ball hinter B’s 25-Meterlinie, gehört der Ball an Team B’s
+                25-Meterlinie zu Team B.).
+                </li>
+                <li>Wenn das Signal nach dem Fangen oder Recovern erfolgt, ist
+                der Ball dead, wenn das Signal gegeben wird (A.R. 6.5.3.IV).
+                </li>
+                <li>Ungültige Signale jenseits der neutralen Zone beziehen sich
+                nur auf Team B.
+                </li>
+                <li>Ein ungültiges Signal jenseits der neutralen Zone ist nur
+                dann möglich, wenn der Ball die neutrale Zone überquert hat
+                (Regel 2.16.7, A.R. 6.5.3.I).
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.6.5.3"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

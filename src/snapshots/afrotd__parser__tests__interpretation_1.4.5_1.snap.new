@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 4
+  - 5
+index: 1
+text: "Das Heimteam trägt rote Trikots mit orangen Nummern. Nach\nMeinung der Schiedsrichter heben sich die Nummern und deren Umrandung nicht deutlich von der Trikotfarbe ab. Der Referee erklärt dem\nHead Coach des Heimteams das Problem, und dieser wiederum erklärt, dass sein Team die Trikots nicht tauschen wird. Der Referee weist\nden Head Coach auf die Illegalität der Trikots hin. Daraufhin erklärt dieser, dass sein Team keine anderen Trikots hat."
+ruling: "Der Referee gibt dem Heimteam eine Stunde Zeit, für andere Trikots zu sorgen.\nNach Ablauf der Frist lässt sich der Referee die Spielberichte geben\nund trägt den Vorfall entsprechend ein. Das Spiel wird nicht angepfiffen\nund die spielleitende Stelle wird verständigt."

@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.11.3 Schlagen
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Schlagen des Balles ist das absichtliche Wegschlagen oder die
+                absichtliche Richtungsänderung des Balles mit der Hand, den
+                Händen, dem Arm oder den Armen. Im Zweifel wurde der Ball eher
+                zufällig berührt als geschlagen. Schlagen des Balles ändert
+                nicht dessen Status.
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.11.3"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

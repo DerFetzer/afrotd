@@ -1,0 +1,28 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 10.2.2.IV
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team A puntet von seiner Endzone und der Ball wird bis zu der A-30
+            zurückgetragen. Während des Zurücktragens clippt A23 B35 in Team
+            A’s Endzone.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Strafe – 15 Meter vom Basic Spot, welcher das Ende des Laufes
+                ist (A-30). Team B’s Ball, First Down und 10.
+            </p>
+        </details>
+    </div>
+</article>

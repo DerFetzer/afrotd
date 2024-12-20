@@ -1,0 +1,35 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            6.2.1 Kicking Team
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Es ist ein Foul, wenn ein Free Kick zwischen den Goallines ins
+                Aus geht, ohne vorher von einem Team B-Spieler, der sich
+                inbounds befindet, berührt worden zu sein (A.R. 6.2.1.I,
+                6.2.1.II und 4.2.1.III).
+            </p>
+            <p>
+                <strong>Strafe: Live Ball Foul. 5 Meter vom Previous Spot oder
+                5 Meter von dem Punkt, an dem der anschließende Dead Ball zu
+                Team B gehört oder das Receiving Team kann den Ball 30 Meter
+                jenseits Team A’s Restraining Line am Inbounds Spot ins Spiel
+                bringen [S19].</strong>
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.6.2.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

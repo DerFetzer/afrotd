@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 1
+  - 4
+index: 1
+text: "Bei einem Kickoff durch Team A begeht Team B ein Foul, bevor\nder unberührte Ball zwischen den Goallines ins Aus geht."
+ruling: "Die Fouls heben sich auf. Team A wiederholt den Kickoff vom Previous\nSpot."

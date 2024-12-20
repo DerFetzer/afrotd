@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 27
+  - 4
+title: Lineman und Back
+text: "\ta) Lineman.\n\t\t1. Ein Lineman ist jeder Team A-Spieler, der sich legal an seiner Scrimmage Line befindet (Regel 2.21.2).\n\t\t2. Ein Team A-Spieler ist legal an seiner Scrimmage Line, wenn er sich in Richtung seiner gegnerischen Goalline aufstellt, wobei die Linie seiner Schultern sich parallel dazu befindet und er\n\t\t\ta. der Snapper ist (Regel 2.27.8) oder\n\t\t\tb. sein Kopf die Fläche der Linie durchbricht, die sich durch die Taillenlinie des Snapper zieht.\n\tb) Innerer Lineman. Ein innerer Lineman ist ein Lineman, der sich nicht am Ende seiner Scrimmage Line aufgestellt hat.\n\tc) eingeschränkter Lineman. Ein eingeschränkter Lineman ist jeder innere Lineman und jeder Lineman, der eine Nummer von 50 bis 79 trägt und dessen Hand (Hände) sich unterhalb der Knie befinden.\n\td) Back.\n\t\t1. Ein Back ist jeder Team A-Spieler, der kein Lineman ist und dessen Kopf oder Schulter nicht die Fläche der Linie durchbricht, die sich durch die Taillenlinie des nächsten Team A-Lineman zieht.\n\t\t2. Ein Back ist ebenfalls der Spieler, außer einem Lineman, der in Position ist, einen Hand-zu-Hand-Snap anzunehmen.\n\t\t3. Ein Lineman wird vor dem Snap zu einem Back, wenn er sich zu einer Back Position bewegt und stoppt."
+interpretations: []

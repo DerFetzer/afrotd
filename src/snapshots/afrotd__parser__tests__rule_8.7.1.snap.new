@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 7
+  - 1
+title: Verantwortlichkeit
+text: "Das Team, das dafür verantwortlich ist, dass der Ball hinter einer Goalline im Aus ist oder im Besitz eines Spielers in, über oder hinter einer Goalline dead wird, ist das Team, dessen Spieler den Ball trägt oder dem Ball einen Antrieb verleiht, durch den der Ball in, über oder hinter die Goalline getrieben wird oder das dafür verantwortlich ist, dass sich ein freier Ball in, über oder hinter der Goalline befindet."
+interpretations: []

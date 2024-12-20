@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 2
+  - 1
+title: Wie erzielt
+text: "Ein Touchdown wird erzielt, wenn:\n\ta) der Ballträger, vom Spielfeld kommend, sich legal im Besitz eines Live Balls befindet und der Ball die Fläche der gegnerischen Goalline durchbricht. Diese Fläche erstreckt sich außerhalb der Pylone nur für einen Ballträger, der den Boden in der Endzone oder einen Pylon berührt (A.R. 2.23.1.I und A.R. 8.2.1.I bis 8.2.1.IX).\n\tb) ein Spieler einen Vorwärtspass in der gegnerischen Endzone fängt (A.R. 5.1.3.I und 5.1.3.II).\n\tc) in der gegnerischen Endzone ein Fumble oder Rückpass recovert, gefangen, abgefangen oder zuerkannt wird (Ausnahmen: Regeln 7.2.2.aAusnahme 2, 7.2.5.b und 8.3.2.d.5) (A.R. 8.2.1.X).\n\td) ein Free- oder ein Scrimmage Kick in der gegnerischen Endzone legal gefangen oder recovert wird (A.R. 6.3.9.III).\n\te) der Referee einen Touchdown nach den Voraussetzungen der Regel 9.2.3-Strafe zuerkennt."
+interpretations: []

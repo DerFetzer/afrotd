@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            6.1.4 Nichtbeachtung erzwungener Berührung
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Wird ein Spieler, der sich inbounds befindet, von einem
+                Gegner in einen Free Kick geblockt, wird diese Berührung des
+                Kicks nicht beachtet (A.R. 2.11.4.I).
+                </li>
+                <li>Wird ein im Feld befindlicher Spieler von einem Ball
+                berührt, der von einem Gegner entweder geschlagen oder illegal
+                getreten wurde, wird diese Berührung des Kicks nicht beachtet
+                (Regel 2.11.4.c).
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.6.1.4"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

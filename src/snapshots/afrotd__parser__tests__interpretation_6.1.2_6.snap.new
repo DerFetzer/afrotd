@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 1
+  - 2
+index: 6
+text: "Team A begeht ein Offside während des Free Kicks und B17\nfängt den Ball an der B-15. B17 advanct den Ball zu der B-45, wo er\nfumbelt. A67 recovert den Ball an der B-47 und advanct zu der B-35,\nwo auch er fumbelt. B20 recovert den Ball an der B-33 und wird dort\ngestoppt."
+ruling: "Team A’s Foul für Offside. Team B kann wählen,\ndass Team A den Kick nach einer 5-Meterstrafe vom Previous Spot wiederholt oder Team B kann einen First Down und 10 von der eigenen\n38-Meterlinie haben."

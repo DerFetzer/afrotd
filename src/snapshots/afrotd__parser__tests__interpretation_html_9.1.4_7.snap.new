@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.1.4.VII
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Bei einem Punt Return springt B44 von der Blind Side mit der
+            Schulter voran vorwärts-aufwärts gegen A66. Er trifft ihn dabei
+            seitlich unterhalb der Schulter.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Persönliches Foul, Illegaler Blind Side Block. 15-Meterstrafe.
+                A66 ist ein verteidigungsloser Spieler und B44 führt einen
+                Blind Side Block aus. Das ist jedoch kein Targeting, weil der
+                Kontakt sich nicht auf den Kopf-/Halsbereich erstreckte.
+            </p>
+        </details>
+    </div>
+</article>

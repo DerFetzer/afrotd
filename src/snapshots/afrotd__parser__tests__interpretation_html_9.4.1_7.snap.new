@@ -1,0 +1,28 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.4.1.VII
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Ein im Flug befindlicher Team A-Fumble wird von B1 vorwärts
+            geschlagen und der Ball geht hinter Team A’s Goalline ins Aus.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Safety. Das Wegschlagen des Fumbles gibt dem Ball keinen neuen
+                Antrieb (Regel 8.7.2.b). Team B-Foul. Strafe – 10 Meter.
+            </p>
+        </details>
+    </div>
+</article>

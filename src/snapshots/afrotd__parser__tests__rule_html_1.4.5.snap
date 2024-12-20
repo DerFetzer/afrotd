@@ -1,0 +1,106 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            1.4.5 Design, Farbe und Nummer des Trikots
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Design.
+                    <ol type="1">
+                        <li>Das Trikot muss Ärmel haben, die die
+                        Schulterschützer vollständig verdecken. Das Trikot darf
+                        nicht verändert worden und muss reißfest sein. Es muss
+                        bis zum Hosenbund reichen. Wenn es über den Hosenbund
+                        hinaus reicht, muss es eingesteckt werden. Kein anderes
+                        Bekleidungsteil unter dem Trikot (z. B. T-Shirt) darf
+                        über die Taille reichen.
+                        </li>
+                        <li>Ein zweites Trikot, welches alle Voraussetzungen
+                        für ein Trikot nach Regel 1.4.5 erfüllt, darf
+                        zusätzlich unter dem ursprünglichen Trikot getragen
+                        werden. Westen, und/oder veränderte Trikots mit
+                        Reißverschlüssen, Klettverschlüssen oder anderen
+                        Verschlüssen sind nicht erlaubt.
+                        </li>
+                        <li>Außereuropäische Teammitglieder sind durch ein 12
+                        cm großes, sich von der Trikotfarbe deutlich abhebendes
+                        und dauerhaft angebrachtes „A“ auf der Trikotrückseite
+                        zu kennzeichnen.
+                        </li>
+                        <li>Trikots dürfen weder mit Klebeband abgeklebt noch
+                        verknotet werden.
+                        </li>
+                    </ol>
+                </li>
+                <li>Farbe.
+                    <ol type="1">
+                        <li>Spieler gegnerischer Teams müssen unterschiedlich
+                        farbige Trikots tragen. Spieler eines Teams müssen
+                        Trikots gleicher Farbe und gleichen Aussehens tragen.
+                        </li>
+                        <li>Das Gastteam muss für unterschiedliche Kleidung
+                        sorgen.
+                            <ol type="a">
+                                <li>In Bezug auf die Unterschiedlichkeit der
+                                Trikotfarben wird auf die Bestimmungen der BSO
+                                Deutschland verwiesen.
+                                </li>
+                                <li>
+                                    <p>
+                                        Trägt eines der Teams beim Kickoff zu
+                                        Beginn einer Halbzeit farbige Trikots
+                                        entgegen den Bestimmungen der BSO bzw.
+                                        den Absprachen der Teamleitungen, ist
+                                        das ein Foul wegen unsportlichen
+                                        Verhaltens. (A.R. 1.4.7.III).
+                                    </p>
+                                    <p>
+                                        <strong>Strafe: Wird als Dead Ball Foul
+                                        durchgeführt. 15 Meter vom Succeeding
+                                        Spot nach dem Kickoff. Wird der Kickoff
+                                        zu einem Touchdown zurückgetragen, wird
+                                        die Strafe, je nach Wahl des gefoulten
+                                        Teams, entweder beim Try oder dem
+                                        anschließenden Kickoff
+                                        durchgeführt.</strong>
+                                    </p>
+                                </li>
+                            </ol>
+                        </li>
+                    </ol>
+                </li>
+                <li>Nummern.
+                    <ol type="1">
+                        <li>Auf Brust und Rücken des Trikots müssen deutlich
+                        sichtbare arabische Nummern dauerhaft angebracht und
+                        20–25 cm hoch sein. Die Nummern müssen sich, unabhängig
+                        von deren Umrandung, farblich in deutlichem Kontrast
+                        zur Trikotfarbe abheben.
+                        </li>
+                        <li>Die Trikots aller Spieler eines Teams müssen mit
+                        Nummern gleicher Art und Farbe auf Brust und Rücken
+                        versehen sein. Nummern, die sich auf irgendeinem
+                        Kleidungsteil befinden, müssen mit den vorgeschriebenen
+                        Nummern auf Brust und Rücken übereinstimmen. (Hinweis:
+                        Das Bild eines Trikots im Anhang B dient der
+                        Verdeutlichung der Regel.)
+                        </li>
+                    </ol>
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.1.4.5"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

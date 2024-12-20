@@ -1,0 +1,35 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 7.3.2.XI
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            2. und 10 von der A-40. A11 erhält den Longsnap und übergibt den
+            Ball an Back A44. A44 macht ein paar Schritte in Richtung der
+            Scrimmage Line und wirft dann einen Rückpass auf A11, der sich
+            weiterhin in der Tackle Box befindet. Um einigen Tacklern
+            auszuweichen, verlässt A11 die Tackle Box. Da er nicht in der Lage
+            ist, einen freien Receiver zu finden, wirft er von der A-35 den
+            Ball in eine Zone, in der sich kein berechtigter Receiver befindet.
+            Der Ball landet jenseits der neutralen Zone im Aus.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Illegaler Vorwärtspass. Downverlust an der A-35, 3. und 15. A11
+                verliert das Recht, den Ball legal wegzuwerfen, da er den
+                Ballbesitz an einen anderen Spieler übertrug, bevor er den
+                Vorwärtspass warf.
+            </p>
+        </details>
+    </div>
+</article>

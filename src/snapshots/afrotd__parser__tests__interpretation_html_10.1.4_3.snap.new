@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 10.1.4.III
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team A befindet sich vor dem Snap in einer illegalen Formation.
+            A1’s Vorwärtspass wird von B1 abgefangen, der fünf Meter advanct
+            und getackelt wird. Team B clippt während B1 advanct.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team B hat die Option, aufhebende Fouls zu akzeptieren oder die
+                Aufhebung der Fouls abzulehnen, um den Ball zu behalten,
+                nachdem dessen Strafe vollständig ist. Im letzteren Fall kann
+                Team A die Strafe für Team B’s Clipping-Foul annehmen oder
+                ablehnen.
+            </p>
+        </details>
+    </div>
+</article>

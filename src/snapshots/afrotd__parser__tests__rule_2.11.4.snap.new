@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 11
+  - 4
+title: Berühren eines Balles (Touching)
+text: "\ta) Berühren eines Balles, der sich nicht im Besitz eines Spielers befindet, bezeichnet jeden Kontakt mit dem Ball. Die Berührung kann absichtlich oder unabsichtlich sein und geht immer einem Ballbesitz oder einer Ballkontrolle voraus.\n\tb) Absichtliches Berühren ist eine vorsätzliche oder beabsichtigte Berührung.\n\tc) Eine erzwungene Berührung liegt vor, wenn der Kontakt eines Spielers mit dem Ball dadurch erzwungen wurde,\n\t\t1. dass der Gegner ihn in den Ball geblockt hat oder\n\t\t2. der Ball durch einen Gegner gegen den betreffenden Spieler geschlagen oder illegal gekickt wurde. Wurde die Berührung erzwungen, hat der betreffende Spieler den Ball gemäß der Regel nicht berührt (Regeln 6.1.4 und 6.3.4).\n\td) Im Zweifel wurde der Ball bei einem Kick oder einem Vorwärtspass nicht berührt."
+interpretations: []

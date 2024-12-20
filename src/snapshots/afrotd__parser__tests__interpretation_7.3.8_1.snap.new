@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 8
+index: 1
+text: "B33, der sich jenseits der neutralen Zone mit seinem Rücken\nzum Ball befindet, winkt mit seinen Armen vor dem Gesicht des berechtigten Receivers A88 herum. Es kommt dabei zu keinem Körperkontakt."
+ruling: "Kein Foul. Es gibt kein Foul für eine Defense Passbehinderung, wenn es keinen Körperkontakt gibt."

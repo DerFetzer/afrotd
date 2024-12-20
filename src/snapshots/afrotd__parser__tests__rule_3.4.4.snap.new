@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 4
+  - 4
+title: 10-Sekunden-Abzug von der Game Clock - Foul
+text: "\ta) Verursacht ein Team vor dem Wechsel des Team Ballbesitzes nach dem Zwei-Minuten-Timeout in der zweiten oder vierten Spielperiode ein Foul, durch das die Game Clock sofort angehalten und die Strafe für das Foul angenommen wird, können die Schiedsrichter, je nach Wahl des gefoulten Teams, 10 Sekunden von der Game Clock abziehen (A.R. 3.4.4.I bis 3.4.4.VIII). Die Fouls, die in diese Kategorie fallen, sind nachfolgend, jedoch nicht abschließend, aufgeführt:\n\t\t1. Jedes Foul, durch das der Snap verhindert wird (z. B.: Encroachment, Fehlstart, Defense Offside mit Kontakt in der neutralen Zone) (A.R. 3.4.4.III);\n\t\t2. absichtliches Wegwerfen des Balles, um die Game Clock anzuhalten;\n\t\t3. unvollständiger illegaler Vorwärtspass;\n\t\t4. Rückpass ins Aus geworfen, um die Game Clock anzuhalten;\n\t\t5. jedes andere Foul mit der Absicht die Game Clock anzuhalten. Das gefoulte Team kann die Meterstrafe annehmen und den 10-Sekunden-Abzug ablehnen. Wenn die Meterstrafe abgelehnt wird, ist der 10-Sekunden-Abzug durch die Regel aufgehoben.\n\tb) Der 10-Sekunden-Abzug gilt nicht, wenn die Game Clock zum Zeitpunkt des Fouls nicht läuft oder wenn das Foul nicht dazu führt, dass die Game Clock sofort angehalten wird (z. B.: illegale Formation).\n\tc) Wird nach der Strafdurchführung der 10-Sekunden-Abzug durchgeführt, startet die Game Clock mit dem Signal des Referees. Wird der 10Sekunden-Abzug nicht durchgeführt, startet die Game Clock mit dem Snap. Beachte: Diese Regel überwiegt Regel 3.3.2.f (A.R. 3.3.2.VIII und 3.3.2.IX).\n\td) Hat das foulende Team ein oder mehrere Timeouts zur Verfügung, kann es den 10-Sekunden-Abzug verhindern, in dem es ein Timeout verbraucht. In diesem Fall startet die Game Clock nach dem Timeout mit dem Snap.\n\te) Der 10-Sekunden-Abzug findet keine Anwendung, wenn sich Fouls ereignen, die sich aufheben (A.R. 3.4.4.IV)."
+interpretations: []

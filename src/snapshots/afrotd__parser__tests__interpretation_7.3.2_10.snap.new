@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 2
+index: 10
+text: "QB A12 steht in einer Shotgun Formation. Er mufft den Rückpass vom Snapper und A63 recovert den Ball innerhalb der Tackle Box.\nIn schwerer Bedrängnis der Defense Spieler verlässt A63 die Tackle Box und wirft einen unvollständigen Vorwärtspass, der jenseits der\nneutralen Zone unvollständig ist."
+ruling: "Legales Spiel. A63 kontrollierte den Rückpass, der aus dem Snap resultierte (Regel 7.3.2.h\nAusnahme)."

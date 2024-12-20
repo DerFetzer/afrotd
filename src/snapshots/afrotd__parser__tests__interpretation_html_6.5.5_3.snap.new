@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.5.5.III
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            B1 fängt den Ball, nachdem B3 einen Fair Catch angezeigt hat.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Der Ball ist dead, sobald und wo er gefangen wurde. B1 hat
+                keinen Anspruch auf den Schutz der Fair Catch Regel, hat aber
+                den gleichen Schutz wie bei jedem anderen Dead Ball (Regel
+                6.5.1.d).
+            </p>
+        </details>
+    </div>
+</article>

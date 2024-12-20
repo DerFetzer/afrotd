@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.1.3.VIII
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Während der ersten Ballbesitz-Serie in einer Extraperiode fängt B10
+            einen Vorwärtspass an der B-6 ab und kniet sich in seiner Endzone
+            hin.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Safety. Zwei Punkte für Team A. Team A’s BallbesitzSerie ist
+                vorüber. Team B bringt den Ball ins Spiel, 1. und 10 von der
+                25-Meterlinie an der gleichen Spielfeldseite.
+            </p>
+        </details>
+    </div>
+</article>

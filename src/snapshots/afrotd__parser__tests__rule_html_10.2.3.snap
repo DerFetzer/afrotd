@@ -1,0 +1,53 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            10.2.3 Postscrimmage Kick Enforcement
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Gemäß den Postscrimmage Kick Enforcement Regeln werden Team
+                BFouls, die die unter Regel 10.2.3.b aufgeführten Bedingungen
+                erfüllen, behandelt, als wäre Team B zum Zeitpunkt, als das
+                Foul verursacht wurde, in Ballbesitz gewesen, obwohl der Team
+                Ballbesitz gemäß Regel 2.4.1.b.3 nicht gewechselt hat.
+                </li>
+                <li>Postscrimmage Kick Enforcement trifft nur auf Team B-Fouls
+                während eines Scrimmage Kicks und nur unter den nachfolgend
+                aufgeführten Bedingungen zu:
+                    <ol type="1">
+                        <li>Der Kick wird nicht während eines Try, eines
+                        erfolgreichen Fieldgoals oder in einer Extraperiode
+                        durchgeführt (A.R. 10.2.3.IV).
+                        </li>
+                        <li>Der Ball überquert die neutrale Zone.
+                        </li>
+                        <li>Das Foul ereignet sich, bevor der Kick endet (A.R.
+                        10.2.3.I, 10.2.3.II und 10.2.3.V).
+                        </li>
+                        <li>Team B wird als nächstes den Ball ins Spiel
+                        bringen. Wenn diese Bedingungen alle zutreffen, wird
+                        die Strafe nach dem Dreiund-Eins-Prinzip durchgeführt.
+                        Team B wird als das Team in Ballbesitz betrachtet mit
+                        dem Postscrimmage Kick Spot als Basic Spot (Regel
+                        10.2.2.c). Siehe Regel 2.25.11 für den Postscrimmage
+                        Kick Spot (A.R. 10.2.3.I bis 10.2.3.VII).
+                        </li>
+                    </ol>
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.10.2.3"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

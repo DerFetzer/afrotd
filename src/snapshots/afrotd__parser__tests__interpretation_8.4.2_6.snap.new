@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 4
+  - 2
+index: 6
+text: "4. und 6 von der B-18. Team A’s erfolgloser Fieldgoalversuch\nberührt den Boden jenseits der neutralen Zone und springt zurück hinter die neutrale Zone bis zu der B-28, wo er ins Aus geht oder von\neinem der beiden Teams recovert und in dessen Besitz für dead erklärt\nwird. Der Kick wird jenseits der neutralen Zone nicht berührt."
+ruling: "Team B’s Ball, 1. und 10 von der B-28 (Regeln 6.3.6, 6.3.7 und\n8.4.2.b)."

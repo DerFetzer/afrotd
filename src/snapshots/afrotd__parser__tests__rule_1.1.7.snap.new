@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 1
+  - 7
+title: "Mitglieder, die den Regeln unterliegen"
+text: "\ta) Alle AFVD-Mitglieder müssen ihre Wettkämpfe nach den offiziellen Football Spielregeln des AFVD austragen (Ausnahme: internationale Spiele).\n\tb) Die Schiedsrichterorganisationen innerhalb des AFVD sollen das jeweils von der AFSVD herausgegebene gültige Mechanics-Handbuch verwenden."
+interpretations: []

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 11
+  - 1
+title: Fumble
+text: "Fumbeln des Balles ist der Verlust des Ballbesitzes eines Spielers durch irgendeine Aktion, ausgenommen Passen, Kicken oder erfolgreiches Übergeben des Balles (A.R. 2.19.2.I, A.R. 4.1.3.I). Der Status des Balles ist ein Fumble."
+interpretations: []

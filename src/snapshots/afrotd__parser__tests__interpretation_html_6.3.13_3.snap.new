@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.3.13.III
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            4. und 7 von der A-35. Team A puntet. Beim Snap befinden sich fünf
+            Team A-Spieler im Offense Backfield. Der Kick wird teilweise
+            geblockt, überquert die neutrale Zone, rollt wieder zurück hinter
+            die neutrale Zone und geht dann an der A-32 ins Aus.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Foul, illegale Formation. Team B kann den Ball übernehmen, B’s
+                Ball, 1. und 10 von der A-27 nach einer 5-Meterstrafe, die von
+                der A-32 (dem Dead Ball Spot) durchgeführt wird. Oder Team B
+                kann die 5-Meterstrafe vom Previous Spot annehmen und Team A
+                den vierten Down von der A-30 wiederholen lassen.
+            </p>
+        </details>
+    </div>
+</article>

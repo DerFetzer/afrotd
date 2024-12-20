@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 15
+title: Horse Collar Tackle
+text: "Allen Spielern ist es verboten, die Innenseite des Rücken- oder Seitenteils des Schulterschutzes oder des Trikots oder den Bereich des Namensschildes zu ergreifen und den Ballträger abrupt nach unten zu ziehen. Das gilt auch für den Ballträger, inklusive eines möglichen Passers, der sich innerhalb der Tackle Box befindet."
+interpretations: []

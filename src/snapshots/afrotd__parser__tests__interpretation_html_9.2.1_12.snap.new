@@ -1,0 +1,34 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.2.1.XII
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Während der Ball dead ist, wird eine Flagge für einen Head Coach
+            oder einen Assistenz Coach geworfen, der bis zu den
+            Neunmetermarkierungen auf das Spielfeld kommt und die
+            Schiedsrichter in lauter und unflätiger Weise beleidigt.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Die Schiedsrichter bestrafen den Head Coach oder den Assistenz
+                Coach für das Foul für unsportliches Verhalten. Der Referee
+                sagt an, dass dieses Foul das erste oder zweite Foul gegen den
+                betreffenden Coach ist. Wenn es das zweite Foul gegen den
+                betreffenden Coach ist, hat sich dieser selbst disqualifiziert
+                und muss das Spiel verlassen.
+            </p>
+        </details>
+    </div>
+</article>

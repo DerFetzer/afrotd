@@ -1,0 +1,36 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.3.11.V
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team A snappt von der 50-Meterlinie und puntet. Der Kick ist
+            jenseits der neutralen Zone unberührt, als er fliegend Team B’s
+            Goalline überquert. A88 schlägt den Ball zurück ins Spielfeld und
+            dieser rollt an der B-4 ins Aus. Während des Kicks blockte A55
+            einen Gegner unter der Gürtellinie.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Kein Foul für Schlagen des Balles in der Endzone. Illegales
+                Berühren. Der Punkt der Violation ist die B-20. Team B kann die
+                Strafe für den tiefen Block annehmen, wobei diese entweder von
+                der B-4 oder dem Previous Spot mit Wiederholung des Downs
+                durchgeführt wird. Wenn Team B die Strafe ablehnt, erhält es
+                durch die illegale Berührung von A einen 1. und 10 von der
+                B-20.
+            </p>
+        </details>
+    </div>
+</article>

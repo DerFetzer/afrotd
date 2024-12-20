@@ -1,0 +1,49 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            9.2.2 Unfaire Taktiken
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Kein Spieler darf den Ball in oder unter seiner Kleidung
+                oder Ausrüstung verbergen oder ihn gegen einen anderen
+                Gegenstand austauschen.
+                </li>
+                <li>Es darf kein vorgetäuschtes Auswechseln oder Ersetzen eines
+                Spielers vorgenommen werden, um die Gegner zu täuschen. Es darf
+                keine Taktik angewandt werden, die im Zusammenhang mit
+                Ersatzspielern oder der Auswechselprozedur steht, um die Gegner
+                zu verwirren (Regel 3.5.2.e) (A.R. 9.2.2.I bis 9.2.2.VI). Das
+                beinhaltet jede Taktik mit und ohne Auswechslung.
+                </li>
+                <li>Es darf kein Gegenstand benutzt werden, um einen Gegner zu
+                verwirren (Regel 1.4.2.d). Strafe (a-c): Unsportliches
+                Verhalten durch das Team. Live Ball Foul. 15 Meter vom Previous
+                Spot [S27]. Automatisch First Down für Team B-Fouls, soweit das
+                nicht in Konflikt zu anderen Regeln steht. Verursacher schwerer
+                Fouls müssen disqualifiziert werden [S47].
+                </li>
+                <li>Kein Spieler darf abnehmbare Schuhstollen oder Stollen
+                tragen, die länger als 13 mm sind (Regeln 1.4.7.d und 1.4.7.e).
+                Strafe (d): 15 Meter, Disqualifikation [S27 und S47]. Wird als
+                Dead Ball Foul vom Succeeding Spot durchgeführt. Automatisch
+                First Down für Team B-Fouls, soweit das nicht in Konflikt zu
+                anderen Regeln steht.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.9.2.2"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

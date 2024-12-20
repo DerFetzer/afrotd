@@ -1,0 +1,39 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.8.3 Ungültiges Signal
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Ein ungültiges Signal ist irgendein Winkzeichen eines Team
+                B-Spielers:
+            </p>
+            <ol type="a">
+                <li>das nicht den Anforderungen der Regel 2.8.2 entspricht;
+                </li>
+                <li>das gegeben wird, nachdem ein Scrimmage Kick jenseits der
+                neutralen Zone gefangen wurde oder den Boden oder einen anderen
+                Spieler jenseits der neutralen Zone berührt hat (A.R. 6.5.3.III
+                bis 6.5.3.V) oder
+                </li>
+                <li>das gegeben wird, nachdem ein Free Kick gefangen wurde oder
+                den Boden oder einen anderen Spieler berührt hat (Ausnahme:
+                Regel 6.4.1.f).
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.8.3"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

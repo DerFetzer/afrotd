@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 3
+  - 2
+index: 1
+text: "Team A berührt illegal seinen Kick und, nachdem Team B den\nBall berührt hat, recovert ihn Team A."
+ruling: "Die Berührung von\nTeam A, nachdem Team B den Kick berührt hat, ist legal und, um den\nBall zu bekommen, muss Team B ihn an der Stelle übernehmen, an\nder Team A den Kick illegal berührt hat. Solange die illegale Berührung durch das Kicking Team nicht auch eine illegale Recovery ist und\nsich keine Fouls ereignen, kann das Receiving Team den Ball mit der\nGewissheit spielen, dass es ihn später an der Stelle der illegalen Berührung übernehmen kann."

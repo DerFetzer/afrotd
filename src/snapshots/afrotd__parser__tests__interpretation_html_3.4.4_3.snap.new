@@ -1,0 +1,34 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.4.4.III
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            3. und 7 von der B-35. Team A führt mit 24-21 bei weniger als eine
+            Minute verbleibender Spielzeit in der vierten Spielperiode und
+            laufender Game Clock. Tackle B55 springt in die neutrale Zone und
+            berührt A77. Die Schiedsrichter pfeifen ab und die Game Clock
+            bleibt bei 38 Sekunden stehen. Team B hat keine Timeouts mehr
+            übrig.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Dead Ball Foul. Offside gegen Team B. 5-Meterstrafe und
+                10Sekunden-Abzug von der Game Clock. Die Game Clock wird auf 28
+                Sekunden gesetzt. Team A’s Ball, 3. und 2 von der B-30. Die
+                Game Clock startet beim Signal des Referees.
+            </p>
+        </details>
+    </div>
+</article>

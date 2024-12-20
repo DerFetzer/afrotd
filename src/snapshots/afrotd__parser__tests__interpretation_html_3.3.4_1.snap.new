@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.3.4.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Vor dem Snap verlangt ein legaler Ersatzspieler, der von seiner
+            Bank kommt, von einem Schiedsrichter ein Timeout, bevor er sich
+            innerhalb der Neunmetermarkierungen befindet. Er verlangt dann noch
+            einmal ein Timeout, als er sich innerhalb der Neunmetermarkierungen
+            befindet.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Das erste Timeout-Verlangen wird nicht gewährt. Das zweite
+                Timeout-Verlangen wird gewährt (Regel 7.1.3.b).
+            </p>
+        </details>
+    </div>
+</article>

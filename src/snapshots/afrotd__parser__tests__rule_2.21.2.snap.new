@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 21
+  - 2
+title: Scrimmage Line
+text: "Die Scrimmage Line für jedes Team ist etabliert, wenn der Ball spielbereit ist. Sie ist die Meterlinie und ihre vertikale Fläche darüber, die den Punkt des Balles berührt, der am nächsten zur eigenen Endzone eines Teams liegt."
+interpretations: []

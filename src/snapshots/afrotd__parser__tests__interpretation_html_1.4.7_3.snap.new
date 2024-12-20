@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 1.4.7.III
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Beim Passcheck erkennt der Referee, dass beide Teams identische
+            Trikotfarben tragen, bzw. Trikots tragen, die nicht eindeutig
+            unterschiedlich sind.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Der Referee bespricht das Problem mit den Verantwortlichen der
+                Teams. Er gibt ihnen eine Stunde Zeit, für andere Trikots zu
+                sorgen. Nach Ablauf der Frist lässt sich der Referee die
+                Spielberichte geben und trägt den Vorfall entsprechend ein. Das
+                Spiel wird nicht angepfiffen und die spielleitende Stelle wird
+                verständigt.
+            </p>
+        </details>
+    </div>
+</article>

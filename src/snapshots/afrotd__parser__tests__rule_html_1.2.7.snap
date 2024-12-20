@@ -1,0 +1,58 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            1.2.7 Line to Gain- und Downanzeiger
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Der offizielle Line to Gain- (Meterkette) und der Downanzeiger
+                sollen grundsätzlich 2 m außerhalb der Seitenlinie gegenüber
+                der Press Box postiert werden. Davon ausgenommen sind Stadien,
+                in denen der bauliche Zustand das nicht gestattet.
+            </p>
+            <ol type="a">
+                <li>Wenn eine Kette benutzt wird, muss diese an zwei Stangen
+                befestigt sein, die nicht niedriger als 1,5 m sein dürfen. Die
+                Innenseiten der Stangen müssen genau 1/12 des Feldes, jedoch
+                nicht weiter als 9,14 m (10 Yards), voneinander entfernt sein,
+                wenn die Kette gespannt wird.
+                </li>
+                <li>Der Downanzeiger muss an einer Stange befestigt sein, die
+                nicht niedriger als 1,5 m ist und soll ungefähr 2 m außerhalb
+                der Seitenlinie gegenüber der Press Boss bedient werden. Die
+                Press Box ist ein Bereich des Stadions, in dem sich
+                Journalisten oder Stadionsprecher aufhalten können.
+                </li>
+                <li>Ein inoffizieller zusätzlicher Anzeiger, der die Line to
+                Gain anzeigt, und ein inoffizieller Downanzeiger dürfen auf der
+                gegenüberliegenden Seitenlinie benutzt werden, nur müssen sie 2
+                m von dieser Seitenlinie entfernt sein.
+                </li>
+                <li>Empfohlen sind inoffizielle, rote oder orange, rutschfeste
+                Pfeile, die die Line to Gain anzeigen und an beiden Seiten des
+                Spielfeldes außerhalb der Seitenlinien auf den Boden gelegt
+                werden. Diese Pfeile sollen rechtwinklig, aus weichem Material
+                und ca. 25x80 cm groß sein. Die Spitze, die aus einem
+                gleichschenkligen Dreieck mit 25 cm Grundlinie besteht, soll
+                zur Seitenlinie zeigen.
+                </li>
+                <li>Alle Line to Gain- und Downanzeiger müssen flache Enden
+                haben.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.1.2.7"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

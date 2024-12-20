@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.5.3.V
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team A hat sich zu einem Fieldgoalversuch aufgestellt und Team B
+            hat 11 Spieler auf dem Spielfeld. Unmittelbar bevor der Snap
+            erfolgt, läuft ein zwölfter Team B-Spieler auf das Spielfeld. Der
+            Ball wird gesnappt, und der Kicker führt den Kick durch.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Live Ball Foul. 5-Meterstrafe, Previous Spot oder Team A kann
+                das Ergebnis des Downs akzeptieren.
+            </p>
+        </details>
+    </div>
+</article>

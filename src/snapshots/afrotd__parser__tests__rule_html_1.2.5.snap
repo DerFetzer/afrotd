@@ -1,0 +1,50 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            1.2.5 Tore (Goals)
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Jedes Tor muss aus zwei senkrecht stehenden, gelben oder
+                weißen, 9 m hohen Pfosten bestehen, die mit einer gelben oder
+                weißen horizontalen Querlatte verbunden sind, deren Oberkante
+                sich mindestens 2,4 m und höchstens 3 m über dem Boden
+                befindet. Die Pfosten und die Querlatte müssen sich auf bzw.
+                über der Endlinie befinden. Jedes Tor befindet sich im Aus.
+                </li>
+                <li>Über der Querlatte sollen die Pfosten weiß oder gelb sein
+                und von den Innenseiten gemessen zwischen 5,6 m und 7,4 m
+                auseinander stehen.
+                </li>
+                <li>An den Pfosten und der Querlatte dürfen keine dekorativen
+                Materiali- en befestigt sein. (Ausnahme: An den oberen Enden
+                der Pfosten sind 10x100 cm große, rote oder orange Wimpel
+                erlaubt, die die Windrichtung anzeigen.)
+                </li>
+                <li>Die Höhe der Querlatte wird von deren Oberkante bis zum
+                Boden gemessen.
+                </li>
+                <li>Die Pfosten müssen vom Boden ab bis zu einer Höhe von 1,8 m
+                mit einer mindestens 10 cm dicken, elastischen Polsterung
+                bedeckt sein.
+                </li>
+                <li>Das Heimteam ist dafür verantwortlich, dass transportable
+                Tore vorhanden sind.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.1.2.5"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

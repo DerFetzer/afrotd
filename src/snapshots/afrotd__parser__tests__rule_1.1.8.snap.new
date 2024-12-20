@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 1
+  - 8
+title: Ausnahme-Regelungen
+text: "Ausnahmen für den Spielbetrieb von Damen-, Jugend-, Hochschul- und SchülerMannschaften sowie in Aufbauligen werden durch die jeweils gültige BSO geregelt."
+interpretations: []

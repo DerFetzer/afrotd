@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 8
+index: 9
+text: "A88 und B2 laufen dicht nebeneinander her, bevor der Ball geworfen wird. Einer von beiden oder beide fallen, als sich ihre Füße berühren und verheddern. Keiner der beiden stellte dem anderen absichtlich ein Bein."
+ruling: Kein Foul.

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 3
+  - 4
+index: 1
+text: "Team A kickt von der A-30. Der unberührte Kick kommt an der\nB-3 zur Ruhe, als B1 von A3 in den Ball geblockt wird, wodurch der Ball\ndurch die Endzone und über die Endlinie getrieben wird."
+ruling: "Touchback. Da A3 B1 in den Ball geblockt hat, hat B1 nicht die Verantwortung für die Ballberührung. Der Antrieb des Balles wird nicht Team\nB, sondern dem Kick durch Team A angelastet (Regel 8.7.1)."

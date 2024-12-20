@@ -1,0 +1,50 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.19.2 Vorwärts- und Rückpässe
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Ein Pass ist vorwärts, wenn der Ball zuerst den Boden,
+                einen Spieler, einen Schiedsrichter oder irgendetwas jenseits
+                des Punktes berührt, von dem aus er geworfen wurde. Alle
+                anderen Pässe sind Rückpässe. Im Zweifel handelt es sich bei
+                einem Pass, der in oder hinter der neutralen Zone abgeworfen
+                wurde, eher um einen Vorwärts- als um einen Rückpass.
+                </li>
+                <li>Wenn ein Team A-Spieler den Ball hält, um ihn in Richtung
+                der neutralen Zone zu werfen, beginnt der Vorwärtspass mit
+                jeder vorsätzlichen Vorwärtsbewegung seiner Hand, während er
+                den Ball fest unter Kontrolle hat. Das gilt nicht, wenn
+                deutlich erkennbar ist, dass der Spieler beginnt, den Ball, den
+                er fest in seiner Hand hält, wieder zurück an seinen Körper zu
+                bringen. Wenn ein Team B-Spieler den Passer oder den Ball
+                berührt, nachdem die Vorwärtsbewegung beginnt und der Ball die
+                Hand des Passers verlässt, gilt der Vorwärtspass, ungeachtet
+                dessen, wo der Ball auf den Boden oder einen Spieler trifft
+                (A.R. 2.19.2.I).
+                </li>
+                <li>Im Zweifel wurde der Ball während eines
+                Vorwärtspass-Versuches geworfen und nicht gefumbelt.
+                </li>
+                <li>Wenn der Ball die Hand des Snappers verlässt, wird der
+                Snap, außer bei einer Hand-zu-Hand-Übergabe, zu einem Rückpass
+                (A.R. 2.23.1.I).
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.19.2"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

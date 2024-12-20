@@ -1,0 +1,80 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            3.3.10 Verlust des Helmes – Timeout
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Verliert ein Spieler durch die Teilnahme an einem Down
+                seinen Helm vollständig, außer als direkte Folge eines Fouls
+                durch einen Gegner, muss der betreffende Spieler das Spiel für
+                den nächsten Down verlassen. Die Game Clock stoppt am Ende des
+                Downs. Der Spieler kann im Spiel bleiben, wenn sein Team eines
+                seiner verbleibenden TeamTimeouts verbraucht.
+                </li>
+                <li>Ist der Helmverlust der einzige Grund zum Anhalten der Game
+                Clock, ausgenommen der Verletzung des Helm verlierenden
+                Spielers oder eines seiner Mitspieler (Regel 3.3.6), treffen
+                die folgenden Bedingungen zu (A.R. 3.3.9.I bis 3.3.9.III):
+                    <ol type="1">
+                        <li>Außer nach einem Team-Timeout oder wenn die Game
+                        Clock für das Zwei-Minuten-Timeout angehalten wurde,
+                        wird die Play Clock auf 25 Sekunden gesetzt, wenn ein
+                        Offense Spieler seiner Helm verliert und auf 40
+                        Sekunden, wenn es sich um einen Defense Spieler
+                        handelt. Vor dem Zwei-Minuten-Timeout in der zweiten
+                        oder der vierten Spielperiode startet die Game Clock
+                        mit dem Signal des Referees.
+                        </li>
+                        <li>10-Sekunden-Abzug von der Game Clock: Nach dem
+                        Zwei-Minuten-Timeout in der zweiten oder vierten
+                        Spielperiode hat das gegnerische Team die Möglichkeit
+                        eines 10-Sekunden-Abzugs, es sei denn, der Helmverlust
+                        ist die direkte Folge eines Fouls durch einen Gegner.
+                        </li>
+                        <li>Wird der 10-Sekunden-Abzug durchgeführt, startet
+                        die Game Clock mit dem Signal des Referees. Wird kein
+                        10-Sekunden-Abzug durchgeführt, startet die Game Clock
+                        mit dem Snap.
+                        </li>
+                        <li>Der 10-Sekunden-Abzug kann vermieden werden, wenn
+                        das betreffende Team ein noch vorhandenes Team-Timeout
+                        nutzt.
+                        </li>
+                        <li>Es gibt keine Möglichkeit eines 10-Sekunden-Abzugs,
+                        wenn Spieler beider Teams ihren Helm vollständig
+                        verlieren (A.R. 3.3.9.V).
+                        </li>
+                    </ol>
+                </li>
+                <li>Verliert der Ballträger seinen Helm durch die Teilnahme am
+                Down vollständig, wird der Ball dead (Regel 4.1.3.q). Ist der
+                betreffende Spieler kein Ballträger, bleibt der Ball live, aber
+                der betreffende Spieler darf sich, außer an der mit dem
+                Helmverlust verbundenen Aktion, nicht mehr am weiteren
+                Spielgeschehen beteiligen. Weiterführende aktive Teilnahme ist
+                ein persönliches Foul (Regel 9.1.17). Dieser Spieler ist gemäß
+                der Definition ein Spieler, der sich nicht mehr am
+                Spielgeschehen beteiligt (Regel 9.1.12.b).
+                </li>
+                <li>Ein Spieler, der absichtlich seinen Helm abnimmt, während
+                der Ball live ist, begeht ein Foul für unsportliches Verhalten
+                (Regel 9.2.1.a.1.h).
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.3.3.10"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

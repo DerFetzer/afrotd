@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 3
+  - 3
+index: 1
+text: "Bei einem Try ereignet sich ein Foul, während Team A’s legaler\nKick, der sich unberührt in der Luft befindet, die neutrale Zone überquert\nhat."
+ruling: "Wenn das Foul von Team A verursacht wurde, der Try\nerfolglos ist und Team B nicht in Ballbesitz gelangt, ist der Try vorüber.\nWenn das Foul von Team A verursacht wurde und der Try erfolgreich\nist, wird die Strafe vom Previous Spot durchgeführt, der Try wird wiederholt. Wenn das Foul von Team B verursacht wurde und der Try erfolgreich ist, wird Team A der Punkt zuerkannt, es sei denn, Team A\nentscheidet, dass es die Strafe annehmen und einen 2-Punkte-Versuch\nunternehmen will. Der Try ist vom Postscrimmage Kick Enforcement\nausgenommen. Persönliche Fouls von Team B können beim anschließenden Kickoff oder vom Succeeding Spot in Extraperioden geahndet\nwerden. Wenn der Try erfolglos war, kann Team A die Strafe annehmen\nund der Try wird wiederholt."

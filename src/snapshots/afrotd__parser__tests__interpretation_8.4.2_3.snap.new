@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 4
+  - 2
+index: 3
+text: "4. und 8 von der B-40. Team A’s Fieldgoalversuch prallt auf den\nBoden an der B-3 und von dort in die Endzone, wo er von einem Team\nB-Spieler aus der Luft gefangen und anschließend dead wird."
+ruling: Touchback (Regel 8.6.1.b). Team B’s Ball an der B-20.

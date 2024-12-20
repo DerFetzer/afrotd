@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 28
+  - 1
+title: Tripping
+text: "Tripping (Beinstellen) ist der absichtliche Einsatz des eigenen Schienbeins oder des Fußes, um einen Gegner zu behindern, wobei dieser unterhalb des Knies getroffen wird (Regel 9.1.2.c)."
+interpretations: []

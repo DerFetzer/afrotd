@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            4.1.5 Play Clock-Countdown
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Der Ball muss innerhalb von 40 oder 25 Sekunden, nachdem er
+                spielbereit ist (Regel 3.2.4), ins Spiel gebracht werden, es
+                sei denn, das Spiel musste während des Play Clock-Countdowns
+                unterbrochen werden. Wurde das Spiel unterbrochen, muss der
+                Play Clock-Countdown neu gestartet werden.
+            </p>
+            <p>
+                <strong>Strafe: Dead Ball Foul für Spielverzögerung, 5 Meter
+                vom Succeeding Spot [S7 und S21].</strong>
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.4.1.5"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

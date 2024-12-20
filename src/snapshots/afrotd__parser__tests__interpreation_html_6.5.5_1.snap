@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.5.5.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            B1 und B2 zeigen beide einen Fair Catch an. B1 mufft und B2 ist im
+            Begriff, den gemufften Ball zu fangen, als er von A1 getackelt
+            wird.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Keine Behinderung, aber Halten. Strafe – 10 Meter vom Previous
+                Spot oder von dem Punkt, an dem der anschließende Dead Ball zu
+                Team B gehört.
+            </p>
+        </details>
+    </div>
+</article>

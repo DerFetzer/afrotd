@@ -1,0 +1,51 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            5.1.3 Forward Progress
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Wird der Ball zwischen den Endlinien für dead erklärt, ist
+                der vorderste Punkt des Balles der entscheidende Punkt für die
+                Bestimmung des Raumgewinns oder -verlustes eines Teams während
+                eines Downs. Ausnahmen:
+                    <ol type="1">
+                        <li>Regel 8.5.1, A.R. 8.5.1.I;
+                        </li>
+                        <li>Wenn ein in der Luft befindlicher Spieler eines
+                        Teams inbounds ein Fangen vervollständigt, nachdem ein
+                        Gegner ihn zurückgedrängt hat und der Ball am Punkt des
+                        Fangens für dead erklärt wird, befindet sich der
+                        Forward Progress an dem Punkt, an dem der Spieler
+                        sichere Kontrolle über den Ball erlangt und behalten
+                        hat. Der Ball muss immer mit seiner Längsachse parallel
+                        zur Seitenlinie ausgerichtet werden, bevor nachgemessen
+                        wird (Regel 4.1.3.p) (A.R. 5.1.3.I, 5.1.3.III, 5.1.3.IV
+                        und 5.1.3.VI und A.R. 7.3.6.V).
+                        </li>
+                    </ol>
+                </li>
+                <li>Zweifelhafte Distanzen zu einem First Down sollen
+                unaufgefordert nachgemessen werden. Unnötige Messungen zur
+                Bestimmung eines First Downs müssen nicht gewährt werden.
+                </li>
+                <li>Nachdem der Ball spielbereit ist, muss kein Nachmessen mehr
+                gewährt werden.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.5.1.3"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

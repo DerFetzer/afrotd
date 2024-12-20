@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 16
+  - 9
+title: Fieldgoalversuch
+text: Ein Fieldgoalversuch ist ein Scrimmage Kick. Es kann ein Place Kick oder ein Drop Kick sein.
+interpretations: []

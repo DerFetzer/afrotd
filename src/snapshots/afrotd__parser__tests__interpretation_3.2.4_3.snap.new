@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 2
+  - 4
+index: 3
+text: "Team A erzielt einen Touchdown und die 40-Sekunden Play\nClock wird gestartet. Ohne das Spiel zu unterbrechen sieht der Referee\nden Umpire über dem Ball stehen und dass alle anderen Schiedsrichter\nihre Positionen eingenommen haben. Die Play Clock zeigt (a) 25 oder\nmehr Sekunden oder (b) 24 oder weniger Sekunden an."
+ruling: "(a)\nDer Referee schickt den Umpire auf seine Position im Defense Backfield und lässt zu, dass der Snap durchgeführt wird. (b) Der Referee\nzeigt an, dass die Play Clock auf 25 Sekunden gesetzt werden soll und\nschickt danach den Umpire auf seine Position ins Defense Backfield,\ndamit der Snap durchgeführt werden kann."

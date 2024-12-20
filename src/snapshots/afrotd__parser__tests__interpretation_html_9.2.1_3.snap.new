@@ -1,0 +1,35 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.2.1.III
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            2. und 5 von der B-40. Back A22 erhält einen Rückpass vom
+            Quarterback, dreht sich nach rechts und stürmt in Richtung
+            Goalline. Guard A66, der voraus gelaufen war, um für A22 zu
+            blocken, blockt B90 legal zu Boden. A66 bleibt an der B-30 über dem
+            am Boden liegenden B90 stehen, verhöhnt ihn und ruft obszöne
+            Beleidigungen. Dafür erhält er eine Flagge vom Linesman, als sich
+            A22 an der B-10 befindet. A22 setzt seinen Weg in die Endzone
+            ungehindert fort.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Live Ball Foul für unsportliches Verhalten. 15-Meterstrafe von
+                der B-30, dem Punkt des Fouls und Wiederholung des zweiten
+                Downs. A’s Ball, 2. und 10 von der B-45.
+            </p>
+        </details>
+    </div>
+</article>

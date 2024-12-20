@@ -1,0 +1,101 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            7.1.4 Einschränkungen der Offense – Beim Snap
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Verstöße gegen die folgenden Aktionen (a-c) sind Live Ball
+                Fouls und das Spielgeschehen darf fortgesetzt werden:
+            </p>
+            <ol type="a">
+                <li>Formation. Beim Snap muss Team A in einer Formation sein,
+                die folgende Bedingungen erfüllt:
+                    <ol type="1">
+                        <li>Alle Spieler müssen sich inbounds befinden.
+                        </li>
+                        <li>Alle Spieler müssen entweder Linemen oder Backs
+                        (Regel 2.27.4, A.R. 7.1.4.VIII) sein.
+                        </li>
+                        <li>Wenigstens fünf Linemen müssen Trikots mit einer
+                        Nummer von 50 bis 79 tragen (Ausnahme: wenn der Snap
+                        aus einer Scrimmage Kick-Formation erfolgt (Regel
+                        7.1.4.a.5)).
+                        </li>
+                        <li>Nicht mehr als vier Spieler sind Backs.
+                        </li>
+                        <li>In einer Scrimmage Kick-Formation (Regel 2.16.10)
+                        darf Team A beim Snap weniger als fünf Spieler haben,
+                        die Trikots mit Nummern von 50 bis 79 tragen, wenn
+                        nachfolgende Bedingungen erfüllt sind:
+                            <ol type="a">
+                                <li>Jeder Lineman, der kein Trikot mit einer
+                                Nummer von 50 bis 79 trägt und durch seine
+                                Position ein unberechtigter Receiver ist, wird
+                                von der vorgeschriebenen Nummerierung
+                                ausgenommen, sobald der Snapper sich
+                                eingerichtet hat.
+                                </li>
+                                <li>Jeder von der Nummerierung ausgenommene
+                                Lineman muss sich an der Scrimmage Line
+                                befinden und darf nicht an einem Ende der
+                                Scrimmage Line stehen. Anderenfalls verursacht
+                                Team A ein Foul für eine illegale Formation.
+                                </li>
+                                <li>Jeder derartige Spieler ist während des
+                                Downs von der vorgeschriebenen Nummerierung
+                                ausgenommen und bleibt ein unberechtigter
+                                Receiver, bis er gemäß Regel 7.3.5
+                                (Vorwärtspass berührt von einem Schiedsrichter
+                                oder einem Team BSpieler) zu einem berechtigten
+                                Receiver wird. Die Beschränkungen von 5 a) bis
+                                5 c) treffen nicht länger zu, wenn vor dem Snap
+                                eine Periode endet oder dem Referee oder einem
+                                der Teams ein Timeout angerechnet wird.
+                                </li>
+                            </ol>
+                        </li>
+                    </ol>
+                </li>
+                <li>Spieler in Bewegung.
+                    <ol type="1">
+                        <li>Ein Back darf sich bewegen, aber er darf sich nicht
+                        in Richtung der gegnerischen Goalline bewegen.
+                        </li>
+                        <li>Der Spieler, der sich bewegt, darf nicht von seiner
+                        Scrimmage Line starten, es sei denn, er wird vorher zum
+                        Back und steht vollkommen still.
+                        </li>
+                        <li>Ein Spieler, der sich beim Snap bewegt, muss erst
+                        die Ein-SekundenRegel erfüllt haben (z. B.: Er darf
+                        seine Bewegung nicht starten, bevor irgendein Shift
+                        (Regel 2.22.1.c) beendet ist).
+                        </li>
+                    </ol>
+                </li>
+                <li>Illegaler Shift. Beim Snap darf Team A keinen illegalen
+                Shift durchführen (Regel 7.1.2.a) (A.R. 7.1.3.I bis 7.1.3.II).
+                Strafe (a-c): Live Ball Foul. 5 Meter vom Previous Spot [S19
+                oder S20]. Für Live Ball Fouls, die passieren, wenn der Snap
+                eines Scrimmage KickSpieles (Fieldgoalversuche ausgenommen)
+                beginnt: 5 Meter vom Previous Spot oder, falls der Kick die
+                neutrale Zone überquert, 5 Meter von dem Punkt, an dem der
+                anschließende Dead Ball zu Team B gehört [S19 oder S20].
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.7.1.4"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

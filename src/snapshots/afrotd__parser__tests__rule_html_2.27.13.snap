@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.27.13 Teamangehörige und Teammitglieder
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Ein Teammitglied ist Teil einer Gruppe von potentiellen
+                Spielern in Ausrüstung, das zur Spielteilnahme bei einem
+                Footballspiel bestimmt ist. Ein Mitspieler ist ein Teammitglied
+                eines Teams, welches sich während eines Downs auf dem Feld
+                befindet. Alle anderen Personen sind Teamangehörige, wenn sie
+                sich in einer Teamzone aufhalten.
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.27.13"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

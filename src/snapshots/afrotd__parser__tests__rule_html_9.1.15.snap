@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            9.1.15 Horse Collar Tackle
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Allen Spielern ist es verboten, die Innenseite des Rücken- oder
+                Seitenteils des Schulterschutzes oder des Trikots oder den
+                Bereich des Namensschildes zu ergreifen und den Ballträger
+                abrupt nach unten zu ziehen. Das gilt auch für den Ballträger,
+                inklusive eines möglichen Passers, der sich innerhalb der
+                Tackle Box befindet.
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.9.1.15"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            5.2.9 Endgültigkeit der Regelauslegung
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Eine Regelentscheidung darf nicht geändert werden, nachdem der
+                Ball das nächste Mal legal gesnappt oder beim Free Kick legal
+                gekickt oder die zweite Periode oder die vierte Periode beendet
+                wurde (Regeln 3.2.1.a, 3.3.4.e.2 und 11.1.1) (Ausnahme: Die
+                Nummer eines Downs kann jederzeit innerhalb dieser Downserie
+                oder bevor der Ball das nächste Mal in der folgenden Serie
+                legal ins Spiel gebracht wird, korrigiert werden). Regel 6
+                Kicks
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.5.2.9"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

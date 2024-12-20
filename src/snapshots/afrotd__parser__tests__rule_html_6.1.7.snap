@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            6.1.7 Ball dead in Endzone
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Wenn ein von Team B unberührter Free Kick den Boden auf
+                oder hinter Team B’s Goalline berührt, wird der Ball dead und
+                gehört zu Team B.
+                </li>
+                <li>Ist das Ergebnis des Free Kick-Spieles ein Touchback (Regel
+                8.6.2) für Team B, dann bringt Team B den Ball an der eigenen
+                25-Meterlinie ins Spiel.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.6.1.7"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

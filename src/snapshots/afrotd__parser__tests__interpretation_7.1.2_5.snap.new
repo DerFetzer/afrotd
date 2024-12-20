@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 1
+  - 2
+index: 5
+text: "3. und 3 an der B-40. Quarterback A12 befindet sich in einer\nShotgun Formation und täuscht das Klatschen in die Hände vor, (a)\nwährend er in Position steht; (b) während er mit den Händen und Schultern in übertriebener Art und Weise nach vorn zuckt und den Start des\nSpielzuges vortäuscht."
+ruling: "Regel 7.1.2.b.4.c erklärt, dass es\nein Fehlstart ist, wenn der Quarterback eine schnelle, plötzliche, ruckartige Bewegung macht, die den Start des Spielzuges vortäuscht. In (a)\nkein Foul; in (b) Fehlstart durch A12."

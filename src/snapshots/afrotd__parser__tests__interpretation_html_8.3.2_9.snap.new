@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 8.3.2.IX
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Bei einem Ein-Punkt-Try wird Team A’s Kick geblockt und B75
+            recovert den Ball an der B-2. Er advanct und fumbelt den Ball. Der
+            Ball rollt in B’s Endzone, wo B61 den Ball recovert und gestoppt
+            wird.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Safety. Team A erhält einen Punkt (Regel 8.1.1).
+            </p>
+        </details>
+    </div>
+</article>

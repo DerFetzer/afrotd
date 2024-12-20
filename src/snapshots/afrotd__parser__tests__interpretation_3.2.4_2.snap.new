@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 2
+  - 4
+index: 2
+text: "Nachdem der Ball nach einem Laufspiel in einer Seitenzone dead\nwurde, haben die Schiedsrichter Schwierigkeiten, den Ball zu den Hash\nMarks zu bringen. Als die Play Clock weniger als „25“ anzeigt, legt der\nUmpire den Ball auf den Boden und geht zur Seite."
+ruling: "Ohne\ndie Game Clock anzuhalten, zeigt der Referee durch ein Pumpsignal\nan, dass die Play Clock auf „25“ gesetzt wird. Kann die Play Clock\nschnell auf „25“ gesetzt werden, wird die Game Clock nicht angehalten. Nur wenn der Bediener der Play Clock nicht schnell genug auf das\nSignal des Referees reagiert, nimmt der Referee ein Timeout, zeigt an,\ndass die Play Clock auf „25“ gestellt werden soll und startet danach\nbeide Uhren."

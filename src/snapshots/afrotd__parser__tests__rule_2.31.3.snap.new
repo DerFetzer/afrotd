@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 31
+  - 3
+title: Endzonen
+text: "\ta) Die Endzone an jedem Ende des Feldes ist die rechteckige Zone, die durch die Goalline, die Seitenlinien und die Endlinie gebildet wird.\n\tb) Die Goalline-Pylone und die Goalline befinden sich in der Endzone.\n\tc) Die Endzone eines Teams ist die, die es verteidigt (A.R. 8.5.1.VII und 8.6.1.I)."
+interpretations: []

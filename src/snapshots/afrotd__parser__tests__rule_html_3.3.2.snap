@@ -1,0 +1,159 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            3.3.2 Starten und Anhalten der Game Clock
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Free Kick. Nach einem Free Kick muss die Game Clock durch
+                das Signal eines Schiedsrichters gestartet werden, sobald der
+                Ball im Spielfeld legal berührt wird oder er die Goalline ins
+                Spielfeld hinein überquert, nachdem er von Team B legal in
+                dessen Endzone berührt wurde. Sie wird anschließend durch das
+                Signal eines Schiedsrichters angehalten, wenn der Ball durch
+                die Regel dead wird (A.R. 3.3.2.VII).
+                </li>
+                <li>Scrimmage Down. Wenn die Periode mit einem Scrimmage Down
+                beginnt, muss die Game Clock mit dem legalen Snap gestartet
+                werden. Bei allen anderen Scrimmage Downs muss die Game Clock
+                durch ein vorheriges Signal des Referees (Regel 3.3.2.e) oder
+                mit dem legalen Snap gestartet werden (Regel 3.3.2.d). Während
+                eines Try, der Verlängerung einer Spielperiode oder während
+                einer Extraperiode läuft die Game Clock nicht (A.R. 3.3.2.I bis
+                3.3.2.IV).
+                </li>
+                <li>Nach einer Punkterzielung. Die Game Clock wird durch das
+                Signal eines Schiedsrichters nach einem Touchdown,
+                erfolgreichen Fieldgoal oder Safety angehalten. Sie wird wieder
+                gemäß Regel 3.3.2.a gestartet, außer die Punkte werden wegen
+                einer angenommenen Strafe annulliert oder der Down wird
+                wiederholt, dann startet die Game Clock mit dem legalen Snap.
+                </li>
+                <li>Starten mit dem Snap. Für jede der nachfolgend aufgeführten
+                Fälle wird die Game Clock durch das Signal eines
+                Schiedsrichters angehalten. Wenn der nächste Down mit einem
+                Snap beginnt, startet die Game Clock mit dem Snap:
+                    <ol type="1">
+                        <li>Touchback;
+                        </li>
+                        <li>nach dem Zwei-Minuten-Timeout in der zweiten oder
+                        vierten Spielperiode wird entschieden, dass sich ein
+                        Team A-Ballträger, -Fumble oder -Rückpass im Aus
+                        befindet (Ausnahme: Nach einem Vorwärtsfumble ins Aus
+                        durch Team A startet die Game Clock beim Signal des
+                        Referees.);
+                        </li>
+                        <li>Team B wird ein First Down zuerkannt und snappt als
+                        nächstes den Ball (A.R. 3.3.2.V);
+                        </li>
+                        <li>es wird entschieden, dass ein Vorwärtspass
+                        unvollständig ist;
+                        </li>
+                        <li>einem Team wird ein Timeout, welches ihm
+                        angerechnet wird, gewährt;
+                        </li>
+                        <li>der Ball wird illegal;
+                        </li>
+                        <li>eine Spielperiode endet oder es ein
+                        Zwei-Minuten-Timeout gibt;
+                        </li>
+                        <li>ein legaler Kick-Down endet (A.R. 3.3.2.VI);
+                        </li>
+                        <li>ein Return Kick wird durchgeführt;
+                        </li>
+                        <li>ein illegaler Scrimmage Kick wird durchgeführt;
+                        </li>
+                        <li>Team A verursacht ein Spielverzögerungsfoul,
+                        während es sich in einer Scrimmage Kick-Formation
+                        befindet.
+                        </li>
+                    </ol>
+                </li>
+                <li>Starten beim Signal des Referees. Für jede der nachfolgend
+                aufgeführten Fälle wird die Game Clock durch das Signal eines
+                Schiedsrichters angehalten. Wenn der nächste Down mit einem
+                Snap beginnt, startet die Game Clock beim Signal des Referees:
+                    <ol type="1">
+                        <li>Team A wird entweder durch das Spiel oder eine
+                        Strafe ein First Down zuerkannt;
+                        </li>
+                        <li>ein Team A-Fumble geht nach vorne ins Aus;
+                        </li>
+                        <li>außer nach dem Zwei-Minuten-Timeout in der zweiten
+                        oder vierten Spielperiode wird entschieden, dass sich
+                        ein Team A-Ballträger, -Fumble oder -Rückpass im Aus
+                        befindet;
+                        </li>
+                        <li>um eine Strafe zu vervollständigen (Ausnahme: Regel
+                        3.4.4.c);
+                        </li>
+                        <li>ein Verletzungs-Timeout wird für einen oder mehrere
+                        Spieler oder einen Schiedsrichter erlaubt (A.R. 3.3.5.I
+                        bis 3.3.5.V);
+                        </li>
+                        <li>es wird irrtümlich abgepfiffen;
+                        </li>
+                        <li>es muss für ein mögliches First Down nachgemessen
+                        werden;
+                        </li>
+                        <li>beide Teams verursachen eine Verzögerung, die dazu
+                        führt, dass der Ball nicht freigegeben werden kann
+                        (A.R. 3.3.1.III);
+                        </li>
+                        <li>ein Live Ball kommt in den Besitz eines
+                        Schiedsrichters;
+                        </li>
+                        <li>ein Head Coach beantragt eine Head Coach‘s
+                        Conference;
+                        </li>
+                        <li>der Referee lässt ein Medien-Timeout zu;
+                        </li>
+                        <li>der Referee nimmt ein Timeout aus eigenem Ermessen;
+                        </li>
+                        <li>der Referee nimmt ein Timeout für unfairen Lärm
+                        (Regel 9.2.1.b.5);
+                        </li>
+                        <li>ein illegaler Pass wurde geworfen, um Zeit
+                        einzusparen (A.R. 7.3.2.II bis 7.3.2.VII) (Ausnahme:
+                        Regel 3.4.4.c);
+                        </li>
+                        <li>der Referee unterbricht den
+                        40/25-Sekunden-Countdown;
+                        </li>
+                        <li>ein Spieler verliert durch die Teilnahme am Down
+                        seinen Helm vollständig;
+                        </li>
+                        <li>wenn eines der Teams ein Dead Ball Foul verursacht;
+                        </li>
+                        <li>Violation einer Regel bezüglich vorgeschriebener
+                        (Regel 1.4.3 und 1.4.4) oder illegaler Ausrüstung
+                        (Regel 1.4.7).
+                        </li>
+                    </ol>
+                </li>
+                <li>Snap überwiegt Signal des Referees. Wenn ein oder mehrere
+                Gründe, die dazu führen, dass die Game Clock mit dem Signal des
+                Referees startet (Regel 3.3.2.e), mit denen in Konflikt stehen,
+                die den Start der Game Clock beim Snap vorschreiben (Regel
+                3.3.2.c und 3.3.2.d), startet sie mit dem Snap (Ausnahme:
+                Regeln 3.4.4, 3.3.6.f und 3.3.10.b (10-Sekunden-Abzug von der
+                Game Clock) überwiegt diese Regel, außer einem Team wird eines
+                seiner Team-Timeouts gewährt (A.R. 3.3.2.VIII )).
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.3.3.2"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

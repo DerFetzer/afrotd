@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 7.3.10.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Der unberechtigte Lineman A70 läuft mehr als drei Meter jenseits
+            der neutralen Zone und berührt keinen Gegner. Er dreht um und kehrt
+            hinter die neutrale Zone zurück, bevor A10 einen legalen
+            Vorwärtspass wirft, der die neutrale Zone überquert.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Unberechtigt downfield. Strafe – 5 Meter vom Previous Spot.
+            </p>
+        </details>
+    </div>
+</article>

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 1
+title: Legaler Vorwärtspass
+text: "Team A darf einen Vorwärtspass während jedes Scrimmage Downs werfen, bevor der Team Ballbesitz wechselt, vorausgesetzt, der Pass wird von einem Punkt in oder hinter der neutralen Zone geworfen."
+interpretations: []

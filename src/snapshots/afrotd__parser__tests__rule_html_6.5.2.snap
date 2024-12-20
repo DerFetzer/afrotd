@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            6.5.2 Kein Advancen
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Kein Team B-Spieler darf einen gefangenen oder recoverten Ball
+                mehr als zwei Schritte in jede Richtung advancen, nachdem ein
+                gültiges oder ungültiges Fair Catch-Signal von irgendeinem Team
+                B-Spieler gegeben wurde (A.R. 6.5.2.I bis 6.5.2.III).
+            </p>
+            <p>
+                <strong>Strafe: Dead Ball Foul. Spielverzögerung. 5 Meter vom
+                Succeeding Spot [S7 und S21].</strong>
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.6.5.2"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

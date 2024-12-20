@@ -1,0 +1,118 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            9.1.4 Targeting und Forcible Contact zum Kopf-/Halsbereich
+            verteidigungsloser Spieler
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Kein Spieler darf einen verteidigungslosen Spieler durch ein
+                Targeting angreifen und einen Forcible Contact gegen dessen
+                Kopf- oder Halsbereich mit dem Helm, dem Unterarm, der Hand,
+                der Faust, dem Ellenbogen oder der Schulter herstellen (siehe
+                nachfolgende Anmerkung 2). Das Foul erfordert, dass wenigstens
+                ein Indikator des Targetings (siehe nachfolgende Anmerkung 1)
+                vorhanden sein muss. Im Zweifel ist der Kontakt ein Foul
+                (Regeln 2.27.14) (A.R. 9.1.4.I bis 9.1.4.VI).
+            </p>
+            <p>
+                Anmerkungen zu Regeln 9.1.3 und 9.1.4
+            </p>
+            <p>
+                Anmerkung 1
+            </p>
+            <p>
+                Targeting bedeutet, dass ein Spieler einen Gegner mit der
+                Absicht angreift, einen Forcible Contact herbeizuführen, der
+                über ein legales Tackeln, einen legalen Block oder ein Spielen
+                des Balls hinausgeht (Regeln 9.1.3 und 9.1.4). Für Targeting
+                gibt es die nachfolgenden Indikatoren, die jedoch nicht nur auf
+                diese beschränkt sind:
+            </p>
+            <ol type="a">
+                <li>Launch – ein Spieler, der um einen Gegner anzugreifen vom
+                Boden abspringt, indem er seinem Körper vorwärts und/oder
+                aufwärts stößt, um im Kopf- oder Halsbereich des Gegners einen
+                Forcible Contact herbeizuführen.
+                </li>
+                <li>ein aufwärts und/oder vorwärts geführter Angriff aus der
+                Hocke heraus, bei dem ein Forcible Contact zum Kopf- oder
+                Halsbereich des Gegners hergestellt wird, auch wenn der
+                blockende Spieler in seiner Bewegung nicht den Boden verlässt.
+                </li>
+                <li>mit Helm, Schulter, Unterarm, Faust, Hand oder Ellenbogen
+                voran mit Forcible Contact den Kopf- oder Halsbereich eines
+                Gegners angreifen.
+                </li>
+                <li>Herunternehmen des eigenen Kopfes, um mit der Helmoberseite
+                einen Angriff mit Forcible Contact auszuführen.
+                </li>
+            </ol>
+            <p>
+                Anmerkung 2
+            </p>
+            <p>
+                Verteidigungslose Spieler (Regel 2.27.14): Im Zweifel ist ein
+                Spieler verteidigungslos.
+            </p>
+            <ol type="a">
+                <li>ein Spieler, der gerade einen Pass wirft oder gerade
+                geworfen hat. Dies gilt für jeden Offense-Spieler, der sich in
+                einer stationären oder nahezu stationären Wurfhaltung für einen
+                Pass mit Fokus downfield befindet.
+                </li>
+                <li>ein Receiver, der versucht einen Vorwärtspass zu fangen
+                oder der in Position zum Fangen eines Rückpasses ist oder ein
+                Receiver, der einen Pass gefangen hat und keine Zeit hatte,
+                sich selbst zu schützen oder der noch nicht zu einem Ballträger
+                wurde;
+                </li>
+                <li>ein Kicker im Moment oder unmittelbar nach dem Kicken eines
+                Balles oder während des Kicks oder des Returns;
+                </li>
+                <li>ein Kick Returner, der versucht, einen Kick zu fangen oder
+                zu recovern oder ein Kick Returner, der das Fangen oder
+                Recovern eines Kicks vervollständigt hat und keine Zeit hatte,
+                sich selbst zu schützen oder der noch nicht eindeutig zu einem
+                Ballträger wurde;
+                </li>
+                <li>ein Spieler, der sich auf dem Boden befindet;
+                </li>
+                <li>ein Spieler, der offensichtlich nicht am Spielgeschehen
+                teilnimmt;
+                </li>
+                <li>ein Spieler, der einen Block von der Seite erhält, auf die
+                er sich nicht konzentriert (Blind Side Block);
+                </li>
+                <li>ein Ballträger, der sich bereits im Griff eines oder
+                mehrerer Gegenspieler befindet und dessen Forward Progress
+                gestoppt wurde;
+                </li>
+                <li>ein Quarterback, der nach einem Ballbesitzwechsel nicht am
+                Spielgeschehen teilnimmt.
+                </li>
+                <li>ein Ballträger, der offensichtlich keinen weiteren
+                Raumgewinn erzielen will und mit den Füßen voran auf dem Boden
+                rutscht. Strafe (Artikel 3 und 4): 15 Meter. Für Dead Ball
+                Fouls 15 Meter vom Succeeding Spot. Automatisch ein First Down
+                für Team B-Fouls, soweit der First Down nicht im Widerspruch zu
+                anderen Regeln steht. Verursacher werden disqualifiziert [S24,
+                S38, S47].
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.9.1.4"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

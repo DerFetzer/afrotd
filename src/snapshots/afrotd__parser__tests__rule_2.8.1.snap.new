@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 8
+  - 1
+title: Fair Catch
+text: "\ta) Ein Fair Catch eines Scrimmage Kicks ist das Fangen des Balles jenseits der neutralen Zone durch einen Team B-Spieler, der ein gültiges Signal gab, während der Scrimmage Kick jenseits der neutralen Zone unberührt war.\n\tb) Ein Fair Catch eines Free Kicks ist das Fangen des Balles durch einen Team B-Spieler, der ein gültiges Signal gab, während der Free Kick unberührt war.\n\tc) Ein gültiges oder ungültiges Fair Catch-Signal nimmt dem Receiving Team die Möglichkeit, den Ball zu advancen. Der Ball wird an dem Punkt für dead erklärt, an dem er gefangen oder recovert wird. Wenn das Fangen dem Signal vorausgeht, wird der Ball für dead erklärt, wenn das Signal erstmals gegeben wird.\n\td) Schützt der Receiver seine Augen vor der Sonne, ohne mit seiner(n) Hand (Händen) zu winken, bleibt der Ball im Spiel und kann advanct werden."
+interpretations: []

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 18
+title: Blind Side Block
+text: "Kein Spieler darf einen Blind Side Block in Form eines Forcible Contact gegen einen Gegner ausführen (Ausnahmen: 1. Gegen einen Runner; 2. gegen einen Receiver, der versucht, einen Ball zu fangen). Zur Beachtung: Wenn die Aktion zusätzlich alle Elemente eines Targetings nach den Regeln 9.1.3 oder 9.1.4 beinhaltet, ist es ein Blind Side Block mit Targeting und die Strafe wird nach Regel 9.1.3 oder 9.1.4 durchgeführt (A.R. 9.1.18.I)."
+interpretations: []

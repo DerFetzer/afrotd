@@ -1,0 +1,27 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.4.3.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Bei dem Versuch, in der vierten Periode Zeit zu verbrauchen,
+            „überzieht“ Team A und die Play Clock läuft aus.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Foul für eine Spielverzögerung. Strafe – 5 Meter vom Succeeding
+                Spot. Die Game Clock startet beim Snap.
+            </p>
+        </details>
+    </div>
+</article>

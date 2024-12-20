@@ -1,0 +1,28 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.1.6.IV
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Defensive End B88 hat sich an der Außenschulter von Tackle A75
+            aufgestellt. Beim anfänglichen Angriff blockt B88 innerhalb der
+            Tackle Box A75 unter der Gürtellinie von der Seite.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Legaler tiefer Block.
+            </p>
+        </details>
+    </div>
+</article>

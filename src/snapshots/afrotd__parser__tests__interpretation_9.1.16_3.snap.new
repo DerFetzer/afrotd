@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 16
+index: 3
+text: "A1 steht in einer Nicht-Scrimmage Kick-Formation und macht\neinen schnellen, unvorhergesehenen Kick, so schnell, dass B1 den\nKontakt mit ihm nicht verhindern kann."
+ruling: "Das ist kein „Running into“ oder „Roughing the Kicker“, da diese Regel nur dann zutrifft,\nwenn es offensichtlich ist, dass ein Kick durchgeführt werden soll."

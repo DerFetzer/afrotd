@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 2
+  - 3
+index: 4
+text: "1. und 10 von der A-25 mit 0:01 verbleibender Spielzeit und\nTeam A liegt mit 5 Punkten zurück. A12 wirft einen vollständigen Pass\nzu A88 in der Mitte des Feldes. Nach dem Fangen durch A88 erfolgt ei-\nne Reihe von Rückwärtspässen, die den Ball im Besitz von Team A im\nSpiel halten. Schließlich wirft A21 einen Rückpass in Richtung Teammitglied A44 und der Ball fällt auf den Boden und bleibt unberührt liegen.\nTeammitglieder von Team B stürmen im Glauben, dass der Ball dead\nist, auf das Feld. A44 recovert den Ball, beginnt zu laufen und wird dabei von den Teammitgliedern von B auf dem Feld behindert, dreht um\nund wird letztendlich von B50 an der B-30 getackelt."
+ruling: "Kein\nErsatzspieler, Coach oder eine andere Person, die den Regeln unterliegt, außer einem Spieler oder einem Schiedsrichter, darf in irgendeiner Weise auf den Ball oder einen Spieler einwirken, solange der Ball\nim Spiel ist. Diese unfaire Aktion wird mit einer 15-Meterstrafe als Live\nBall Foul geahndet. Der Referee kann jede Strafe verhängen, die er für\nangemessen hält, einschließlich der Vergabe von Punkten."

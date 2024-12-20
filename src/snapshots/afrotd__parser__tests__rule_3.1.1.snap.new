@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 1
+  - 1
+title: "Pregame, erste und dritte Spielperiode"
+text: "\ta) Aufwärmen vor dem Spiel: bei regulären Saisonspielen muss das Heimteam dem Gastteam die Möglichkeit geben, sich wenigstens 30 Minuten vor dem geplanten Kickoff auf dem Spielfeld aufwärmen zu können.\n\tb) Wenn ein Teammitglied den Platz betritt, bevor die Schiedsrichter die Team-Captains zum Coin Toss begleiten, muss der Head Coach oder ein Assistenz-Coach dieses Teams auf dem Feld anwesend sein.\n\tc) Wenn Teammitglieder auf dem Platz anwesend sind, nachdem die Schiedsrichter zuständig sind (Regel 11.1.1), müssen sie ihre Trikots oder ihre Nummern deutlich tragen. Jedes Teammitglied ohne erkennbare Nummern muss die Spielfläche verlassen (A.R. 3.1.1.I).\n\td) Jede Halbzeit beginnt mit einem Kickoff.\n\te) Drei Minuten vor dem festgesetzten Spielbeginn muss der Referee in der Spielfeldmitte, in Anwesenheit der anderen Schiedsrichter und nicht mehr als vier Team Captains jedes Teams, eine Münze werfen (Coin Toss), wobei er vor dem Wurf der Münze zuerst den Team Captain des Gastteams anweist, seine Wahl zu treffen. Vor der zweiten Halbzeit erhält der Referee die Optionen der Teams für die zweite Halbzeit.\n\tf) Während des Coin Toss muss sich jedes Team in der Zone zwischen seiner Seitenlinie und den Neunmetermarkierungen oder in der Teamzone aufhalten. Der Coin Toss beginnt, wenn die Team Captains die Neunmetermarkierungen überqueren und endet, wenn die Team Captains zu den Neunmetermarkierungen zurückkehren. Strafe (f): 5 Meter vom Succeeding Spot [S19].\n\tg) Der Gewinner des Coin Toss muss eine der folgenden Möglichkeiten auswählen:\n\t\t1. das Team bestimmen, das den Kickoff ausführen soll;\n\t\t2. die Endzone bestimmen, die sein Team verteidigen soll;\n\t\t3. seine Wahl auf die zweite Halbzeit verschieben.\n\th) Der Verlierer des Coin Toss muss, je nach Verfügbarkeit, die obigen Möglichkeiten zu 1 oder 2 wählen.\n\ti) Wählt der Gewinner des Münzwurfes die Möglichkeit 3, wählt er anschließend, nach der Wahl des Gegners, die verfügbare Option (Möglichkeit 1 oder 2).\n\tj) Für die zweite Halbzeit soll der Verlierer des Münzwurfs oder der Gewinner, wenn er die Möglichkeit 3 gewählt hat, die o. a. Möglichkeiten 1 oder 2 auswählen. Der Gegner wählt dann die verbleibenden Möglichkeiten."
+interpretations: []

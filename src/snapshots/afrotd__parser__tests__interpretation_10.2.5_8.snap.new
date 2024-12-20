@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 2
+  - 5
+index: 8
+text: "Team A foult, nachdem es einen Touchdown erzielt hat, und\nTeam B foult beim erfolgreichen Try."
+ruling: "Der Touchdown gilt.\nTeam B hat die Wahl, die Strafe für Team A’s Foul beim Try, dem anschließenden Kickoff oder vom Succeeding Spot in Extraperioden durchführen zu lassen. Team A hat dann die Wahl, Team B bei der Wiederholung des Try bestrafen zu lassen. Persönliche Fouls von Team B können\nbeim anschließenden Kickoff oder vom Succeeding Spot in Extraperioden geahndet werden. Die Distanzen der Meterstrafen beim folgenden\nKickoff können sich ausgleichen."

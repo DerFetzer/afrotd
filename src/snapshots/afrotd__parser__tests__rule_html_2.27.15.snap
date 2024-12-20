@@ -1,0 +1,49 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.27.15 Spieler inbounds oder im Aus
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>im Aus
+                    <ol type="1">
+                        <li>Ein Spieler ist im Aus, wenn irgendein Körperteil
+                        dieses Spielers irgendetwas berührt, das sich auf oder
+                        außerhalb der Begrenzungslinien befindet, ausgenommen
+                        einen anderen Spieler oder einen Schiedsrichter.
+                        </li>
+                        <li>Ein Spieler im Aus, der zu einem in der Luft
+                        befindlichen Spieler (2.27.6.b) wird, bleibt solange im
+                        Aus, bis er den Boden inbounds berührt, ohne
+                        gleichzeitig im Aus zu sein.
+                        </li>
+                    </ol>
+                </li>
+                <li>inbounds
+                    <ol type="1">
+                        <li>Ein Spieler inbounds ist ein Spieler, der sich
+                        nicht im Aus befindet.
+                        </li>
+                        <li>Ein Spieler inbounds, der zu einem in der Luft
+                        befindlichen Spieler (2.27.6.b) wird, bleibt solange
+                        inbounds, bis er sich im Aus befindet.
+                        </li>
+                    </ol>
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.27.15"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

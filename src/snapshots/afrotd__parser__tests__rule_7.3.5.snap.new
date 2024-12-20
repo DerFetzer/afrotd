@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 5
+title: Berechtigung erlangt oder wiedererlangt
+text: "Berührt ein Team B-Spieler oder ein Schiedsrichter einen legalen Vorwärtspass, werden alle Spieler berechtigt (A.R. 7.3.5.I)."
+interpretations: []

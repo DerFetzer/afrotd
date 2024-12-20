@@ -1,0 +1,77 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            9.1.6 Blocken unterhalb der Gürtellinie
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Team A vor einem Team Ballbesitzwechsel:
+                    <ol type="1">
+                        <li>Linemen, die sich ursprünglich vollständig
+                        innerhalb der Tackle Box befinden, dürfen bei ihrem
+                        ersten Angriff an der Scrimmage Line innerhalb der
+                        Tackle Box unter der Gürtellinie blocken. Ein Block,
+                        der innerhalb eines Meters jenseits der neutralen Zone
+                        angesetzt wird, wird als innerhalb der Tackle Box
+                        gewertet. Nach dem ersten Angriff an der Scrimmage Line
+                        dürfen diese Linemen innerhalb der Tackle Box zwar
+                        weiterhin unter der Gürtellinie blocken, bis der Ball
+                        erstmals die Tackle Box verlassen hat, aber nur, wenn
+                        der anfängliche Kontakte direkt von vorne erfolgt.
+                        </li>
+                        <li>Stationäre Backs, die sich mit irgendeinem
+                        Körperteil innerhalb der Tackle Box aufgestellt haben,
+                        dürfen innerhalb der Tackle Box unter der Gürtellinie
+                        blocken, bis der Ball die Tackle Box erstmals verlassen
+                        hat, wenn der anfängliche Kontakt direkt von vorne
+                        erfolgt. „Direkt von vorn“ ist, mit einer Uhr
+                        verglichen, definiert als die Ziffernblattregion
+                        zwischen 10 Uhr und 2 Uhr vor dem Bereich, auf den die
+                        Konzentration des geblockten Spielers gerichtet ist.
+                        </li>
+                        <li>Alle anderen Team A-Spieler dürfen nicht unter der
+                        Gürtellinie blocken.
+                        </li>
+                    </ol>
+                </li>
+                <li>Team B vor einem Team Ballbesitzwechsel:
+                    <ol type="1">
+                        <li>Spieler, die sich innerhalb eines Meters an der
+                        Scrimmage Line innerhalb der Tackle Box aufgestellt
+                        haben, dürfen bei ihrem ersten Angriff an der Scrimmage
+                        Line innerhalb der Tackle Box unter der Gürtellinie
+                        blocken.
+                        </li>
+                        <li>alle anderen Team B-Spieler dürfen, außer gegen
+                        einen Runner, nicht unter der Gürtellinie blocken.
+                        </li>
+                    </ol>
+                </li>
+                <li>Kicks Während eines Downs, in dem ein Free- oder ein
+                Scrimmage Kick durchgeführt wird, ist Blocken unter der
+                Gürtellinie, ausgenommen gegen den Ballträger, für jeden
+                Spieler verboten.
+                </li>
+                <li>Nach dem Team Ballbesitzwechsel Nach jedem Team
+                Ballbesitzwechsel ist Blocken unter der Gürtellinie,
+                ausgenommen gegen den Ballträger, für jeden Spieler verboten.
+                </li>
+                <li>Kein Spieler darf gegen Regel 9.1.5 (Clipping) verstoßen.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.9.1.6"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

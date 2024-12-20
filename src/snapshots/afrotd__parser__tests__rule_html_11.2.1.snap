@@ -1,0 +1,27 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            11.2.1 Anzahl der Schiedsrichter
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Das Spiel soll unter der Aufsicht von mindestens vier bis
+                maximal acht Schiedsrichtern stattfinden. Ausnahmefälle werden
+                durch die Bestimmungen der BSO Deutschland gesondert geregelt.
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.11.2.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

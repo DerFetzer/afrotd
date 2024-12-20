@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 12
+  - 2
+title: Goallines und Pylone
+text: "Die Goallines an jedem Ende des Spielfeldes befinden sich zwischen den Seitenlinien und sind Teil einer vertikalen Fläche, die die Endzonen vom Spielfeld trennt. Die Fläche dieser Goallines erstreckt sich innerhalb der Pylone, welche sich im Aus befinden, und beinhaltet diese. Die beiden Goallines sind 100 m voneinander entfernt. Die gesamte Goalline befindet sich in der Endzone. Die Goalline eines Teams ist die, die es verteidigt."
+interpretations: []

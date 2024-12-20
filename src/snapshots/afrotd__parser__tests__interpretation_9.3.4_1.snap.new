@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 3
+  - 4
+index: 1
+text: "Bevor ein legaler Vorwärtspass, der die neutrale Zone überquert,\ngeworfen wird, hält Team B den berechtigten A1 fest, der sich jenseits\nder neutralen Zone befindet."
+ruling: "Team B-Foul, Halten. Strafe\n– 10 Meter und automatisch First Down. Previous Spot Strafdurchführung."

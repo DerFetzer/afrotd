@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 3
+  - 3
+index: 3
+text: "Team A hat sich zu einem Try in der Spielfeldmitte an der B-3\naufgestellt. Team A verursacht einen Fehlstart und die Strafe bringt den\nBall auf die B-8. Der Fieldgoalversuch wird geblockt, aber B77 befand\nsich beim Snap in der neutralen Zone. Die Strafe bringt den Ball auf die\nB-4 zur Wiederholung des Try. Team A verlangt, dass der Ball auf die\nrechte Hash Mark verlegt wird."
+ruling: "Die Schiedsrichter kommen\ndem Verlangen nach und der Ball wird an der B-4 auf der rechten Hash\nMark platziert."

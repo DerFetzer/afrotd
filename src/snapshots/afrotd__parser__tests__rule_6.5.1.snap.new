@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 5
+  - 1
+title: "Dead, wo gefangen"
+text: "\ta) Vervollständigt ein Team B-Spieler einen Fair Catch, so wird der Ball an dem Punkt dead, an dem er gefangen wurde und gehört an diesem Punkt zu Team B (Ausnahme: Vervollständigt ein Team B-Spieler bei einem Free Kick einen Fair Catch hinter Team B’s 25-Meterlinie, gehört der Ball zu Team B an dessen eigener 25-Meterlinie.Der nächste Snap wird vom Mittelpunkt zwischen den Hash Marks durchgeführt. Das Team, welches den Ball als nächstes ins Spiel bringt, kann einen anderen Punkt zwischen den Hash Marks wählen, bevor die Play Clock 25 Sekunden anzeigt oder vor der Ballfreigabe. Ist die Play Clock auf oder unter 25 Sekunden oder nach der Ballfreigabe darf der Ball nur dann umplatziert werden, wenn ein Team-Timeout genommen wurde. Dies gilt nicht, wenn sich vorher ein Foul durch Team A oder sich aufhebende Fouls ereignet haben).\n\tb) Nach einem gültigen Fair Catch-Signal durch einen Team B-Spieler besteht weiterhin die ungehinderte Möglichkeit, einen Free Kick oder Scrimmage Kick zu fangen, wenn dieser Spieler den Kick mufft und immer noch die Gelegenheit hat, den Fair Catch zu vervollständigen. Wenn der Spieler (oder ein anderer Team B-Spieler) schließlich den Kick fängt, gehört der Ball zu Team B und der Ball wird an dem Punkt, an dem der signalgebende Spieler erstmals den Kick berührt hat, platziert (A.R. 6.5.1.I und 6.5.1.II). Dieser Schutz endet, wenn der Kick den Boden berührt.\n\tc) Regeln bezüglich eines Fair Catch finden nur beim Scrimmage Kick, der die neutrale Zone überquert, oder während eines Free Kicks Anwendung.\n\td) Der Zweck der Fair Catch-Regel ist es, einen Receiver zu schützen, der durch sein Fair Catch-Signal zu verstehen gibt, dass weder er noch ein Mitspieler den Ball nach dem Fangen advancen wird (A.R. 6.5.5.III).\n\te) Wurde der Ball gefangen, muss er mit einem Snap durch das Receiving Team am Punkt des Fangens ins Spiel gebracht werden (Ausnahmen: Regeln 6.5.1.a, 6.5.1.b, 7.1.3 und 8.6.1.b)."
+interpretations: []

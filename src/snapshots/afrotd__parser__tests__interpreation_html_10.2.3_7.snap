@@ -1,0 +1,34 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 10.2.3.VII
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            4. und 12 von der A-35. Unmittelbar nach dem Snap ergreift B77 A66
+            und zieht ihn zu einer Seite, damit Linebacker B43 durch das Loch
+            stürmen und versuchen kann, den Kick zu blocken. B44 fängt den Kick
+            an der B-25 und advanct bis zu der B-40, wo er getackelt wird.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Auf B77’s Foul ist die Postscrimmage Kick Strafdurchführung
+                nicht anwendbar, da sich das Foul vor dem Kick ereignet. Die
+                10Meterstrafe wird vom Previous Spot durchgeführt. Die
+                10-Meterstrafe allein gibt Team A keinen neuen First Down, aber
+                die Strafe für das Halten durch die Defense beinhaltet einen
+                automatischen First Down. Daher ist es Team A’s Ball, 1. und 10
+                von der A-45.
+            </p>
+        </details>
+    </div>
+</article>

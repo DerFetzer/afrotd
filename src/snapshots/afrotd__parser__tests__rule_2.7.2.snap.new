@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 7
+  - 2
+title: Zeitraum zwischen den Downs
+text: "Die Zeit zwischen den Downs ist der Zeitraum, in dem der Ball dead ist."
+interpretations: []

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 4
+  - 1
+index: 11
+text: "Punt Receiver B22 steht an der B-30 und wartet auf den Punt.\nDabei befindet sich sein Mitspieler B88 drei Meter vor ihm. A44, der\nsich downfield befindet, um den Kick zu überwachen, blockt B88 legal\ngegen B22, als dieser nach dem Kick greift. Der Ball trifft B22 an dessen Schultern und prallt davon. Team A recovert den Ball an der B-25."
+ruling: "Team A’s Ball, 1. und 10 von der B-25. Das ist keine Behinderung beim Fangen eines Kicks. A44’s Aktion richtet sich gegen B88,\nder nicht in Position zum Fangen eines Kicks ist, und nicht gegen B22.\nDadurch hat A44 die Fangmöglichkeit von B22 nicht behindert. Durch\ndie Berührung von B22 kann Team A legal den Kick recovern."

@@ -1,0 +1,45 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            1.2.3 Limit Lines (Grenzlinien)
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Vier Meter außerhalb der Seiten- und Endlinien können sich
+                gestrichelte Grenzlinien befinden, ausgenommen in Stadien, in
+                denen das der bauliche Zustand nicht zulässt. In diesen Stadien
+                sollen die Grenzlinien sich nicht weniger als 2 m von den
+                Seiten- und Endlinien entfernt befinden. Die Grenzlinien sollen
+                10 cm breit und von gelber Farbe sein. Die Teamzone soll mit
+                einer durchgezogenen Linie markiert werden.
+                </li>
+                <li>Keine Person außerhalb der Teamzonen darf sich innerhalb
+                der Grenzlinien aufhalten. Das Heimteammanagement muss nicht
+                autorisierte Personen von dort entfernen. (Ausnahme: Bediener
+                von Handkameras unter der Aufsicht der Televisionspartner
+                dürfen sich kurzzeitig zwischen den Grenzlinien und der
+                Seitenlinie aufhalten, nachdem der Ball dead wurde. Diese
+                Ausnahme erlaubt zu keiner Zeit Kameras auf dem Spielfeld oder
+                in den Endzonen).
+                </li>
+                <li>Es wird empfohlen, diese Grenzlinien im Abstand von 2 m um
+                die gesamte Teamzone herum zu ziehen, wenn es das Stadion
+                zulässt.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.1.2.3"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

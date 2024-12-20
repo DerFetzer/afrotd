@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 5.2.7.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            4. und 4 von der A-16. Ballträger A22 geht an der A-18 ins Aus. A77
+            begeht ein Foul, unmittelbar nachdem der Ball im Aus ist. Rege-
+            lung: Team B’s Ball von der A-9. First Down und Goal. Die Game
+            Clock startet mit dem Snap. A.R. 5.2.7.III Beim 4. und 5 erzielt
+            Team A sechs Meter Raumgewinn und bekommt eine neue Serie
+            zuerkannt. Nachdem der Ball spielbereit ist und vor dem Snap begeht
+            A55 (a) ein persönliches Foul oder (b) einen Fehlstart.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                (a) 1. und 25. (b) 1. und 15.
+            </p>
+        </details>
+    </div>
+</article>

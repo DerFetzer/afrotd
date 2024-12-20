@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.18.1 Encroachment
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Nach der Ballfreigabe ereignet sich ein Encroachment, wenn sich
+                ein Offense Spieler in oder jenseits der neutralen Zone
+                befindet, nachdem der Snapper den Ball vor dem Snap berührt hat
+                oder die Berührung vortäuscht (Hand/Hände an oder unterhalb
+                seiner Knie). (Ausnahme: Wenn der Ball gesnappt wird, hat der
+                Snapper kein Encroachment begangen, wenn er sich in der
+                neutralen Zone befindet.)
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.18.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

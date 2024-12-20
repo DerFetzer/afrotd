@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 8.2.1.IV
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Quarterback A12 vervollständigt einen Vorwärtspass auf einen
+            Mitspieler, der in Team B’s Endzone steht. (a) A12 befindet sich
+            jenseits der neutralen Zone, als er den Ball wirft. (b) Der
+            Receiver trägt die Trikotnummer 73.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                In beiden Fällen ist das Ergebnis des Downs ein Touchdown. Die
+                Strafe wird je nach Team B’s Optionen vollständig.
+            </p>
+        </details>
+    </div>
+</article>

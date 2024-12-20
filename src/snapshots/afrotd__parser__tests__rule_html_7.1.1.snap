@@ -1,0 +1,38 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            7.1.1 Starten mit dem Snap
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Der Ball muss durch einen legalen Snap ins Spiel gebracht
+                werden, außer die Regeln schreiben einen legalen Free Kick vor
+                (A.R. 4.1.4.I und 4.1.4.II).
+                </li>
+                <li>Kein Spieler darf den Ball ins Spiel bringen, bevor dieser
+                spielbereit ist (Regel 4.1.4 und A.R. 4.1.4.I und 4.1.4.II).
+                Strafe (a-b): Dead Ball Foul. 5 Meter vom Succeeding Spot [S7
+                und S19]
+                </li>
+                <li>Der Ball darf nicht in einer Seitenzone (Regel 2.31.6)
+                gesnappt werden. Befindet sich der Startpunkt für irgendeinen
+                Scrimmage Down in einer Seitenzone, muss er zur Hash Mark
+                verlegt werden.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.7.1.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

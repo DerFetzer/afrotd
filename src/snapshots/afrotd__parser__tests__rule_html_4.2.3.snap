@@ -1,0 +1,37 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            4.2.3 Freier Ball im Aus
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Ein Ball, der sich nicht unter Kontrolle eines Spielers
+                befindet, ist im Aus, wenn er den Boden, einen Spieler, einen
+                Schiedsrichter oder irgendetwas im Aus oder auf oder außerhalb
+                der Begrenzungslinien berührt. Ausgenommen hiervon ist ein
+                Kick, der ein Fieldgoal erzielt.
+                </li>
+                <li>Berührt ein Ball einen Pylon, so ist er hinter der Goalline
+                im Aus.
+                </li>
+                <li>Überquert ein Live Ball, der sich nicht im Besitz eines
+                Spielers befindet, eine Begrenzungslinie und wird für „im Aus“
+                erklärt, ist er an diesem Schnittpunkt im Aus.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.4.2.3"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

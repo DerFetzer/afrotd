@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 4
+index: 3
+text: "Nach dem Kickoff zur zweiten Halbzeit läuft A44 an der B-45.\nB66 springt auf A44 zu und trifft ihn von der Seite mit einem Blind Side\nBlock. B66 trifft mit dem ersten Kontakt A44’s (a) Hals, (b) Oberarm\noder Schulter."
+ruling: "(a) Foul von B66 für einen Blind Side Block\nmit Angriff auf einen verteidigungslosen Spieler und die Berührung in\ndessen Kopf- oder Halsbereich. 15-Meterstrafe vom Ende des Laufes.\nB66 wird disqualifiziert. (b) Persönliches Foul, Illegaler Blind Side Block.\nDas ist kein Targeting, da der Kontakt von B66 nicht gegen den Kopf\noder Halsbereich gerichtet ist (Regel 2.27.14)."

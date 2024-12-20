@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.1.2.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Der Ball wird gekickt, obwohl er auf einem illegalen Kicking Tee
+            stand, beim Kickoff gepuntet wurde oder von einem Punkt zwischen
+            der Hash Mark und der näheren Seitenlinie gekickt wurde.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Illegaler Kick. Dead Ball Foul. Strafe – 5 Meter vom Succeeding
+                Spot (Regel 2.16.1.b).
+            </p>
+        </details>
+    </div>
+</article>

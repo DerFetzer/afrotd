@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 1.4.7.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Am Ende eines Downs verrutscht B55’s Trikot und dadurch wird dessen
+            Schulterschutz teilweise nicht mehr verdeckt.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Illegale Ausrüstung. Da das Trikot während des Downs verrutscht
+                ist und den Schulterschutz freigelegt hat, muss B33 das Feld
+                nicht zwangsläufig verlassen. Aber der Schulterschutz muss vom
+                Trikot verdeckt werden, bevor der Ball das nächste Mal ins
+                Spiel gebracht wird.
+            </p>
+        </details>
+    </div>
+</article>

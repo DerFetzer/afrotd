@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 9
+  - 1
+title: "Vorwärts, jenseits, nach vorne"
+text: "Vorwärts, jenseits und nach vorne bezeichnen, bezogen auf das jeweilige Team, die Richtung zur gegnerischen Endlinie. Rückwärts und hinter sind gegenteilige Begriffe."
+interpretations: []

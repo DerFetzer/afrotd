@@ -1,0 +1,45 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            6.3.14 Defense Linemen bei Scrimmage Kicks
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Wenn Team A beim Snap in einer Scrimmage Kick Formation
+                aufgestellt ist, muss jeder Team B-Spieler, der sich innerhalb
+                eines Meters an seiner Scrimmage Line befindet, vollständig
+                außerhalb des Körperrahmens des Snappers aufgestellt sein (A.R.
+                6.3.14.I und 6.3.14.II).
+                </li>
+                <li>
+                    <p>
+                        Wenn Team A sich in einer Formation zu einem Place Kick
+                        (Fieldgoal oder Try) aufgestellt hat, ist es drei Team
+                        B-Spielern verboten, sich an ihrer Seite der Scrimmage
+                        Line innerhalb der Blockzone Schulter an Schulter
+                        aufzustellen, nach dem Snap mit primärem Kontakt gegen
+                        einen einzelnen Team A-Spieler gemeinsam vorwärts zu
+                        gehen (A.R. 6.3.14.III und 6.3.14.IV).
+                    </p>
+                    <p>
+                        <strong>Strafe: Live Ball Foul. 5 Meter vom Previous
+                        Spot [S19].</strong>
+                    </p>
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.6.3.14"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

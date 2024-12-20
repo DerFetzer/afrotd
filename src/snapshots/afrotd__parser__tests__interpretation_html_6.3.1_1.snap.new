@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.3.1.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Nachdem ein Punt die neutrale Zone fünf Meter überquert hat,
+            berührt B33 den Ball. Dieser prallt zurück hinter die neutrale
+            Zone, wo er im Spielfeld von A33 recovert wird.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Der Ball ist dead, wenn er recovert wird und darf nicht advanct
+                werden. First Down für Team A (Regeln 6.3.3 und 6.3.6.a). Die
+                Game Clock startet nach einem legalen Kick-Down mit dem Snap.
+            </p>
+        </details>
+    </div>
+</article>

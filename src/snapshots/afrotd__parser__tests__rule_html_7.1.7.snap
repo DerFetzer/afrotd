@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            7.1.7 Geplanter freier Ball
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Ein Team A-Spieler darf in der Nähe des Snappers keinen
+                geplanten freien Ball advancen.
+            </p>
+            <p>
+                <strong>Strafe: 5 Meter vom Previous Spot und Downverlust [S19
+                und S9].</strong>
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.7.1.7"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

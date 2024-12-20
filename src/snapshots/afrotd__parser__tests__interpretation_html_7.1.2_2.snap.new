@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 7.1.2.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Zehn Team A-Spieler shiften, während A1 in seiner Position
+            verbleibt. A1 bewegt sich danach rückwärts, bevor eine Sekunde
+            vergangen ist und der Ball wird gesnappt.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Falls A1, der sich bewegt hat, vor dem Snap nie mit den anderen
+                zehn Team A-Spielern für eine Sekunde still stand, ist das mit
+                dem Snap ein Dead Ball Foul für einen Fehlstart. Strafe – 5
+                Meter vom Succeeding Spot.
+            </p>
+        </details>
+    </div>
+</article>

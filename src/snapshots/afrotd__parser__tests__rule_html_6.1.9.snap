@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            6.1.9 Fouls gegen den Kicker
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Der Kicker eines Free Kicks darf nicht eher geblockt werden,
+                bis er sich fünf Meter jenseits seiner Restraining Line bewegt
+                hat oder der Kick einen Spieler, einen Schiedsrichter oder den
+                Boden berührt hat (Regel 9.1.16.c).
+            </p>
+            <p>
+                <strong>Strafe: 15 Meter vom Previous Spot [S40].</strong>
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.6.1.9"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

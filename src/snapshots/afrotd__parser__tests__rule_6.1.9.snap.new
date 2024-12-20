@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 1
+  - 9
+title: Fouls gegen den Kicker
+text: "Der Kicker eines Free Kicks darf nicht eher geblockt werden, bis er sich fünf Meter jenseits seiner Restraining Line bewegt hat oder der Kick einen Spieler, einen Schiedsrichter oder den Boden berührt hat (Regel 9.1.16.c). Strafe: 15 Meter vom Previous Spot [S40]."
+interpretations: []

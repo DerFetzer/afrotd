@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 4
+  - 2
+index: 1
+text: "4. und 8 von der A-48. A32 puntet aus einer Scrimmage KickFormation bis zu der B-7, wo der Ball gegen das Bein von B25 springt.\nAls der Ball auf dem Boden rollt, tritt B25 an der B-4 den Ball weg, um zu\nverhindern, dass Team A den Ball recovert. Der Ball rollt bis in Team B’s\nEndzone und geht von dort über die Endlinie ins Aus."
+ruling: "Das\nErgebnis des Downs ist ein Safety, da B25 dem Ball durch das Kicken\neinen neuen Antrieb gab. Foul von B25 für das illegale Kicken eines\nBalles. Team A kann die Strafe ablehnen und damit die zwei Punkte\nakzeptieren oder die Strafe annehmen. Die Annahme der Strafe wird\ndurch die Regeln bezüglich des Postscrimmage Kick Enforcements bestimmt. Die angenommene Strafe gibt den Ball an Team B, 1. und 10\nvon der B-2 (Regeln 8.5.1.a und 8.7.2.b)."

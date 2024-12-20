@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 16
+  - 1
+title: "Kicken des Balles, legale und illegale Kicks"
+text: "\ta) Kicken ist das absichtliche Stoßen des Balles mit dem Knie, dem Schienbein oder dem Fuß.\n\tb) Ein legaler Kick ist ein Punt, Drop Kick oder Place Kick durch einen Team A-Spieler gemäß den Regeln, bevor der Team Ballbesitz wechselt. Kicken des Balles in anderer Weise ist illegal (A.R. 6.1.2.I).\n\tc) Jeder Free- oder Scrimmage Kick bleibt solange ein Kick, bis er dead wird oder von einem Spieler gefangen oder recovert wird.\n\td) Im Zweifel wurde ein Ball eher zufällig berührt als gekickt."
+interpretations: []

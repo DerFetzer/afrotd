@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            10.1.6 Live Ball Fouls – Dead Ball Fouls
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Live Ball Fouls heben keine Dead Ball Fouls auf.
+                </li>
+                <li>Wenn einem Live Ball Foul durch ein Team ein oder mehrere
+                Dead Ball Fouls (inklusive Live Ball Fouls, die als Dead Ball
+                Fouls behandelt werden) des Gegners oder desselben Teams
+                folgen, sind die Strafen einzeln und in der Reihenfolge ihres
+                Geschehens zu ahnden (A.R. 10.1.6.I bis 10.1.6.VI).
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.10.1.6"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 4
+  - 2
+  - 3
+title: Freier Ball im Aus
+text: "\ta) Ein Ball, der sich nicht unter Kontrolle eines Spielers befindet, ist im Aus, wenn er den Boden, einen Spieler, einen Schiedsrichter oder irgendetwas im Aus oder auf oder außerhalb der Begrenzungslinien berührt. Ausgenommen hiervon ist ein Kick, der ein Fieldgoal erzielt.\n\tb) Berührt ein Ball einen Pylon, so ist er hinter der Goalline im Aus.\n\tc) Überquert ein Live Ball, der sich nicht im Besitz eines Spielers befindet, eine Begrenzungslinie und wird für „im Aus“ erklärt, ist er an diesem Schnittpunkt im Aus."
+interpretations: []

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 3
+  - 8
+title: Im Aus hinter einer Goalline
+text: "Geht ein Scrimmage Kick (außer wenn ein Fieldgoal erzielt wird) hinter einer Goalline ins Aus, wird der Ball dead und gehört zu dem Team, das diese Goalline verteidigt (Regel 8.4.2.b)."
+interpretations: []

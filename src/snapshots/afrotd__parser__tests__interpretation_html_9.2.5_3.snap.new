@@ -1,0 +1,37 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.2.5.III
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Während ein Kickoff weit zurückgetragen wird, befindet sich der
+            Head Coach und/oder befinden sich andere Coaches außerhalb der
+            Coaching Box und in der Schiedsrichterzone oder auf dem Spielfeld
+            in der Nähe der Seitenlinie. Es gibt keine physische Behinderung
+            eines Schiedsrichters während des Downs.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Wird als Dead Ball Foul durchgeführt. Erster Verstoß: Warnung
+                für eine Behinderung an der Seitenlinie. Keine Meterstrafe.
+                Zweiter und dritter Verstoß: Strafe wegen Spielverzögerung
+                durch Behinderung an der Seitenlinie. Jeweils eine
+                5-Meterstrafe vom Succeeding Spot. Vierter und jeder weitere
+                Verstoß: 15-Meterstrafe vom Succeeding Spot. Das ist ein Team
+                Foul. Es wird nicht als unsportliches Verhalten eines Coaches
+                gewertet.
+            </p>
+        </details>
+    </div>
+</article>

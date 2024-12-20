@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 32
+  - 1
+title: Schlägerei
+text: "Schlägerei ist jeder Versuch einer Person, die den Regeln unterliegt, einen Gegner in kämpferischer Art und Weise anzugreifen, die untypisch für den Football-Sport ist. Solche Aktionen beinhalten, sind jedoch nicht auf die folgenden Tätigkeiten beschränkt:\n\ta) der Versuch, einen Gegner mit dem (den) Arm(en), der (den) Hand (Händen), dem (den) Bein(en) oder dem (den) Fuß (Füßen) zu treffen, egal ob es zum Kontakt kommt oder nicht.\n\tb) eine unsportliche Aktion gegen einen Gegner, die irgendeinen Gegner dazu bringt, dass er sich durch eine Schlägerei rächt (Regel 9.2.1 und 9.5.1)."
+interpretations: []

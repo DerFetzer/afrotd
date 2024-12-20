@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 2
+  - 3
+index: 2
+text: "Team A’s Punt wird geblockt, überquert die neutrale Zone und\nwird jenseits der neutralen Zone nicht von Team B berührt. Der Ball\nprallt zurück hinter die neutrale Zone, bevor sich ein Clipping oder ein\nHalten durch Team B ereignet. Der Ball ist zum Zeitpunkt des Fouls\nfrei."
+ruling: "Das Foul ereignet sich während des Kicks. Wenn Team\nB als nächstes snappt, wird die Strafe nach dem Postscrimmage Kick\nEnforcement Prinzip durchgeführt."

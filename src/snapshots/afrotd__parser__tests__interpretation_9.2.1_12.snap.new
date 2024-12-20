@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 2
+  - 1
+index: 12
+text: "Während der Ball dead ist, wird eine Flagge für einen Head\nCoach oder einen Assistenz Coach geworfen, der bis zu den Neunmetermarkierungen auf das Spielfeld kommt und die Schiedsrichter in\nlauter und unflätiger Weise beleidigt."
+ruling: "Die Schiedsrichter bestrafen den Head Coach oder den Assistenz Coach für das Foul für\nunsportliches Verhalten. Der Referee sagt an, dass dieses Foul das\nerste oder zweite Foul gegen den betreffenden Coach ist. Wenn es das\nzweite Foul gegen den betreffenden Coach ist, hat sich dieser selbst\ndisqualifiziert und muss das Spiel verlassen."

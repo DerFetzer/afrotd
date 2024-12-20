@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 4
+  - 4
+title: Illegales Kicken des Balles
+text: "Kein Spieler darf einen freien Ball, einen Vorwärtspass oder einen Ball, der von einem Gegner zu einem Place Kick gehalten wird, kicken. Diese illegalen Aktionen ändern nicht den Status eines freien Balles bzw. eines Vorwärtspasses, aber wenn der Spieler, der einen Ball für einen Place Kick hält, den Ballbesitz während eines Scrimmage Downs verliert, ist das ein Fumble und der Ball ist frei. Ereignet sich das beim Free Kick, bleibt der Ball dead (A.R. 8.7.2.IV und A.R. 10.2.2.XI). Strafe: 10 Meter und Downverlust für Team A-Fouls, soweit der Downverlust nicht im Widerspruch zu anderen Regeln steht [S9 und S31] ( Ausnahme: kein Downverlust, wenn sich das Foul ereignet, während sich ein legaler Scrimmage Kick jenseits der neutralen Zone befindet)."
+interpretations: []

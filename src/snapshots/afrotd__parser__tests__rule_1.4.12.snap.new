@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 4
+  - 12
+title: Mikrofone der Coaches
+text: "Kopfhörer, Mikrofone und andere Kommunikationsvorrichtungen der Coaches unterliegen vor und während des Spieles nicht den Strafbestimmungen der deutschen Regeln und Interpretationen.\n\ta) Jede Liga kann eigene Bestimmungen erlassen, die Situationen hinsichtlich des Ausfalls der Kopfhörer, Mikrofone oder anderer Kommunikationsvorrichtungen der Coaches regelt.\n\tb) Das jeweilige Teammanagement ist für die Funktion der eigenen Kopfhörer, Mikrofone und andere Kommunikationsvorrichtungen der Coaches selbst verantwortlich."
+interpretations: []

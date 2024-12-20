@@ -1,0 +1,36 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.1.2.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Kicker A11 stellt den Ball auf einem Tee in der Mitte des Feldes zu
+            einem Free Kick auf, wobei sich vier seiner Mitspieler auf der
+            linken Seite des Balles und sechs auf der rechten Seite aufstellen.
+            Der Ball wird vom Tee heruntergeweht und A55, der sich vorher auf
+            der linken Seite aufgestellt hatte, hält den Ball auf dem Tee für
+            den mit dem rechten Fuß kickenden A11 fest. Keiner der anderen Team
+            A-Spieler verändert seine Position. Als der Ball durch A11 gekickt
+            wird, befindet sich A55 auf der rechten Seite des Kickers.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Foul von Team A wegen einer illegalen Formation beim Kick.
+                Strafe – 5 Meter vom Previous Spot und Wiederholung des Kicks
+                oder 5 Meter von dem Punkt, an dem der Dead Ball zu Team B
+                gehört.
+            </p>
+        </details>
+    </div>
+</article>

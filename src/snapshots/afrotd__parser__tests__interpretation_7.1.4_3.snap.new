@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 1
+  - 4
+index: 3
+text: "Team A’s Formation beim Snap beinhaltet nur 10 Spieler: fünf\nSpieler an der Scrimmage Line, die Trikots mit einer Nummer von 50 bis\n79 tragen, ein Spieler an der Scrimmage Line trägt die Nummer 82 und\nvier Spieler sind im Backfield."
+ruling: "Die Formation ist legal, weil\nTeam A nicht mehr als vier Spieler im Backfield hat und die erforderliche\nAnzahl (fünf) an der Scrimmage Line trägt Trikots mit einer Nummer von\n50 bis 79."

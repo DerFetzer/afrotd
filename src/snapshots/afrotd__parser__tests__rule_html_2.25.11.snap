@@ -1,0 +1,60 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.25.11 Postscrimmage Kick Spot
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Der Postscrimmage Kick Spot dient als Basic Spot, wenn die
+                Postscrimmage Kick Durchführung zutrifft (Regel 10.2.3).
+            </p>
+            <ol type="a">
+                <li>Endet der Kick, außer in den nachfolgend aufgeführten
+                Spezialfällen, im Spielfeld, ist der Postscrimmage Kick Spot
+                der Punkt, an dem der Kick endet.
+                </li>
+                <li>Wenn der Kick in Team B’s Endzone endet, ist der
+                Postscrimmage Kick Spot Team B’s 20-Meterlinie. Spezialfälle:
+                    <ol type="1">
+                        <li>Bleibt der Ball bei einem erfolglosen
+                        Fieldgoalversuch unberührt von Team B, nachdem er die
+                        neutrale Zone überquert hat, und wird jenseits der
+                        neutralen Zone für dead erklärt, dann ist der
+                        Postscrimmage Kick Spot:
+                            <ol type="a">
+                                <li>der Previous Spot, wenn dieser sich auf
+                                oder außerhalb Team B’s 20-Meterlinie befand
+                                (A.R. 10.2.3.V).
+                                </li>
+                                <li>Team B’s 20-Meterlinie, wenn der Previous
+                                Spot sich zwischen Team B’s 20-Meterlinie und
+                                dessen Goalline befand.
+                                </li>
+                            </ol>
+                        </li>
+                        <li>Wenn Regel 6.3.11 zutrifft, ist der Postscrimmage
+                        Kick Spot Team B’s 20-Meterlinie.
+                        </li>
+                        <li>Wenn Regel 6.5.1.b zutrifft, ist der Postscrimmage
+                        Kick Spot der Punkt, an dem der Receiver zuerst den
+                        Kick berührt.
+                        </li>
+                    </ol>
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.25.11"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

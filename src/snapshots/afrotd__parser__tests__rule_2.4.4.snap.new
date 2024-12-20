@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 4
+  - 4
+title: Gleichzeitiges (Simultaneous) Fangen oder Recovern
+text: "Gleichzeitiges Fangen oder Recovern ist das Fangen oder Recovern, bei dem gegnerische Spieler, die sich inbounds befinden, gemeinsam einen Live Ball in Besitz nehmen (A.R. 7.3.6.I und 7.3.6.II)."
+interpretations: []

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 2
+  - 7
+title: Tabakkonsum
+text: "In der Zeit vom Aufruf der Team Captains zum Coin Toss bis der Referee das Spiel für beendet erklärt, ist es Spielern, Teammitgliedern und anderem Personal (z. B. Coaches, Physiotherapeuten, Spieloffiziellen und Schiedsrichtern) auf dem Platz verboten, Tabakprodukte zu konsumieren. Strafe: Disqualifikation. Dead Ball Foul, 15 Meter vom Succeeding Spot [S27 und S47]."
+interpretations: []

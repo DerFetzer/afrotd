@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 8.7.2.IV
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team A kickt einen Free Kick von der A-35. Der Ball rollt auf dem
+            Boden an der B-3, als B10 ihn in die Endzone und von dort über die
+            Endlinie ins Aus kickt.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Safety wegen des neuen Antriebs durch Team B. Nimmt Team A die
+                Strafe (10 Meter) an, so ist es Team A’s Ball auf der A-45, von
+                wo aus der Free Kick wiederholt werden würde (Regeln 9.4.4 und
+                10.2.2.d.4). , die den Regeln unterliegen
+            </p>
+        </details>
+    </div>
+</article>

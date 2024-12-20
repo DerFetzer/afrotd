@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.27.12 Disqualifizierte Personen
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Eine disqualifizierte Person ist eine Person, die von der
+                weiteren Teilnahme am Spiel ausgeschlossen wurde.
+                </li>
+                <li>Eine disqualifizierte Person muss den Spielort innerhalb
+                einer angemessenen Zeit nach seiner Disqualifikation verlassen.
+                Sie muss sich unter Aufsicht des eigenen Teams außerhalb des
+                Platzes aufhalten und darf keinerlei Einfluss auf das
+                Spielgeschehen nehmen.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.27.12"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

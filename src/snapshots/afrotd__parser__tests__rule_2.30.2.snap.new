@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 30
+  - 2
+title: Free Kick-Spiel
+text: "Ein Free Kick-Spiel ist die Aktion im Zeitraum vom legalen Kicken bis zu dem Moment, in dem der Ball in den Besitz eines Spielers gelangt oder gemäß der Regel für dead erklärt wird."
+interpretations: []

@@ -1,0 +1,52 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            9.1.0 Persönliche Fouls
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Alle Fouls in diesem Abschnitt (außer gesondert aufgeführt) und
+                jede andere Aktion, die einen forcible Contact enthält, sind
+                persönliche Fouls. Mit Ausnahme gesondert aufgeführter Strafen
+                sind die Strafen für alle persönlichen Fouls wie folgt:
+            </p>
+            <p>
+                <strong>Strafe: Persönliches Foul. 15 Meter. Für Dead Ball
+                Fouls 15 Meter vom Succeeding Spot. Automatisch ein First Down
+                für Team B-Fouls, sofern der First Down nicht im Widerspruch zu
+                anderen Regeln steht. Strafen für persönliche Live Ball Fouls
+                durch Team A hinter der neutralen Zone werden vom Previous Spot
+                durchgeführt. Safety, wenn sich das Live Ball Foul hinter Team
+                A’s Goalline ereignet [S7, S24, S25, S26, S28, S34, S38, S39,
+                S40, S41, S45 oder S46]. Verursacher schwerer Fouls müssen
+                disqualifiziert werden [S47]. Für Team A-Fouls während eines
+                Free- oder Scrimmage Kick-Spieles: Die Strafe kann vom Previous
+                Spot oder, wenn ein Scrimmage Kick die neutrale Zone überquert,
+                je nach Wahl von Team B, von dem Punkt, an dem der
+                anschließende Dead Ball zu Team B gehört, durchgeführt werden
+                (Fieldgoal-Spiele ausgenommen) (Regeln 6.1.8 und 6.3.13). Für
+                persönliche Fouls durch Team B während eines legalen
+                Vorwärtspass-Spieles (Regel 7.3.12 und 10.2.2.e):
+                Strafdurchführung vom Ende des letzten Laufes, wenn dieser
+                jenseits der neutralen Zone endet und sich kein Team
+                Ballbesitzwechsel während des Downs ereignet hat. Ist der Pass
+                unvollständig oder wird der Pass abgefangen oder es ereignet
+                sich ein Team Ballbesitzwechsel während des Downs, wird die
+                Strafe vom Previous Spot durchgeführt.</strong>
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#section.1.9.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

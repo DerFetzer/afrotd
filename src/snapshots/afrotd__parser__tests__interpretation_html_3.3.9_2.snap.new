@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.3.9.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Zu einem späten Zeitpunkt in der ersten Spielperiode wird
+            Ballträger A22 legal getackelt und verliert seinen Helm,
+            unmittelbar nachdem er mit seinem Rücken auf den Boden geprallt
+            ist. Die Game Clock steht bei 0:00.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                A22 muss das Spiel für einen Down – den ersten Down in der
+                zweiten Spielperiode – verlassen. A22 verlor seinen Helm durch
+                das Spielgeschehen und es gab kein Helmfoul durch Team B. A22
+                kann jedoch im Spiel bleiben, wenn Team A ein Timeout nimmt.
+            </p>
+        </details>
+    </div>
+</article>

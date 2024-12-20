@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 18
+index: 1
+text: "B44 fängt an der B-20 einen Pass von A12 und advanct in Richtung A’s Endzone. Während B44 advanct, nähert sich B21 in der Spielfeldmitte A88 von der ihm abgewandten Seite. B21 blockt A88 (a) mit\nausgestreckten Armen und geöffneten Händen; (b) Körper gegen Körper; (c) indem er ihm mit voller Wucht mit der Schulter in die Brust trifft;\n(d) indem er ihn mit voller Wucht mit der Schulter gegen den Kopf trifft.\nB44 advanct bis zu der A-20."
+ruling: "(a) und (b) kein Foul. (c) Persönliches Foul, Blind Side Block, 15-Meterstrafe vom Punkt des Fouls.\n(d) Persönliches Foul, Blind Side Block mit Targeting, 15-Meterstrafe\nvom Punkt des Fouls. B21 wird disqualifiziert."

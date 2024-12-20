@@ -1,0 +1,37 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.5.2.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            B1 macht ein Fair Catch-Signal vor dem Muff von B2. Danach fängt
+            oder recovert B1 den Ball und advanct ihn.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Durch B1’s Signal ist der Ball dead, sobald er gefangen oder
+                recovert wird. Zwei Schritte sind B1 erlaubt, damit dieser zum
+                Stillstand kommt oder seine Balance wiedererlangen kann. Ein
+                dritter oder jeder weitere Schritt ist illegal. Die Strafe wird
+                vom Punkt des Fangens oder der Recovery geahndet. Wenn B1
+                getackelt wird, dann wird dieses Tackling nicht geahndet, es
+                sei denn, es handelt sich um einen Forcible Contact oder es
+                ereignet sich so spät, dass der Tackler wissen konnte, dass es
+                nicht in der Absicht lag, Raumgewinn zu erzielen. Wenn der Kick
+                in der Endzone gefangen oder recovert wird, ist das ein
+                Touchback. Wird B1 getackelt, bevor er einen dritten Schritt
+                macht, hat nur der Tackler gefoult.
+            </p>
+        </details>
+    </div>
+</article>

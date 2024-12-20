@@ -1,0 +1,41 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.16.7 Scrimmage Kick
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Ein Scrimmage Kick ist ein Punt, ein Drop Kick oder ein
+                Fieldgoal Place Kick. Es ist ein legaler Kick, wenn er durch
+                Team A in oder hinter der neutralen Zone während eines
+                Scrimmage Downs durchgeführt wird, bevor der Team Ballbesitz
+                wechselt.
+                </li>
+                <li>Ein Scrimmage Kick hat die neutrale Zone überquert, wenn er
+                den Boden, einen Spieler, einen Schiedsrichter oder irgendetwas
+                anderes jenseits der neutralen Zone berührt hat (Ausnahme:
+                Regel 6.3.1.b) (A.R. 6.3.1.I bis 6.3.1.IV).
+                </li>
+                <li>Wird ein Scrimmage Kick durchgeführt, während der gesamte
+                Körper des Kickers und der Ball sich jenseits der neutralen
+                Zone befindet oder befunden hat, ist das ein illegaler Kick und
+                ein Live Ball Foul, wodurch der Ball dead wird (Regel
+                6.3.10.c).
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.16.7"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

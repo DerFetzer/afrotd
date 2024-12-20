@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 4
+  - 2
+title: Nächster Down
+text: "\ta) Erfolgreiches Fieldgoal. Nachdem ein Fieldgoal erzielt wurde, muss der Ball durch einen Kickoff oder am Succeeding Spot in Extraperioden ins Spiel gebracht werden. Das Team, das das Fieldgoal erzielte, muss den Kickoff durchführen.\n\tb) Erfolgloser Fieldgoalversuch.\n\t\t1. Wenn der Ball für dead erklärt wird und, nachdem er die neutrale Zone überquert hat, unberührt von Team B ist, gehört der Ball zu Team B. Ausgenommen in einer Extraperiode bringt Team B den Ball durch einen Snap am Previous Spot ins Spiel, es sei denn, der Previous Spot lag zwischen Team B’s 20 Meterlinie und deren Goalline. In diesem Fall snappt Team B den Ball an seiner 20Meterlinie.\n\t\t\ta. Der Snap muss vom Mittelpunkt der 20-Meterlinie zwischen den Hash Marks durchgeführt werden, es sei denn, vor der Ballfreigabe wählt Team B eine andere Position auf oder zwischen den Hash Marks.\n\t\t\tb. Nach der Ballfreigabe kann der Ball nach einem gewährtem Team-Timeout an einen anderen Punkt gelegt werden, es sei denn, dem Timeout gingen ein Team A-Foul oder sich aufhebende Fouls voraus.\n\t\t2. Wenn der Ball die neutrale Zone nicht überquert oder wenn Team B den Ball berührt, nachdem dieser die neutrale Zone überquert hat, gelten die allgemeinen Regeln bezüglich Scrimmage Kicks (A.R. 6.3.4.II, A.R. 8.4.2.I bis 8.4.2.VI und A.R. 10.2.3.V).\n\t\t3. Wenn der Ball die neutrale Zone überquert, unberührt von Team B ist, nachdem er die neutrale Zone überquert hat, und hinter der neutralen Zone für dead erklärt wird, gelten die allgemeinen Regeln bezüglich Scrimmage Kicks (A.R. 8.4.2.VII)."
+interpretations: []

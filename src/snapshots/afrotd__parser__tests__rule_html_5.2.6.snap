@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            5.2.6 Fouls zwischen den Downs
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Nach einer Distanzstrafe, die sich zwischen den Downs ereignet
+                hat, muss die Nummer des nächsten Downs dieselbe sein, die vor
+                dem Foul festgelegt wurde; es sei denn, die Durchführung eines
+                Team B-Fouls bringt den Ball auf oder jenseits der Line to Gain
+                oder die Strafe beinhaltet einen First Down (Regel 9.1.1) (A.R.
+                5.2.6.I, A.R. 10.1.5.I bis 10.1.5.III).
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.5.2.6"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

@@ -1,0 +1,35 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 7.3.2.IX
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            3. und 5 von der A-40. QB A12 geht gerade zurück, um einen Pass zu
+            werfen. Er befindet sich in schwerer Bedrängnis der Defense
+            Spieler, als er einen Rückpass auf Back A22 wirft, der den Ball aus
+            der Tackle Box heraus trägt. Kurz bevor A22 getackelt wird, wirft
+            er von der A-35 einen Vorwärtspass über die neutrale Zone und der
+            Ball landet 20 Meter vom nächsten berechtigten Team A-Receiver
+            entfernt auf dem Boden.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Foul, absichtliches Wegwerfen. Die Ausnahme bzgl. der Tackle
+                Box gilt nur für den Spieler, der den Snap oder den daraus
+                resultierenden Rückpass kontrolliert. Downverlust am Punkt des
+                Fouls. 4. und 10 von der A-35 (Regel 7.3.2.h Ausnahme).
+            </p>
+        </details>
+    </div>
+</article>

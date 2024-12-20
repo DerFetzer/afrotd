@@ -1,0 +1,47 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.16.10 Scrimmage Kick-Formation
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Eine Scrimmage Kick-Formation ist eine Formation, bei der
+                sich kein Spieler in Position befindet, einen
+                von-Hand-zu-Hand-Snap zwischen den Beinen des Snappers
+                anzunehmen und entweder
+                    <ol type="1">
+                        <li>wenigstens ein Spieler sich 10 oder mehr Meter
+                        hinter der neutralen Zone befindet oder
+                        </li>
+                        <li>sich ein potentieller Holder und ein potentieller
+                        Kicker sieben oder mehr Meter hinter der neutralen Zone
+                        in Position für einen Place Kick befindet. Für 1. oder
+                        2. muss es jeweils offensichtlich sein, dass versucht
+                        wird, einen Kick auszuführen, damit von einer Scrimmage
+                        Kick-Formation ausgegangen werden kann (A.R. 9.1.14.I
+                        bis 9.1.14.III)
+                        </li>
+                    </ol>
+                </li>
+                <li>Wenn sich Team A beim Snap in einer Scrimmage
+                Kick-Formation aufgestellt hat, werden alle Team A-Aktionen
+                während dieses Downs als Aktionen aus einer Scrimmage
+                Kick-Formation angesehen.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.16.10"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

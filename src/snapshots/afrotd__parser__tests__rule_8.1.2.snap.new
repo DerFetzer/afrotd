@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 1
+  - 2
+title: Punkterzielung
+text: Abgebrochene Spiele werden gemäß der BSO Deutschland gewertet.
+interpretations: []

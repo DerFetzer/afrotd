@@ -1,0 +1,93 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            1.2.1 Ausmaße und Markierungen
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Der Platz muss eine rechteckige Fläche und mit den Ausmaßen,
+                Linien, Zonen, Toren und Pylonen versehen sein, wie sie in den
+                Diagrammen im Anhang A dargestellt sind.
+            </p>
+            <ol type="a">
+                <li>Alle dargestellten Linien müssen weiß und ca. 10 cm breit
+                markiert werden. (Ausnahme: Seitenlinien und Endlinien können
+                breiter als 10 cm sein, Goallines sollen 10 oder 20 cm breit
+                sein und Regel 1.2.1.g.)
+                </li>
+                <li>Es werden Linien (10-Meterlinien) vorgeschrieben, die das
+                Feld in 12 gleich große Zonen unterteilen. Diese Linien müssen
+                durch Metertafeln verdeutlicht werden. Die Tafeln müssen 4 m
+                außerhalb der Seitenlinie aufgestellt werden. An der Innenseite
+                der Seitenlinien und der Hash Marks (Regel 2.12.7) können 60 cm
+                lange Verlängerungen der Meterlinien markiert werden. Diese
+                Meterlinien (Regel 2.12.6) sollen 10 cm von der Seitenlinie
+                entfernt sein.
+                </li>
+                <li>Zwischen der Seitenlinie und der Coaching Box wird eine
+                weiße Zone (Schiedsrichterzone) empfohlen.
+                </li>
+                <li>Weiße Platzmarkierungen oder abweichende, dekorative
+                Markierungen (Logos, Teamnamen etc.) sind in den Endzonen
+                zulässig, aber es wird vorgeschrieben, dass die Markierungen 10
+                cm von jeder anderen Linie entfernt enden.
+                </li>
+                <li>Farbige Markierungen in den Endzonen dürfen an anderen
+                Linien angrenzen.
+                </li>
+                <li>Farbige, dekorative Markierungen sind erlaubt. Sie sind
+                innerhalb der Seitenlinie und zwischen den Goallines unter
+                folgenden Bedingungen zulässig:
+                    <ol type="1">
+                        <li>Meterlinien, Goallines und Seitenlinien müssen
+                        vollständig und deutlich sichtbar sein. Kein Teil
+                        dieser Linien darf durch farbige Markierungen bedeckt
+                        sein.
+                        </li>
+                        <li>Die farbigen Markierungen dürfen weder Hash Marks
+                        noch die Nummern auf dem Feld (Regel 1.2.1.h) berühren
+                        oder einschließen.
+                        </li>
+                    </ol>
+                </li>
+                <li>Goallines dürfen sich von den weißen Linien durch eine
+                unterschiedliche Farbe abheben.
+                </li>
+                <li>Weiße Distanzmarkierungen (10, 20, 30 etc.), die nicht
+                länger als 1,8 m und nicht breiter als 1,2 m sind, können auf
+                das Spielfeld aufgebracht werden. Deren Oberkante muss sich 9 m
+                von der Seitenlinie entfernt befinden.
+                </li>
+                <li>Weiße Richtungspfeile, die sich neben den
+                Distanzmarkierungen (au- ßer der 50) befinden und die die
+                Richtung zur nächstgelegenen Endzone anzeigen, werden
+                empfohlen. Die Pfeile sollen als Dreiecke dargestellt werden,
+                wobei die Basis nicht länger als 45 cm und die Seiten nicht
+                länger als 90 cm sein sollen.
+                </li>
+                <li>Die beiden Hash Marks sollen sich 18,3 m von den
+                Seitenlinien entfernt befinden. Die Hash Marks und die kurzen
+                Verlängerungen der Meterlinien sollen ca. 60 cm lang sein.
+                </li>
+                <li>Auf dem Spielfeld sollen sich an jeder 10-Meterlinie und 9
+                m von den Seitenlinien entfernt parallel zu den Seitenlinien 30
+                cm lange Neunmetermarkierungen befinden. Diese können
+                entfallen, wenn das Feld gemäß 1.2.1.h markiert ist.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.1.2.1"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

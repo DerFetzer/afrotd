@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 3
+  - 1
+index: 5
+text: "3. und 5 von der B-30. Zu einem späten Zeitpunkt in der Halbzeit haben beide Teams ihre Team-Timeouts noch verfügbar. Während\nTeam A sich an der Scrimmage Line befindet und bereit ist, den Snap\ndurchzuführen, verlangt Team B’s Head Coach ein Timeout und dem\nVerlangen wird stattgegeben. Nach dem Timeout sind beide Teams in\nPosition und der Ball ist spielbereit. (a) Team B’s Head Coach verlangt\nein Timeout oder (b) Team A’s Head Coach verlangt ein Timeout."
+ruling: "(a) Die Schiedsrichter sollen Team B’s Timeout-Verlangen igno-\nrieren. Team B hat zwar noch zwei Timeouts, aber sie haben in dieser\nDead Ball Periode bereits ein Timeout genommen, so dass ein weiteres Timeout nicht zugelassen wird. (b) Team A’s Verlangen nach einem\nTimeout wird stattgegeben. Da Team A in dieser Halbzeit noch Timeout\nzur Verfügung hat und in dieser Dead Ball Periode noch kein Timeout\ngenommen hat, wird ein Timeout zugelassen."

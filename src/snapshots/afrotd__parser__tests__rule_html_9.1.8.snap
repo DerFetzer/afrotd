@@ -1,0 +1,36 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            9.1.8 Helm und Helmgitter-Fouls
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Kein Spieler darf den Helm eines Gegners (inklusive
+                Helmgitter), dessen Gesicht oder dessen Hals mit Hand (Händen)
+                oder Arm(en) fortwährend berühren (Ausnahme: durch oder gegen
+                den Runner) [S26].
+                </li>
+                <li>Kein Spieler darf das Helmgitter, den Kinnriemen oder eine
+                andere Helmöffnung eines Gegners ergreifen und diese dann
+                verdrehen oder daran ziehen. Es ist kein Foul, wenn das
+                Helmgitter, der Kinnriemen oder die Helmöffnung nur ergriffen,
+                anschließend aber nicht verdreht oder daran gezogen wird. Im
+                Zweifel ist es ein Foul.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.9.1.8"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

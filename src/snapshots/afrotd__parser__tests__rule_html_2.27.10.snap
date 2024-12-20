@@ -1,0 +1,27 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.27.10 Ausgewechselter Spieler
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Ein ausgewechselter Spieler ist ein Spieler, der an einem
+                vorherigen Down teilgenommen hat und durch einen Ersatzspieler
+                ersetzt wurde und das Spielfeld und die Endzonen verlassen hat.
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.27.10"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

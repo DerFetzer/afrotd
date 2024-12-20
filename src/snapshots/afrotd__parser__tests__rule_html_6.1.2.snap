@@ -1,0 +1,96 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            6.1.2 Free Kick-Formation
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>
+                    <p>
+                        Bei einer Free Kick-Formation muss der Ball von einem
+                        Punkt von Team A’s Restraining Line (Ausnahme:
+                        6.1.2.c.4) auf oder innerhalb der Hash Marks legal
+                        gekickt werden. Der Referee soll den Ball für
+                        spielbereit erklären, wenn die Schiedsrichter in
+                        Position sind, nachdem der Kicker den Ball erhalten
+                        hat. Nach der Ballfreigabe durch den Referee darf der
+                        Ball nur noch nach einem Team-Timeout oder für einen
+                        nachfolgenden Kick in seiner Position verändert werden.
+                    </p>
+                    <p>
+                        <strong>Strafe: Dead Ball Foul. Illegaler Kick. 5 Meter
+                        vom Succeeding Spot [S7 und S19] (A.R.
+                        6.1.2.I).</strong>
+                    </p>
+                </li>
+                <li>Nachdem der Ball freigegeben wurde, dürfen sich alle Team
+                A-Spieler, ausgenommen dem Kicker, nicht mehr als fünf Meter
+                hinter ihrer Restraining Line befinden. Ein Spieler erfüllt
+                diese Regel, wenn sich ein Fuß auf oder jenseits der Linie
+                befindet, die sich fünf Meter hinter der Restraining Line
+                erstreckt. Befindet sich ein Team A-Spieler mehr als fünf Meter
+                hinter seiner Restraining Line und irgendein anderer Spieler
+                seines Teams kickt, liegt ein Foul für eine illegale Formation
+                vor (A.R. 6.1.2.VII).
+                </li>
+                <li>Wenn der Ball gekickt wird (A.R. 6.1.2.I bis 6.1.2.V):
+                    <ol type="1">
+                        <li>muss sich jeder Team A-Spieler, außer dem Kicker
+                        und Holder beim Place Kick, hinter dem Ball befinden
+                        (A.R. 6.1.2.V) [S18].
+                        </li>
+                        <li>müssen sich alle Team A-Spieler im Feld befinden
+                        [S19].
+                        </li>
+                        <li>müssen sich wenigstens vier Team A-Spieler auf
+                        jeder Seite des Kickers befinden [S19] (A.R. 6.1.2.II
+                        bis 6.1.2.IV).
+                        </li>
+                        <li>muss nach einem Safety, wenn ein Punt oder Drop
+                        Kick durchgeführt wird, der Ball von einem Punkt hinter
+                        der Restraining Line des Kicking Teams gekickt werden.
+                        Wenn eine Distanzstrafe für ein Live Ball Foul vom
+                        Previous Spot geahndet wird, wird sie von der
+                        20-Meterlinie durchgeführt, es sei denn, die
+                        Restraining Line des Kicking Teams wurde durch eine
+                        vorherige Strafe verschoben [S18 oder passendes
+                        Signal].
+                        </li>
+                        <li>müssen sich alle Team A-Spieler nach Ballfreigabe
+                        zwischen den Neunmetermarkierungen befunden haben
+                        [S19]. Strafe (b-c5): Live Ball Foul. 5 Meter vom
+                        Previous Spot oder 5 Meter von dem Punkt, an dem der
+                        anschließende Dead Ball zu Team B gehört oder von dem
+                        Punkt, an dem der Ball nach einem Touchback platziert
+                        wird [S18 und S19] (A.R. 6.1.2.VI).
+                        </li>
+                        <li>müssen sich alle Team B-Spieler im Feld befinden
+                        [S19].
+                        </li>
+                        <li>müssen sich alle Team B-Spieler hinter ihrer
+                        Restraining Line befinden [S18]. Strafe (c6-c7): 5
+                        Meter vom Previous Spot (Live Ball Foul) [S18 und S19].
+                        </li>
+                    </ol>
+                </li>
+                <li>Wenn der Ball, nachdem er spielbereit ist, aus irgendeinem
+                Grund vom Kicking Tee fällt, darf Team A nicht kicken und die
+                Schiedsrichter müssen abpfeifen.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.6.1.2"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

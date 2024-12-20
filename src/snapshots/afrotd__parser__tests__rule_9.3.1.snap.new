@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 3
+  - 1
+title: Wer darf blocken
+text: "Spieler jedes Teams dürfen gegnerische Spieler blocken, vorausgesetzt, es handelt sich nicht um Passbehinderung, die Behinderung beim Fangen eines Kicks oder ein persönliches Foul (Ausnahme: Regel 6.1.12 und 6.5.4)."
+interpretations: []

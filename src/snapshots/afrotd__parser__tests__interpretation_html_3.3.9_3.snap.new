@@ -1,0 +1,36 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.3.9.III
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Während des Downs verliert A22 seinen Helm vollständig (kein
+            Helmfoul durch die Defense) und B77 bleibt verletzt am Boden
+            liegen. Der Ballträger wird inbounds getackelt. Als die Game Clock
+            angehalten wird, bleibt sie bei 0:58 in der vierten Spielperiode
+            stehen.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Solange Team A kein Timeout nimmt, muss A22 das Spiel für einen
+                Down verlassen. Die Play Clock wird aufgrund der Verletzung
+                eines Defense Spielers eher auf 40 Sekunden statt auf 25
+                Sekunden für den Helmverlust des Offense Spielers gestellt. Es
+                gibt keinen 10-SekundenAbzug, da die Game Clock für beides,
+                Helmverlust und Verletzung, angehalten wurde und diese sich bei
+                gegnerischen Spielern ereigneten.
+            </p>
+        </details>
+    </div>
+</article>

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 4
+  - 1
+index: 1
+text: "Team A versucht ein Fieldgoal von der B-30. Ein Team B-Spieler\nin der Endzone springt vor der Querlatte hoch und schlägt den fliegenden Ball weg. Der Ball geht in die Endzone und wird dort von Team A\nrecovert."
+ruling: "Foul für Schlagen des Balles in der Endzone. Das\nErgebnis des Downs ist ein Touchdown."

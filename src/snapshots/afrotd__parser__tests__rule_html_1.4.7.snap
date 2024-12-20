@@ -1,0 +1,71 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            1.4.7 Illegale Ausrüstung
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Illegale Ausrüstung beinhaltet folgendes (siehe auch Anhang B
+                für zusätzliche Details):
+            </p>
+            <ol type="a">
+                <li>Ausrüstung, die ein Spieler trägt, welche für andere
+                Spieler eine Gefahr darstellt.
+                </li>
+                <li>Verbände oder Bandagen, soweit sie nicht gebraucht werden,
+                um eine Verletzung zu schützen, gepolstert sind und vom Umpire
+                genehmigt wurden.
+                </li>
+                <li>harte, geschliffene und unnachgiebige Ausrüstungsteile, die
+                nicht vollständig bedeckt und gepolstert sind und vom Umpire
+                genehmigt wurden.
+                </li>
+                <li>abnehmbare Schuhstollen (Regel 9.2.2.d).
+                </li>
+                <li>nicht abnehmbare Schuhstollen, die von der Spitze des
+                Stollens bis zur Schuhsohle länger als 13 mm sind (Regel
+                9.2.2.d, siehe auch Anhang B für zusätzliche Details).
+                </li>
+                <li>jede Ausrüstung, durch die ein Gegner verwirrt oder
+                getäuscht werden könnte.
+                </li>
+                <li>jede Ausrüstung, die einem Spieler einen ungerechtfertigten
+                Vorteil verschafft.
+                </li>
+                <li>klebriges Material, Farbe, Schmiere, Öl oder andere
+                schlüpfrige Substanzen an der Kleidung, der Ausrüstung oder am
+                Körper eines Spielers (Ausnahme: Gesichtsschminke).
+                </li>
+                <li>andere Anhänge zur Ausrüstung außer Handtücher (Regel
+                1.4.6.a).
+                </li>
+                <li>Rippen- und Rückenschützer und sonstige Teile eines
+                Schulterschützers, die nicht komplett bedeckt sind (A.R.
+                1.4.7.II).
+                </li>
+                <li>sichtbare Kopftücher, die auf dem Feld unter dem Helm
+                heraushängen (A.R. 1.4.7.I)
+                </li>
+                <li>Trikots, die nicht der Regel 1.4.5 entsprechen (A.R.
+                1.4.7.III).
+                </li>
+                <li>nicht standardgemäße, übermäßig verbaute Gesichtsgitter
+                (A.R. 1.4.7.IV) (Hinweis: siehe Abbildungen im Anhang B).
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.1.4.7"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

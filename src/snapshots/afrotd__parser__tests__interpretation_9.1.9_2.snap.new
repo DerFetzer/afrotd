@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 9
+index: 2
+text: "Quarterback A11 geht zurück in seine Pocket, um einen Pass zu\nwerfen. In dem Moment, als er den Ball loslässt, prallt B88 mit seinen\nSchultern gegen A11’s Knie. Der Pass (a) ist unvollständig; (b) wird von\nA44 gefangen und dieser wird nach einem Raumgewinn von 12 Metern an der B-40 getackelt."
+ruling: "Foul von B88 für unnötig hartes\nBlocken gegen oder unterhalb der Knie eines Passers (Regel 9.1.9.b).\nAutomatisch First Down und eine 15-Meterstrafe von (a) dem Previous\nSpot; (b) der B-40, dem Ende des Laufes von A44."

@@ -1,0 +1,123 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            10.2.2 Feststellung des Enforcement Spots und des Basic
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Spots
+            </p>
+            <ol type="a">
+                <li>Dead Ball Fouls: Der Enforcement Spot für ein Foul, das
+                begangen wurde, wenn der Ball dead ist, ist der Succeeding
+                Spot.
+                </li>
+                <li>Fouls des offensiven Teams hinter der neutralen Zone: Für
+                die nachfolgend aufgeführten Fouls durch das offensive Team
+                hinter der neutralen Zone wird die Strafe vom Previous Spot
+                durchgeführt: illegales Benutzen der Hände, Halten, illegale
+                Blocks und persönliche Fouls (Ausnahme: Wenn sich das Foul in
+                Team A’s Endzone ereignet, ist die Strafe ein Safety.). Jedoch
+                müssen auch die Regeln bezüglich Team A-Fouls während Scrimmage
+                Kick-Spielen (Regel 6.3.13) beachtet werden.
+                </li>
+                <li>Das Drei-und-Eins-Prinzip (Regel 2.33.1) ist wie folgt
+                definiert:
+                    <ol type="1">
+                        <li>Wenn das ballbesitzende Team ein Foul hinter dem
+                        Basic Spot verursacht, wird die Strafe vom Spot of Foul
+                        durchgeführt.
+                        </li>
+                        <li>Wenn das ballbesitzende Team ein Foul jenseits des
+                        Basic Spots verursacht, wird die Strafe vom Basic Spot
+                        durchgeführt.
+                        </li>
+                        <li>Wenn das nicht ballbesitzende Team ein Foul
+                        entweder hinter oder jenseits des Basic Spots
+                        verursacht, wird die Strafe vom Basic Spot
+                        durchgeführt.
+                        </li>
+                    </ol>
+                </li>
+                <li>Nachfolgend werden die Basic Spots für die verschiedenen
+                Spielkategorien aufgeführt:
+                    <ol type="1">
+                        <li>Laufspiele
+                            <ol type="a">
+                                <li>Previous Spot, wenn der mit dem Foul
+                                verbundene Lauf hinter der neutralen Zone
+                                endet.
+                                </li>
+                                <li>Ende des mit dem Foul verbundenen Laufes,
+                                wenn der mit dem Foul verbundene Lauf jenseits
+                                der neutralen Zone endet.
+                                </li>
+                                <li>Ende des mit dem Foul verbundenen Laufes
+                                bei Laufspielen, die keine neutrale Zone haben.
+                                </li>
+                            </ol>
+                        </li>
+                        <li>Laufspiele, außer bei einem Try, bei denen der Lauf
+                        nach einem Wechsel des Team Ballbesitzes in der Endzone
+                        endet
+                            <ol type="a">
+                                <li>Succeeding Spot, wenn sich – nach dem
+                                Wechsel eines Team Ballbesitzes in der Endzone
+                                – ein Foul ereignet und das Ergebnis des Downs
+                                ein Touchback ist.
+                                </li>
+                                <li>Goalline, wenn sich – nach dem Wechsel
+                                eines Team Ballbesitzes im Spielfeld – ein Foul
+                                ereignet und der mit dem Foul verbundene Lauf
+                                in der Endzone endet (Ausnahme: Regel 8.5.1.a
+                                Ausnahmen).
+                                </li>
+                                <li>Goalline, wenn sich – nach dem Wechsel
+                                eines Team Ballbesitzes in der Endzone – ein
+                                Foul ereignet, der mit dem Foul verbundene Lauf
+                                in der Endzone endet und das Ergebnis des Downs
+                                kein Touchback ist.
+                                </li>
+                            </ol>
+                        </li>
+                        <li>Pass-Spiele Previous Spot bei legalen
+                        Vorwärtspass-Spielen
+                        </li>
+                        <li>Kick-Spiele
+                            <ol type="a">
+                                <li>Previous Spot bei legalen Kick-Spielen, es
+                                sei denn, das Foul wird nach den Postscrimmage
+                                Kick Regeln geregelt.
+                                </li>
+                                <li>Postscrimmage Kick Spot, wenn das Foul nach
+                                den Postscrimmage Kick Regeln geregelt wird.
+                                </li>
+                            </ol>
+                        </li>
+                    </ol>
+                </li>
+                <li>Für Team B-Fouls während eines legalen
+                Vorwärtspass-Spieles. Strafen für persönliche Fouls und
+                unsportliche Verhalten Fouls durch Team B werden vom Ende des
+                letzten Laufes geahndet, wenn der Lauf jenseits der neutralen
+                Zone endet und sich während des Downs kein Team
+                Ballbesitzwechsel ereignet hat (Regel 7.3.12) (A.R. 7.3.12.I,
+                7.3.12.II und 9.1.2.III).
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.10.2.2"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 2
+  - 5
+index: 9
+text: "Team A foult, nachdem es einen Touchdown erzielt hat und\nTeam B foult nach dem erfolgreichen Try."
+ruling: "Der Touchdown\ngilt. Team B hat die Wahl, die Strafe für Team A’s Foul beim Try, dem\nanschließenden Kickoff oder vom Succeeding Spot in Extraperioden\ndurchführen zu lassen. Für das Foul nach dem Try wird Team B beim\nKickoff oder vom Succeeding Spot in Extraperioden bestraft.\nFouls während eines Try, ohne dass der Team Ballbesitz wechselt\n(das beinhaltet nicht Live Ball Fouls, die als Dead Ball Fouls behandelt werden oder Fouls mit einem Downverlust):"

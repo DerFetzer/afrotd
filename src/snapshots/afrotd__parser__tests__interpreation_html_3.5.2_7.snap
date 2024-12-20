@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.5.2.VII
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Zu einem späten Zeitpunkt in der ersten Halbzeit hat Team A keine
+            Timeouts mehr. Ein Passspiel endet kurz vor der Line to Gain
+            inbounds an der B-25. Die Game Clock läuft bei 0:10 und Team A
+            schickt sofort schnell sein Kicking Team zu einem Fieldgoal auf das
+            Spielfeld. Es ist Team A’s Ball, 4. und 3 von der B-25.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team B muss in dieser Situation damit rechnen, dass Team A ein
+                Fieldgoal versuchen wird und daher seine Fieldgoal Defense
+                bereit halten. Der Umpire muss nicht über dem Ball stehen
+                bleiben, da die Defense bezüglich des kommenden Downs nicht
+                verunsichert ist.
+            </p>
+        </details>
+    </div>
+</article>

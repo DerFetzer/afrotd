@@ -1,9 +1,10 @@
 use eyre::eyre;
 use maud::{html, PreEscaped, Render};
 use roman_numerals::ToRoman;
+use serde::Serialize;
 use std::{fmt::Display, str::FromStr};
 
-#[derive(Debug, Clone, Hash, PartialEq, Eq)]
+#[derive(Debug, Clone, Hash, PartialEq, Eq, Serialize)]
 pub struct Rule {
     pub article_nr: ArticleNr,
     pub title: String,
@@ -119,7 +120,7 @@ impl Render for Rule {
     }
 }
 
-#[derive(Debug, Clone, Hash, PartialEq, Eq)]
+#[derive(Debug, Clone, Hash, PartialEq, Eq, Serialize)]
 pub struct RuleInterpretation {
     pub article_nr: ArticleNr,
     pub index: u8,
@@ -150,7 +151,7 @@ impl Render for RuleInterpretation {
     }
 }
 
-#[derive(Debug, Copy, Clone, Hash, PartialEq, Eq)]
+#[derive(Debug, Copy, Clone, Hash, PartialEq, Eq, Serialize)]
 pub struct ArticleNr(pub u8, pub u8, pub u8);
 
 impl ArticleNr {

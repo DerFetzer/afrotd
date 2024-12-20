@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 4
+  - 2
+index: 7
+text: "Team A snappt den Ball von der B-15, um ein Fieldgoal zu\nerzielen. Der Kick wird teilweise geblockt, überquert die neutrale Zone\nund landet an der B-12. Bevor irgendein Spieler den Ball berühren kann,\nprallt dieser zurück hinter die neutrale Zone und geht (a) an der B-17\nund (b) an der B-25 ins Aus."
+ruling: "(a) Team B’s Ball, 1. und 10\nvon der B-17; (b) Team B’s Ball, 1. und 10 von der B-25 (Regeln 6.3.7\nund 8.4.2.b)."

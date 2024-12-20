@@ -1,0 +1,110 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            4.1.3 Ball wird für dead erklärt
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Ein Live Ball wird dead und ein Schiedsrichter soll abpfeifen
+                oder den Ball für dead erklären, wenn:
+            </p>
+            <ol type="a">
+                <li>der Ball ins Aus geht, außer es handelt sich um einen Kick,
+                bei dem ein Fieldgoal erzielt wird, nachdem der Kick die
+                Querlatte oder die Pfosten berührt hat; ein Ballträger im Aus
+                ist oder ein Ballträger so festgehalten wird, dass sein Forward
+                Progress gestoppt wurde. Im Zweifel ist der Ball dead (A.R.
+                4.2.1.II).
+                </li>
+                <li>irgendein Körperteil des Ballträgers, außer seinen Händen
+                oder Füßen, den Boden berührt oder ein Ballträger getackelt
+                wird oder irgendwie fällt und den Ball verliert, wenn er den
+                Boden mit einem anderen Körperteil als Hände oder Füße berührt
+                (Ausnahme: Der Ball bleibt ein Live Ball, wenn ein Offense
+                Spieler einen Kick vorgetäuscht hat oder beim Snap in der
+                Position ist, einen Ball zu kicken, der von einem Mitspieler
+                für einen Place Kick gehalten wird. Der Ball kann regelgerecht
+                gekickt, geworfen oder getragen werden (A.R. 4.1.3.I)).
+                </li>
+                <li>ein Touchdown, Touchback, Safety, Fieldgoal oder ein
+                erfolgreicher Try erzielt wurde oder ein Free Kick oder ein
+                Scrimmage Kick, der jenseits der neutralen Zone unberührt von
+                Team B ist, den Boden in Team B’s Endzone berührt (Regeln
+                6.1.7.a, 6.3.9 und A.R. 6.3.9.I).
+                </li>
+                <li>während eines Try eine Dead Ball Regel zutrifft (Regel
+                8.3.2.d.5).
+                </li>
+                <li>ein Spieler des Kicking Teams einen Free Kick oder einen
+                Scrimmage Kick, der die neutrale Zone überquert hat, fängt oder
+                recovert.
+                </li>
+                <li>ein Free- oder Scrimmage Kick oder irgendein anderer freier
+                Ball zur Ruhe kommt und kein Spieler versucht, den Ball zu
+                recovern.
+                </li>
+                <li>ein Free Kick oder ein Scrimmage Kick von irgendeinem Team
+                B-Spieler gefangen oder recovert wird, nachdem irgendein Team
+                B-Spieler ein gültiges oder ungültiges Fair Catch-Signal
+                gegeben hat oder ein ungültiges Fair Catch-Signal gemacht wird,
+                nachdem Team B einen Kick gefangen oder recovert hat (Regeln
+                2.8.1 bis 2.8.3).
+                </li>
+                <li>ein Return Kick oder ein Scrimmage Kick jenseits der
+                neutralen Zone durchgeführt wird.
+                </li>
+                <li>ein Vorwärtspass für unvollständig erklärt wird.
+                </li>
+                <li>vor dem Wechsel des Team Ballbesitzes beim vierten Down
+                oder beim Try ein Team A-Fumble von einem anderen Team
+                A-Spieler als dem Fumbler gefangen oder recovert wird (Regel
+                7.2.2.a und 7.2.2.b und 8.3.2.d.5).
+                </li>
+                <li>ein Live Ball, der nicht im Besitz eines Spielers ist, im
+                Feld irgendetwas, außer einen Spieler, die Ausrüstung eines
+                Spielers, einen Schiedsrichter, ein Ausrüstungsteil eines
+                Schiedsrichters oder den Boden berührt (die Regeln bezüglich
+                irrtümlichen Abpfeifens treffen analog zu).
+                </li>
+                <li>ein Live Ball gleichzeitig von gegnerischen Spielern
+                gefangen oder recovert wird.
+                </li>
+                <li>der Ball während des Spieles illegal wird (die Regeln
+                bezüglich irrtümlichen Abpfeifens treffen analog zu).
+                </li>
+                <li>sich ein Live Ball im Besitz eines Schiedsrichters befindet
+                (die Regeln bezüglich irrtümlichen Abpfeifens treffen analog
+                zu).
+                </li>
+                <li>ein Ballträger vortäuscht, er würde abknien.
+                </li>
+                <li>ein in der Luft befindlicher Passreceiver eines Teams so
+                festgehalten wird, dass er daran gehindert wird, sofort auf den
+                Boden zurückzukehren (A.R. 7.3.6.III).
+                </li>
+                <li>der Ballträger seinen Helm vollständig verliert.
+                </li>
+                <li>ein Ballträger offensichtlich beginnt, mit einem oder
+                beiden Füßen voran zu rutschen. Wenn ein Ballträger vortäuscht,
+                er würde mit seinen Füßen voran rutschen, soll der Ball an dem
+                Punkt von den Schiedsrichtern für dead erklärt werden, an dem
+                der Ballträger mit dem Versuch beginnt (A.R. 4.1.3.III und
+                4.1.3.IV).
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.4.1.3"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

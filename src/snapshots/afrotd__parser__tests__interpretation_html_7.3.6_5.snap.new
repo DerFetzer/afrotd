@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 7.3.6.V
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Der in der Luft befindliche A80 erreicht einen legalen Vorwärtspass
+            an seiner 30-Meterlinie. Noch während er sich im Flug befindet,
+            wird er von B40 getackelt und zu der A-26 zurückgeschoben, wo der
+            Ball dead wird.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team A’s Ball an der A-30 (Regel 5.1.3.a Ausnahme).
+            </p>
+        </details>
+    </div>
+</article>

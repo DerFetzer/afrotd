@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 1.4.2.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Ein Team A-Spieler, der zu Beginn des Spieles das Trikot mit der
+            Nummer 77 trug, kommt ins Spielfeld und trägt die Nummer 88.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Der Spieler muss sich beim Referee melden. Der Referee
+                veranlasst die Änderung im Spielberichtsbogen und benutzt sein
+                Mikrofon, um die Änderung mitzuteilen. Der betreffende
+                Schiedsrichter informiert den gegnerischen Head Coach. Falls
+                A88 die Meldung unterlässt, ist das ein Foul für ein
+                unsportliches Verhalten.
+            </p>
+        </details>
+    </div>
+</article>

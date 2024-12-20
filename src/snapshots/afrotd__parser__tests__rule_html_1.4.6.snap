@@ -1,0 +1,52 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            1.4.6 Sonstige Ausrüstung
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Die folgenden Gegenstände sind legal:
+            </p>
+            <ol type="a">
+                <li>Handtücher und Handwärmer.
+                    <ol type="1">
+                        <li>Kleine Handtücher zum Trocknen der Hände.
+                        </li>
+                        <li>Handwärmer, die bei unangenehmer Witterung getragen
+                        werden.
+                        </li>
+                    </ol>
+                </li>
+                <li>Handschuhe. Ein Handschuh ist eine der Hand angepasste
+                Bedeckung mit getrennten Segmenten für jeden Finger und den
+                Daumen, wobei jeder Finger und der Daumen vollständig bedeckt
+                sind, ohne zusätzliches Material, welches Finger und/oder
+                Daumen verbindet. Es gibt keine Beschränkungen hinsichtlich der
+                Farbe der Handschuhe.
+                </li>
+                <li>Visiere. Visiere müssen aus einem durchgehenden, stabilen
+                Material sein. Visiere dürfen dabei klar, getönt, verspiegelt
+                oder gefärbt sein. Die Nutzung von Visieren, Brillen oder
+                sonstigem Augenschutz erfolgt auf eigene Gefahr.
+                </li>
+                <li>Spielinformationen. Jeder Spieler darf schriftliche
+                Informationen auf seinem Arm, seinem Handgelenk oder seinem
+                Gürtel tragen.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.1.4.6"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

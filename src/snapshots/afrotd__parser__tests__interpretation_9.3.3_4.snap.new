@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 3
+  - 3
+index: 4
+text: "Ein Mitspieler des Passers oder Ballträgers führt mit der (den)\ngeschlossenen Hand (Händen) einen Schlag gegen einen Gegner und\ntrifft ihn unter den Schultern."
+ruling: "Persönliches Foul. Strafe –\n15 Meter. Strafdurchführung vom Basic Spot oder Previous Spot, wenn\nsich das Foul hinter der neutralen Zone ereignet. Safety, wenn sich das\nFoul hinter Team A’s Goalline ereignet."

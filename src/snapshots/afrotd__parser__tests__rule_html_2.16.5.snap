@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.16.5 Free Kick
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Ein Free Kick ist ein Kick durch einen Spieler des
+                ballbesitzenden Teams, der gemäß den Bedingungen der Regeln
+                4.1.4, 6.1.1 und 6.1.2 durchgeführt wird.
+                </li>
+                <li>Ein Free Kick nach einem Safety kann ein Punt, ein Drop
+                Kick oder ein Place Kick sein.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.16.5"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

@@ -1,0 +1,27 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 8.3.3.V
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Während eines Try befindet sich B79 beim Snap in der neutralen
+            Zone. B20 fängt einen Vorwärtspass ab und A55 tackelt ihn, indem er
+            an B20’s Helmgitter zieht.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Die Fouls heben sich auf und der Down wird wiederholt.
+            </p>
+        </details>
+    </div>
+</article>

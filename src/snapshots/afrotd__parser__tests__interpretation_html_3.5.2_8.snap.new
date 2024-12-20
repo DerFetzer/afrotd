@@ -1,0 +1,39 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.5.2.VIII
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Zu einem späten Zeitpunkt in der ersten Halbzeit hat Team A keine
+            Timeouts mehr. Ein Passspiel endet kurz vor der Line to Gain
+            inbounds an der B-25. Die Game Clock lauft bei 0:30, ohne dass Team
+            A erkennen lässt, wie es weitergehen soll. Es ist Team As Ball, 4.
+            und 3 von der B-25. Erst als die Game Clock bei 10 Sekunden
+            angelangt ist, schickt es schnell sein Kicking Team zu einem
+            Fieldgoalversuch auf das Spielfeld und Team B beeilt sich, darauf
+            zu reagieren.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Der Referee startet die in den Mechanics aufgeführte
+                Auswechselprozedur und der Umpire bewegt sich zum Ball, um den
+                Snap zu verhindern. Hat der Referee festgestellt, dass die
+                Defense ausreichend Zeit hatte, seine Auswechslungen
+                vorzunehmen, schickt er den Umpire zurück in seine Position.
+                Wenn die Game Clock auf „0“ heruntergelaufen ist, bevor der
+                Umpire zurückgeht, ist die Halbzeit beendet.
+            </p>
+        </details>
+    </div>
+</article>

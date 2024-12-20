@@ -1,0 +1,57 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            3.5.3 Mehr als 11 Spieler auf dem Feld und außereuropäische Spieler
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>
+                    <p>
+                        Team A darf weder sein Huddle mit mehr als 11 Spielern
+                        auflösen noch mehr als 11 Spieler für mehr als 3
+                        Sekunden in seinem Huddle oder in einer Formation
+                        belassen. Die Schiedsrichter müssen die Aktion stoppen,
+                        egal ob der Snap unmittelbar bevorsteht oder gerade
+                        durchgeführt wurde.
+                    </p>
+                    <p>
+                        <strong>Strafe: Dead Ball Foul. 5 Meter vom Succeeding
+                        Spot [S22].</strong>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Team B ist es erlaubt, kurzfristig mehr als 11 Spieler
+                        auf dem Feld zu lassen, um die Offense Formation zu
+                        ermitteln, aber sie dürfen nicht mehr als 11 Spieler
+                        auf dem Feld haben, wenn der Snap durchgeführt wird.
+                        Der Regelverstoß wird als Live Ball Foul geahndet (A.R.
+                        3.5.3.I bis 3.5.3.VII).
+                    </p>
+                    <p>
+                        <strong>Strafe: Live Ball Foul. 5 Meter vom Previous
+                        Spot [S22].</strong>
+                    </p>
+                </li>
+                <li>Die Teilnahme von mehr als zwei außereuropäischen Spielern
+                während eines Downs wird analog zu Regel 3.5.3.a und 3.5.3.b
+                geregelt (siehe auch BSO Deutschland). Regel 4 Live Ball, Dead
+                Ball, im Aus
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.3.5.3"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

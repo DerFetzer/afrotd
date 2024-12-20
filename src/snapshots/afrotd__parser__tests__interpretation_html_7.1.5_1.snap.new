@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 7.1.5.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Snapper A1 hebt den Ball an und, bevor er ihn rückwärts wirft,
+            schlägt B2 den Ball weg und B3 recovert den freien Ball.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Sofort abpfeifen. Team A Dead Ball Foul. Illegaler Snap. Der
+                Ball bleibt dead, denn er wurde nicht durch einen legalen Snap
+                ins Spiel gebracht. Strafe – 5 Meter vom Succeeding Spot. Team
+                A bleibt in Ballbesitz.
+            </p>
+        </details>
+    </div>
+</article>

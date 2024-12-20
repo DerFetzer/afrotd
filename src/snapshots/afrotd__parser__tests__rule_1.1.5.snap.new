@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 1
+  - 5
+title: Team Captains
+text: Jedes Team soll dem Referee nicht mehr als vier Teammitglieder als Team Captains benennen. Es soll jeweils nur ein Team Captain für sein Team in allen Belangen mit den Schiedsrichtern sprechen.
+interpretations: []

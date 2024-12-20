@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 5
+  - 2
+title: Kick nach einem Safety
+text: "Wurde ein Safety erzielt, gehört der Ball dem Team, das den Safety verursacht hat, und dieses Team muss den Ball an dessen 20-Meterlinie durch einen Free Kick auf oder zwischen den Hash Marks ins Spiel bringen. Der Free Kick kann ein Punt, Drop Kick oder Place Kick sein (Ausnahme: Regeln betreffend Try und Extraperioden)."
+interpretations: []

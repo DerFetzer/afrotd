@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 4.2.1.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Ballträger A1 läuft im Spielfeld in der Nähe der Seitenlinie, als
+            er vom einem Team B-Teammitglied, der sich auf einer Seitenlinie
+            befindet, berührt wird.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Regel 4.2.1 besagt, dass ein Spieler sich im Aus befindet, wenn
+                er mit einem Körperteil irgendetwas anderes als einen Spieler
+                oder einen Schiedsrichter berührt, der sich auf oder hinter
+                einer Seitenlinie befindet. Strafe – 15 Meter oder andere
+                illegale Behinderungs-Strafen (Regeln 9.2.3 und 9.2.5).
+            </p>
+        </details>
+    </div>
+</article>

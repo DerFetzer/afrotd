@@ -1,0 +1,27 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.4.1.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Ein Team A-Spieler fängt einen Free Kick unmittelbar neben B55,
+            wodurch verhindert wird, dass dieser den Ball fängt.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Behinderung beim Fangen eines Kicks. Strafe – 15 Meter vom Spot
+                of Foul.
+            </p>
+        </details>
+    </div>
+</article>

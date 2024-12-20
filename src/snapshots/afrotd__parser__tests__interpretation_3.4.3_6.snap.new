@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 4
+  - 3
+index: 6
+text: "2. und 7 von der A-25. Team A liegt zu einem späten Zeitpunkt\nin der zweiten Spielperiode punktemäßig in Führung. Als der Ballträger A22 im Spielfeld getackelt wird, steht die Game Clock auf 1:47.\nDer Umpire meldet dem Referee, dass er eine Flagge für ein Festhalten durch den Snapper A55 geworfen hat. Bei dem Down erzielte A22\n(a) drei Meter oder (b) neun Meter Raumgewinn."
+ruling: "Nach der\nStrafdurchführung startet die Game Clock in beiden Fällen (a) und (b)\nje nach Wahl durch Team B entweder mit dem Snap oder mit der Ballfreigabe durch den Referee."

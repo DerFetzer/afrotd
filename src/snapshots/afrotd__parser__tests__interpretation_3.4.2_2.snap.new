@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 4
+  - 2
+index: 2
+text: "Zu einem späten Zeitpunkt in einer Halbzeit wird der Team ABallträger bei einem Laufspiel getackelt. Die Team B-Spieler lassen sich\noffensichtlich und absichtlich viel Zeit dabei, vom Ballträger aufzustehen und verhindern dadurch, dass die Schiedsrichter den Ball freigeben\nkönnen."
+ruling: "Team B-Foul für Spielverzögerung. Strafe – 5 Meter am Succeeding Spot. Die Game Clock startet mit dem Snap (Regel\n3.4.3)."

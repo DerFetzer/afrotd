@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.3.3.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Während ein Mitspieler des Passers oder Ballträgers die neutrale
+            Zone überquert hat, berührt er einen Gegner mit seinen Händen und
+            Armen, die er nicht parallel zum Boden hält, oder mit gewölbten
+            oder geschlossenen Fäusten, wobei die Handflächen aber nicht zum
+            Gegner zeigen.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Legales Benutzen der Hände.
+            </p>
+        </details>
+    </div>
+</article>

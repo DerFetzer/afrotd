@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 18
+  - 1
+title: Encroachment
+text: "Nach der Ballfreigabe ereignet sich ein Encroachment, wenn sich ein Offense Spieler in oder jenseits der neutralen Zone befindet, nachdem der Snapper den Ball vor dem Snap berührt hat oder die Berührung vortäuscht (Hand/Hände an oder unterhalb seiner Knie). (Ausnahme: Wenn der Ball gesnappt wird, hat der Snapper kein Encroachment begangen, wenn er sich in der neutralen Zone befindet.)"
+interpretations: []

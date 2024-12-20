@@ -1,0 +1,40 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 2.16.6.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Nach einem Touchdown und einem erfolgreichen Zweipunkteversuch
+            liegt Team A bei 55 Sekunden verbleibender Spielzeit in der vierten
+            Spielperiode 22-24 zurück. Team A versucht von der A-35 einen
+            Onside Free Kick durchzuführen. Kicker A90 hält den Ball, als wolle
+            er einen Drop Kick versuchen. Er wirft den Ball in die Luft und der
+            Ball prallt kurz hinter Team A’s Restraining Line auf den Boden.
+            A90 kickt den Ball, nachdem dieser etwa einen Meter hoch in die
+            Luft gesprungen war.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Illegaler Kick. Dead Ball Foul. 5-Meterstrafe vom Succeeding
+                Spot. Der Kick entspricht gemäß Regel 2.16.3 nicht den
+                Anforderungen eines Drop Kicks. Für einen legalen Drop Kick
+                muss der potenzielle Kicker den Ball fallen lassen und kicken,
+                sobald dieser den Boden berührt. Da Regel 2.16.6 nur einen
+                Place Kick oder einen Drop Kick als Kickoff erlaubt, ist der o.
+                a. beschriebene Kick kein legaler Kick. Die Strafdurchführung
+                entspricht der derzeitigen anerkannten Regelauslegung A.R.
+                6.1.2.I.
+            </p>
+        </details>
+    </div>
+</article>

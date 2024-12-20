@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            9.4.2 Schlagen eines fliegenden Rückpasses
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Bei einem Rückpass darf der fliegende Ball nicht von einem
+                Spieler des passenden Teams nach vorne geschlagen werden.
+            </p>
+            <p>
+                <strong>Strafe: 10 Meter [S31]</strong>
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.9.4.2"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

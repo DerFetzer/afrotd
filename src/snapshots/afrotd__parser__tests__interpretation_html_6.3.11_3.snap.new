@@ -1,0 +1,35 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.3.11.III
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team A snappt von der 50-Meterlinie und puntet. Der Kick ist
+            jenseits der neutralen Zone unberührt, als A88 über die Goalline
+            greift und den Ball ins Spielfeld zurückschlägt. B22 mufft den Ball
+            an der B-2 und A43 recovert ihn an der B-6. Während der Ball frei
+            ist, hält B77 A21 an der B-10.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team A kann das Privileg des illegalen Berührens durch die
+                Annahme der Strafe für das Halten aufheben. Die Strafe wird vom
+                Previous Spot mit einem automatischen First Down durchgeführt.
+                Postscrimmage Kick Regeln treffen auf Team B’s Foul nicht zu,
+                da Team B nicht als nächstes den Ball ins Spiel bringt (Regel
+                10.2.3).
+            </p>
+        </details>
+    </div>
+</article>

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 31
+  - 5
+title: Spielort
+text: "Der Spielort ist die Zone, die alles Bauliche innerhalb eines Stadions, einer Traglufthalle, Zuschauertribünen, Zäune oder andere Begrenzungen umfasst (Ausnahme: Anzeigetafeln sind innerhalb des Stadions nicht berücksichtigt.)."
+interpretations: []

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 3
+  - 3
+index: 3
+text: "Während ein Mitspieler des Passers oder Ballträgers sich hinter der neutralen Zone befindet, hält er seine Arme parallel zum Boden\nund berührt einen Gegner oberhalb der Schultern."
+ruling: "Illegales Benutzen der Hände. Strafe – 10 Meter bei illegalem Benutzen der\nHände oder 15 Meter für ein persönliches Foul. Strafdurchführung vom\nPrevious Spot. Safety, wenn sich das Foul hinter Team A’s Goalline ereignet."

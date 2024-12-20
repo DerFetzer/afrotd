@@ -1,0 +1,28 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 10.1.6.III
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            B1 foult während eines Downs, bevor B2 einen Vorwärtspass abfängt.
+            Nachdem der Ball für dead erklärt wurde, springt A1 nach.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team A erhält den Ball zurück, nachdem die Strafe gegen Team B
+                durchgeführt wurde. Team A wird dann für das Dead Ball Foul
+                bestraft (Regel 5.2.3).
+            </p>
+        </details>
+    </div>
+</article>

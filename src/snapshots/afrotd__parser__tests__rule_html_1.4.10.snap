@@ -1,0 +1,36 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            1.4.10 Verbotene Signaleinrichtungen
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Spieler dürfen nicht mit einer elektronischen, mechanischen
+                oder einer anderen Signaleinrichtung zum Zweck der
+                Kommunikation mit irgendeiner Informationsquelle ausgerüstet
+                sein (Ausnahme: 1. eine medizinisch verordnete Hörhilfe zur
+                Klangverstärkung für hörgeschädigte Spieler, 2.
+                Datenübertragungsmöglichkeiten, die nur der Sicherheit und
+                Gesundheit von Spielteilnehmern dienen).
+            </p>
+            <p>
+                <strong>Strafe: Wird als Dead Ball Foul durchgeführt, 15 Meter
+                vom Succeeding Spot. Der Spieler ist zu disqualifizieren [S7,
+                S27 und S47].</strong>
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.1.4.10"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

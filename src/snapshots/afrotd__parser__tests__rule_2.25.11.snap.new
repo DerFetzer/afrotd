@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 25
+  - 11
+title: Postscrimmage Kick Spot
+text: "Der Postscrimmage Kick Spot dient als Basic Spot, wenn die Postscrimmage Kick Durchführung zutrifft (Regel 10.2.3).\n\ta) Endet der Kick, außer in den nachfolgend aufgeführten Spezialfällen, im Spielfeld, ist der Postscrimmage Kick Spot der Punkt, an dem der Kick endet.\n\tb) Wenn der Kick in Team B’s Endzone endet, ist der Postscrimmage Kick Spot Team B’s 20-Meterlinie. Spezialfälle:\n\t\t1. Bleibt der Ball bei einem erfolglosen Fieldgoalversuch unberührt von Team B, nachdem er die neutrale Zone überquert hat, und wird jenseits der neutralen Zone für dead erklärt, dann ist der Postscrimmage Kick Spot:\n\t\t\ta. der Previous Spot, wenn dieser sich auf oder außerhalb Team B’s 20-Meterlinie befand (A.R. 10.2.3.V).\n\t\t\tb. Team B’s 20-Meterlinie, wenn der Previous Spot sich zwischen Team B’s 20-Meterlinie und dessen Goalline befand.\n\t\t2. Wenn Regel 6.3.11 zutrifft, ist der Postscrimmage Kick Spot Team B’s 20-Meterlinie.\n\t\t3. Wenn Regel 6.5.1.b zutrifft, ist der Postscrimmage Kick Spot der Punkt, an dem der Receiver zuerst den Kick berührt."
+interpretations: []

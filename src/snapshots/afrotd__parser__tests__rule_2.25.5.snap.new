@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 25
+  - 5
+title: Spot of Foul
+text: "Spot of Foul ist der Punkt, an dem sich das Foul ereignet. Befindet sich dieser Punkt im Aus zwischen den Goallines, so ist er der Schnittpunkt der nächsten Hash Mark mit der verlängerten Meterlinie, die sich zum Punkt des Fouls erstreckt. Befindet sich dieser Punkt im Aus zwischen der Goalline und der Endlinie oder hinter der Endlinie, ist das Foul in der Endzone."
+interpretations: []

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 5
+  - 3
+title: "Ungültige Signale: Fangen oder Recovern"
+text: "\ta) Das Fangen nach einem ungültigen Signal ist kein Fair Catch und der Ball ist dort dead, wo er gefangen oder recovert wird (Ausnahme: Gibt ein Team B-Spieler während eines Free Kicks irgendein Winksignal, welches nicht die Anforderungen eines gültigen Fair Catch-Signales erfüllt, und fängt anschließend den Ball hinter B’s 25-Meterlinie, gehört der Ball an Team B’s 25-Meterlinie zu Team B.).\n\tb) Wenn das Signal nach dem Fangen oder Recovern erfolgt, ist der Ball dead, wenn das Signal gegeben wird (A.R. 6.5.3.IV).\n\tc) Ungültige Signale jenseits der neutralen Zone beziehen sich nur auf Team B.\n\td) Ein ungültiges Signal jenseits der neutralen Zone ist nur dann möglich, wenn der Ball die neutrale Zone überquert hat (Regel 2.16.7, A.R. 6.5.3.I)."
+interpretations: []

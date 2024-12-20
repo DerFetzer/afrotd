@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 10
+title: Chop Block
+text: Chop Blocks sind verboten (Regel 2.3.3) (A.R. 9.1.10.I bis 9.1.10.V).
+interpretations: []

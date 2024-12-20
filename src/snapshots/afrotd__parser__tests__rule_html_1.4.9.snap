@@ -1,0 +1,39 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            1.4.9 Erklärung des Coaches
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Durch die Unterschrift unter den Spielberichtsbogen bestätigt
+                der Vereinsverantwortliche, dass alle Teammitglieder:
+            </p>
+            <ol type="a">
+                <li>darüber informiert wurden, welche Ausrüstungsteile gemäß
+                der Regel vorgeschrieben und welche illegal sind;
+                </li>
+                <li>mit der vorgeschriebenen Ausrüstung ausgestattet sind;
+                </li>
+                <li>über die richtige Trageweise und das Vorhandensein der
+                vorgeschriebenen Ausrüstung informiert wurden;
+                </li>
+                <li>darüber informiert wurden, dass sie den Coaches anzeigen
+                müssen, wenn die Ausrüstung während des Spieles illegal wird.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.1.4.9"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

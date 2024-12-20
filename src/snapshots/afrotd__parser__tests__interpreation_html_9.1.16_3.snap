@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.1.16.III
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            A1 steht in einer Nicht-Scrimmage Kick-Formation und macht einen
+            schnellen, unvorhergesehenen Kick, so schnell, dass B1 den Kontakt
+            mit ihm nicht verhindern kann.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Das ist kein „Running into“ oder „Roughing the Kicker“, da
+                diese Regel nur dann zutrifft, wenn es offensichtlich ist, dass
+                ein Kick durchgeführt werden soll.
+            </p>
+        </details>
+    </div>
+</article>

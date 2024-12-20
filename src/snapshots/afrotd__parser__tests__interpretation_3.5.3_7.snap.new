@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 5
+  - 3
+index: 7
+text: "3. und 5 von der B-35. Es befinden sich 12 Team B Spielerin\nPosition auf dem Feld und keiner dieser Spieler versucht das Feld zu\nverlassen, während der Ball spielbereit ist. Beide Teams sind in Formation und der Snap steht unmittelbar bevor. Die Play Clock ist schon fast\nabgelaufen und Quarterback A12 hat Probleme die Defense zu lesen\nund (a) verlangt ein Timeout oder (b) die Play Clock läuft aus."
+ruling: "Wenn die zuständigen Schiedsrichter zwölf Team B Spieler zählen, beide Teams in Formation sind und kein Team B Spieler versucht,\ndas Feld zu verlassen, (a) bietet die Crew Team A an, das Timeout zurückzunehmen und Team B wird für einen Auswechselfehler bestraft.\nTeam A, 1. und 10 von der B-30. (b) Kein Foul für Spielverzögerung,\nTeam B wird für einen Auswechselfehler bestraft. Team A, 1. und 10\nvon der B-30."

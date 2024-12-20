@@ -1,0 +1,48 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.11.4 Berühren eines Balles (Touching)
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Berühren eines Balles, der sich nicht im Besitz eines
+                Spielers befindet, bezeichnet jeden Kontakt mit dem Ball. Die
+                Berührung kann absichtlich oder unabsichtlich sein und geht
+                immer einem Ballbesitz oder einer Ballkontrolle voraus.
+                </li>
+                <li>Absichtliches Berühren ist eine vorsätzliche oder
+                beabsichtigte Berührung.
+                </li>
+                <li>Eine erzwungene Berührung liegt vor, wenn der Kontakt eines
+                Spielers mit dem Ball dadurch erzwungen wurde,
+                    <ol type="1">
+                        <li>dass der Gegner ihn in den Ball geblockt hat oder
+                        </li>
+                        <li>der Ball durch einen Gegner gegen den betreffenden
+                        Spieler geschlagen oder illegal gekickt wurde. Wurde
+                        die Berührung erzwungen, hat der betreffende Spieler
+                        den Ball gemäß der Regel nicht berührt (Regeln 6.1.4
+                        und 6.3.4).
+                        </li>
+                    </ol>
+                </li>
+                <li>Im Zweifel wurde der Ball bei einem Kick oder einem
+                Vorwärtspass nicht berührt.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.11.4"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

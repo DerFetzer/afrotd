@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 1
+  - 8
+title: Fouls durch das Kicking Team
+text: "Strafen für alle Fouls durch das Kicking Team während eines Free-Kick-Spieles, außer der Behinderung beim Fangen eines Kicks (Regel 6.4), können je nach Wahl von Team B vom Previous Spot mit der Wiederholung des Downs oder von dem Punkt durchgeführt werden, an dem der anschließende Dead Ball zu Team B gehört."
+interpretations: []

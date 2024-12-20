@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 8.5.1.VI
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team A’s Fumble oder Rückpass berührt den Boden. Team B mufft den
+            Ball bei dem Versuch ihn zu recovern, aber der Ball überquert Team
+            A’s Goalline, wo Team A auf den Ball fällt oder der Ball geht von
+            der Endzone ins Aus.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Safety. Der Antrieb des Balles kam von dem Fumble oder dem
+                Rückpass (Regel 8.7.2.a).
+            </p>
+        </details>
+    </div>
+</article>

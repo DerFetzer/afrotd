@@ -1,0 +1,28 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.8.2 Gültiges Signal
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Ein gültiges Signal ist ein Signal durch einen Team B-Spieler,
+                der offensichtlich seine Absicht angezeigt hat, indem er nur
+                eine Hand deutlich über seinen Kopf ausstreckt und mit dieser
+                Hand mehrfach von einer Seite seines Körpers zur anderen winkt.
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.8.2"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

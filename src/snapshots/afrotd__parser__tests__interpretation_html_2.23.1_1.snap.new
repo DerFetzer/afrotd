@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 2.23.1.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            4. und Goal von der B-5. A55’s legaler Snap wird von A12 gemufft
+            und (a) einer der Team A-Spieler recovert und advanct den Ball in
+            die Endzone oder (b) ein Spieler von Team B recovert und advanct
+            den Ball.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Der Snap ist ein Rückpass und darf von jedem Spieler advanct
+                werden. (a) Touchdown. Da es ein Rückpass und kein Fumble ist,
+                gibt es für Team A-Spieler keine Einschränkung zum Recovern und
+                Tragen des Balles. (b) Der Ball bleibt im Spiel.
+            </p>
+        </details>
+    </div>
+</article>

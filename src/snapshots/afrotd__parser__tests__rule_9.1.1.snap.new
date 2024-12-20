@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 1
+title: Schwere Fouls
+text: "Vor dem Spiel, während des Spieles und zwischen den Perioden erfordern alle schweren Fouls (Regel 2.10.3) die Disqualifikation des Verursachers. Team B’s persönliche Fouls, die zur Disqualifikation führen, erfordern einen First Down, soweit dies nicht in Konflikt zu anderen Regeln steht."
+interpretations: []

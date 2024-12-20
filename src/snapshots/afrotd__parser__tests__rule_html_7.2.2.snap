@@ -1,0 +1,49 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            7.2.2 Gefangen oder recovert
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Wird ein Rückpass oder Fumble von irgendeinem Spieler
+                inbounds gefangen oder recovert, bleibt der Ball im Spiel (A.R.
+                2.23.1.I).
+                    <p>
+                        <strong>Ausnahmen:</strong>
+                    </p>
+                    <ol type="1">
+                        <li>Regel 8.3.2.d.5 (Team A-Fumble beim Try)
+                        </li>
+                        <li>Wird im vierten Down, vor dem Wechsel des Team
+                        Ballbesitzes, ein Team A-Fumble von einem Team
+                        A-Spieler gefangen oder recovert, der nicht der Fumbler
+                        ist, wird der Ball dead. Wird der Fumble jenseits des
+                        Fumble-Punktes gefangen oder recovert, wird der Ball
+                        zum Fumble-Punkt zurückgebracht. Wird der Fumble hinter
+                        dem Fumble-Punkt gefangen oder recovert, bleibt der
+                        Ball am Punkt des Fangens oder des Recoverns.
+                        </li>
+                    </ol>
+                </li>
+                <li>Wird ein Rückpass oder ein Fumble gleichzeitig von
+                gegnerischen Spielern gefangen oder recovert, wird der Ball
+                dead und gehört dem Team, das zuletzt in Ballbesitz war
+                (Ausnahme: Regel 7.2.2.a Ausnahmen).
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.7.2.2"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

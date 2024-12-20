@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 4.1.2.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            4. und 15 von der A-30, Team A puntet. B44 befindet sich in
+            Position zum Fangen des Kicks. Bei dem Versuch, den Kick zu fangen,
+            mufft B44 den Kick an der B-35. Während der Ball nach der Berührung
+            auf dem Boden rollt, pfeift der Backjudge irrtümlich ab. A88 greift
+            nach dem rollenden Ball und recovert ihn in einer unmittelbar
+            folgenden Aktion an der B-30. Während des Kicks hielt B22 einen
+            Gegner fest und es liegt eine Flagge auf dem Spielfeld.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Irrtümliches Abpfeifen.
+            </p>
+        </details>
+    </div>
+</article>

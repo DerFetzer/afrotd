@@ -1,0 +1,35 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            6.1.11 Spieler im Aus
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Ein Team A-Spieler, der während eines Free Kick-Spieles ins Aus
+                geht, darf das Feld während dieses Downs nicht wieder betreten
+                (Ausnahme: Dies gilt nicht für einen Team A-Spieler, der ins
+                Aus geblockt wurde und versucht, sofort wieder ins Feld zu
+                gelangen).
+            </p>
+            <p>
+                <strong>Strafe: Live Ball Foul. 5 Meter vom Previous Spot oder
+                5 Meter von dem Punkt, an dem der anschließende Dead Ball zu
+                Team B gehört oder von dem Punkt, an dem der Ball nach einem
+                Touchback platziert wird [S19].</strong>
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.6.1.11"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

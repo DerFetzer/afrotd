@@ -1,0 +1,26 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 8.4.2.IV
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            4. und 8 von der B-18. Der erfolglose Fieldgoalversuch geht durch
+            die Endzone ins Aus.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team B’s Ball an der B-20.
+            </p>
+        </details>
+    </div>
+</article>

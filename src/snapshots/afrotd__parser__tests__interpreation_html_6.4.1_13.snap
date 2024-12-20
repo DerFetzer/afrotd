@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.4.1.XIII
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            B44 steht an der B-25 in Position zum Fangen eines Punts. Während
+            der Ball noch sehr hoch in der Luft ist und deutlich bevor er sich
+            B44 nähert, läuft A88 innerhalb eines Meters unmittelbar vor B44
+            her, ist aber nicht in der Nähe, als der Ball ankommt. B44 fängt
+            den Kick und wird getackelt.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Kein Foul. Obwohl A88 die 1-Meterzone direkt vor B44
+                durchläuft, ist das so früh, dass diese Aktion keine
+                Behinderung der Fangmöglichkeit eines Kicks darstellt.
+            </p>
+        </details>
+    </div>
+</article>

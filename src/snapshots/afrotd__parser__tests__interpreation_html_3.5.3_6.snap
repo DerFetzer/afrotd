@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.5.3.VI
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team A stellt sich an der B-3 zu einem Zweipunkteversuch beim Try
+            auf. Team B hat elf Spieler in seiner Defense Formation. Der
+            zwölfte Team B-Spieler läuft unmittelbar vor oder mit dem Snap auf
+            das Spielfeld. A22 erhält vom Quarterback den Handoff und (a) wird
+            an der B-1 getackelt; (b) trägt den Ball in B’s Endzone.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Live Ball Foul gegen Team B, Auswechselfehler. (a) Team B wird
+                mit Halbierung der Distanz zur Goalline bestraft und den Try
+                von der B-1,5 wiederholen lassen. (b) Team A lehnt die Strafe
+                beim erfolgreichen Try ab.
+            </p>
+        </details>
+    </div>
+</article>

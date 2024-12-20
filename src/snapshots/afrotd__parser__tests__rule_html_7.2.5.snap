@@ -1,0 +1,40 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            7.2.5 Ball, der zur Ruhe kommt
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Rückpass Wenn ein Rückpass inbounds zur Ruhe kommt und kein
+                Spieler versucht, diesen zu recovern, wird der Ball dead und
+                gehört dem werfenden Team am Dead Ball Spot.
+                </li>
+                <li>Fumble Wenn ein Fumble inbounds zur Ruhe kommt und kein
+                Spieler versucht, diesen zu recovern, wird der Ball dead und
+                gehört dem Team, das den Ball gefumbelt hat
+                    <ol type="1">
+                        <li>am Dead Ball Spot, wenn dieser sich hinter dem
+                        Fumble-Spot befindet.
+                        </li>
+                        <li>am Fumble-Spot, wenn der Dead Ball Spot sich
+                        jenseits des FumbleSpots befindet.
+                        </li>
+                    </ol>
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.7.2.5"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

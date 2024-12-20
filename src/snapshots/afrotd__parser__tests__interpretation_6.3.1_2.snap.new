@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 3
+  - 1
+index: 2
+text: "Team A’s unberührter Punt oder Fieldgoalversuch fliegt jenseits\nder neutralen Zone und wird durch einen starken Wind zurückgeweht\nund berührt zuerst den Boden, einen Spieler oder einen Schiedsrichter\nhinter der neutralen Zone."
+ruling: "Der Kick hat die neutrale Zone\nnicht überquert, bis er den Boden, einen Spieler, einen Schiedsrichter\noder irgendetwas jenseits der neutralen Zone berührt. Jeder Scrimmage Kick kann nach dem Fangen oder Recovern durch Team B oder dem\nFangen oder Recovern durch Team A in oder hinter der neutralen Zone\nadvanct werden, wenn der Ball die neutrale Zone nicht überquert hat\n(Regel 2.16.7)."

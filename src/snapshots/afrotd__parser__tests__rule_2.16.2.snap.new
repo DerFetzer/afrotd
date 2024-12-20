@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 16
+  - 2
+title: Punt
+text: "Ein Punt ist ein Kick durch einen Spieler, der den Ball fallen lässt und ihn kickt, bevor dieser den Boden berührt."
+interpretations: []

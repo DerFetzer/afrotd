@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 3
+  - 8
+title: Länge eines Timeouts
+text: "\ta) Ein anzurechnendes Team-Timeout, das von einem Spieler oder Head Coach verlangt wird, soll eine Minute plus fünfsekündiger Benachrichtigung des Referees plus nachfolgendem 25-Sekunden-Countdown dauern (Ausnahme: Regel 3.3.4.e.3).\n\tb) Nur für Spiele, die live im Fernsehen übertragen werden, soll ein anzurechnendes Team-Timeout 30 Sekunden plus fünfsekündiger Benachrichtigung des Referees plus 25-Sekunden-Countdown dauern. Jedoch kann ein Head Coach verlangen, dass eines der drei erlaubten Timeouts pro Halbzeit ein volles Timeout ist. Dieses Verlangen muss dem Referee weitergeleitet werden, wenn das Timeout bei einem Schiedsrichter beantragt wird. Das anzurechnende Timeout während einer Extraperiode (Regel 3.1.3.h) kann, je nach Antrag des Head Coaches, ein volles Timeout sein.\n\tc) In anderen, nicht live übertragenen Spielen, kann der Head Coach verlangen, dass jedes von seinem Team verlangte anzurechnende Timeout 30 Sekunden plus fünfsekündiger Benachrichtigung des Referees plus 25-Sekunden-Countdown dauern kann. Der Head Coach zeigt dieses Verlangen an, indem er mit seinen Händen seine Schultern berührt. Dieses Zeichen muss sofort angezeigt werden, wenn das Timeout verlangt wird.\n\td) Andere Timeouts sollen nicht länger dauern, als es der Referee für nötig erachtet, um den Grund des Timeouts zu beseitigen. Darin sind auch Radio- oder TV-Timeouts eingeschlossen, aber jedes Timeout kann vom Referee zu Gunsten eines ernstlich verletzten Spielers verlängert werden.\n\te) Wird einem Team ein 60-Sekunden-Timeout angerechnet und möchte weiterspielen, bevor 60 Sekunden abgelaufen sind, kann der Referee den Ball freigeben, wenn der Gegner bestätigt, dass er auch spielbereit ist.\n\tf) Die Länge eines Referee-Timeouts richtet sich nach den Umständen jedes einzelnen Timeouts.\n\tg) Wahlmöglichkeiten hinsichtlich einer Strafe müssen vor dem Team-Timeout ausgeübt werden.\n\th) Die Unterbrechung nach einem Safety, Try oder erfolgreichem Fieldgoal darf nicht länger als eine Minute dauern. Sie kann für Radio- oder TVBelange verlängert werden."
+interpretations: []

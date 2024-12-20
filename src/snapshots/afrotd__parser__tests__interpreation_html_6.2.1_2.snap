@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.2.1.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team A begeht ein Offside oder einen Auswechselfehler und der
+            Kickoff von der A-35 geht ins Aus, nachdem er von einem Team
+            BSpieler berührt wurde.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team B kann wählen, entweder für das Offside oder den
+                Auswechselfehler den Kickoff durch Team A nach einer
+                5-Meterstrafe vom Previous Spot wiederholen zu lassen oder den
+                Ball am Inbounds Spot, 5 Meter von dort, wo der Ball ins Aus
+                ging, zu snappen (Regel 6.1.8).
+            </p>
+        </details>
+    </div>
+</article>

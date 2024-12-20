@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 1
+  - 12
+title: Berechtigung zum Blocken
+text: "Kein Team A-Spieler darf einen Gegner blocken, bis Team A berechtigt ist, einen Free Kick zu berühren (A.R. 6.1.3.II). Strafe: Live Ball Foul. 5 Meter vom Previous Spot oder 5 Meter von dem Punkt, an dem der anschließende Dead Ball zu Team B gehört oder von dem Punkt, an dem der Ball nach einem Touchback platziert wird [S19]."
+interpretations: []

@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.4.1.IV
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team A versucht beim Try mittels eines Place Kicks einen Punkt zu
+            erzielen. Ein Team B-Spieler in der Endzone springt vor der
+            Querlatte hoch und schlägt den fliegenden Ball weg. Der Ball geht
+            von der Endzone aus ins Aus.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Foul für Schlagen des Balles in der Endzone, Distanzhalbierung
+                vom Previous Spot. Postscrimmage Kick Enforcement findet beim
+                Try keine Anwendung (Regel 10.2.3).
+            </p>
+        </details>
+    </div>
+</article>

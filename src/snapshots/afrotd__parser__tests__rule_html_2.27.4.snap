@@ -1,0 +1,68 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.27.4 Lineman und Back
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Lineman.
+                    <ol type="1">
+                        <li>Ein Lineman ist jeder Team A-Spieler, der sich
+                        legal an seiner Scrimmage Line befindet (Regel 2.21.2).
+                        </li>
+                        <li>Ein Team A-Spieler ist legal an seiner Scrimmage
+                        Line, wenn er sich in Richtung seiner gegnerischen
+                        Goalline aufstellt, wobei die Linie seiner Schultern
+                        sich parallel dazu befindet und er
+                            <ol type="a">
+                                <li>der Snapper ist (Regel 2.27.8) oder
+                                </li>
+                                <li>sein Kopf die Fläche der Linie durchbricht,
+                                die sich durch die Taillenlinie des Snapper
+                                zieht.
+                                </li>
+                            </ol>
+                        </li>
+                    </ol>
+                </li>
+                <li>Innerer Lineman. Ein innerer Lineman ist ein Lineman, der
+                sich nicht am Ende seiner Scrimmage Line aufgestellt hat.
+                </li>
+                <li>eingeschränkter Lineman. Ein eingeschränkter Lineman ist
+                jeder innere Lineman und jeder Lineman, der eine Nummer von 50
+                bis 79 trägt und dessen Hand (Hände) sich unterhalb der Knie
+                befinden.
+                </li>
+                <li>Back.
+                    <ol type="1">
+                        <li>Ein Back ist jeder Team A-Spieler, der kein Lineman
+                        ist und dessen Kopf oder Schulter nicht die Fläche der
+                        Linie durchbricht, die sich durch die Taillenlinie des
+                        nächsten Team A-Lineman zieht.
+                        </li>
+                        <li>Ein Back ist ebenfalls der Spieler, außer einem
+                        Lineman, der in Position ist, einen Hand-zu-Hand-Snap
+                        anzunehmen.
+                        </li>
+                        <li>Ein Lineman wird vor dem Snap zu einem Back, wenn
+                        er sich zu einer Back Position bewegt und stoppt.
+                        </li>
+                    </ol>
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.27.4"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

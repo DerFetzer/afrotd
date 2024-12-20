@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.25.5 Spot of Foul
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <p>
+                Spot of Foul ist der Punkt, an dem sich das Foul ereignet.
+                Befindet sich dieser Punkt im Aus zwischen den Goallines, so
+                ist er der Schnittpunkt der nächsten Hash Mark mit der
+                verlängerten Meterlinie, die sich zum Punkt des Fouls
+                erstreckt. Befindet sich dieser Punkt im Aus zwischen der
+                Goalline und der Endlinie oder hinter der Endlinie, ist das
+                Foul in der Endzone.
+            </p>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.25.5"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

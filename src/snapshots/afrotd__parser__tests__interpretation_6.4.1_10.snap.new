@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 4
+  - 1
+index: 10
+text: "Punt Receiver B44 steht an der B-30 in Position zum Fangen\ndes Kicks. A11 stürmt das Spielfeld hinunter, um den Punt zu überwachen. A11 bleibt etwa 30 Zentimeter vor B44 stehen, als sich der Kick\nauf B44 herabsenkt. B44 fängt den Ball, ohne sich durch die Präsenz\ndurch A11 irritieren zu lassen oder ohne seine Position zu verändern.\nA11 wiederum weicht nicht zurück, um B44 mehr Platz zu lassen."
+ruling: "Foul, Behinderung beim Fangen eines Kicks. A11 betrat die\n1-Meterzone direkt vor B44. 15-Meterstrafe."

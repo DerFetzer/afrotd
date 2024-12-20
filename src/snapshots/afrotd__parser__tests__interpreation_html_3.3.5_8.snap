@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.3.5.VIII
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Spät in einer Halbzeit wird Ballträger A35 getackelt. B79 bleibt
+            mit einer Verletzung am Boden liegen und die Schiedsrichter halten
+            die Game Clock an, die bei (a) 12 Sekunden oder (b) acht Sekunden
+            stehen bleibt.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team A hat die Möglichkeit eines 10-SekundenAbzuges von der
+                Game Clock. Wird der Abzug nicht gewählt, startet die Game
+                Clock mit dem Snap. Wählt Team A den Abzug von der Game
+                Clock,(a) bleiben zwei Sekunden auf der Game Clock und diese
+                startet mit der Ballfreigabe durch den Referee oder (b) ist die
+                Spielzeit ausgelaufen.
+            </p>
+        </details>
+    </div>
+</article>

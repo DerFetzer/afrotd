@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 8
+index: 14
+text: "4. und Goal von der B-5. Team A’s legaler Vorwärtspass ist\nunvollständig, aber Team B beging an der B-1 oder in seiner Endzone\neine Passbehinderung."
+ruling: "First Down und Goal für Team A an\nB-2."

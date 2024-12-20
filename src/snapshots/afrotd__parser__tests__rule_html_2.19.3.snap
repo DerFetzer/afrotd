@@ -1,0 +1,39 @@
+---
+source: src/parser.rs
+expression: rule_html
+snapshot_kind: text
+---
+<article class="message is-size-4">
+    <div class="message-header">
+        <p>
+            2.19.3 Überqueren der neutralen Zone
+        </p>
+    </div>
+    <div class="message-body">
+        <div class="content">
+            <ol type="a">
+                <li>Ein legaler Vorwärtspass hat die neutrale Zone überquert,
+                wenn er zuerst den Boden, einen Spieler, einen Schiedsrichter
+                oder irgendetwas inbounds und jenseits der neutralen Zone
+                berührt. Der Vorwärtspass hat die neutrale Zone nicht
+                überquert, wenn er zuerst den Boden, einen Spieler, einen
+                Schiedsrichter oder irgendetwas inbounds, in oder hinter der
+                neutralen Zone berührt.
+                </li>
+                <li>Ein Spieler hat die neutrale Zone überquert, wenn sein
+                gesamter Körper sich jenseits der neutralen Zone befunden hat.
+                </li>
+                <li>Ein legaler Vorwärtspass befindet sich an dem Punkt
+                jenseits oder hinter der neutralen Zone, an dem er eine
+                Seitenlinie überquert.
+                </li>
+            </ol>
+        </div>
+        <div class="block">
+            <a class="button is-medium" href=
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf#subsection.1.2.19.3"
+            target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
+        </div>
+        <div class="block"></div>
+    </div>
+</article>

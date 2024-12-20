@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 6
+title: Blocken unterhalb der Gürtellinie
+text: "\ta) Team A vor einem Team Ballbesitzwechsel:\n\t\t1. Linemen, die sich ursprünglich vollständig innerhalb der Tackle Box befinden, dürfen bei ihrem ersten Angriff an der Scrimmage Line innerhalb der Tackle Box unter der Gürtellinie blocken. Ein Block, der innerhalb eines Meters jenseits der neutralen Zone angesetzt wird, wird als innerhalb der Tackle Box gewertet. Nach dem ersten Angriff an der Scrimmage Line dürfen diese Linemen innerhalb der Tackle Box zwar weiterhin unter der Gürtellinie blocken, bis der Ball erstmals die Tackle Box verlassen hat, aber nur, wenn der anfängliche Kontakte direkt von vorne erfolgt.\n\t\t2. Stationäre Backs, die sich mit irgendeinem Körperteil innerhalb der Tackle Box aufgestellt haben, dürfen innerhalb der Tackle Box unter der Gürtellinie blocken, bis der Ball die Tackle Box erstmals verlassen hat, wenn der anfängliche Kontakt direkt von vorne erfolgt. „Direkt von vorn“ ist, mit einer Uhr verglichen, definiert als die Ziffernblattregion zwischen 10 Uhr und 2 Uhr vor dem Bereich, auf den die Konzentration des geblockten Spielers gerichtet ist.\n\t\t3. Alle anderen Team A-Spieler dürfen nicht unter der Gürtellinie blocken.\n\tb) Team B vor einem Team Ballbesitzwechsel:\n\t\t1. Spieler, die sich innerhalb eines Meters an der Scrimmage Line innerhalb der Tackle Box aufgestellt haben, dürfen bei ihrem ersten Angriff an der Scrimmage Line innerhalb der Tackle Box unter der Gürtellinie blocken.\n\t\t2. alle anderen Team B-Spieler dürfen, außer gegen einen Runner, nicht unter der Gürtellinie blocken.\n\tc) Kicks Während eines Downs, in dem ein Free- oder ein Scrimmage Kick durchgeführt wird, ist Blocken unter der Gürtellinie, ausgenommen gegen den Ballträger, für jeden Spieler verboten.\n\td) Nach dem Team Ballbesitzwechsel Nach jedem Team Ballbesitzwechsel ist Blocken unter der Gürtellinie, ausgenommen gegen den Ballträger, für jeden Spieler verboten.\n\te) Kein Spieler darf gegen Regel 9.1.5 (Clipping) verstoßen."
+interpretations: []

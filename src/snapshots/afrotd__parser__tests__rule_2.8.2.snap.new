@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 280
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 8
+  - 2
+title: Gültiges Signal
+text: "Ein gültiges Signal ist ein Signal durch einen Team B-Spieler, der offensichtlich seine Absicht angezeigt hat, indem er nur eine Hand deutlich über seinen Kopf ausstreckt und mit dieser Hand mehrfach von einer Seite seines Körpers zur anderen winkt."
+interpretations: []

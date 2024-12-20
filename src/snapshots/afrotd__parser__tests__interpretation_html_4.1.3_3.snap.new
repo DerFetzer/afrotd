@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+assertion_line: 312
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 4.1.3.III
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            3. und 10 von der A-35. Quarterback A11 läuft auf seine rechte
+            Seite und rutscht mit den Füßen voran, weil er erkennt, dass er
+            nicht weiterkommt. Als er das Rutschen beginnt, befindet sich der
+            vorderste Punkt des Balles an der A-44. Als das Rutschen beendet
+            ist, befindet sich der vorderste Punkt des Balles an der A-46.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                4. und 1 von der A-44. Der Ball wird an dem Punkt dead, an dem
+                sich sein vorderster Punkt befand, als das Rutschen begann.
+            </p>
+        </details>
+    </div>
+</article>

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 3
+  - 11
+index: 4
+text: "Team A kickt von der 50-Meterlinie. Während des Kicks clippt\nB1 an der B-25. Der unberührte Kick wird von Team A aus der Endzone\nzurückgeschlagen und geht an der B-2 ins Aus."
+ruling: "Kein Foul\nfür Schlagen des Balles in der Endzone. Illegales Berühren. B77’s Clipping Foul wird gemäß den Postscrimmage Kick-Regeln durchgeführt.\nTeam A nimmt die Strafe an, wodurch das Privileg hinsichtlich illegalen\nBerührens aufgehoben wird. Die Strafe wird vom Postscrimmage Kick\nEnforcement Spot, B-20 mit Distanzhalbierung, durchgeführt. B’s Ball,\n1. und 10 von der B-10."

@@ -1,0 +1,13 @@
+---
+source: src/parser.rs
+assertion_line: 294
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 9
+index: 2
+text: "Bei einem legalen Vorwärtspass hinter der neutralen Zone befindet sich der berechtigte A1 direkt neben B1. A1 ist im Begriff, den\nPass zu berühren, als B1 A1 wegdrückt und der Pass ist unvollständig."
+ruling: "Legal. Regeln bezüglich Passbehinderung gelten nicht hinter der neutralen Zone (Regeln 7.3.9.d, 9.1.5 Ausnahme 4 und 9.3.5\nAusnahme 5)."
