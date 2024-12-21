@@ -18,6 +18,10 @@ jobs:
     - uses: actions/checkout@v3
     - name: Rustup
       run: rustup update stable && rustup default stable
+    - uses: awalsh128/cache-apt-pkgs-action@latest
+      with:
+        packages: poppler-utils
+        version: 1.0
     - uses: Swatinem/rust-cache@v2.7.3
     - name: Check Format
       run: cargo fmt --verbose --check
