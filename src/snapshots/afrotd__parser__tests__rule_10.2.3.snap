@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 2
+  - 3
+title: Postscrimmage Kick Enforcement
+text: "\ta) Gemäß den Postscrimmage Kick Enforcement Regeln werden Team BFouls, die die unter Regel 10.2.3.b aufgeführten Bedingungen erfüllen, behandelt, als wäre Team B zum Zeitpunkt, als das Foul verursacht wurde, in Ballbesitz gewesen, obwohl der Team Ballbesitz gemäß Regel 2.4.1.b.3 nicht gewechselt hat.\n\tb) Postscrimmage Kick Enforcement trifft nur auf Team B-Fouls während eines Scrimmage Kicks und nur unter den nachfolgend aufgeführten Bedingungen zu:\n\t\t1. Der Kick wird nicht während eines Try, eines erfolgreichen Fieldgoals oder in einer Extraperiode durchgeführt (A.R. 10.2.3.IV).\n\t\t2. Der Ball überquert die neutrale Zone.\n\t\t3. Das Foul ereignet sich, bevor der Kick endet (A.R. 10.2.3.I, 10.2.3.II und 10.2.3.V).\n\t\t4. Team B wird als nächstes den Ball ins Spiel bringen. Wenn diese Bedingungen alle zutreffen, wird die Strafe nach dem Dreiund-Eins-Prinzip durchgeführt. Team B wird als das Team in Ballbesitz betrachtet mit dem Postscrimmage Kick Spot als Basic Spot (Regel 10.2.2.c). Siehe Regel 2.25.11 für den Postscrimmage Kick Spot (A.R. 10.2.3.I bis 10.2.3.VII)."
+interpretations: []

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 3
+  - 4
+index: 4
+text: "Als der Punt auf dem Boden rollt, blockt Punt Receiver B22 A88\num zu verhindern, dass dieser den Ball recovern kann. Die beiden Spieler blocken sich gegenseitig, als der Ball das Bein von B22 berührt. A44\nrecovert den Ball an der B-30."
+ruling: "Team A’s Ball, 1. und 10 von\nder B-30. Das ist keine erzwungene Ballberührung. Auch wenn A88\nin Kontakt mit B22 ist, als der Ball das B22’s Bein berührt, wurde die\nBallberührung nicht durch den Kontakt herbeigeführt. Die Game Clock\nstartet mit dem Snap."

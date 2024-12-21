@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 5
+title: Clipping
+text: "Clipping ist verboten (Regel 2.5.1).\n\tAusnahmen:\n\t\t1. Offense Spieler, die sich beim Snap an der Scrimmage Line, innerhalb der Blockzone (Regel 2.3.6) befinden, dürfen in dieser Zone legal clippen. Davon ausgenommen sind die nachfolgenden Beschränkungen:\n\t\t\ta) Ein Spieler in der Blockzone darf keinen Gegner mit der Wucht des anfänglichen Kontaktes von hinten an oder unterhalb der Knie blocken.\n\t\t\tb) Ein Spieler an der Scrimmage Line in der Blockzone darf diese nicht verlassen und dann wieder zurückkehren, um legal zu clippen.\n\t\t\tc) Kein Spieler darf gegen Regel 9.1.6 (Blocken unter der Gürtellinie) verstoßen. Beachte: Die Blockzone existiert solange, bis der Ball die Zone erstmals verlassen hat (Regel 2.3.6).\n\t\t2. wenn ein Spieler seinen Rücken einem möglichen Blocker zudreht, nachdem dieser seine Blockabsicht durch seine Richtung oder seine Bewegung angezeigt hat.\n\t\t3. wenn ein Spieler versucht, einen Runner zu erreichen oder legal versucht, einen Fumble, Muff, Rückpass oder Kick zu fangen oder zu recovern oder einen berührten Vorwärtspass zu fangen, darf er einen Gegner unter der Gürtellinie an oder gegen das Gesäß wegdrücken (Regel 9.3.5 Ausnahme 3).\n\t\t4. wenn ein passberechtigter Spieler hinter der neutralen Zone einen Gegner unter der Gürtellinie an oder gegen das Gesäß wegdrückt, um einen Vorwärtspass zu erreichen (Regel 9.3.5 Ausnahme 5).\n\t\t5. Clipping gegen einen Runner ist erlaubt."
+interpretations: []

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 1
+  - 2
+index: 8
+text: "Zu einem späten Zeitpunkt im Spiel stellt sich Team A zu einem Free Kick von der A-35 auf. Kicker A10 platziert den Ball an der\nrechten Hash Mark zu einem offensichtlichen Onside Kick. Nach der\nBallfreigabe durch den Referee läuft A10 auf den Ball zu, nimmt diesen\nauf und läuft zur linken Hash Mark an der A-35. Er legt den Ball auf den\nBoden und kickt diesen sofort. Team A recovert den Ball legal an der A46."
+ruling: "Gemäß der Interpretation darf der Ball, nachdem er auf\noder zwischen den Hash Marks platziert wurde, nach der Ballfreigabe\nnur dann anders positioniert werden, wenn ein Team-Timeout genommen wurde. Dead Ball Foul. 5-Meterstrafe vom Succeeding Spot."

@@ -1,0 +1,27 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 8.3.2.III
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Bei einem Ein-Punkt-Try blockt B2 den Kick von A1 und der Ball, der
+            nicht die neutrale Zone überquerte, wird von A2 hinter der
+            neutralen Zone recovert und über Team B’s Goalline advanct.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team A erhält zwei Punkte zuerkannt (Regel 8.3.1).
+            </p>
+        </details>
+    </div>
+</article>

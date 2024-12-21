@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 5
+  - 2
+index: 3
+text: "Beim dritten Down (ohne Team Ballbesitzwechsel) läuft Ballträger A27 ins Seitenaus oder Team A’s legaler Vorwärtspass ist unvollständig. Während der Unterbrechung zwischen den Downs wird kein\nTimeout (weder Referee- noch Team-Timeout) genommen. Vor dem\nSnap des vierten Downs läuft Ersatzspieler B75 auf das Feld und verlässt es sofort wieder, ohne für einen Down im Spiel zu bleiben."
+ruling: Dead Ball Foul. Strafe – 5 Meter vom Succeeding Spot.

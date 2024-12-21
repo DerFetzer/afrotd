@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 25
+  - 6
+title: Out-of-bounds Spot
+text: "Out-of-bounds Spot ist der Punkt, an dem der Ball gemäß den Regeln dead wird, weil er ins Aus geht oder für im Aus erklärt wird."
+interpretations: []

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 8
+index: 2
+text: "Wide Receiver A80 befindet sich 15 Meter jenseits der neutralen\nZone und dreht seinen Rücken zur neutralen Zone. Der Passer wirft den\nBall hoch über A80’s Hände, die er über dem Kopf ausgestreckt hat.\nDer Ball ist überworfen worden und befindet sich jenseits des Receivers (nicht fangbarer Pass), als B2 A80 am Helmgitter zu Boden zieht."
+ruling: "Persönliches Foul (9.1.12.a), aber keine Passbehinderung.\nStrafe – 15 Meter vom Previous Spot. First Down und 10 für Team A.\nVerursacher schwerer Fouls müssen disqualifiziert werden."

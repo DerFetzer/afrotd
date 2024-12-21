@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 4
+  - 3
+index: 1
+text: "Bei dem Versuch, in der vierten Periode Zeit zu verbrauchen,\n„überzieht“ Team A und die Play Clock läuft aus."
+ruling: "Foul für\neine Spielverzögerung. Strafe – 5 Meter vom Succeeding Spot. Die Game Clock startet beim Snap."

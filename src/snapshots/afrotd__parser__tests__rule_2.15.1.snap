@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 15
+  - 1
+title: Hurdling
+text: "\ta) Hurdling ist der Versuch eines Spielers, mit einem oder beiden Füßen oder Knien voran über einen Gegner zu springen, der sich noch auf seinen Füßen befindet (Regel 9.1.13).\n\tb) „Auf seinen Füßen“ bedeutet, dass sich kein Körperteil des Gegners, außer einem oder beider Füße, im Kontakt mit dem Boden befindet."
+interpretations: []

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 4
+  - 2
+  - 3
+index: 1
+text: "A88 befindet sich in der Luft (kein Bodenkontakt) und erreicht den\nvon A12 geworfenen Vorwärtspass. A88 hat den Ball sicher in seinen\nHänden. B28 befindet sich im Aus und berührt mit der Hand den Ball in\nA88’s Händen, während sich dieser noch in der Luft befindet. A88 landet mit seinem rechten Fuß inbounds und hält den Ball weiterhin sicher\nunter Kontrolle, als er vollständig auf dem Boden landet."
+ruling: Vollständiger Vorwärtspass.

@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.4.3.III
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Nach dem Zwei-Minuten-Timeout in der vierten Spielperiode und bei
+            laufender Game Clock hat Team A keine Timeouts mehr verfügbar. Bei
+            dem Versuch, Zeit einzusparen, wirft Ballträger A-12 von hinter
+            oder jenseits der neutralen Zone einen Rückpass ins Aus.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Strafe – 5 Meter vom Spot of Foul und Downverlust. Da sich das
+                Foul nach dem Zwei-Minuten-Timeout ereignet, fällt dieses Foul
+                unter die 10-Sekunden-Abzug-Regel 3.4.4.
+            </p>
+        </details>
+    </div>
+</article>

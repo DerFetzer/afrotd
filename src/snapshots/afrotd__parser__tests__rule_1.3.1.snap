@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 3
+  - 1
+title: Spezifizierung
+text: "Der Ball muss folgende Merkmale aufweisen:\n\ta) neu oder nahezu neu (ein nahezu neuer Ball ist ein Ball, der sich nicht verändert hat und die Qualität und die Eigenschaften eines neuen Balles besitzt);\n\tb) die Hülle bestehend aus vier rauen Lederstücken, ohne Vertiefungen außer den Nähten;\n\tc) ein Satz von acht gleichmäßig verteilten Schnüren;\n\td) natürliche braune Farbe;\n\te) als offizieller Spielball vom AFVD Präsidium genehmigt (Weitere Regelungen ergeben sich aus der BSO bzw. den jeweiligen Spielordnungen der Länder.);\n\tf) übereinstimmend mit den Maßen des abgebildeten Diagramms; \n\ta) Längsumfang 70,5 - 72,5 cm\n\tb) Querumfang 52,7 - 54 cm\n\tc) Länge 27,5 - 29 cm \n\tg) aufgepumpt mit einem Druck von 0,86 - 0,93 bar;\n\th) Gewicht 396,9 - 425,2 g (Ausnahme: Im Jugend- und Damenbereich kann der Ball leichter sein.);\n\ti) Der Ball darf nicht verändert worden sein. Das beinhaltet auch den Gebrauch von Substanzen oder mechanischen Geräten in den Teamzonen oder in der Nähe der Seitenlinien, durch die der Ball getrocknet oder erwärmt werden kann.\n\tj) Werbung auf dem Ball ist verboten (Ausnahmen: Name oder Markenzeichen der Herstellerfirma)."
+interpretations: []

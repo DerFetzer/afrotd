@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.1.7.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Während eines Sweep in Richtung einer Seitenlinie geht B55 ins Aus,
+            um einem Block auszuweichen. Guard A66 fungiert als Vorblocker. Er
+            tritt gerade mit seinem vorderen Fuß auf die Seitenlinie, als er
+            mit seinen Schultern von vorne gegen B55’s Taille blockt, der sich
+            immer noch im Aus befindet.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Legaler Block. A66 hat noch nicht beide Füße im Aus.
+            </p>
+        </details>
+    </div>
+</article>

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 5
+  - 2
+  - 1
+title: Foul während eines Free Kicks
+text: "Folgt einer Strafe für ein Foul, welches sich während eines Free Kick Downs ereignet hat, ein Scrimmage Down, muss die Nummer des nächsten Downs und die Distanz, die durch die Strafe festgelegt wird, ein First Down mit einer neuen Line to Gain sein."
+interpretations: []

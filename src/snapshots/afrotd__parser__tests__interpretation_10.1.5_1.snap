@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 1
+  - 5
+index: 1
+text: "4. und 8 von der 50. Team A erzielt vier Meter Raumgewinn\nund der Ball wird für dead erklärt. Anschließend springt B1 nach."
+ruling: "Team B persönliches Foul. Strafe – 15 Meter vom Succeeding\nSpot. Team B’s Ball, First Down und 10 (Regel 5.1.1.c). Die Game Clock\nstartet mit dem Snap."

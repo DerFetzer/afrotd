@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 2
+  - 3
+index: 4
+text: "Team A’s erfolgreicher Fieldgoalversuch wird von der B-30 gesnappt und ein Team B-Spieler foult während des Kicks an der B-20\n(kein persönliches Foul oder Unsportliches Verhalten Foul)."
+ruling: "Team A kann die Strafe ablehnen und die Punkte akzeptieren oder die\nPunkte ablehnen und Team B vom Previous Spot bestrafen lassen (Regel 10.2.5.d)."

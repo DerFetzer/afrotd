@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 16
+  - 10
+title: Scrimmage Kick-Formation
+text: "\ta) Eine Scrimmage Kick-Formation ist eine Formation, bei der sich kein Spieler in Position befindet, einen von-Hand-zu-Hand-Snap zwischen den Beinen des Snappers anzunehmen und entweder\n\t\t1. wenigstens ein Spieler sich 10 oder mehr Meter hinter der neutralen Zone befindet oder\n\t\t2. sich ein potentieller Holder und ein potentieller Kicker sieben oder mehr Meter hinter der neutralen Zone in Position für einen Place Kick befindet. Für 1. oder 2. muss es jeweils offensichtlich sein, dass versucht wird, einen Kick auszuführen, damit von einer Scrimmage Kick-Formation ausgegangen werden kann (A.R. 9.1.14.I bis 9.1.14.III)\n\tb) Wenn sich Team A beim Snap in einer Scrimmage Kick-Formation aufgestellt hat, werden alle Team A-Aktionen während dieses Downs als Aktionen aus einer Scrimmage Kick-Formation angesehen."
+interpretations: []

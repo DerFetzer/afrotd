@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 1
+  - 5
+index: 2
+text: "Ein persönliches Foul mit oder ohne Disqualifikation ereignet\nsich bei einer Aktion nach einem Snap, der durchgeführt wurde, bevor\nder Ball für spielbereit erklärt wurde."
+ruling: "Es sollte jede Anstrengung unternommen werden, um so einen vorzeitigen Snap und die daraus resultierenden Aktionen zu verhindern. Aber wenn sich ein solches\nFoul ereignet, dann geschieht das zwischen den Downs. Wenn beide\nFouls von Team A begangen wurden, werden beide Strafen durchgeführt. Wenn Team B das zweite Foul verursachte, werden beide Fouls\ndurchgeführt, wobei Team A möglicherweise einen Vorteil von 10 Metern erreicht. Team B’s Foul enthält einen automatischen First Down."

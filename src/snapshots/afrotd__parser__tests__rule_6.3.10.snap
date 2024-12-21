@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 3
+  - 10
+title: Legale und illegale Kicks
+text: "\ta) Ein legaler Scrimmage Kick ist ein Punt, ein Drop Kick oder ein Place Kick, der den Regeln gemäß durchgeführt wird.\n\tb) Ein Return Kick ist ein illegaler Kick und ein Live Ball Foul, wodurch der Ball dead wird (Regel 2.16.8). Strafe: 5 Meter vom Spot of Foul [S31].\n\tc) Wird ein Scrimmage Kick durchgeführt, während sich der gesamte Körper des Kickers und der Ball jenseits der neutralen Zone befindet oder befunden hat, ist das ein illegaler Kick und ein Live Ball Foul, wodurch der Ball dead wird. Strafe: 5 Meter vom Previous Spot und ein Downverlust [S31 und S9].\n\td) Keine Vorrichtung oder kein Gegenstand darf benutzt werden, um den Punkt eines Fieldgoal Place Kicks zu markieren oder den Ball zu erhö- hen. Das ist ein Live Ball Foul beim Snap (Ausnahme: Regel 2.16.4.a). Strafe: 5 Meter vom Previous Spot [S19]."
+interpretations: []

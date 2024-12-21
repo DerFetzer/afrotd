@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 6
+index: 14
+text: "Der berechtigte Receiver A80 befindet sich in der Luft, als er\neinen legalen Vorwärtspass erreicht. Er ergreift den Ball fest mit seinen\nHänden und als er auf den Boden kommt, berührt die Nase des Balles\nden Boden, bevor ein Körperteil von A80 den Boden berühren kann.\nA80 hält den Ball weiterhin fest unter Kontrolle in seinen Händen. Danach berührt A80 mit seinen Knien den Boden und er hat den Ball fest\nin seinem Besitz."
+ruling: Vollständiger Pass.

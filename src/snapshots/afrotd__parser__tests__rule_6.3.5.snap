@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 3
+  - 5
+title: Fangen oder Recovern durch Receiving Team
+text: "Wenn ein Scrimmage Kick von einem Receiving Team-Spieler gefangen oder recovert wird, bleibt der Ball im Spiel (Ausnahmen: Regeln 4.1.3.g, 6.3.9, 6.5.1 und 6.5.2) (A.R. 8.4.2.V)."
+interpretations: []

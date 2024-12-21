@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 5
+  - 1
+  - 3
+title: Forward Progress
+text: "\ta) Wird der Ball zwischen den Endlinien für dead erklärt, ist der vorderste Punkt des Balles der entscheidende Punkt für die Bestimmung des Raumgewinns oder -verlustes eines Teams während eines Downs. Ausnahmen:\n\t\t1. Regel 8.5.1, A.R. 8.5.1.I;\n\t\t2. Wenn ein in der Luft befindlicher Spieler eines Teams inbounds ein Fangen vervollständigt, nachdem ein Gegner ihn zurückgedrängt hat und der Ball am Punkt des Fangens für dead erklärt wird, befindet sich der Forward Progress an dem Punkt, an dem der Spieler sichere Kontrolle über den Ball erlangt und behalten hat. Der Ball muss immer mit seiner Längsachse parallel zur Seitenlinie ausgerichtet werden, bevor nachgemessen wird (Regel 4.1.3.p) (A.R. 5.1.3.I, 5.1.3.III, 5.1.3.IV und 5.1.3.VI und A.R. 7.3.6.V).\n\tb) Zweifelhafte Distanzen zu einem First Down sollen unaufgefordert nachgemessen werden. Unnötige Messungen zur Bestimmung eines First Downs müssen nicht gewährt werden.\n\tc) Nachdem der Ball spielbereit ist, muss kein Nachmessen mehr gewährt werden."
+interpretations: []

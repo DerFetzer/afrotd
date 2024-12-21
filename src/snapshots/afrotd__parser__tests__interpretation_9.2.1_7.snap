@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 2
+  - 1
+index: 7
+text: "3. und 15 von der A-45. A12 geht zurück, um einen Pass zu\nwerfen. Er wird von Tackle B77 für einen Raumverlust von 10 Metern\ngesackt. B77 springt auf seine Füße, schlägt gegen seine Brust und\nbeleidigt und verhöhnt A12. Er erhält dafür Flaggen vom Referee und\ndem Linejudge."
+ruling: "Dead Ball Foul für unsportliches Verhalten.\n15-Meterstrafe vom Dead Ball Spot und automatisch First Down. A’s\nBall, 1. und 10 von der 50."

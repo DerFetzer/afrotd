@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 2
+  - 2
+index: 5
+text: "Team A puntet von seiner Endzone und der Ball wird bis zu der\nA-30 zurückgetragen, wo gefumbelt wird. A23 clippt B35 in Team A’s\nEndzone, während der Ball durch den Fumble frei ist. Der Ball wird im\nSpielfeld recovert."
+ruling: "Strafe – 15 Meter vom Basic Spot, dem\nFumble-Punkt. Team B’s Ball, First Down und 10."

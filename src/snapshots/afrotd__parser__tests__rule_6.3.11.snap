@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 3
+  - 11
+title: Freier Ball hinter der Goalline
+text: "Es ist eine Violation für illegales Berühren (Regel 6.3.2), wenn ein Team ASpieler einen Scrimmage Kick in Team B’s Endzone schlägt, nachdem der Kick die neutrale Zone überquert hat und danach unberührt von Team B ist. Der Punkt der Violation ist Team B’s 20-Meterlinie. Das ist ein Spezialfall des Schlagens eines Balles in der Endzone und kein Foul (A.R. 6.3.11.I bis 6.3.11.V und A.R. 2.12.2.I)."
+interpretations: []

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 7
+  - 2
+index: 4
+text: "Team A kickt einen Free Kick von der A-35. Der Ball rollt auf\ndem Boden an der B-3, als B10 ihn in die Endzone und von dort über\ndie Endlinie ins Aus kickt."
+ruling: "Safety wegen des neuen Antriebs\ndurch Team B. Nimmt Team A die Strafe (10 Meter) an, so ist es Team\nA’s Ball auf der A-45, von wo aus der Free Kick wiederholt werden würde (Regeln 9.4.4 und 10.2.2.d.4).\n,\ndie den Regeln unterliegen"

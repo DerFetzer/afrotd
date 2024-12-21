@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 1
+  - 2
+index: 3
+text: "Nachdem die Team A-Spieler für eine Sekunde still gestanden\nhaben, entfernt sich End A88 weiter vom Ende der Scrimmage Line und\nstoppt. Bevor eine Sekunde vergeht, startet Back A36 seine Rückwärtsbewegung."
+ruling: "Legal. Aber wenn Back A36 startet, bevor A88\nstoppt, bedeutet die gleichzeitige Bewegung der beiden Spieler einen\nShift und alle Team A-Spieler müssen vor dem Snap für eine Sekunde\nstill stehen (Regel 2.22.1)."

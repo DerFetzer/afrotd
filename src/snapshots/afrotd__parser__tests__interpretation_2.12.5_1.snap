@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 12
+  - 5
+index: 1
+text: "Ein Free Kick durchbricht die Fläche von der B-Restraining Line.\nWährend sich der Ball in der Luft befindet, berührt A1, der sich hinter\nTeam B’s Restraining Line befindet, den Ball."
+ruling: Legales Berühren (Regel 6.1.3.b).

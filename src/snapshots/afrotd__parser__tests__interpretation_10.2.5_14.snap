@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 2
+  - 5
+index: 14
+text: Eines der Teams foult.
+ruling: "Führe die Strafe beim\nKickoff durch, es sei denn, der Try ist der letzte Down in einem Spiel."

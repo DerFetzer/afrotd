@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 25
+  - 3
+title: Succeeding Spot
+text: "Succeeding Spot ist der Punkt, an dem der Ball das nächste Mal ins Spiel gebracht wird."
+interpretations: []

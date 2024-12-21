@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 3
+  - 11
+index: 1
+text: "Team A snappt von der 50-Meterlinie und puntet. Der Kick ist\njenseits der neutralen Zone unberührt, als er fliegend Team B’s Goalline\nüberquert. A88 schlägt den Ball zurück ins Spielfeld, und der Ball rollt\nan der B-4 ins Aus."
+ruling: "Kein Foul für Schlagen des Balles in der\nEndzone. Illegales Berühren. Der Punkt der Violation ist die B-20. B’s\nBall, 1. und 10 von der B-20."

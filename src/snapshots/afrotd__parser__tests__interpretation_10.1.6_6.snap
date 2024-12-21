@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 1
+  - 6
+index: 6
+text: "Team A puntet und begeht eine Touching Violation. B1 clippt\nwährend des Punt Returns, der von B2 gefumbelt wird. A1 recovert den\nFumble und A2 foult, nachdem der Ball dead ist."
+ruling: "Team A\nhat zuerst die Wahl, weil Team B während eines Live Balls gefoult hat.\nWenn Team A die Strafe für Team B’s Foul ablehnt, erhält Team B den\nBall am Punkt der Violation mit der Möglichkeit der Strafdurchführung\nvon der A-Dead Ball Foul. Wenn Team A die Strafe für Team B’s Foul\nannimmt, gehört der Ball Team B nach der Strafdurchführung des Live\nBall Fouls, gefolgt von der Strafe für das Dead Ball Foul."

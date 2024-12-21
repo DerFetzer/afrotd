@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 8.6.1.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            B1 fängt Team A’s legalen Vorwärtspass in seiner eigenen Endzone ab
+            und danach reißt A1 ihm den Ball aus den Händen, während sie sich
+            in der Endzone befinden.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Touchdown. Der Ball ist nicht automatisch dead, wenn er
+                abgefangen wird, aber er wird dead, wenn A1 in Ballbesitz
+                kommt. Wenn jedoch nach der Meinung des Schiedsrichters eine
+                deutliche Zeitspanne vergangen war, in der der Team B-Spieler
+                keine Anstalten machte, den abgefangenen Ball aus der Endzone
+                hinaus zu tragen, ist die Anerkennung des Touchbacks
+                gerechtfertigt.
+            </p>
+        </details>
+    </div>
+</article>

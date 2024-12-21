@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 3
+  - 11
+index: 2
+text: "Team A snappt von der 50-Meterlinie und puntet. Der Kick ist\njenseits der neutralen Zone unberührt, als A88 über die Goalline greift\nund den Ball ins Spielfeld zurückschlägt. B22 recovert an der B-2 und\nadvanct bis zu der B-12, wo A66 ihn tackelt, indem er ihn am Helmgitter\nzieht."
+ruling: "Kein Foul für Schlagen des Balles in der Endzone. Illegales Berühren. Team B kann die Strafe für das Ziehen am Helmgitter\nannehmen, wodurch das Privileg des illegalen Berührens aufgehoben\nwird. Team B’s Ball, First Down und 10 von der B-27."

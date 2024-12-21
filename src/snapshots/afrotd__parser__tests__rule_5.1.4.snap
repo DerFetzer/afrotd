@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 5
+  - 1
+  - 4
+title: Fortsetzung der Serie unterbrochen
+text: "Die Fortsetzung einer Serie von Scrimmage Downs ist unterbrochen, wenn:\n\ta) der Team Ballbesitz während des Downs wechselt;\n\tb) ein Scrimmage Kick die neutrale Zone überquert hat;\n\tc) ein Kick ins Aus geht;\n\td) ein Kick zur Ruhe kommt und kein Spieler versucht, ihn zu sichern;\n\te) Team A am Ende eines Downs einen neuen First Down erreicht hat;\n\tf) Team A es versäumt hat, nach dem vierten Down einen First Down zu erzielen;\n\tg) eine akzeptierte Strafe einen First Down enthält;\n\th) Punkte erzielt wurden;\n\ti) einem Team ein Touchback zuerkannt wird;\n\tj) die zweite Spielperiode endet;\n\tk) die vierte Periode endet."
+interpretations: []

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 5
+  - 2
+index: 6
+text: "Nach einem Down, der in einem 1. und 10 an der B-40 resultiert, bewegen sich elf Team A-Spieler ohne ein Huddle zu ihren Positionen für den nächsten Down. Der Ball ist freigegeben, als A22 aus\nseiner Teamzone heraus auf das Spielfeld läuft und in Höhe der Neunmetermarkierungen stehen bleibt. Als er oder die Coaches erkennen,\ndass er der zwölfte Spieler ist, dreht er sich um und läuft zurück an die\nSeitenlinie und in seine Teamzone. Der Ball wurde nicht gesnappt."
+ruling: "Dead Ball Foul, Auswechselfehler. Nach Definition wurde A22\nzu einem Spieler, als er in Höhe der Neunmetermarkierungen und damit in einer Offense Formation stehen blieb und muss daher für einen\nDown im Spiel bleiben. 5-Meterstrafe. Team A’s Ball, 1. und 15 von der\nB-45 (Regel 2.27.9.b)."

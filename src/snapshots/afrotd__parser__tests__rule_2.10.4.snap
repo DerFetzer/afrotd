@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 10
+  - 4
+title: Violation
+text: "Eine Violation ist ein Regelverstoß, für den keine Strafe vorgeschrieben ist. Da es kein Foul ist, hebt es kein Foul auf."
+interpretations: []

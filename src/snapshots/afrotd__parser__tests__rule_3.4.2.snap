@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 4
+  - 2
+title: Illegale Spielverzögerung
+text: "\ta) Die Schiedsrichter müssen den Ball während des Spieles gleichmäßig entsprechend den Regeln für spielbereit erklären. Die Play Clock startet ihren Countdown von entweder 40 oder 25 Sekunden, je nach den Gegebenheiten des Spieles. Ein Foul für illegale Spielverzögerung ereignet sich, wenn die Play Clock auf :00 ist, bevor der Ball ins Spiel gebracht wurde (Regel 3.2.4).\n\tb) Illegale Spielverzögerung beinhaltet außerdem:\n\t\t1. absichtliches Weitertragen des Balles, nachdem dieser dead wurde;\n\t\t2. wenn ein Team seine drei Timeouts in einer Halbzeit verbraucht hat und einen Verstoß gegen die Regel 3.3.4.e begeht;\n\t\t3. wenn ein Team nach einer Unterbrechung zwischen den Spielperioden, nach dem Erzielen von Punkten, einem Radio-/TV- oder Team-Timeout nicht spielbereit ist oder ein Team der Anordnung des Referees nicht nachkommt, den Ball ins Spiel zu bringen (A.R. 3.4.2.I);\n\t\t4. verbale Taktiken der Defense, durch die die Startsignale der Offense gestört werden (Regel 7.1.5.a.5);\n\t\t5. Aktionen der Defense, um einen Fehlstart zu provozieren (Regel 7.1.5.a.4);\n\t\t6. das ins Spiel bringen des Balles, bevor dieser spielbereit ist (Regel 4.1.4);\n\t\t7. Behinderung an der Seitenlinie (Regel 9.2.5);\n\t\t8. Aktionen, die eindeutig verhindern, dass die Schiedsrichter den Ball spielbereit machen können (A.R. 3.4.2.II). Strafe: Dead Ball Foul. 5 Meter vom Succeeding Spot [S7 und S21]."
+interpretations: []

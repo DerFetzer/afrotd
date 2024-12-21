@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 3
+  - 2
+index: 1
+text: "4. und 6. Team A erzielt mit einem Lauf, der im Spielfeld endet,\n(a) acht Meter oder (b) fünf Meter. B1 war während des Spieles Offside."
+ruling: "(a) Team A’s Ball. First Down und 10. Die Game Clock startet beim Signal des Referees. (b) Team A’s Ball. 4. und 1. Game Clock\nstartet beim Signal des Referees (Regeln 3.3.2.d.3 und 3.3.2.e.1)."

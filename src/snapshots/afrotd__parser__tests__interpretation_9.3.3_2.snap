@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 3
+  - 3
+index: 2
+text: "Während ein Mitspieler des Passers oder Ballträgers die neutrale Zone überquert hat, berührt er einen Gegner mit seinen Händen und\nArmen, die er nicht parallel zum Boden hält, oder mit gewölbten oder\ngeschlossenen Fäusten, wobei die Handflächen aber nicht zum Gegner\nzeigen."
+ruling: Legales Benutzen der Hände.

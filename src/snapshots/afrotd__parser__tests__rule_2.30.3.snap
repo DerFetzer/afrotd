@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 30
+  - 3
+title: Scrimmage Kick-Spiel
+text: "Ein Scrimmage Kick-Spiel ist die Aktion im Zeitraum vom Snap bis zu dem Moment, in dem ein Scrimmage Kick in den Besitz eines Spielers gelangt oder gemäß der Regel für dead erklärt wird."
+interpretations: []

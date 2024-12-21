@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 4
+  - 1
+index: 1
+text: "Ein Team A-Spieler fängt einen Free Kick unmittelbar neben B55,\nwodurch verhindert wird, dass dieser den Ball fängt."
+ruling: Behinderung beim Fangen eines Kicks. Strafe – 15 Meter vom Spot of Foul.

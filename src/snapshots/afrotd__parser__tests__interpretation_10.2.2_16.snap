@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 2
+  - 2
+index: 16
+text: "Nach einem Safety puntet Team A von der A-20. Der Ball\ngeht unberührt von Team B ins Aus."
+ruling: "Team B hat die Wahl,\ndass Team A noch einmal von der A-15 kickt oder selbst an der 50Meterlinie oder fünf Meter jenseits des Inbounds Spot den Ball ins Spiel\nzu bringen."

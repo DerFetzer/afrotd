@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 4
+  - 2
+title: Gehört zu (Belongs to)
+text: "„Gehört zu“ bezeichnet im Vergleich zu „in Besitz“ die Zugehörigkeit eines Dead Balls. Diese Zugehörigkeit kann vorübergehend sein, denn der Ball muss in Übereinstimmung mit den entsprechenden Regeln der jeweiligen Situation ins Spiel gebracht werden."
+interpretations: []

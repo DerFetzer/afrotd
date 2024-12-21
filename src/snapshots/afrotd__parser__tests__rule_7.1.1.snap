@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 1
+  - 1
+title: Starten mit dem Snap
+text: "\ta) Der Ball muss durch einen legalen Snap ins Spiel gebracht werden, außer die Regeln schreiben einen legalen Free Kick vor (A.R. 4.1.4.I und 4.1.4.II).\n\tb) Kein Spieler darf den Ball ins Spiel bringen, bevor dieser spielbereit ist (Regel 4.1.4 und A.R. 4.1.4.I und 4.1.4.II). Strafe (a-b): Dead Ball Foul. 5 Meter vom Succeeding Spot [S7 und S19]\n\tc) Der Ball darf nicht in einer Seitenzone (Regel 2.31.6) gesnappt werden. Befindet sich der Startpunkt für irgendeinen Scrimmage Down in einer Seitenzone, muss er zur Hash Mark verlegt werden."
+interpretations: []

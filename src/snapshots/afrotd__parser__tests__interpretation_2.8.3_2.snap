@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 8
+  - 3
+index: 2
+text: "Free Kick von der A-35. Der Kickoff ist hoch und tief. Kickreturner B21 gibt, an der eigenen Goalline stehend, ein „T –Signal“. B21\nfängt den Kick direkt an der Goalline und advanct bis zur B-35."
+ruling: "Team B bekommt den Ball an der B-35, 1. und 10. Das „T –\nSignal“, wenn es korrekt ausgeführt wird, wird nicht als gültiges oder\nungültiges Fair Catch-Signal angesehen. Es ist wichtig, dass dieses „T\n–Signal“ korrekt und ohne Winken ausgeführt wird, indem die Hände\nausgestreckt werden und an oder unter Schulterhöhe verbleiben. Durch\ndas „T–Signal“ wird der Ball nicht dead und nimmt dem Receiving Team\nnicht die Möglichkeit den Ball zu advancen."

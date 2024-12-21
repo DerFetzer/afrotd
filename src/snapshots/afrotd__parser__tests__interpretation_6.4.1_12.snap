@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 4
+  - 1
+index: 12
+text: "4. und 5 von der A-30. Punt Receiver B22 befindet sich an\nder B-30 in Position zum Fangen eines Kicks. Er gibt kein Signal. A88\nbefindet sich seitlich innerhalb eines Meters neben B22. A88 berührt\nB22 nicht. B22 fängt an der B-30 den Kick und wird anschließend an der\nB-32 getackelt. B22 wird durch die Präsenz von A88 nicht gezwungen,\nseine Position oder die Art des Fangens zu ändern."
+ruling: "Legales\nSpiel. Keine Behinderung beim Fangen eines Kicks. A88 befindet sich\nweniger als einen Meter von B22 entfernt, behindert jedoch nicht die\nFangmöglichkeit von B22, da er nicht direkt vor ihm ist B‘s Ball, 1. und\n10 von der B-32."

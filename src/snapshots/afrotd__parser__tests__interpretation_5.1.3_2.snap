@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 5
+  - 1
+  - 3
+index: 2
+text: "Receiver A88 läuft eine Route tief in B’s Endzone und kommt zurück in Richtung QB A12, der einen legalen Vorwärtspass auf A88 wirft.\nA88 springt im Laufen hoch und erreicht noch einen Meter innerhalb\nB’s Endzone den Ball, den er sicher kontrolliert. Als sich A88 in der Luft\nbefindet, wird er von keinem Team B-Spieler berührt und behält sichere\nKontrolle über den Ball als er an der B-1 landet (a) auf seinen Knien\noder (b) auf seinen Füßen. Nachdem A88 seine Balance gefunden hat,\nläuft er mit dem Ball und wird an der B-5 zu Boden gebracht, wo der Ball\nfür dead erklärt wird."
+ruling: "Kein Touchdown. (a) Team A’s Ball an\nder B-1, wo der Ball für dead erklärt wurde. (b) Team A’s Ball an der\nB-5, wo er für dead erklärt wurde."

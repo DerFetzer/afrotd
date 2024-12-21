@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 2
+  - 1
+index: 2
+text: "3. und 15 von der B-20. Der berechtigte A88 fängt einen Pass\nan der B-18 und stürmt in Richtung Goalline. An der B-10 dreht er sich\num und macht eine obszöne Geste in Richtung des ihm verfolgenden\nB99. Danach überquert A88 B’s Goalline."
+ruling: "Live Ball Foul für\nunsportliches Verhalten. 15-Meterstrafe von der B-10, dem Punkt des\nFouls und Wiederholung des dritten Downs. A’s Ball, 3. und 20 von der\nB-25."

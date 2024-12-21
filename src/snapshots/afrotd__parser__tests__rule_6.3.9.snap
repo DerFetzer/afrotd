@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 3
+  - 9
+title: Bodenberührung auf oder hinter einer Goalline
+text: "Wenn ein Scrimmage Kick, der jenseits der neutralen Zone von Team B unberührt ist, den Boden auf oder hinter Team B’s Goalline berührt, wird der Ball dead und gehört zu Team B (Regel 8.4.2.b) (A.R. 6.3.9.I und 6.3.9.II)."
+interpretations: []

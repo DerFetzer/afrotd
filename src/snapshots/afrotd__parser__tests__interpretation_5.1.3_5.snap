@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 5
+  - 1
+  - 3
+index: 5
+text: "A6 hat den Ball in seinem Besitz und hechtet ohne gegnerischen\nKontakt über die 50-Meterlinie, die die Line to Gain für einen First Down\nist, und wird dann hinter die 50-Meterlinie zurückgedrängt. A6 läuft selbständig weiter und wird an der A-49 getackelt, wo ein Körperteil, außer\nHand oder Fuß, den Boden berührt."
+ruling: "Kein First Down. Der\nPunkt des Forward Progress ist die A-49."

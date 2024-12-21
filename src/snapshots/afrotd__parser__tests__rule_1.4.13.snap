@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 4
+  - 13
+title: Mikrofon des Referees
+text: "\ta) Ein Mikrofon für den Referee für alle das Spiel betreffenden Bekanntmachungen wird dringend empfohlen. Wird dem Referee ein Mikrofon zur Verfügung gestellt, muss es ein Mikrofon sein, das am Kragen befestigt werden kann. Das Mikrofon muss vom Referee bedient und kontrolliert werden. Es muss, außer zu den Bekanntmachungen, ausgeschaltet sein. An anderen Schiedsrichtern sind Mikrofone verboten.\n\tb) Es ist eine gesicherte, drahtlose Sprechverbindung erlaubt, die nur für die Schiedsrichtercrew und den entsprechenden Observer zugänglich ist. Regel 2 Definitionen"
+interpretations: []

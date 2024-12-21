@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 2
+  - 6
+index: 1
+text: "Während ein Kickoff weit zurückgetragen wird, kommt der Head\nCoach des Kicking Teams auf das Spielfeld und protestiert energisch\nund ärgerlich, dass das Receiving Team eine Flagge für Halten während des Laufes hätte erhalten müssen."
+ruling: "Unsportliches Verhalten Foul gegen den Head Coach. Wird als Dead Ball Foul durchgeführt. 15-Meterstrafe vom Succeeding Spot. Dieses Foul zählt als eines\nder unsportlichen Verhalten-Fouls gegen den Head Coach. Wenn es\ndas zweite Unsportliche Verhalten dieses Head Coachs ist, muss er\ndisqualifiziert werden. Ein Head Coach, der disqualifiziert wurde, darf\neinen neuen Head Coach benennen."

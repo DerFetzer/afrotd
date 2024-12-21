@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 2
+  - 1
+index: 7
+text: "Ballträger A22 stürmt in Richtung des rechten Pylon auf B’s\nGoalline. Der Ball in A22’s rechter Hand überquert die Verlängerung\nder Goalline außerhalb (z. B.: zur rechten) des Pylon. Danach tritt A22\n(a) auf die Goalline oder (b) unmittelbar vor der Goalline auf die Seitenlinie."
+ruling: "(a) Touchdown. Die Fläche der Goalline wird verlängert, da A22 den Boden in der Endzone berührt. (b) Kein Touchdown.\nDie Fläche der Goalline wird nicht verlängert. Der Ball wird am Punkt\nder Überquerung für „im Aus“ erklärt."

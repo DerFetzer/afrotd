@@ -1,0 +1,38 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.5.2.V
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Nachdem der Ball spielbereit ist und sich der Umpire in seiner
+            regulären Position befindet, ersetzt Team A schnell einige Spieler
+            durch Ersatzspieler, steht die erforderliche Sekunde still und
+            snappt den Ball. Der Umpire versucht, zum Ball zu gelangen, um der
+            Defense zu erlauben, ebenfalls auszuwechseln, schafft es aber
+            nicht, den Snap zu verhindern.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Der Down muss unterbrochen, die Game Clock angehalten und der
+                Defense erlaubt werden, ihre Auswechselungen in Reaktion auf
+                Team A’s Auswechselung vorzunehmen. Kein Foul. Die Play Clock
+                wird auf 25 Sekunden gesetzt und startet mit dem Signal zur
+                Ballfreigabe. Die Game Clock startet mit der Ballfreigabe oder
+                dem Snap, je nachdem, welche Voraussetzungen vorlagen, als der
+                Down unterbrochen wurde. Der Referee informiert Team A’s Head
+                Coach, dass jede weitere derart gelagerte Aktion ein Foul für
+                unsportliches Verhalten gemäß Regel 9.2.3 darstellt.
+            </p>
+        </details>
+    </div>
+</article>

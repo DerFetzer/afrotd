@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 6
+index: 2
+text: "Zwei gegnerische Spieler erreichen einen legalen Vorwärtspass,\nwährend sie springen und ein Spieler kehrt vor dem anderen auf den\nBoden innerhalb des Feldes zurück."
+ruling: "Kein gleichzeitiges Fangen. Der Pass ist vollständig oder abgefangen für den Spieler, der zuerst auf den Boden zurückkehrt (Regel 2.4.4)."

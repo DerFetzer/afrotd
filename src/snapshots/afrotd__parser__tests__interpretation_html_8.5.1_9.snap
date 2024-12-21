@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 8.5.1.IX
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            B47 fängt an der B-3 einen Pass ab. Er wird durch seinen
+            Eigenschwung in B’s Endzone getragen, wo er fumbelt. Der Ball rollt
+            ins Spielfeld. A33 recovert den Ball an der B-2, wird getackelt und
+            fumbelt. Der Ball rollt in B’s Endzone und von dort ins Aus.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Touchback, Team B’s Ball, 1. und 10 von der B-20. Die Regel
+                bezüglich Eigenschwungs trifft nur dann zu, wenn der Ball in
+                der Endzone verbleibt und dort für dead erklärt wird (Regel
+                8.6.1).
+            </p>
+        </details>
+    </div>
+</article>

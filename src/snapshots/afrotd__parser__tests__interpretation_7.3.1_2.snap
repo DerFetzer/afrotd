@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 1
+index: 2
+text: "1. und 10 von der A-25. QB A12 befindet sich in einer ShotgunFormation an der A-15 und Slot Receiver A80, der sich auf der weiten\nSeite der Formation aufgestellt hat, bewegt sich vor dem Snap zurück\nauf A12 zu. A12 fängt den Snap und flippt den Ball vor sich in die Luft,\nals A80 an ihm vorbeiläuft. A80 fängt den Ball nicht, sondern läuft weiter\nan A12 vorbei. A12 fängt den Ball selbst aus der Luft und (a) advanct\ndownfield und läuft an der A-40 ins Aus oder (b) wirft von der A-20 den\nBall auf A88, der diesen an der A-40 fängt und dort zu Boden gebracht\nwird."
+ruling: "Das kurze Flippen des Balles durch A12 wird als legaler Vorwärtspass gewertet, solange er nicht klar und deutlich rückwärts\ngeworfen wird. (a) Das Fangen des Vorwärtspasses durch A12 ist legal\nund der Raumgewinn resultiert in einem 1. und 10 für Team A an der\nA-40. (b) Das Fangen des Vorwärtspasses durch A12 ist legal, aber der\nVorwärtspass auf A88 ist der zweite Vorwärtspass während des Downs\nund damit ein illegaler Vorwärtspass gemäß Regel 7.3.2.d."

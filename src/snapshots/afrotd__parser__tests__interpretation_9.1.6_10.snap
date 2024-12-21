@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 6
+index: 10
+text: "3. und 10 von der A-25. Back A21 steht in der Tackle Box still\nund wartet auf den Snap. Nach dem Snap verlässt A21 die Tackle Box.\nQB A12 befindet sich in der Pocket, um einen Pass zu werfen und A21\nsieht, dass Linebacker B54 auf A12 zustürmt. A21 kehrt in die Tackle\nBox zurück, bevor A12 den Pass wirft und blockt B54 in der Tackle Box\nunter der Gürtellinie direkt von vorne."
+ruling: "Foul durch A21 für\neinen illegalen tiefen Block. Sobald ein Spieler während eines Downs\ndie Tackle Box verlässt, wird dieser Spieler für den Rest des Downs als\naußerhalb der Tackle Box gewertet. A21 darf nicht mehr tief blocken,\nsobald er einmal die Tackle Box vollständig verlassen hatte, auch wenn\ner danach wieder in die Tackle Box zurückkehrt, um dort tief zu blocken."

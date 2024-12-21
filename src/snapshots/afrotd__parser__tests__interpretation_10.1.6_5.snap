@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 1
+  - 6
+index: 5
+text: "Es haben sich keine Fouls ereignet, als Team B einen legalen Team A-Vorwärtspass abfängt. Bei dem Runback clippt ein Team\nB-Spieler. Als der Ball dead wird, springt ein Team A-Spieler nach."
+ruling: "Team B erhält den Ball. Bestrafe Team B für sein Clipping-Foul\nund danach Team A für das Dead Ball Foul. Die Distanzen gleichen\nsich aus, es sei denn, ein Enforcement Spot befand sich innerhalb der\n30-Meterlinie und die Strafdurchführung war Richtung dieser Goalline."

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 7
+title: Unvollständiger Pass
+text: "\ta) Jeder Vorwärtspass ist unvollständig, wenn der Ball gemäß der Regel im Aus ist (Regel 4.2.3) oder er den Boden berührt und nicht von einem Spieler festgehalten und kontrolliert wird. Er ist ebenso unvollständig, wenn ein Spieler mit seinen Füßen den Boden verlässt und den Pass erreicht und zuerst auf oder außerhalb einer Begrenzungslinie landet, es sei denn, seine Vorwärtsbewegung wurde im Spielfeld oder der Endzone gestoppt (Regel 4.1.3.p) (A.R. 2.4.3.III und 7.3.7.I).\n\tb) Ist ein Vorwärtspass unvollständig, gehört der Ball dem werfenden Team am Previous Spot.\n\tc) Ist ein illegaler Vorwärtspass unvollständig, gehört der Ball dem werfenden Team an dem Punkt, von wo aus er geworfen wurde (Ausnahme: Lehnt Team B die Strafe für einen illegalen Vorwärtspass, der aus der Endzone geworfen wurde ab, wird der Ball beim nächsten Snap vom Previous Spot ins Spiel gebracht) (A.R. 7.3.7.II und 7.3.7.III)."
+interpretations: []

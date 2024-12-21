@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 2
+  - 1
+index: 9
+text: "Ballträger A22 wird geblockt und seine Vorwärtsbewegung wird\ninbounds nahe der Goalline an der Seitenlinie zu seiner Rechten gestoppt. Als er gestoppt wird, hat er den Ball in seiner rechten Hand, die\ner über die Goalline (a) innerhalb des Pylon oder (b) außerhalb des Pylon ausgestreckt hat."
+ruling: "(a) Touchdown. Der Ball wurde dead,\nals A22 ihn jenseits der Fläche über der Goalline streckte. (b) Kein\nTouchdown, da kein Teil seines Körpers den Pylon oder die Endzone\nberührte. In diesem Fall wird die Fläche der Goalline nicht verlängert."

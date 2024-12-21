@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 3
+  - 13
+index: 2
+text: "4. und 7 von der A-35. Team A puntet. Beim Snap befinden\nsich fünf Team A-Spieler im Offense Backfield. Der Kick wird teilweise geblockt, überquert nicht die neutrale Zone und wird von B88 recovert. B88 advanct bis zu der A-28, wo er getackelt wird."
+ruling: "Foul, illegale Formation. Team B kann die Strafe ablehnen und den Ball\nübernehmen, B’s Ball, 1. und 10 von der A-28. Oder Team B kann die\n5-Meterstrafe vom Previous Spot annehmen und Team A den vierten\nDown von der A-30 wiederholen lassen."

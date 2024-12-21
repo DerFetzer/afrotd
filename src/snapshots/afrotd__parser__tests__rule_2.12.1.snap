@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 12
+  - 1
+title: Seitenlinien
+text: "Ein Seitenlinie erstreckt sich von Endlinie zu Endlinie auf jeder Seite des Feldes und trennt das Feld von der Zone, die sich im Aus befindet. Die gesamte Seitenlinie befindet sich im Aus."
+interpretations: []

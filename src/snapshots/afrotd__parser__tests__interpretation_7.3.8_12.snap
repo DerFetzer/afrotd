@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 8
+index: 12
+text: "A44, ein Slot Back, läuft 25 Meter downfield eine Pass-Route in\nRichtung eines Goalline-Pylons. B1, ein Safety, befindet sich zwischen\nA44 und dem Pylon, als der Ball geworfen wird. B1 verringert augenscheinlich seine Geschwindigkeit und prallt mit A44 zusammen, bevor\nder fangbare Ball den Boden berührt."
+ruling: "Team B-Foul. Defense Passbehinderung. Strafe – 15-Meter vom Previous Spot und First\nDown (Regel 7.3.8.c)."

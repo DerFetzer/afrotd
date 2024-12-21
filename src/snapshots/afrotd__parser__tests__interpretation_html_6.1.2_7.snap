@@ -1,0 +1,34 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.1.2.VII
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team A befindet sich in einer Kickoff Formation an der A-35. Zwei
+            Spieler, A33 und A66, stehen in einem Vierpunktstand. Dabei
+            befinden sich ihre Füße an der A-29 und ihre Hände an der A-31. Der
+            unberührte Kick prallt in B’s Endzone auf den Boden und wird für
+            dead erklärt.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Touchback. Team A-Foul, illegale Formation. Weder A33 noch A66
+                hatten wenigstens einen Fuß an der A-30. Team B hat zwei
+                Möglichkeiten, die Strafe anzunehmen. Es kann den Ball nach
+                einer 5-Meterstrafe von der B-25 (dem Punkt, an dem ihm der
+                Dead Ball gehört) an der B-30 ins Spiel bringen oder Team A von
+                der A-30 noch einmal kicken lassen (Regel 6.1.8).
+            </p>
+        </details>
+    </div>
+</article>

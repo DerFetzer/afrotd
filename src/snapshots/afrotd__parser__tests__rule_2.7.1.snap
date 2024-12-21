@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 7
+  - 1
+title: Down
+text: "Ein Down ist ein Teil des Spieles, der, nachdem der Ball spielbereit ist, mit einem legalen Snap (Scrimmage Down) oder einem legalen Free Kick (Free Kick-Down) beginnt. Der Down endet, sobald der Ball das nächste Mal dead wird (Ausnahme: Der Try ist ein Scrimmage Down, der beginnt, wenn der Referee anzeigt, dass der Ball spielbereit ist (Regel 8.3.2.b))."
+interpretations: []

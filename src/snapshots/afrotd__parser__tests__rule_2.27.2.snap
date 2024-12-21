@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 27
+  - 2
+title: Offense und Defense
+text: "Das angreifende Team (Offense) ist das ballbesitzende Team bzw. das Team, zu dem der Ball gehört. Das gegnerische Team ist das verteidigende Team (Defense)."
+interpretations: []

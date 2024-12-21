@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 3
+  - 2
+index: 1
+text: Bei einem Try gibt B2 einem Team A-Fumble einen neuen Antrieb und der Ball wird durch Team B in der eigenen Endzone recovert.
+ruling: "Safety. Team A wird ein Punkt zuerkannt (Regeln 8.3.1 und\n8.5.1)."

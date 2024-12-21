@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 8.2.1.V
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Ballträger A22 springt von der B-1 seitlich in Richtung Goalline.
+            Der Ball, der sich in seinem Besitz befindet, (a) berührt den
+            Pylon; (b) überquert den Pylon oberhalb oder (c) überquert die
+            Goalline innerhalb des Pylons. A22 berührt danach erst drei Meter
+            jenseits der Goalline den Boden im Aus.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                (a), (b) und (c) In allen drei Fällen wird ein Touchdown
+                erzielt. Der Ball, der sich A22’s Besitz befindet, hat die
+                Fläche der Goalline in allen drei Fällen durchbrochen.
+            </p>
+        </details>
+    </div>
+</article>

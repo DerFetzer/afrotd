@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 1
+  - 4
+title: Schiedsrichter
+text: "\ta) Das Spiel muss unter der Aufsicht von Schiedsrichtern gespielt werden.\n\tb) Die Einteilung der Schiedsrichtercrews muss von einer SchiedsrichterOrganisation vorgenommen werden."
+interpretations: []

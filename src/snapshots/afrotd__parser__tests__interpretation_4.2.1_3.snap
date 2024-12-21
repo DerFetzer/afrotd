@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 4
+  - 2
+  - 1
+index: 3
+text: "Team A führt von der A-35 einen Onside Kick durch. A33 läuft\nin der Nähe der Seitenlinie und tritt an der A-45 ins Aus. An der A47 springt er und schlägt den Ball vorwärts. Dieser rollt an der A-49\nins Aus."
+ruling: "Team A Foul für einen Free Kick im Aus an der\nA-47. Der in der Luft befindliche A33 befindet sich im Aus, als er den\nBall berührte, da er sich nicht wieder inbounds etabliert hatte, nachdem\ner ins Aus ging. Kein Foul für das Nach-vorne-Schlagen eines freien\nBalles, da der Ball dead wird, sobald A33 ihn berührt (Regel 4.2.3.a)."

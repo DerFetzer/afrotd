@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 4
+  - 6
+title: Sonstige Ausrüstung
+text: "Die folgenden Gegenstände sind legal:\n\ta) Handtücher und Handwärmer.\n\t\t1. Kleine Handtücher zum Trocknen der Hände.\n\t\t2. Handwärmer, die bei unangenehmer Witterung getragen werden.\n\tb) Handschuhe. Ein Handschuh ist eine der Hand angepasste Bedeckung mit getrennten Segmenten für jeden Finger und den Daumen, wobei jeder Finger und der Daumen vollständig bedeckt sind, ohne zusätzliches Material, welches Finger und/oder Daumen verbindet. Es gibt keine Beschränkungen hinsichtlich der Farbe der Handschuhe.\n\tc) Visiere. Visiere müssen aus einem durchgehenden, stabilen Material sein. Visiere dürfen dabei klar, getönt, verspiegelt oder gefärbt sein. Die Nutzung von Visieren, Brillen oder sonstigem Augenschutz erfolgt auf eigene Gefahr.\n\td) Spielinformationen. Jeder Spieler darf schriftliche Informationen auf seinem Arm, seinem Handgelenk oder seinem Gürtel tragen."
+interpretations: []

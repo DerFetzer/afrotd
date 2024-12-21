@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 2
+  - 2
+index: 3
+text: "A55 clippt in Team B’s Endzone, während ein Team A-Scrimmage\nKick im Spielfeld B44 berührt."
+ruling: "Strafe – 15 Meter. Die Strafe\nwird entweder vom Previous Spot (Team A behält den Ball) oder von\ndem Punkt, an dem der anschließende Dead Ball zu Team B gehört,\ndurchgeführt."

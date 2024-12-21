@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 27
+  - 5
+title: Passer
+text: "Passer ist jeder Spieler, der einen Vorwärtspass wirft. Er ist ein Passer von dem Moment, an dem er den Ball loslässt, bis der Pass vollständig, unvollständig oder abgefangen wird oder er am Spiel teilnimmt."
+interpretations: []

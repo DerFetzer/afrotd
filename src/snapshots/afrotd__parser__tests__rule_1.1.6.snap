@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 1
+  - 6
+title: "Personen, die den Regeln unterliegen"
+text: "\ta) Alle Personen, die den Regeln unterliegen, müssen den Entscheidungen der Schiedsrichter Folge leisten.\n\tb) Personen, die den Regeln unterliegen, sind: jeder in der Teamzone, Spieler, Ersatzspieler, ausgewechselte Spieler, Coaches, Physiotherapeuten, Cheerleader, Musiker, Maskottchen in Uniform, Werbe-Maskottchen, Stadionsprecher, Audio-, Video- und Beleuchtungstechniker und andere Personen, die den Teams verbunden sind."
+interpretations: []

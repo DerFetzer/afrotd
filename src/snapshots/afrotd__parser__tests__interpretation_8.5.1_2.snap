@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 5
+  - 1
+index: 2
+text: "Ein Scrimmage Kick überquert nicht die neutrale Zone oder überquert die neutrale Zone und wird zuerst von Team B berührt oder wird\nnicht berührt und prallt zurück in die Endzone, wo der Ball in Team A’s\nBesitz dead wird."
+ruling: Safety (Regel 8.7.2.a).

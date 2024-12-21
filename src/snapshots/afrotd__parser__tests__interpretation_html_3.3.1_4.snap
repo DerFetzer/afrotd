@@ -1,0 +1,27 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.3.1.IV
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Ein Schuhriemen, die Schnur eines Schulterschützers, ein Trikot,
+            eine Nummer oder ein Ausrüstungsteil bricht oder zerreißt.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Es wird kein Referee-Timeout zugelassen, um das Ausrüstungsteil
+                zu reparieren oder zu ersetzen.
+            </p>
+        </details>
+    </div>
+</article>

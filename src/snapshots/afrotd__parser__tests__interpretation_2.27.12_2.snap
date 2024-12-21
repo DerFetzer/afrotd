@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 27
+  - 12
+index: 2
+text: Ein Head Coach oder ein identifizierter Teamangehöriger begeht während eines Spieles zwei unsportliche Verhalten-Fouls.
+ruling: "Der Head Coach oder der identifizierte Teamangehörige muss\nden Platz innerhalb einer angemessenen Frist verlassen. Er muss sich\nunter Aufsicht seines Teams außerhalb des Platzes aufhalten und darf\nkeinerlei Einfluss auf das Spielgeschehen nehmen. Die Dauer der Sperre ergibt sich aus der Entscheidung der zuständigen Stelle."

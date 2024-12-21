@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 3
+  - 7
+title: Im Aus zwischen den Goallines oder im Feld zur Ruhe
+text: "Wenn ein Scrimmage Kick zwischen den Goallines ins Aus geht oder im Feld zur Ruhe kommt und kein Spieler versucht, den Ball zu recovern, wird der Ball dead und gehört zum Receiving Team am Dead Ball Spot (Ausnahme: Regel 8.4.2.b)."
+interpretations: []

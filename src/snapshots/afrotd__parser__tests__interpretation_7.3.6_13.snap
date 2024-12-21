@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 6
+index: 13
+text: "Receiver A85 befindet sich inbounds in der Luft über Team\nB’s Endzone und ergreift einen Vorwärtspass. Während er sich in der\nLuft befindet, wird er von einem Defender geblockt und fällt dadurch zu\nBoden. Unmittelbar nachdem A85 auf den Boden prallt, wird der Ball\nfrei und berührt den Boden."
+ruling: "Unvollständiger Pass. Ein in\nder Luft befindlicher Receiver, der berührt wird, bevor er alle Voraussetzungen zur Vervollständigung des Fangens erfüllt, muss weiterhin die\nKontrolle über den Ball behalten, nachdem er zu Boden gefallen ist."

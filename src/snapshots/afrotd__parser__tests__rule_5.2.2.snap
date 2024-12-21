@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 5
+  - 2
+  - 2
+title: "Strafe, die in einer neuen Serie resultiert"
+text: "Es ist eine neue Serie mit einer neuen Line to Gain, wenn:\n\ta) eine Strafe den Ball im Besitz von Team A auf oder jenseits der Line to Gain belässt;\n\tb) in einer Strafe ein First Down festgesetzt ist."
+interpretations: []

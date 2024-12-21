@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.4.2.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Zu einem späten Zeitpunkt in einer Halbzeit wird der Team
+            ABallträger bei einem Laufspiel getackelt. Die Team B-Spieler
+            lassen sich offensichtlich und absichtlich viel Zeit dabei, vom
+            Ballträger aufzustehen und verhindern dadurch, dass die
+            Schiedsrichter den Ball freigeben können.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team B-Foul für Spielverzögerung. Strafe – 5 Meter am
+                Succeeding Spot. Die Game Clock startet mit dem Snap (Regel
+                3.4.3).
+            </p>
+        </details>
+    </div>
+</article>

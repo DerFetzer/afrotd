@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 4
+  - 4
+index: 1
+text: "Ein Spieler trägt oder mehrere Spieler eines Teams tragen Leggings, die ihre Beine verdecken."
+ruling: "Legal. Alle anderen Teammitglieder dieses Teams müssen ebenfalls Leggings oder knielange\nStrümpfe (Stutzen) gleicher Farbe tragen. Alle Teammitglieder eines\nTeams müssen Strümpfe (Stutzen) oder Beinbekleidung tragen, die gleichfarbig, gleich lang und von gleichem Aussehen sind. Alle Teammitglieder eines Teams können kurze Socken tragen, die gleichfarbig, gleich\nlang und von gleichem Aussehen sind."

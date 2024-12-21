@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 3
+  - 4
+index: 2
+text: "Team A’s langer Fieldgoalversuch wird zuerst durch A1 berührt,\nals dieser den rollenden Ball zurückschlägt. Der Ball prallt gegen den in\nder Nähe stehenden B1."
+ruling: "Illegale Berührung durch A1. Team\nB’s Ballberührung wird nicht beachtet (Regeln 2.11.4 und 8.4.2.b)."

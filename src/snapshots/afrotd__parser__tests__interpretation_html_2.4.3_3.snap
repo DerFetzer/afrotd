@@ -1,0 +1,27 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 2.4.3.III
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Der in der Luft befindliche A3 erreicht einen Pass an der A-40. Als
+            er den Ball erreicht, wird er von B1 berührt und kommt mit dem Ball
+            an der A-37 im Seitenaus auf.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Unvollständiger Pass (Regel 7.1.5 und 7.3.7.a).
+            </p>
+        </details>
+    </div>
+</article>

@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 10.1.4.VI
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team A’s legaler Vorwärtspass wird von B45 abgefangen, der einige
+            Meter advanct. Während des Returns clippt B23 und A78 tackelt B45,
+            indem er an dessen Helmgitter zieht oder dreht.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Da Team B vor dem Ballbesitzwechsel nicht gefoult hat, kann es
+                die Aufhebung der Fouls wählen oder den Ballbesitz behalten,
+                nachdem die Clipping-Strafe vervollständigt wurde.
+            </p>
+        </details>
+    </div>
+</article>

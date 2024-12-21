@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 12
+  - 5
+title: Restraining Line
+text: "Eine Restraining Line ist Teil einer vertikalen Fläche, die die Aufstellung eines Teams beim Free Kick einschränkt. Die Fläche der Restraining Line ist über die Seitenlinien hinaus verlängert (A.R. 2.12.5.I)."
+interpretations: []

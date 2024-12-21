@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 25
+  - 10
+title: Basic Spot
+text: Der Basic Spot ist ein Fixpunkt zur Feststellung des Enforcement Spots für Strafen nach dem Drei-und-Eins-Prinzip (Regel 2.33.1). Basic Spots für die verschiedenen Spieltypen sind in Regel 10.2.2.d aufgeführt.
+interpretations: []

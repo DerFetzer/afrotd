@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 1
+  - 3
+title: Sieger und Endergebnis
+text: "\ta) Jedem Team müssen regelgerecht erzielte Punkte zuerkannt werden. Am Ende des Spieles hat das Team mit der höheren Punktzahl gewon- nen, sofern das Spiel nicht abgebrochen wird.\n\tb) Wenn der Referee erklärt, dass das Spiel beendet ist, ist der Punktestand endgültig."
+interpretations: []

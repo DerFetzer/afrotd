@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 2
+  - 2
+index: 7
+text: "Team A snappt an der A-1, Ballträger A2 advanct und wird an\nder A-5 zu Boden gebracht. Team B verursacht ein persönliches Foul\nin der Endzone, während der Ball im Spiel ist."
+ruling: "Strafe – 15\nMeter vom Basic Spot (A-5)."

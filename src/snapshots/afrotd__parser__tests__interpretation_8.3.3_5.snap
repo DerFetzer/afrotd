@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 3
+  - 3
+index: 5
+text: "Während eines Try befindet sich B79 beim Snap in der neutralen\nZone. B20 fängt einen Vorwärtspass ab und A55 tackelt ihn, indem er\nan B20’s Helmgitter zieht."
+ruling: "Die Fouls heben sich auf und der\nDown wird wiederholt."

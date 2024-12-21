@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 5
+  - 2
+  - 5
+title: Strafe abgelehnt
+text: "Wird eine Strafe abgelehnt, muss die Nummer des nächsten Downs die Nummer sein, die sie gewesen wäre, wenn sich das Foul nicht ereignet hätte."
+interpretations: []

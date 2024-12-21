@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 1
+  - 3
+title: Einschränkungen der Offense – Vor dem Snap
+text: "Jede der nachfolgenden Aktionen (a-d) sind Dead Ball Fouls. Schiedsrichter sollen abpfeifen und verhindern, dass das Spielgeschehen weiter fortgesetzt wird. Nachdem der Ball spielbereit ist und vor dem Snap:\n\ta) Snapper. Der Snapper (Regel 2.27.8) darf:\n\t\t1. sich weder zu einer anderen Position bewegen noch mit irgendeinem Körperteil jenseits der neutralen Zone befinden.\n\t\t2. den Ball nicht anheben, ihn jenseits der neutralen Zone bringen oder den Start des Downs vortäuschen.\n\t\t3. nur dann seine Hand (Hände) vom Ball nehmen, wenn dadurch nicht der Start des Downs vorgetäuscht wird.\n\tb) Neunmetermarkierungen.\n\t\t1. Jeder Team A-Ersatzspieler muss sich zwischen den Neunmetermarkierungen befunden haben. Team A-Spieler, die am vorherigen Down teilgenommen haben, müssen sich nach dem vorherigen Down und vor dem nächsten Snap zwischen den Neunmetermarkierungen befunden haben (A.R. 3.3.4.I).\n\t\t2. Alle Team A-Spieler müssen sich nach einem Team-Timeout, einem Verletzungs-Timeout, einem Radio-Timeout, einem MedienTimeout oder dem Ende einer Periode zwischen den Neunmetermarkierungen befunden haben.\n\tc) Encroachment. Sobald der Snapper sich eingerichtet hat, darf kein an- derer Team A-Spieler in oder jenseits der neutralen Zone sein (Ausnahmen: 1. Ersatzspieler und ausgewechselte Spieler und 2. Offense Spieler in einer Scrimmage Kick-Formation, die auf gegnerische Spieler zeigen und mit ihrer Hand oder ihren Händen die neutrale Zone durchbrechen).\n\td) Fehlstart. Kein Team A-Spieler darf einen Fehlstart verursachen (Regel 7.1.2.b) oder einen Gegner berühren (A.R. 7.1.3.III). Strafe (a-d): Dead Ball Foul: 5 Meter vom Succeeding Spot [S7 und S19 oder S20]."
+interpretations: []

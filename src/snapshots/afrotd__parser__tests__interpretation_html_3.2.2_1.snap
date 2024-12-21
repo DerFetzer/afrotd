@@ -1,0 +1,34 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.2.2.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Am Ende der ersten Halbzeit ist der Punktestand 56:0. Die Head
+            Coaches und der Referee kommen überein, dass die dritte und die
+            vierte Spielperiode jeweils auf zehn Minuten verkürzt werden. Die
+            Head Coaches verlangen außerdem, dass die zweite Halbzeit mit einer
+            „laufenden Uhr“ gespielt werden soll, dass die Game Clock also
+            nicht angehalten werden soll.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Die verbleibenden Spielperioden können verkürzt werden. Die
+                „laufende Uhr“ wird jedoch nicht erlaubt. Es gelten für das
+                gesamte Spiel die normalen Regeln bezüglich der Game Clock.
+                Ausgenommen davon sind Spiele, in denen gemäß BSO die Mercy
+                Rule angewandt wird.
+            </p>
+        </details>
+    </div>
+</article>

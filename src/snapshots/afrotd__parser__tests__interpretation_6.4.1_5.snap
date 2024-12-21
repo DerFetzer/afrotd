@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 4
+  - 1
+index: 5
+text: "Ein Team A-Spieler berührt jenseits der neutralen Zone als erster oder fängt einen Scrimmage Kick, den kein Receiver hätte fangen\nkönnen, während der Ball flog."
+ruling: "Illegales Berühren, aber keine Behinderung beim Fangen eines Kicks."

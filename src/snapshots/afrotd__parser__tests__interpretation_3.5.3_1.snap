@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 5
+  - 3
+index: 1
+text: "A3, ein einwechselnder Ersatzspieler betritt das Huddle oder nimmt\neine Position in einer Formation ein und: (a) nach ungefähr zwei Sekunden verlässt A34 das Huddle und das Spielfeld an seiner Seitenlinie\noder (b) nach ungefähr vier Sekunden verlässt A34 das Huddle und das\nSpielfeld an seiner Seitenlinie."
+ruling: "(a) Legal. (b) Foul (Beachte: Ein ausgewechselter Spieler, der innerhalb von drei Sekunden das\nHuddle verlässt, wird so behandelt, als hätte er es sofort verlassen.)."

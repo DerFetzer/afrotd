@@ -1,0 +1,38 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.2.2.VIII
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            1. und 10 von der A-40. Team A snapt von der linken Hash Mark,
+            gegenüber ihrer Teamzone. A81 hat sich weit außen auf der linken
+            Seite der Formation aufgestellt. Vor dem Snap bewegt er sich in
+            Richtung des Balles. Nach dem Snap nimmt A21 den Handoff und
+            advanct hinter dem linken Tackle drei Meter. A81 unterbricht seinen
+            Lauf nicht und befindet sich innerhalb der Hash Marks, als der Ball
+            dead wird. A81 bewegt sich weiter in Richtung seiner Teamzone und
+            täuscht vor, er würde das Spielfeld verlassen. A81 stellt sich dann
+            in der Nähe der Seitenlinie auf. Team A wechselt nicht aus und
+            sofort nach dem Snap wirft A12 einen Vorwärtspass auf A81, der
+            unmittelbar an der Seitenlinie entlangläuft und zu einem Touchdown
+            advanct.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team A Live Ball Foul. Unsportliches Verhalten durch unfaire
+                Taktiken: Nutzung des Auswechselprozesses, um Gegner zu
+                täuschen. Strafe: 15 Meter vom Previous Spot.
+            </p>
+        </details>
+    </div>
+</article>

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 2
+  - 5
+index: 7
+text: Team B foult bei einem erfolgreichen Fieldgoal.
+ruling: "Team A hat die Wahl, die Punkte abzulehnen und die Strafe vom Previous Spot durchführen zu lassen oder die Strafe abzulehnen und die\nPunkte zu akzeptieren. Team A kann die Punkte annehmen und die\nStrafe für persönliche Fouls und unsportliche Verhalten-Fouls beim anschließenden Kickoff oder vom Succeeding Spot in Extraperioden durchführen lassen.\nFouls nach einem Touchdown durch Team A:"

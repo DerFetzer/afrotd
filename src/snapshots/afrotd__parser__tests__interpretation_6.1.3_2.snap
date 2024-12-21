@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 1
+  - 3
+index: 2
+text: "Team A führt von der A-35 einen Onside Kick durch. Der unberührte Kick befindet sich an der A-43, als A55 an der A-46 B44 von\nvorne über der Taille blockt. A28 mufft den Ball an der A-44, und nachdem der Ball zu der A-46 rollt, blockt A88 B22 an der A-42. Der Ball wird\nletztendlich von A20 an der A-44 recovert."
+ruling: "Der Block durch\nA55 ist ein Foul, und die Berührung durch A28 ist illegal, da Team A\nnicht berechtigt ist, den Ball zu berühren, weil dieser weder die 10 Meter überbrückt noch Team B berührt hat. Der Block von A88 ist legal,\nweil er durchgeführt worden ist, nachdem der Ball die 10 Meter überbrückt hat. Team A befindet sich am Ende des Downs legal in Ballbesitz,\nals A20 den Ball an der A-44 recovert. Team B hat zwei Möglichkeiten:\ndie Strafe für den illegalen Block ablehnen und den Ball an der A-44\naufgrund der illegalen Berührung zu übernehmen oder das Privileg bezüglich illegalen Berührens nicht wahrnehmen und Team A nach einer\n5-Meterstrafe für den illegalen Block durch A55 erneut von der A-30 kicken lassen. Es ist besonders zu beachten, dass der Dead Ball Spot,\ndie A-44, kein Enforcement Spot ist, da der Ball am Ende des Downs\nnicht zu Team B gehört (Regel 6.1.12)."

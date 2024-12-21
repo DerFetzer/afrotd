@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 3
+  - 2
+index: 9
+text: "2. und 7 von der A-5 zu einem späten Zeitpunkt in der zweiten\nSpielperiode. Quarterback A11 geht zurück, um einen Vorwärtspass zu\nwerfen. Er muss bis in A’s Endzone ausweichen und findet keinen freien\nReceiver. Kurz bevor A11 in der Endzone getackelt werden kann, wirft\ner den Ball vorwärts in eine Zone, in der sich kein berechtigter Receiver\nbefindet. Der Referee wirft eine Flagge für ein absichtliches Wegwerfen\neines Vorwärtspasses. Als der Ball dead wird, zeigt die Game Clock\n0:18. Team B nimmt die Strafe an."
+ruling: "Die Annahme der Strafe\nresultiert in einen Safety und Team A führt von der A-20 einen Free Kick\ndurch. Team B hat die Möglichkeit, einen 10-Sekunden-Abzug von der\nGame Clock anzunehmen. Dann wird die Game Clock auf 0:08 gesetzt\nund startet mit der Ballfreigabe des Referees. Lehnt Team B den Abzug\nab, bleibt die Game Clock bei 0:18 stehen und startet, wenn der Free\nKick im Spielfeld legal berührt wird."

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 4
+  - 1
+  - 1
+title: Dead Ball wird zum Live Ball
+text: "Nachdem ein Dead Ball spielbereit ist, wird er durch einen legalen Snap oder einen legalen Free Kick zum Live Ball. Ein Ball, der gesnappt oder beim Free Kick gekickt wird, bevor er spielbereit ist, bleibt dead (A.R. 2.16.4.I, A.R. 4.1.4.I und 4.1.4.II, A.R. 7.1.3.IV, A.R. 7.1.5.I und 7.1.5.II)."
+interpretations: []

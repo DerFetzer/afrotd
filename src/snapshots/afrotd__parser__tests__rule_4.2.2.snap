@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 4
+  - 2
+  - 2
+title: "Ball, der im Aus gehalten wird"
+text: "Ein Ball, der sich im Besitz eines Spielers befindet, ist im Aus, wenn entweder der Ball oder ein Teil des Ballträgers den Boden oder irgendetwas berührt, das sich im Aus oder auf oder außerhalb der Begrenzungslinien befindet, ausgenommen einen anderen Spieler oder einen Schiedsrichter."
+interpretations: []

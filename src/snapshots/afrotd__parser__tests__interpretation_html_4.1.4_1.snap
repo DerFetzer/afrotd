@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 4.1.4.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Snapper A1 snappt den Ball, bevor dieser spielbereit ist. A2 mufft
+            den Snap und B1 recovert den Ball.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Dead Ball Foul, Spielverzögerung. Strafe – 5 Meter vom
+                Succeeding Spot, Team A’s Ball. Der Ball wird nicht zum Live
+                Ball und alle Aktionen sollen sofort von den Schiedsrichtern
+                unterbunden werden.
+            </p>
+        </details>
+    </div>
+</article>

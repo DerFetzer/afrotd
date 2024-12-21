@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 2
+  - 5
+index: 1
+text: "Während eines Touchdownlaufes clippt Team B im Spielfeld oder\nin der Endzone."
+ruling: "Team A hat die Option, die Strafe beim Try,\ndem anschließenden Kickoff oder vom Succeeding Spot in Extraperioden durchführen zu lassen. (Regel 10.2.5.a.1)."

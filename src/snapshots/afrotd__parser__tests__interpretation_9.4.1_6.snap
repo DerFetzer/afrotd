@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 4
+  - 1
+index: 6
+text: "Team A versucht ein Fieldgoal und B23, der sich in der Endzone\nbefindet, springt vor Querlatte hoch und fängt den Ball."
+ruling: "Kein\nFoul."

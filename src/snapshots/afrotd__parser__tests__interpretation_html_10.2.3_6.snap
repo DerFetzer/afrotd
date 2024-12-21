@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 10.2.3.VI
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team A’s Punt überquert die neutrale Zone. Während des Kicks hält
+            B79 A55 einen Meter jenseits der neutralen Zone fest. B44 fängt den
+            Kick an der B-25 und advanct bis zu der B-40, wo er getackelt wird.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                B79’s Foul wird durch die Postscrimmage Kick Strafdurchführung
+                geregelt. Die 10-Meterstrafe wird vom Ende des Kicks, B-25,
+                durchgeführt. B’s Ball. 1. und 10 von der B-15.
+            </p>
+        </details>
+    </div>
+</article>

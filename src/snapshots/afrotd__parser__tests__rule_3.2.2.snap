@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 2
+  - 2
+title: Veränderung der Spielzeit
+text: "Vor dem Spiel kann der Referee die Spielzeit und die Halbzeit-Pause verkürzen, wenn er der Meinung ist, dass das Spiel durch Dunkelheit oder andere Umstände behindert werden könnte. Wenn die Spielzeit vor Spielbeginn verkürzt wird, müssen die vier Spielperioden die gleiche Länge haben.\n\ta) Während des Spieles kann die verbleibende Spielzeit jeder verbleibenden Periode oder Perioden in gemeinsamen Einverständnis der gegnerischen Head Coaches und dem Referee verkürzt werden (A.R. 3.2.2.I).\n\tb) Fehler bei der Zeitnahme der Game Clock können korrigiert werden. Sie müssen in der Periode korrigiert werden, in der sie sich ereignet haben.\n\tc) Wenn der Referee genau weiß, wie viel Spielzeit vergangen ist, muss er die Game Clock auf die entsprechende Zeit zurücksetzen und danach die Game Clock entsprechend starten.\n\td) Fehler bei der Zeitnahme der Play Clock können durch den Referee korrigiert werden. Der Countdown der Play Clock muss dann neu gestartet werden. (Regel 2.29.2)\n\te) Wird der Countdown der Play Clock durch Umstände unterbrochen, die außerhalb der Kontrolle eines Teams liegen und die verstrichene Zeit der Play Clock ist nicht bestimmbar, muss der Countdown neu gestartet werden und die Game Clock startet gemäß Regel 3.2.4.b.\n\tf) Die 40/25-Sekunden Play Clock soll gestartet werden, auch wenn die Game Clock läuft und weniger als 40, beziehungsweise 25 Sekunden in einer Spielperiode anzeigt.\n\tg) Die Game Clock darf nicht angehalten werden, wenn die Play Clock in Konflikt zu Regel 3.2.2.f gestartet wurde."
+interpretations: []

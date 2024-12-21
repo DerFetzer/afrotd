@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 6.1.3.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            A33 berührt illegal einen Free Kick; danach recovert er oder A44
+            illegal den Kick.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Beide Berührungen sind Fälle illegalen Berührens. Solange es
+                keine angenommene Strafe oder aufhebende Fouls gibt, kann Team
+                B wählen, den Ball an jeder Stelle der illegalen Berührung
+                durch Team A zu übernehmen.
+            </p>
+        </details>
+    </div>
+</article>

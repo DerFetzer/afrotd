@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 4
+  - 1
+index: 8
+text: "4. und 10 von der 50-Meterlinie. B17 befindet sich an der B20 in dem Bereich, um Team A’s hohen Scrimmage Kick zu fangen.\nWährend der Ball sich herabsenkt, berührt A37 B17 in brutaler Weise,\nbevor dieser den Ball berührt. A37 verzögerte seine Geschwindigkeit\nnicht und machte auch sonst keine Anstalten, B17 auszuweichen."
+ruling: "Schweres Persönliches Foul durch Team A, Behinderung beim\nFangen eines Kicks. Strafe –15 Meter vom Punkt des Fouls. A37 wird\ndisqualifiziert."

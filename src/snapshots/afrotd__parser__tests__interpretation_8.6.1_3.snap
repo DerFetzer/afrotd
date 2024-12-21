@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 6
+  - 1
+index: 3
+text: "3. und 5 von der B-20. B44 fängt in B’s Endzone einen Vorwärtspass ab. Während er sich noch in der Endzone befindet, fumbelt er. Der\nBall rollt vorwärts ins Spielfeld. Beim Kampf um den Ball kickt A33 den\nBall in B’s Endzone und über die Endlinie ins Aus."
+ruling: "1. und 10\nfür Team B an der B-30. Das Ergebnis des Downs ist ein Touchback und\ndaher ist die B-20 der Enforcement Spot für die 10-Meterstrafe für das\nillegale Kicken. Der Touchback resultiert aus dem Antrieb, den A33 dem\nBall durch das illegale Kicken gab (Regeln 2.16.1.a, 8.7.1, 10.2.2.d.2.a)."

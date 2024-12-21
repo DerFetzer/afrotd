@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 4
+  - 7
+title: Illegale Ausrüstung
+text: "Illegale Ausrüstung beinhaltet folgendes (siehe auch Anhang B für zusätzliche Details):\n\ta) Ausrüstung, die ein Spieler trägt, welche für andere Spieler eine Gefahr darstellt.\n\tb) Verbände oder Bandagen, soweit sie nicht gebraucht werden, um eine Verletzung zu schützen, gepolstert sind und vom Umpire genehmigt wurden.\n\tc) harte, geschliffene und unnachgiebige Ausrüstungsteile, die nicht vollständig bedeckt und gepolstert sind und vom Umpire genehmigt wurden.\n\td) abnehmbare Schuhstollen (Regel 9.2.2.d).\n\te) nicht abnehmbare Schuhstollen, die von der Spitze des Stollens bis zur Schuhsohle länger als 13 mm sind (Regel 9.2.2.d, siehe auch Anhang B für zusätzliche Details).\n\tf) jede Ausrüstung, durch die ein Gegner verwirrt oder getäuscht werden könnte.\n\tg) jede Ausrüstung, die einem Spieler einen ungerechtfertigten Vorteil verschafft.\n\th) klebriges Material, Farbe, Schmiere, Öl oder andere schlüpfrige Substanzen an der Kleidung, der Ausrüstung oder am Körper eines Spielers (Ausnahme: Gesichtsschminke).\n\ti) andere Anhänge zur Ausrüstung außer Handtücher (Regel 1.4.6.a).\n\tj) Rippen- und Rückenschützer und sonstige Teile eines Schulterschützers, die nicht komplett bedeckt sind (A.R. 1.4.7.II).\n\tk) sichtbare Kopftücher, die auf dem Feld unter dem Helm heraushängen (A.R. 1.4.7.I)\n\tl) Trikots, die nicht der Regel 1.4.5 entsprechen (A.R. 1.4.7.III).\n\tm) nicht standardgemäße, übermäßig verbaute Gesichtsgitter (A.R. 1.4.7.IV) (Hinweis: siehe Abbildungen im Anhang B)."
+interpretations: []

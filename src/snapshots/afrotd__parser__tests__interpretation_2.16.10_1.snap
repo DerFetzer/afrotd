@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 16
+  - 10
+index: 1
+text: "Beim Snap tragen vier Team A-Linemen Trikots mit einer Nummer von 50 bis 79 und drei Linemen Trikots mit einer Nummer außerhalb dieses Bereiches. Ein potentieller Kicker steht acht Meter hinter\nder Scrimmage Line und es gibt keinen potentiellen Holder."
+ruling: "Illegale Formation. Team A ist nicht in einer Scrimmage Kick-Formation und hat nicht die erforderliche Anzahl an Linemen mit den korrekten\nTrikotnummern an der Linie."

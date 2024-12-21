@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 17
+  - 1
+title: Neutrale Zone
+text: "\ta) Die neutrale Zone ist der Bereich zwischen den beiden Scrimmage Lines, verlängert zu den Seitenlinien (Regel 2.21.2). Ihre Breite entspricht der Länge des Balles.\n\tb) Die neutrale Zone ist dann errichtet, wenn der Ball spielbereit ist und auf dem Boden liegt, wobei seine Längsachse im rechten Winkel zur Scrimmage Line, parallel zu den Seitenlinien, liegt.\n\tc) Die neutrale Zone existiert, bis es einen Wechsel des Team Ballbesitzes gibt, bis ein Scrimmage Kick die neutrale Zone überquert oder bis der Ball für dead erklärt wird."
+interpretations: []

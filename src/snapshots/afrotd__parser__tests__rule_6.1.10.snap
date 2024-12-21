@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 1
+  - 10
+title: Illegale Wedge-Formation
+text: "\ta) Eine Wedge wird definiert als zwei oder mehr Spieler, die sich jeweils weniger als zwei Meter Schulter an Schulter nebeneinander befinden.\n\tb) Nur bei einem Free Kick-Down: Nachdem der Ball gekickt wurde, ist es illegal,wenn zwei oder mehr Spieler des Receiving Teams zum Zweck des Blockens für den Ballträger absichtlich eine Wedge formieren. Das ist ein Live Ball Foul. Dabei ist es unerheblich, ob es zu einem Kontakt mit einem Gegner kommt oder nicht. Strafe: Foul ohne Kontakt. 15 Meter vom Punkt des Fouls oder 15 Meter vom Punkt, an dem der anschließende Dead Ball zu Team B gehört, wenn sich dieser Punkt hinter dem Punkt des Fouls befindet. 15 Meter vom Previous Spot mit Wiederholung des Downs, wenn der anschließende Dead Ball zu Team A gehört [S27].\n\tc) Das Formieren einer Wedge ist nicht illegal, wenn der Free Kick aus einer offensichtlichen Onside Kick-Formation erfolgt.\n\td) Es liegt kein Foul vor, wenn der Free-Kick-Down in einem Touchback resultiert, ein Foul für einen Free Kick im Aus vorliegt oder es durch die Fair Catch-Regel endet (A.R. 6.1.10.I)."
+interpretations: []

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 23
+  - 1
+title: Snappen
+text: "\ta) Legales Snappen (ein Snap) ist das Übergeben oder Zurückwerfen des Balles durch eine schnelle und durchgehende Bewegung mit einer oder beiden Händen von seiner ruhenden Position am Boden aus, wobei der Ball die Hand oder die Hände des Snappers durch diese Bewegung tatsächlich verlassen muss (Regel 4.1.4).\n\tb) Der Snap beginnt, wenn der Ball legal bewegt wird und endet, wenn der Ball die Hände des Snappers verlässt. Dadurch wird der Ball live (Regel 4.1.1) (A.R. 2.23.1.I und 2.23.1.II, A.R. 7.1.5.I und 7.1.5.II).\n\tc) Wenn der Ball während irgendeiner Rückwärtsbewegung des legalen Snaps aus der Hand des Snappers rutscht, wird er zum Rückpass und ist im Spiel (Regel 4.1.1).\n\td) Während der Ball vor dem nächsten Snap auf dem Boden liegt, muss seine Längsachse rechtwinklig zur Scrimmage Line liegen (Regel 7.1.3).\n\te) Sofern der Ball nicht rückwärts bewegt wird, startet diese Bewegung keinen legalen Snap. Es ist kein legaler Snap, wenn der Ball zuerst vorwärts bewegt oder angehoben wird.\n\tf) Wird der Ball während des legalen Snaps von Team B berührt, so bleibt der Ball dead und Team B wird bestraft. Wird der Ball während eines illegalen Snaps durch Team B berührt, bleibt der Ball dead und Team A wird bestraft (A.R. 7.1.5.I und 7.1.5.II).\n\tg) Der Snap muss nicht zwischen den Beinen des Snappers durchgeführt werden. Um legal zu sein, muss es jedoch eine schnelle und durchgehende Rückwärtsbewegung sein.\n\th) Der Ball muss auf oder innerhalb der Hash Marks gesnappt werden."
+interpretations: []

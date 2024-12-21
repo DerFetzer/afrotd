@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 27
+  - 9
+title: Ersatzspieler
+text: "\ta) Ein legaler Ersatzspieler ist ein Teammitglied, welches zwischen den Downs aus der Teamzone ins Spielfeld kommt und einen Spieler, der am vorherigen Down teilgenommen hat, ersetzt und nicht selbst am vorherigen Down teilgenommen hat, oder eine fehlende Position beim unterzähligen Team während einer Unterbrechung zwischen den Downs auffüllt.\n\tb) Ein Ersatzspieler, der legal das Spielfeld oder eine Endzone betritt, wird zum Spieler, sobald er das Spielfeld oder eine Endzone betritt und mit einem Spieler oder Schiedsrichter spricht, das Huddle betritt, sich in einer Offense- oder Defense-Formation aufstellt oder am Spielgeschehen teilnimmt."
+interpretations: []

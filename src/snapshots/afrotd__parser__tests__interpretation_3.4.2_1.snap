@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 4
+  - 2
+index: 1
+text: "Nach einem Timeout ist eines der beiden Teams nicht bereit zu\nspielen."
+ruling: "Illegale Spielverzögerung. Strafe – 5 Meter vom\nSucceeding Spot."

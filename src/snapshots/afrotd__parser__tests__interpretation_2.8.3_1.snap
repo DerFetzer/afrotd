@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 8
+  - 3
+index: 1
+text: "Während Team A‘s Punt von der A-20, zeigt Receiver B44 mit seiner rechten Hand auf den rollenden Ball an der Mittellinie. Als B44 auf\nden Ball zeigt, (a) hält er seine Hände unterhalb der Schultern, ohne\nzu winken; (b) hält er seine Hände unterhalb der Schultern und winkt\neinmal mit der linken Hand; (c) hält er seine linke Hand gerade über\nseiner Schulter, ohne damit zu winken."
+ruling: "Regel 2.8.3 führt\nan, dass jedes Winken, welches nicht die Kriterien eines gültigen Signales erfüllt, ein ungültiges Signal darstellt. Gemäß der Interpretation\ndarf ein Receiver auf einen Kick zeigen, solange seine Hände unterhalb\nder Schultern bleiben und er keinerlei Winkbewegung macht. Sowohl in\n(b), als auch in (c) ist es ein ungültiges Signal. In (a) wird das nicht als\nSignal angesehen und Team B hätte das Recht, den Ball zu recovern\nund zu advancen."

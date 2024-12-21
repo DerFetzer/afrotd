@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 4
+  - 2
+index: 1
+text: "4. und 8 von der B-40. Team A’s unberührter Fieldgoalversuch\nrollt an der B-7 ins Aus."
+ruling: Team B’s Ball an der B-40.

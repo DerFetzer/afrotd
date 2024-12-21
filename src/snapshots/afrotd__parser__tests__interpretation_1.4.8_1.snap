@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 4
+  - 8
+index: 1
+text: "Nachdem der Ball spielbereit ist, erkennt ein Schiedsrichter, dass\nein oder mehrere Spieler offensichtlich keinen Mundschutz tragen."
+ruling: "Der bzw. die Spieler müssen das Spiel für wenigstens einen\nDown verlassen und dürfen nicht eher zurückkehren, bis sie mit einem\nMundschutz ausgerüstet sind. Der bzw. die Spieler können im Spiel\nbleiben, wenn das betreffende Team ein Timeout nimmt, aber sie dürfen auf keinen Fall spielen, bis sie korrekt ausgerüstet sind."

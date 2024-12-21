@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 4
+  - 4
+index: 4
+text: "Vierte Spielperiode bei laufender Game Clock. 2. und 5 von der\nB-20. Tackle B77 ist beim Snap in der neutralen Zone, ohne einen Gegner zu berühren. QB A12 läuft nach außen, um einen Pass zu werfen.\nEr läuft bis zu der B-17 und wirft einen Vorwärtspass, der unvollständig\nist. Die Game Clock bleibt bei 0:15 stehen."
+ruling: "Illegaler Vorwärtspass Team A und Offside Team B. Die Fouls heben sich auf. Kein\n10-Sekunden-Abzug. 2. und 5 von der B-20. Die Game Clock verbleibt\nbei 0:15 und startet mit dem Snap."

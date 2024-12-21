@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 2
+  - 2
+index: 1
+text: "Nachdem der Ball spielbereit ist, stellt sich Team A in einer Formation auf, wobei sich zwei Spieler weit entfernt auf beiden Seiten des\nSnappers aufstellen und zwei andere Spieler sich in der Nähe des\nSnappers aufstellen. Es befinden sich nicht mehr als vier Spieler legal im Backfield. Team A schickt zwei Ersatzspieler auf das Spielfeld,\ndie sich beide auf der Spielfeldseite, die von der eigenen Teamzone am\nweitesten entfernt ist, in der Nähe der beiden äußeren Linemen der Offense Formation aufstellen. Dadurch stehen bei Team A neun Spieler\nan der Scrimmage Line und vier Spieler im Backfield. Vor dem Snap\nverlassen die beiden Spieler, die sich in der Nähe der eigenen Teamzone befinden, das Spielfeld und haben es beim Snap verlassen. Sieben Spieler stehen damit an ihrer Scrimmage- Line, fünf von ihnen sind\nTeam A-Linemen mit einer Nummer von 50 bis 79."
+ruling: "Strafe –\n15 Meter vom Previous Spot. Das ist ein vorgetäuschtes Auswechseln,\num die Gegner zu verwirren."

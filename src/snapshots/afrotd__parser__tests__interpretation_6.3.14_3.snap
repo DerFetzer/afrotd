@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 3
+  - 14
+index: 3
+text: "4. und 7 von der B-20. Team A hat sich zu einem Fieldgoalversuch aufgestellt. Defense Linemen B55, B57 und B78 stehen Schulter an Schulter nebeneinander. B57 steht Guard A66 direkt gegenüber,\nwährend sich B55 und B78 rechts bzw. links an den Lücken neben\nA66’s Schultern befinden. Nach dem Snap bewegen sich alle drei vorwärts. (a) Alle drei berühren hauptsächlich A66; (b) B55 und B57 berühren A66, während B78 den rechten Offense Tackle A65 blockt; (c) B57\nund B78 blocken gemeinsam gegen A66, während B55 sich streckt, um\nden Kick zu blocken."
+ruling: "(a) Foul. 5-Meterstrafe. Wenn Team A\ndie Strafe annimmt, ist es ein 4. und 2 an der B-15. (b) und (c) Kein Foul.\nDie Aktionen der drei Defense Spieler richten sich nicht hauptsächlich\ngegen einen einzelnen Spieler und daher ist das Verhalten legal."

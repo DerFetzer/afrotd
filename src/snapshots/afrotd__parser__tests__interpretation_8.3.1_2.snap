@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 3
+  - 1
+index: 2
+text: "B19 ist der erste Spieler, der jenseits der neutralen Zone Team\nA’s geblockten Kick beim Try berührt, als er den fliegenden Kick in der\nEndzone mufft. A66 recovert den Ball in der Endzone."
+ruling: "Team\nA werden zwei Punkte zuerkannt."

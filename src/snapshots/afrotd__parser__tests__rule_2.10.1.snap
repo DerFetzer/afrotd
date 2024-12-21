@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 10
+  - 1
+title: Foul
+text: "Ein Foul ist ein Regelverstoß, für den eine Strafe vorgeschrieben ist."
+interpretations: []

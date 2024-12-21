@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 2
+  - 1
+index: 10
+text: "Ballträger A33 läuft auf B’s Goalline zu. Er lässt den Ball innerhalb der B-1 fallen und denkt, er hätte einen Touchdown erzielt. Er läuft\ndurch die Endzone und in Richtung seiner Teamzone. Die Schiedsrichter zeigen keinen Touchdown an. Der Fumble prallt unmittelbar außer-\nhalb oder innerhalb der Goalline auf den Boden, rollt auf dem Boden\nin der Endzone und wird dort für dead erklärt, weil der Ball zur Ruhe kommt und kein Spieler versucht, diesen zu recovern."
+ruling: "Wenn ein Fumble inbounds zur Ruhe kommt und kein Spieler versucht,\nden Ball zu recovern, der sich jenseits des Fumble-Punktes befindet,\ngehört der Ball dem fumbelnden Team am Punkt des Fumbles. Team\nA’s Ball an der B-1."

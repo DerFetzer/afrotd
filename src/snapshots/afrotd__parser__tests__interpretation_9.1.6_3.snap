@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 6
+index: 3
+text: "Back A41 steht beim Snap in einer ausgeglichenen Formation unmittelbar hinter dem rechten Tackle. Seine linke Schulter befindet\nsich innerhalb der Tackle Box. Der Quarterback übergibt den Ball an\nBack A22, der gerade nach vorne läuft. A41 blockt B2, der seinerseits\nins Offense Backfield gestürmt kommt, um A22 zu tackeln, als dieser\ndie Scrimmage Line erreicht. A41’s Block ist unter der Gürtellinie und\ndeutlich von der Seite."
+ruling: "Illegaler tiefer Block. A41 befand sich\nbeim Snap teilweise in der Tackle Box und hinter dem zweiten Lineman,\naber der Block ist nicht von vorne."

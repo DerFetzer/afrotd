@@ -1,0 +1,27 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 10.1.4.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Bei einem Kickoff durch Team A begeht Team B ein Foul, bevor der
+            unberührte Ball zwischen den Goallines ins Aus geht.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Die Fouls heben sich auf. Team A wiederholt den Kickoff vom
+                Previous Spot.
+            </p>
+        </details>
+    </div>
+</article>

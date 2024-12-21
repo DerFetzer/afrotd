@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 33
+  - 1
+title: Drei-und-Eins-Prinzip
+text: "Das Drei-und-Eins-Prinzip für die Strafdurchführung trifft zu, wenn die Strafandrohung für ein Foul keinen speziellen Enforcement Spot vorgibt. Die Anwendung dieses Prinzips wird in Regel 10.2.2.c beschrieben."
+interpretations: []

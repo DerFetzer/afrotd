@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 14
+index: 3
+text: "Team A befindet sich in einer Scrimmage Kick-Formation, wobei der Punter sich 15 Meter hinter der neutralen Zone befindet. Sofort\nnach dem Snap versucht Nose Guard B71, der sich innerhalb eines\nMeters an seiner Scrimmage Line außerhalb des Körperrahmens des\nSnappers aufgestellt hatte, durch die Lücke zwischen Snapper und dem\ndaneben stehenden Lineman durchzubrechen. B71 berührt zuerst den\nneben dem Snapper stehenden Lineman."
+ruling: "Legal. Zufälliger\nKontakt mit dem Snapper nach diesem anfänglichen legalen Kontakt ist\nkein Foul (Regel 9.1.3)."

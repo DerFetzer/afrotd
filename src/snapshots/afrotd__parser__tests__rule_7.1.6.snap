@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 1
+  - 6
+title: Ballübergabe nach vorne
+text: "Kein Spieler darf den Ball nach vorne übergeben, außer während eines Scrimmage Downs wie folgt:\n\ta) Ein Team A-Back darf den Ball nur dann nach vorne zu einem anderen Back übergeben, wenn sich beide Spieler hinter ihrer Scrimmage Line befinden und der Spieler, der den Ball nach vorne übergibt, sich mit seinem gesamten Körper noch nicht jenseits der neutralen Zone befunden hat.\n\tb) Ein Team A-Back, der sich hinter seiner Scrimmage Line befindet, darf den Ball nach vorne zu einem Mitspieler abgeben, der sich beim Snap an seiner Scrimmage Line befindet, vorausgesetzt, dieser Mitspieler verließ seine Position an der Scrimmage Line, indem er sich mit beiden Füßen in Richtung seiner eigenen Endlinie umdreht und sich wenigstens zwei Meter hinter seiner Scrimmage Line befindet, wenn er den Ball erhält (A.R. 7.1.6.I). Strafe: 5 Meter vom Spot of Foul; zusätzlich Downverlust, wenn Team A das Foul während eines Scrimmage Downs vor dem Wechsel des Team Ballbesitzes verursacht [S35 und S9]."
+interpretations: []

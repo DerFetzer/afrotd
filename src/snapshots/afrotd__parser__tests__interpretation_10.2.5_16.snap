@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 2
+  - 5
+index: 16
+text: "Die Strafe für ein Team B-Foul nach einem erfolgreichen Try\nwird angenommen und soll beim Free Kick geahndet werden, dann:\n1. foult Team A nach dem Try."
+ruling: "Führe die Strafen in der Reihenfolge ihres Geschehens beim Kickoff oder dem Succeeding Spot in\nExtraperioden durch.\n2. foult Team B nach dem Try. Regelung: Führe die Strafen für beide\nTeam B-Fouls in der Reihenfolge ihres Geschehens beim Kickoff oder\ndem Succeeding Spot in Extraperioden durch.\n3. foulen Team A und Team B bevor eines der beiden Fouls vervollständigt ist. Regelung: Diese Fouls gleichen sich aus. Team B wird für sein\nursprüngliches Foul beim Kickoff oder dem Succeeding Spot in Extraperioden bestraft."

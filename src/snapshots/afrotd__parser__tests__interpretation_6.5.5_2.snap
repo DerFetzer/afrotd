@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 5
+  - 5
+index: 2
+text: "B22 macht einen Fair Catch und wird getackelt, bevor er den\nBall mehr als zwei Schritte getragen hat."
+ruling: "Foul des Tacklers.\nStrafe – 15 Meter vom Succeeding Spot."

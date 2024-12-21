@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 31
+  - 2
+title: Feld und Spielfeld
+text: "Das Feld ist die Zone, die von den Seitenlinien und den Endlinien umschlossen ist. Das Spielfeld ist die Zone, die von den Seitenlinien und den Goallines umschlossen ist."
+interpretations: []

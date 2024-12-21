@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 20
+  - 1
+title: Strafe
+text: "Eine Strafe ist eine durch die Regel festgelegte Sanktion gegen ein Team, welches ein Foul begangen hat. Die Strafe kann eine oder mehrere der nachfolgenden Möglichkeiten enthalten: Distanzverlust, Downverlust, automatischer First Down, Disqualifikation, Abzug von der Game Clock oder eine Verwarnung (Regel 10.1.1.b)."
+interpretations: []

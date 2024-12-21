@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 2
+index: 1
+text: "Ein Defense Spieler streckt seinen Fuß aus und ein Gegner fällt\ndarüber. (a) Der Gegner ist ein Wide Receiver, der eine Passroute läuft.\n(b) Der Gegner ist ein Ballträger."
+ruling: "In beiden Fällen (a) und\n(b) ist es ein persönliches Foul, Tripping. Strafe – 15 Meter, automatisch\nFirst Down."

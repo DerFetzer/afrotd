@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 10
+  - 3
+title: Schweres persönliches Foul
+text: "Ein schweres persönliches Foul ist ein illegaler physischer Kontakt, der vorsätzlich oder so brutal ist, dass ein Gegner der Gefahr einer erheblichen Verletzung ausgesetzt werden könnte."
+interpretations: []

@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 4.1.2.V
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Vierter und 15 von der A-30, Team A puntet. B44 befindet sich in
+            Position zum Fangen des Kicks. Bei dem Versuch, den Kick zu fangen,
+            mufft B44 den Kick an der B-35. Als B44 den Kick scheinbar fängt,
+            pfeift der Backjudge irrtümlich ab, aber dieser rollt auf dem
+            Boden, nachdem B44 ihn gemufft hat. Der Ball verschwindet unter
+            einem Stapel auf dem Boden liegender Spieler.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Irrtümliches Abpfeifen. Regel 4.1.2.b.2.b trifft nicht zu , da
+                es keine klar sichtbare Recovery des Balls gab. Der Ball wird
+                zum Previous Spot zurückgebracht und der Down wird wiederholt,
+                4. und 15 von der A-30.
+            </p>
+        </details>
+    </div>
+</article>

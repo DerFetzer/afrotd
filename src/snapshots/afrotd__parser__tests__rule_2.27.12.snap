@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 27
+  - 12
+title: Disqualifizierte Personen
+text: "\ta) Eine disqualifizierte Person ist eine Person, die von der weiteren Teilnahme am Spiel ausgeschlossen wurde.\n\tb) Eine disqualifizierte Person muss den Spielort innerhalb einer angemessenen Zeit nach seiner Disqualifikation verlassen. Sie muss sich unter Aufsicht des eigenen Teams außerhalb des Platzes aufhalten und darf keinerlei Einfluss auf das Spielgeschehen nehmen."
+interpretations: []

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 4
+  - 11
+index: 1
+text: "Der Head Coach des Heimteams ist nicht in der Lage persönlich\nbeim Spiel anwesend zu sein und möchte das Spiel auf einem Monitor\nbeobachten und (a) via Telefon dem Offensive Coordinator Spielzüge\ndurchgeben und (b) ein virtuelles Kommunikationsmittel (Zoom, Microsoft Teams, etc,) nutzen, um mit dem Team in der Umkleidekabine zu\nkommunizieren."
+ruling: "Regel 1.4.11.b ist deutlich und erlaubt nur\neine Sprechverbindung zwischen der Press Box und der Teamzone. Daher darf der Head Coach in (a) keine Anrufe in die Press Box oder an\ndie Seitenlinie tätigen. Regel 1.4.11.a verbietet die Nutzung von virtueller Technologie und daher darf er auf diesem Weg nicht mit dem Team\nkommunizieren. Konsequenterweise ist daher auch in (b) der Versuch\nder Kommunikation mit dem Team verboten. Das Verbot beginnt 90 Minuten vor dem vorhergesehenen Kickoff, wenn die Zuständigkeit der\nSchiedsrichter beginnt und beinhaltet die Zeit zwischen den Perioden,\nbis der Referee das Endergebnis verkündet."

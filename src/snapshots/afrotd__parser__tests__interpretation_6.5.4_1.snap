@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 5
+  - 4
+index: 1
+text: "B1 gibt ein gültiges oder ungültiges Fair Catch-Signal und berührt den Punt nicht, aber während der unberührte Ball im Spielfeld\nfrei ist, blockt er einen Gegner (a) im Spielfeld; (b) in der Endzone des\nReceivers."
+ruling: "(a) Wenn der Ball die neutrale Zone überquert\nund Team B in Ballbesitz ist, wenn der Down endet, wird das Receiving Team mit 10 Metern vom Postscrimmage Kick Enforcement Spot\nbestraft. (b) Safety. Die Regelung ist die gleiche bei einem erfolglosen\nFieldgoalversuch."

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 2
+  - 2
+title: Receiving Team
+text: "Geht ein Free Kick zwischen den Goallines ins Aus, gehört er zum Receiving Team an der entsprechenden Hash Mark. Geht der Free Kick hinter einer Goalline ins Aus, gehört er zu dem Team, das diese Goalline verteidigt (A.R. 6.2.2.I bis 6.2.2.IV)."
+interpretations: []

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 3
+  - 5
+index: 2
+text: "Nachdem er wegen einer blutenden oder nässenden Wunde behandelt wurde (A.R. 3.3.5.I), versucht A22 vor dem Snap wieder das\nSpielfeld zu betreten."
+ruling: "A22 muss für mindestens einen Down\naus dem Spiel bleiben. Er darf in jedem Fall nur dann zurückkommen,\nwenn er dazu die Erlaubnis des medizinischen Personals seines Teams\nhat."

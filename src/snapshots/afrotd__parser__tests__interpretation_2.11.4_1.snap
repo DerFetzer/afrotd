@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 11
+  - 4
+index: 1
+text: "Ein Punt rollt in der Nähe der Spieler A44 und B27 auf dem\nBoden. (a) A44 und B27 blocken sich gegenseitig. Der Ball prallt gegen\nB27’s Bein und wird dann von A55 an der B-35 recovert. (b) A44 blockt\nB27, der dadurch den Ball berührt, und der Ball wird von A55 auf der\nB-35 recovert."
+ruling: "(a) A’s Ball, 1. und 10 von der B-35. Der\nBall prallt gegen B27’s Bein, aber der Kontakt mit dem Ball wird nicht\nvon A44 verursacht. Keine erzwungene Berührung. (b) Es handelt sich\num eine erzwungene Berührung, denn B27’s Ballberührung wird durch\nA44’s Block erzwungen. B27’s Berührung wird ignoriert. Dadurch liegt\nein illegales Berühren eines Kicks durch A55 vor. B’s Ball, 1. und 10 von\nder B-35."

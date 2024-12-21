@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 5
+  - 1
+title: Wie erzielt
+text: "Es ist ein Safety, wenn:\n\ta) der Ball, ausgenommen durch einen unvollständigen Vorwärtspass, hinter einer Goalline im Aus dead wird oder im Besitz eines Spielers dead wird und sich der Ball in, über oder hinter der eigenen Goalline befindet oder durch die Regel dead wird und das Team, welches diese Goalline verteidigt, dafür verantwortlich ist, dass sich der Ball dort befindet (A.R. 6.3.1.IV, A.R. 7.2.4.I, A.R. 8.5.1.I, 8.5.1.II, 8.5.1.IV und 8.5.1.VI bis 8.5.1.VIII, A.R. 8.7.2.II und A.R. 9.4.1.VIII). Im Zweifel ist es ein Touchback, kein Safety.\n\tAusnahmen: Es ist kein Safety, wenn ein Spieler zwischen seiner 5-Meterlinie und seiner Goalline\n\t\t1. einen Pass oder einen Fumble abfängt oder einen gegnerischen Fumble oder einen gegnerischen Rückpass recovert oder einen Kick fängt oder recovert und\n\t\t2. durch seinen eigenen Schwung in seine Endzone getragen wird und\n\t\t3. der Ball hinter dieser Goalline bleibt und im Besitz seines Teams für dead erklärt wird. Das beinhaltet einen Fumble, der von der Endzone zuerst ins Spielfeld und dann ins Aus geht (Regel 7.2.4.b.1). Sind die Bedingungen 1 bis 3 erfüllt, gehört der Ball dem Team des Spielers an dem Punkt, an dem der Spieler Ballbesitz erlangt.\n\tb) eine angenommene Strafe für ein Foul den Ball auf oder hinter der Goalline des verursachenden Teams belässt (Ausnahmen: Regel 3.1.3.g.3 und 8.3.4.a) (A.R. 8.5.1.III und A.R. 10.2.2.VI)."
+interpretations: []

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 12
+  - 7
+title: Hash Marks
+text: "Die beiden Hash Marks sind 18,3 m von den Seitenlinien entfernt. Die Hash Marks und die kurzen Verlängerungen der Meterlinien sollen ca. 60 cm lang sein."
+interpretations: []

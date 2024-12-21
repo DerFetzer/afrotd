@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 4
+  - 1
+index: 11
+text: "Team A ist zum Kickoff bereit. Der Ball liegt auf einem Tee und\nder Referee hat den Ball freigegeben. Als der Kicker seinen Anlauf beginnt, rollt der Ball langsam vom Tee, während der Kicker seine Kickbewegung beginnt. Der Kicker führt die Kickbewegung fort und kickt den\nBall, bevor dieser vollständig vom Tee gefallen ist."
+ruling: "Kein Foul.\nDas ist weder ein Verstoß gegen Regel 9.4.4 noch gegen 9.2.1.a.2.a.\nDie Schiedsrichter sollten das Spiel unterbrechen und die Teams neu\naufstellen lassen. Wenn es die Wetterumstände erfordern, muss Team\nA einen Spieler bestimmen, der den Ball auf dem Tee festhält."

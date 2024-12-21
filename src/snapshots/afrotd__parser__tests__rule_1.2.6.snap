@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 2
+  - 6
+title: Pylone
+text: "Es sind 10x10x45 cm (einschließlich eines 5 cm großen Zwischenraumes zwischen unterem Ende und dem Boden) große Pylone erforderlich, um die Endzone zu kennzeichnen. Sie sollen aus rotem oder orangem, flexiblem Material beschaffen sein. Sie sollen an den Innenecken der acht Schnittpunkte der Seitenlinien mit den Goallines und den Endlinien aufgestellt werden. Die Pylone, die die Schnittpunkte der Endlinien und der verlängerten Hash Marks markieren, sollen ca. 1 m hinter der Endlinie aufgestellt werden."
+interpretations: []

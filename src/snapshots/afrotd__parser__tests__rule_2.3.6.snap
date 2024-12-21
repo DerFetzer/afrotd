@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 3
+  - 6
+title: Blockzone
+text: "\ta) Die Blockzone ist eine rechteckige Zone, die sich vom mittleren Lineman der Offense Formation fünf Meter seitlich und drei Meter längs in jede Richtung erstreckt (siehe Anhang A).\n\tb) Die Blockzone ist aufgehoben, sobald der Ball die Zone erstmals verlassen hat."
+interpretations: []

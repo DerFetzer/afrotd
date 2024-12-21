@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 3
+  - 9
+index: 3
+text: "Ein Team B-Spieler berührt in seiner Endzone den fliegenden\nScrimmage Kick und Team A recovert den Ball in der Endzone."
+ruling: Team A-Touchdown (Regeln 6.3.3 und 8.2.1.d).

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 1
+  - 3
+title: "Berühren, illegales Berühren und Recovern eines Free Kicks"
+text: "\ta) Kein Team A-Spieler darf einen Free Kick berühren, bis:\n\t\t1. der Ball einen Team B-Spieler berührt hat (Ausnahme: Regel 6.1.4 und 6.5.1.b); oder\n\t\t2. der Ball die vertikale Fläche über Team B’s Restraining Line durchbrochen hat und jenseits Team B’s Restraining Line verbleibt (Ausnahme: Regel 6.4.1) (A.R. 2.12.5.I); oder\n\t\t3. der Ball einen Spieler, den Boden, einen Schiedsrichter oder irgendetwas jenseits Team B’s Restraining Line berührt hat. Danach sind alle Team A-Spieler berechtigt, den Free Kick zu berühren, zu recovern oder zu fangen.\n\tb) Jede andere Berührung durch Team A ist ein illegales Berühren des Free Kicks. Dies ist eine Violation, die dem Receiving Team das Recht gibt, den Ball am Punkt der Violation zu übernehmen, wenn er dead ist.\n\tc) Wird eine Strafe für ein Live Ball Foul, das eines der Teams begangen hat, angenommen oder wenn sich Fouls ereignen, die sich aufheben, ist das Privileg der illegalen Berührung aufgehoben (A.R. 6.1.3.I).\n\td) Illegales Berühren in Team A’s Endzone wird ignoriert."
+interpretations: []

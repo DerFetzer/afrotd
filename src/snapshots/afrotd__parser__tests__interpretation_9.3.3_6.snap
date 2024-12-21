@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 3
+  - 3
+index: 6
+text: "A2 berührt mit seinen Händen den Rücken von B2, als sich\ndieser umdreht, um dem Block von A2 zu entgehen. A2 lässt seine\nHände auf B2’s Rücken, als dieser sich vorwärtsbewegt, um den Passer\nzu erreichen."
+ruling: Legaler Block.

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 3
+title: Targeting und Forcible Contact mit der Helmoberseite
+text: "Kein Spieler darf einen Gegner durch ein Targeting mit der Helmoberseite angreifen und einen Forcible Contact herstellen. Die Helmoberseite ist der obere Teil des Helms, spezifiziert durch den kreisförmigen Bereich um den Scheitelpunkt (Top) des Helms mit einem Radius von 15 cm. Das Foul erfordert, dass wenigstens ein Indikator des Targetings (siehe Anmerkung 1 unter 9.1.4) vorhanden sein muss. Im Zweifel ist der Kontakt ein Foul (A.R. 9.1.3.I)."
+interpretations: []

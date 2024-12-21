@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 30
+  - 4
+index: 1
+text: "A21 fängt einen Vorwärtspass, während er auf dem Boden kniet.\nDer Passer wird während des Passes gerought."
+ruling: "A21’s Fangen startet ein Laufspiel, welches sofort endet. 15-Meterstrafe vom Ende des Laufes, First Down für Team A."

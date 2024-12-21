@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 2
+  - 6
+title: Disqualifizierte Spieler und Coaches
+text: "\ta) Jeder Coach, Spieler oder jedes identifizierte Teammitglied in Ausrüstung, der zwei unsportliche Verhalten Fouls in einem Spiel begeht, wird disqualifiziert.\n\tb) Wird eine Person, die den Regeln unterliegt, disqualifiziert (2.27.12) muss diese den Platz innerhalb einer angemessenen Zeitspanne verlassen. Dazu gehört, dass sie sich an einer Stelle aufhalten muss, wo sie auf das Spielgeschehen keinen Einfluss nehmen kann und weder von den Spielbeteiligten noch von den Zuschauern gesehen bzw. gehört werden kann.\n\tc) Ein Head Coach, der disqualifiziert wurde, kann einen neuen Head Coach benennen."
+interpretations: []

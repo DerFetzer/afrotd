@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 5
+  - 1
+  - 2
+title: Line to Gain
+text: "\ta) Die Line to Gain für eine Serie wird in einer Entfernung von 10 Metern zum vordersten Punkt des Balles festgelegt. Befindet sich die Line to Gain in der gegnerischen Endzone, ist dessen Goalline die Line to Gain.\n\tb) Die Line to Gain ist festgelegt, wenn der Ball vor einem First Down einer neuen Serie für spielbereit erklärt wurde."
+interpretations: []

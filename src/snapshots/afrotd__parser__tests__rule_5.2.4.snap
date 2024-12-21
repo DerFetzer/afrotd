@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 5
+  - 2
+  - 4
+title: Foul nach dem Wechsel des Team Ballbesitzes
+text: "Wird eine Strafe für ein Foul akzeptiert, das sich während eines Downs nach dem Wechsel des Team Ballbesitzes ereignet, so gehört der Ball zu dem Team, in dessen Besitz er sich befand, als sich das Foul ereignete. Die Nummer des Downs und die zurückzulegende Distanz für jede solche Strafe, ist ein First Down mit einer neuen Line to Gain (Ausnahme: Regel 10.2.5.a)."
+interpretations: []

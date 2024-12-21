@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 2.4.3.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Beim dritten Down blockt B1 den Scrimmage Kick von Team A ab und
+            der Ball fliegt hoch in die Luft und überquert nicht die neutrale
+            Zone. Der Ball berührt nicht den Boden. A1 springt, erreicht den
+            Ball im Flug und kommt zuerst im Seitenaus auf den Boden auf.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team B’s Ball an dem Punkt, an dem der Ball die Seitenlinie
+                überquert hat. First Down und 10 Meter (Regel 6.3.7).
+            </p>
+        </details>
+    </div>
+</article>

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 2
+  - 2
+index: 2
+text: "Ein Free Kick von der A-35 geht, unberührt von Team B, zwischen den Goallines ins Aus und Team A foult, nachdem der Ball ins\nAus ging."
+ruling: "Team B kann wählen, ob Team A nach einer 5Meterstrafe, gefolgt von einer 15-Meterstrafe noch einmal kickt; oder ob\nTeam B den Ball entweder am Inbounds Spot von der 50-Meterlinie oder\nam Inbounds Spot 20 Meter jenseits wo der Ball ins Aus ging, selbst ins\nSpiel bringen will."

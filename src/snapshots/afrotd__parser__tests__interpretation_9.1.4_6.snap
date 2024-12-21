@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 4
+index: 6
+text: "Ballträger A33 hat einige Meter Raumgewinn erzielt, als er von\nzwei Defendern ergriffen wird. A33’s Forward Progress wurde gestoppt\nund er wurde zurückgedrängt, aber der Ball wurde noch nicht für dead\nerklärt. Linebacker B55 beugt sich vor und wirft sich vorwärts. Dabei\nrammt er seinen Unterarm gegen die Seite von A33’s Helm."
+ruling: "Foul von B55 für Targeting und Forcible Contact gegen den Kopf\neines verteidigungslosen Spielers. 15-Meterstrafe. B55 wird disqualifiziert. A33 ist ein verteidigungsloser Spieler, da er sich im Griff seiner Gegner befindet und sein Forward Progress gestoppt wurde (Regel\n2.27.14)."

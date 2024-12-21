@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 4
+  - 1
+index: 3
+text: "Während ein Kick jenseits der neutralen Zone fliegt, steht oder\nläuft A1 zwischen B1 und dem fliegenden Kick. (a) A1 wird vom Ball\nberührt, während B1 in Position ist, den Kick zu fangen oder (b) B1\nprallt gegen A1 bei dem Versuch, den Kick zu fangen."
+ruling: "(a)\nund (b) Behinderung beim Fangen eines Kicks – Strafe: 15 Meter vom\nPunkt des Fouls."

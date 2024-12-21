@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 27
+  - 3
+title: Kicker und Holder
+text: "\ta) Der Kicker ist jeder Spieler, der gemäß den Regeln einen Punt, Drop Kick oder Place Kick durchführt. Er bleibt solange der Kicker, bis er genügend Zeit hat, seine Balance wiederzuerlangen.\n\tb) Der Holder ist ein Spieler, der den Ball auf dem Boden oder auf einem Kicking Tee kontrolliert. Während eines Scrimmage Kick-Spieles bleibt er solange ein Holder, bis sich kein Spieler in Position befindet, einen Kick auszuführen oder, falls der Ball gekickt wurde, bis der Kicker ausreichend Zeit hatte, seine Balance wiederzuerlangen."
+interpretations: []

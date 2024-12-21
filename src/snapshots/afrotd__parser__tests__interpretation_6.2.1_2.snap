@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 2
+  - 1
+index: 2
+text: "Team A begeht ein Offside oder einen Auswechselfehler und der\nKickoff von der A-35 geht ins Aus, nachdem er von einem Team BSpieler berührt wurde."
+ruling: "Team B kann wählen, entweder für\ndas Offside oder den Auswechselfehler den Kickoff durch Team A nach\neiner 5-Meterstrafe vom Previous Spot wiederholen zu lassen oder den\nBall am Inbounds Spot, 5 Meter von dort, wo der Ball ins Aus ging, zu\nsnappen (Regel 6.1.8)."

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 1
+  - 4
+index: 9
+text: "Team A stellt sich mit sechs Spielern an der Scrimmage Line\nauf. Fünf von ihnen tragen Trikots, die von 50 bis 79 nummeriert sind.\nEin siebter Spieler, A88, befindet sich in einer Position als End, hat sich\njedoch so aufgestellt, dass seine Füße und seine Schultern sich deutlich in einem 45-Grad-Winkel zur Scrimmage Line befindet. Die anderen\nvier Spieler befinden sich eindeutig im Backfield. Der Ball wird gesnappt, während sich Team A in dieser Aufstellung befindet."
+ruling: "Live\nBall Foul, illegale Formation. Jeder Team A-Spieler muss entweder ein\nLineman oder ein Back sein. A88 ist keines von beiden."

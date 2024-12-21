@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 2
+index: 6
+text: "Im dritten Down gegen Ende der ersten Halbzeit fängt A1, der\nsich 7 Meter hinter dem Snapper aufgestellt hat, den Snap und wirft den\nBall sofort vorwärts auf den Boden."
+ruling: Legales Spiel.

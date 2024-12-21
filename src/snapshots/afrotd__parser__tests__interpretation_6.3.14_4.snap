@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 3
+  - 14
+index: 4
+text: "4. und 4 von der B-20. Team A hat sich zu einem Fieldgoal-\nversuch aufgestellt. Team A hat fünf Spieler im Backfield. Defense Linemen B55, B57 und B78 stehen Schulter an Schulter nebeneinander. B57 steht Guard A66 direkt gegenüber, während sich B55 und B78\nrechts bzw. links an den Lücken neben A66’s Schultern befinden. Nach\ndem Snap bewegen sich alle drei vorwärts. Alle drei berühren hauptsächlich A66. Der Holder nimmt den Snap, steht auf und wirft einen\nvollständigen Pass auf den berechtigten A88, der an der B-10 getackelt\nwird."
+ruling: "Foul von Team A, illegale Formation. Foul von Team\nB, Drei-gegen-Einen (Offense Lineman). Die Fouls heben sich auf und\nder Down wird wiederholt."

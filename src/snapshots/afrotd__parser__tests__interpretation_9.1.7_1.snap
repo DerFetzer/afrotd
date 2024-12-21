@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 7
+index: 1
+text: "Nachdem der Ball dead wird, wirft sich ein Spieler auf einen\nliegenden Gegner, der nicht in Ballbesitz ist."
+ruling: "Persönliches\nFoul. Strafe – 15 Meter vom Succeeding Spot und First Down, wenn\ndas Foul durch einen Team B-Spieler verursacht wurde und nicht im\nKonflikt mit anderen Regeln steht. „Nachspringen“ trifft auf den Ballträger oder jeden anderen liegenden Gegner zu, wenn der Ball dead wird."

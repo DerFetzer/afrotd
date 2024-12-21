@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 2
+  - 1
+title: Kicking Team
+text: "Es ist ein Foul, wenn ein Free Kick zwischen den Goallines ins Aus geht, ohne vorher von einem Team B-Spieler, der sich inbounds befindet, berührt worden zu sein (A.R. 6.2.1.I, 6.2.1.II und 4.2.1.III). Strafe: Live Ball Foul. 5 Meter vom Previous Spot oder 5 Meter von dem Punkt, an dem der anschließende Dead Ball zu Team B gehört oder das Receiving Team kann den Ball 30 Meter jenseits Team A’s Restraining Line am Inbounds Spot ins Spiel bringen [S19]."
+interpretations: []

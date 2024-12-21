@@ -1,0 +1,43 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.4.4.V
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            2. und 10 von der B-30 bei laufender Game Clock. Team A liegt in
+            den Punkten zurück. Guard A66 befindet sich in einem
+            Dreipunktstand, verpasst den Snap Count, stürmt vorwärts und
+            verursacht dadurch einen Fehlstart. B77 verursacht dann ein
+            persönliches Dead Ball Foul oder ein unsportliches Verhalten Dead
+            Ball Foul. Die Game Clock wird bei 8 Sekunden verbleibender
+            Spielzeit angehalten. Das ereignet sich (a) in der vierten
+            Spielperiode oder (b) in der zweiten Spielperiode.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                (a) Das Spiel ist vorüber, wenn Team B den 10-SekundenAbzug in
+                Zusammenhang mit dem Fehlstart akzeptiert. Dadurch wird die
+                Strafe für B77’s Dead Ball Foul nicht durchgeführt. (b) Die
+                Halbzeit ist vorüber, wenn Team B den 10-Sekunden-Abzug in
+                Zusammenhang mit dem Fehlstart akzeptiert. Durch den
+                10-Sekunden-Abzug ereignet sich Team B‘s Foul per Definition,
+                nachdem die erste Halbzeit vorüber ist und daher wird die
+                Strafe übertragen. In beiden Fällen (a) und (b) kann Team A den
+                10-Sekunden-Abzug vermeiden, in dem es ein verbleibendes
+                Team-Timeout nimmt. In diesem Fall würde auch die Strafe für
+                das Team B Foul durchgeführt und Team A hätte einen 1. und 10
+                von der B-20.
+            </p>
+        </details>
+    </div>
+</article>

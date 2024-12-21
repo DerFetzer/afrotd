@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 19
+  - 4
+title: Fangbarer Vorwärtspass
+text: "Ein fangbarer Vorwärtspass ist ein unberührter legaler Vorwärtspass jenseits der neutralen Zone zu einem berechtigten Spieler, der eine geeignete Möglichkeit hat, den Ball zu fangen. Im Zweifel ist ein legaler Vorwärtspass fangbar."
+interpretations: []

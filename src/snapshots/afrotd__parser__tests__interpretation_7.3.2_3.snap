@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 2
+index: 3
+text: "Beim dritten Down, nach dem Zwei-Minuten-Timeout, mufft A4,\nder vorgesehene Holder für ein Fieldgoal, den Snap und er oder der\nvorgesehene Kicker A3 recovert den Ball und wirft ihn sofort zu Boden."
+ruling: "Illegaler Vorwärtspass wegen absichtlichen zu Boden werfen eines Balls, um Zeit einzusparen. Strafe – Downverlust am Punkt\ndes Fouls. Da sich dieses Foul nach dem Zwei-Minuten-Timeout ereignet, fällt es unter die 10-Sekunden-Abzugs-Regel (Regeln 3.4.4)."

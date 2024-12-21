@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 2
+  - 2
+index: 13
+text: "Team B fängt einen legalen Vorwärtspass ab und der Spieler,\nder den Pass warf, wird während des Zurücktragens gefoult."
+ruling: "Team B’s Ball, First Down und 10 nach der Strafdurchführung (Regeln\n2.27.5, 5.2.4 und 9.1)."

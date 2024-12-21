@@ -1,0 +1,35 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.5.2.IV
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Team A befindet sich mit elf Spielern im Huddle. A81 glaubt
+            irrtümlich, er wäre ausgewechselt worden und läuft zu seiner
+            Teamzone. Er wird sofort auf das Feld zurückgeschickt und nimmt
+            eine Position an der Scrimmage Line in der Nähe seiner Seitenlinie
+            ein. Das gesamte Team hatte vor dem Snap für eine Sekunde still
+            gestanden und es wurde kein Schiedsrichter-Timeout genommen.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Dead Ball Foul. Ein Spieler verliert seinen Status als Spieler,
+                wenn er seine Teamzone betritt, während der Ball dead ist und
+                muss sich an die Auswechselregeln halten. Strafe – 5 Meter vom
+                Succeeding Spot oder 15 Meter vom Succeeding Spot, wenn
+                entschieden wird, dass es sich um einen Verstoß gegen Regel
+                9.2.2.b handelt (Regeln 3.5.2.d und 9.2.2.b).
+            </p>
+        </details>
+    </div>
+</article>

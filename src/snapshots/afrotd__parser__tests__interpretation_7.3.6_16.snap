@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 6
+index: 16
+text: "Defender B21 befindet sich in der Nähe der Seitenlinie in der\nLuft, als er einen legalen Vorwärtspass erreicht und unter Kontrolle hat.\nEr landet mit beiden Füßen inbounds und fällt zu Boden. Als B21 in\ndie Luft sprang, befand sich seine linke Ferse im Aus. Im Sprungvorgang verließ seine Ferse eher den Boden als die Zehen."
+ruling: "Unvollständiger Vorwärtspass, da B21 durch die Berührung seiner Ferse im Aus als „ein Spieler im Aus“ betrachtet wird. Er bleibt so lange ein\n„im Aus befindlicher Spieler“, bis er den Boden inbounds berührt, ohne gleichzeitig im Aus zu sein. Befinden sich die Ferse oder die Zehen\nim Aus, wenn ein Spieler beim Sprung mit einer durchgehenden FerseZeh- oder Zeh-Ferse-Bewegung vom Boden abhebt, befindet sich der\nSpieler im Aus, solange er sich nicht wieder inbounds etabliert."

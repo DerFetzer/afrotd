@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 1
+  - 2
+title: Zweite und vierte Spielperiode
+text: "Während der ersten und der zweiten sowie während der dritten und der vierten Spielperiode müssen die Teams die gegenüberliegenden Endzonen verteidigen.\n\ta) Der Ball muss exakt an den Punkt verlegt werden, der in Relation zu den Goallines und den Seitenlinien, mit seiner Lage am Ende der vorherigen Periode übereinstimmt.\n\tb) Ballbesitz, Nummer des Downs und die Distanz zum nächsten First Down bleiben bestehen."
+interpretations: []

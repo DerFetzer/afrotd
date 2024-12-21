@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 26
+  - 1
+title: Tackling
+text: Tackling ist das Greifen oder Umfassen eines Gegners mit der Hand/Händen oder dem Arm/Armen.
+interpretations: []

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 3
+  - 1
+index: 3
+text: "Team A fumbelt oder der Ball ist nach einem Rückpass frei.\nMehrere Spieler springen auf den Ball, wodurch ein Knäuel aufeinander liegender Spieler entsteht."
+ruling: "Der oder die überwachenden\nSchiedsrichter müssen die Game Clock anhalten und der 40-SekundenCountdown beginnt. Nach genauer Kenntnis, werden Ball recovert hat,\nmuss der Referee (a) wenn Team A recoverte, in Spielrichtung zeigen\nund die Game Clock starten (wenn kein First Down erreicht wurde) oder\n(b) wenn Team B recoverte, in die entsprechende Spielrichtung zeigen\nund die Game Clock startet mit dem Snap."

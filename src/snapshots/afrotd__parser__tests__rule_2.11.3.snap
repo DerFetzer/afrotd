@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 11
+  - 3
+title: Schlagen
+text: "Schlagen des Balles ist das absichtliche Wegschlagen oder die absichtliche Richtungsänderung des Balles mit der Hand, den Händen, dem Arm oder den Armen. Im Zweifel wurde der Ball eher zufällig berührt als geschlagen. Schlagen des Balles ändert nicht dessen Status."
+interpretations: []

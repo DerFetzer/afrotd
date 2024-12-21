@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 7
+  - 2
+index: 1
+text: "Ballträger A1, der auf Team B’s Goalline zuläuft, fumbelt den Ball,\nals ihm B1 den Ball aus seinen Händen schlägt oder ihn von hinten tackelt. In jedem Fall fumbelt A1 kurz vor der Goalline und der Ball geht in\nTeam B’s Endzone, wo er von Team B recovert wird."
+ruling: "Touchback. Der Antrieb des Balles wird dem Fumble von Team A zugerechnet\n(Regel 8.6.1.a)."

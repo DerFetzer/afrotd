@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 29
+  - 2
+title: Play Clock
+text: "Sind sichtbare Play Clocks vorhanden, sollen sich diese an jedem Ende des Platzes (Spielortes) befinden. Die Play Clock muss in der Lage sein, sowohl von 40 Sekunden als auch von 25 Sekunden herunterzuzählen. Sie sollte automatisch auf 40 Sekunden zurückgesetzt werden und sofort starten, nachdem sie vom Bediener der Play Clock zurückgesetzt wurde. Der Bediener der Play Clock muss die 40-Sekunden-Play Clock stets innerhalb einer Sekunde starten, nachdem ein Schiedsrichter angezeigt hat, dass der Ball während eines Downs dead wurde."
+interpretations: []

@@ -1,0 +1,29 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 7.3.6.VIII
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Während sich der berechtigte Receiver A89 inbounds in der Luft
+            befindet, erreicht er einen Vorwärtspass und leitet diesen weiter
+            an (a) den berechtigten A80, der den Pass fängt oder (b) B27, der
+            den Pass abfängt.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Legales Spiel in beiden Fällen. A89 hat einen Vorwärtspass
+                weggeschlagen (Regeln 2.4.3, 2.11.3 und 9.4.1.a).
+            </p>
+        </details>
+    </div>
+</article>

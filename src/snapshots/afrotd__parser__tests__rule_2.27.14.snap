@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 27
+  - 14
+title: Verteidigungsloser Spieler
+text: "Ein verteidigungsloser Spieler ist ein Spieler, der durch seine körperliche Position und dem Fokus seiner Konzentration besonders anfällig für Verletzungen ist. Im Zweifel ist ein Spieler verteidigungslos. Beispiele für verteidigungslose Spieler sind (diese Aufzählung ist nicht abschließend):\n\ta) ein Spieler, der gerade einen Pass wirft oder gerade geworfen hat. Dies gilt für jeden Offense-Spieler, der sich in einer stationären oder nahezu stationären Wurfhaltung für einen Pass mit Fokus downfield befindet;\n\tb) ein Receiver, der versucht einen Vorwärtspass zu fangen oder der sich in einer Position zum Fangen eines Rückpasses befindet, oder ein Receiver, der einen Pass gefangen hat und keine Zeit hatte, sich selbst zu schützen oder der noch nicht eindeutig zu einem Ballträger wurde;\n\tc) ein Kicker im Moment oder unmittelbar nach dem Kicken eines Balles oder während des Kicks oder des Returns;\n\td) ein Kick Returner, der versucht, einen Kick zu fangen oder zu recovern oder ein Kick Returner, der das Fangen oder Recovern eines Kicks vervollständigt hat und keine Zeit hatte, sich selbst zu schützen oder der noch nicht eindeutig zu einem Ballträger wurde;\n\te) ein Spieler, der sich auf dem Boden befindet;\n\tf) ein Spieler, der offensichtlich nicht am Spielgeschehen teilnimmt;\n\tg) ein Spieler, der einen Block von der Seite erhält, auf die er sich nicht konzentriert (Blind Side Block);\n\th) ein Ballträger, der sich bereits im Griff eines oder mehrerer Gegenspieler befindet und dessen Forward Progress gestoppt wurde;\n\ti) ein Quarterback, der nach einem Ballbesitzwechsel nicht am Spielgeschehen teilnimmt;\n\tj) ein Ballträger, der offensichtlich keinen weiteren Raumgewinn erzielen will und mit den Füßen voran auf dem Boden rutscht."
+interpretations: []

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 11
+index: 1
+text: "Nach dem Zwei-Minuten-Timeout wirft Quarterback A10, der\nsich innerhalb der Tackle Box befindet, einen Verzweiflungspass, um\neinen Raumverlust zu verhindern. Der Pass wird unvollständig, nachdem er zuvor vom unberechtigten A58 berührt wurde, als dieser versuchte, den Pass zu fangen."
+ruling: "Foul wegen absichtlichem Wegwerfen des Balles. Keine illegale Berührung des Passes, da dieser illegal war. Strafe – Downverlust am Punkt des Passwurfes. Die Game\nClock startet mit dem Snap (Regeln 3.3.2.d.4 und 7.3.2.h). Da sich das\nFoul nach dem Zwei-Minuten-Timeout ereignet, fällt es unter die 10-Sekunden-Abzugs-Regel 3.4.4. Falls die Spielzeit in dieser Spielperiode\nausläuft, wird die Spielperiode nicht verlängert."

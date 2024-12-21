@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 6
+  - 1
+title: Absichtliches Advancen eines Dead Balls
+text: "Das absichtliche Advancen eines Dead Balls ist der Versuch eines Spielers, den Ball noch weiter vorwärts zu bewegen, nachdem ein Teil seines Körpers, ausgenommen seiner Hände oder Füße, den Boden berührt hat oder nachdem der Ball regelgemäß für dead erklärt wurde (Ausnahme: Regel 4.1.3.bAusnahme)."
+interpretations: []

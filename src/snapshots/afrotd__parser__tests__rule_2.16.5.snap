@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 16
+  - 5
+title: Free Kick
+text: "\ta) Ein Free Kick ist ein Kick durch einen Spieler des ballbesitzenden Teams, der gemäß den Bedingungen der Regeln 4.1.4, 6.1.1 und 6.1.2 durchgeführt wird.\n\tb) Ein Free Kick nach einem Safety kann ein Punt, ein Drop Kick oder ein Place Kick sein."
+interpretations: []

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 5
+  - 1
+index: 1
+text: "A10 erreicht den Snap in seiner eigenen Endzone und wird zu\nBoden gebracht, wobei sich der Ball auf seiner Goalline und mit seinem\nvordersten Punkt im Spielfeld befindet."
+ruling: "Safety, weil ein Teil\ndes Dead Balls sich auf der Goalline des Ballträgers befindet."

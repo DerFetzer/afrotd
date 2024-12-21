@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 3
+  - 9
+index: 2
+text: "Ein Punt geht in Team B’s Endzone und wird jenseits der neutralen Zone nicht von Team B berührt. Team B begeht ein persönliches\nFoul, nachdem der Ball den Boden in der Endzone berührt."
+ruling: "Touchback. Dead Ball Foul nach dem Touchback. Team B’s Ball, First\nDown und 10 von der B-10 nach der Durchführung der Strafe von der\nB-20."

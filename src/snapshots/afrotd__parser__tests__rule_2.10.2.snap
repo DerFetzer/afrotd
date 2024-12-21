@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 10
+  - 2
+title: Persönliches Foul
+text: "Ein persönliches Foul ist ein Foul, welches einen illegalen physischen Kontakt beinhaltet, durch den die Sicherheit eines anderen Spielers gefährdet ist."
+interpretations: []

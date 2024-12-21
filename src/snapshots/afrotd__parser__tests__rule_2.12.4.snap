@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 12
+  - 4
+title: Begrenzungslinien
+text: "Die Begrenzungslinien sind die Seitenlinien und die Endlinien. Die Zone, die durch die Begrenzungslinien eingeschlossen ist, wird mit „inbounds“ bezeichnet und die Zone, die die Begrenzungslinien umgibt, einschließlich der Begrenzungslinien, wird mit „im Aus“ bezeichnet."
+interpretations: []

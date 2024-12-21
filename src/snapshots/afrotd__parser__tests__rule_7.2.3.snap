@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 2
+  - 3
+title: Nachdem der Ball gesnappt wurde
+text: "Kein Offense Lineman darf einen von-Hand-zu-Hand-Snap empfangen. Strafe: Live Ball Foul, 5 Meter vom Previous Spot [S19]."
+interpretations: []

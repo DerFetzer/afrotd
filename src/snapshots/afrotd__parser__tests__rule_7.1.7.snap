@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 1
+  - 7
+title: Geplanter freier Ball
+text: "Ein Team A-Spieler darf in der Nähe des Snappers keinen geplanten freien Ball advancen. Strafe: 5 Meter vom Previous Spot und Downverlust [S19 und S9]."
+interpretations: []

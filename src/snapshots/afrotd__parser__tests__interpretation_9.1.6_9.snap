@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 6
+index: 9
+text: "1. und 10 von der A-45. Guard A66 befindet sich neben dem\nSnapper. Unmittelbar nach dem Snap blockt A66 (a) Nose Guard B55\nan der A-46 oder (b) Linebacker B33 an der A-48. In beiden Fällen\nerfolgt der Block unter der Gürtellinie an der Seite des Gegners."
+ruling: "(a) legaler Block. A66 hat die Tackle Box zwar verlassen, aber ein\nBlock, der einen Meter jenseits der neutralen Zone initiiert wird, wird als\nBlock innerhalb der Tackle Box gewertet. (b) Foul, illegaler tiefer Block.\nIn diesem Fall hat A66 die Tackle Box verlassen und ist in die zweite\nEbene gegangen, um den Block auszuführen. Für einen legalen Block\nmüsste er über der Gürtellinie angesetzt werden."

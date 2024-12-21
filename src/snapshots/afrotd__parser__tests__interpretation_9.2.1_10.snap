@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 2
+  - 1
+index: 10
+text: "Nachdem der Ballträger getackelt wurde, beteiligen sich A55\nund B73 an einem Gerangel und die Schiedsrichter müssen sie trennen. Es werden Flaggen geworfen. Sowohl A55 als auch B73 werden\nmit einem persönlichen Dead Ball Foul belastet."
+ruling: "Die Dead\nBall Fouls gleichen sich aus. Diese persönlichen Dead Ball Fouls werden gleichzeitig als unsportliches Verhalten angesehen. Das führt dazu, dass ein weiteres Foul für unsportliches Verhalten durch einen der\nbeiden Spieler die automatische Disqualifikation des Betreffenden bedeutet. Der Referee soll ansagen, dass es sich jeweils entweder um\ndas erste oder das zweite Unsportliche Verhalten Foul von A55 und /\noder B73 handelt."

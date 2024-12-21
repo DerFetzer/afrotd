@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 1
+  - 4
+index: 5
+text: "A33 nimmt, als Ausnahme zur vorgeschriebenen Nummerierung,\neine Position an der Scrimmage Line ein und steht neben End A88. Vor\ndem Snap shiftet A88 zu einer Backfield-Position, wobei der Flanker\nauf der entgegengesetzten Seite der Formation auf eine End-Position\nan der Line shiftet."
+ruling: "Illegale Formation. Da A33 nun ein End\nist, befindet er sich beim Snap in einer illegalen Position (Live Ball Foul).\nStrafe – 5 Meter, Previous Spot."

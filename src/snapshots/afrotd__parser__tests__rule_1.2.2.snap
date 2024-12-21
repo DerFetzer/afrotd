@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 2
+  - 2
+title: Abmessungen
+text: Die Abmessungen werden von den Innenseiten der Feldmarkierungen vorgenommen. Die gesamte Breite der Goalline gehört zur Endzone.
+interpretations: []

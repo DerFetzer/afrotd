@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 2
+  - 2
+index: 3
+text: "A1 verlässt das Spielfeld während eines Downs. Team A stellt\nsich mit 10 Spielern im Huddle auf. Ersatzspieler A12 betritt das Feld\nund A2 täuscht vor, es zu verlassen, stellt sich aber in der Nähe der\nSeitenlinie auf, um dort einen „Hide out“- Pass zu erhalten."
+ruling: "Strafe – 15 Meter vom Previous Spot. Dies ist ein vorgetäuschtes Auswechseln, um den Gegner zu verwirren."

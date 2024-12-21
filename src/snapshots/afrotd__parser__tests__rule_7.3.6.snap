@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 6
+title: Vollständiger Pass
+text: "Jeder Vorwärtspass ist vollständig, wenn er von einem Spieler des passenden Teams, der sich inbounds befindet, gefangen wird. Der Ball bleibt im Spiel, es sei denn, der Vorwärtspass wird in der gegnerischen Endzone vollständig oder gleichzeitig von gegnerischen Spielern gefangen. Wenn ein Vorwärtspass gleichzeitig von gegnerischen Spielern inbounds gefangen wird, wird der Ball dead und gehört dem passenden Team (Regel 2.4.3 und 2.4.4) (A.R 2.4.3.III und 7.3.6.I bis 7.3.6.VIII)."
+interpretations: []

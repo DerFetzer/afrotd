@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 5
+  - 2
+  - 7
+index: 6
+text: "Ballträger A22 wird an der B-5 von B44 hart getackelt. Daraus\nresultiert ein 1. und Goal an der B-5. Nachdem der Ball dead wurde,\nschlug A22 B44 gegen den Helm."
+ruling: "15-Meterstrafe gegen\nTeam A; A22 wird disqualifiziert. Nach der Strafdurchführung ist es A’s\nBall, 1. und 10 von der B-20."

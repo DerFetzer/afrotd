@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 2
+index: 12
+text: "3. und 10 von der A-30. QB A11 geht zurück, um einen Vorwärtspass zu werfen. Kurz bevor er an der A-20 getackelt werden kann,\nwirft er den Ball vorwärts in eine Zone, in der sich kein berechtigter Receiver befindet. Tackle A77 fängt an der A-28 den Vorwärtspass und\nwird an A’s 32 getackelt."
+ruling: "Illegaler Vorwärtspass, Downverlust am Punkt des Passes, 4. und 20 von der A-20. Das ist ein absichtliches Wegwerfen des Balles, weil A11 den Ball in eine Zone warf, in der\nsich kein berechtigter Team A-Receiver befand. Es ist hier zu beachten,\ndass es keine illegale Berührung durch A77 ist, weil sich die Regel bezüglich illegalen Berührens nur auf einen legalen Vorwärtspass bezieht\n(Regel 7.3.11)."

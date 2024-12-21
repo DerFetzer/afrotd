@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 7
+index: 1
+text: "Ein Spieler berührt einen legalen Vorwärtspass, während er (a)\neine Begrenzungslinie berührt; (b) sich in der Luft befindet, nachdem\ner zuvor im Aus war."
+ruling: "In beiden Fällen ist der Ball im Aus,\nder Pass ist unvollständig und der Down zählt. Der Spieler verliert seine\nBerechtigung, wenn er ins Aus geht (Regeln 2.27.15, 4.2.3.a und 7.3.3)."

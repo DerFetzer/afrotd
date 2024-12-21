@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 16
+index: 1
+text: "A1 fängt einen langen Snap und will von hinter seiner Scrimmage Line punten, trifft aber nicht den Ball, der zu Boden fällt. Danach\nwird A1 von B1 berührt."
+ruling: "Kein Foul. Team A-Fumble. Es gibt\nkeinen Kicker, bis der Ball tatsächlich gekickt wurde."

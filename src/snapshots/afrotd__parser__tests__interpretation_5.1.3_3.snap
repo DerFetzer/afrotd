@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 5
+  - 1
+  - 3
+index: 3
+text: "A2, der sich in der Luft befindet, erreicht an der A-35 einen legalen Vorwärtspass. Als A2 den Ball erreicht, wird er von B1 berührt\nund kommt zuerst an der A-33 mit dem Ball in seinen Händen auf dem\nBoden auf, wo der Ball für dead erklärt wird."
+ruling: "Team A’s Ball\nan der A-35. Das ist der Punkt des Forward Progress."

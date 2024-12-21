@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 4
+  - 10
+title: Verbotene Signaleinrichtungen
+text: "Spieler dürfen nicht mit einer elektronischen, mechanischen oder einer anderen Signaleinrichtung zum Zweck der Kommunikation mit irgendeiner Informationsquelle ausgerüstet sein (Ausnahme: 1. eine medizinisch verordnete Hörhilfe zur Klangverstärkung für hörgeschädigte Spieler, 2. Datenübertragungsmöglichkeiten, die nur der Sicherheit und Gesundheit von Spielteilnehmern dienen). Strafe: Wird als Dead Ball Foul durchgeführt, 15 Meter vom Succeeding Spot. Der Spieler ist zu disqualifizieren [S7, S27 und S47]."
+interpretations: []

@@ -1,0 +1,28 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 10.2.2.III
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            A55 clippt in Team B’s Endzone, während ein Team A-Scrimmage Kick
+            im Spielfeld B44 berührt.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Strafe – 15 Meter. Die Strafe wird entweder vom Previous Spot
+                (Team A behält den Ball) oder von dem Punkt, an dem der
+                anschließende Dead Ball zu Team B gehört, durchgeführt.
+            </p>
+        </details>
+    </div>
+</article>

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 3
+  - 4
+index: 3
+text: "Während eines Scrimmage Kicks kommt der unberührte Ball an\nder B-3 zur Ruhe, als A80 von B22 gegen den Ball geblockt wird, wodurch dieser in die Endzone getrieben wird und dort den Boden berührt."
+ruling: "Der Ball wird dead, wenn er den Boden in der Endzone berührt. Touchback – Berührung durch A80 wird ignoriert (Regel 2.11.4).\nGemäß der Regel hat keines der Teams den gekickten Ball berührt (Regel 8.6.1.b)."

@@ -1,0 +1,28 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 7.3.8.IX
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            A88 und B2 laufen dicht nebeneinander her, bevor der Ball geworfen
+            wird. Einer von beiden oder beide fallen, als sich ihre Füße
+            berühren und verheddern. Keiner der beiden stellte dem anderen
+            absichtlich ein Bein.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Kein Foul.
+            </p>
+        </details>
+    </div>
+</article>

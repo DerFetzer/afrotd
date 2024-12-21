@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 3
+  - 5
+title: Blocken in den Rücken
+text: "Ein Block in den Rücken ist illegal (außer gegen den Runner) (A.R. 9.3.3.I, 9.3.3.VII und 9.3.3.IX und 10.2.2.XII).\n\tAusnahmen:\n\t\t1. Offense Spieler, die sich beim Snap an der Scrimmage Line innerhalb der Blockzone (Regel 2.3.6) befinden, dürfen in der Blockzone legal in den Rücken blocken, abhängig von den folgenden Beschränkungen:\n\t\t\ta) Ein Spieler an der Scrimmage Line innerhalb der Blockzone darf diese nicht verlassen und wieder zurückkehren, um legal in den Rücken zu blocken.\n\t\t\tb) Die Blockzone existiert solange, bis der Ball die Zone erstmals verlässt (Regel 2.3.6).\n\t\t2. Wenn ein Spieler seinen Rücken einem möglichen Blocker zudreht, nachdem dieser seine Blockabsicht durch seine Richtung oder seine Bewegung angezeigt hat.\n\t\t3. Wenn ein Spieler versucht, einen Runner zu erreichen oder legal versucht, einen Fumble, einen Rückpass, einen Kick oder einen berührten Vorwärtspass zu fangen oder zu recovern, darf er einen Gegner in dessen Rücken über der Gürtellinie wegdrücken (Regel 9.1.5 Ausnahme 3).\n\t\t4. Wenn ein Gegner dem Blocker seinen Rücken wie unter Regel 9.3.3.a.1.b zudreht.\n\t\t5. Wenn ein berechtigter Spieler hinter der neutralen Zone einen Gegner im Rücken über der Gürtellinie wegdrückt, um an einen Vorwärtspass zu gelangen (Regel 9.1.5 Ausnahme 4). Strafe: 10 Meter. Strafen für Team A-Fouls hinter der neutralen Zone werden vom Previous Spot durchgeführt. Safety, wenn sich das Foul hinter Team A’s Goalline ereignet [S43]."
+interpretations: []

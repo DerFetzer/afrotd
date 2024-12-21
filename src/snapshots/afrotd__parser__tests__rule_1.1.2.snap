@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 1
+  - 2
+title: Goallines
+text: "Für jedes Team muss, an entgegengesetzten Enden des Spielfeldes, eine Goalline eingerichtet werden. Jedem Team muss die Möglichkeit gegeben werden, den Ball durch Laufen, Werfen oder Kicken über die Goalline des anderen Teams zu befördern."
+interpretations: []

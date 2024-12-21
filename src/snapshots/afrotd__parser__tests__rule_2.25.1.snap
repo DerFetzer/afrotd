@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 25
+  - 1
+title: Enforcement Spot
+text: "Enforcement Spot ist der Punkt, von dem aus eine Strafe für ein Foul oder das Ergebnis einer Violation durchgeführt wird."
+interpretations: []

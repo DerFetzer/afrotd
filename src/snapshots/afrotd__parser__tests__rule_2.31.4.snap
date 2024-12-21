@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 31
+  - 4
+title: Feldoberfläche
+text: Die Feldoberfläche ist das Material oder die Stoffe innerhalb des Feldes.
+interpretations: []

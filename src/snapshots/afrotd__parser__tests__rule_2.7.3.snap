@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 7
+  - 3
+title: Downverlust
+text: "Downverlust ist die Bezeichnung für den Verlust des Rechtes, einen Down zu wiederholen."
+interpretations: []

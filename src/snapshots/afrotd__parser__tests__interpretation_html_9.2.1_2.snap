@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.2.1.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            3. und 15 von der B-20. Der berechtigte A88 fängt einen Pass an der
+            B-18 und stürmt in Richtung Goalline. An der B-10 dreht er sich um
+            und macht eine obszöne Geste in Richtung des ihm verfolgenden B99.
+            Danach überquert A88 B’s Goalline.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Live Ball Foul für unsportliches Verhalten. 15-Meterstrafe von
+                der B-10, dem Punkt des Fouls und Wiederholung des dritten
+                Downs. A’s Ball, 3. und 20 von der B-25.
+            </p>
+        </details>
+    </div>
+</article>

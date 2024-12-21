@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 25
+  - 9
+title: "Punkt, an dem der Kick endet"
+text: "Ein Scrimmage Kick, der die neutrale Zone überquert, endet an dem Punkt, an dem Ballbesitz erlangt, wiedererlangt oder der Ball gemäß der Regel für dead erklärt wird (Regel 2.16.1.c)."
+interpretations: []

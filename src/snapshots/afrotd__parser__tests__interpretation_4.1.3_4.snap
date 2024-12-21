@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 4
+  - 1
+  - 3
+index: 4
+text: "3. und 10 von der B-40. Quarterback A12 nimmt den Snap und\nläuft auf die rechte Seite. Da er keinen freien Receiver finden kann, advanct er. Nachdem er die Line to Gain erreicht hat, macht er Anstalten,\nals würde er an der B-27 mit den Füßen voran rutschen. Er bleibt jedoch auf seinen Füßen und advanct zu einem Touchdown."
+ruling: "Der Ball wird an dem Punkt dead, als A12 vortäuscht, er würde mit den\nFüßen voran rutschen. Die Schiedsrichter müssen abpfeifen und den\nBall für dead erklären. Team A hat einen First Down und 10 an der\nB-27."

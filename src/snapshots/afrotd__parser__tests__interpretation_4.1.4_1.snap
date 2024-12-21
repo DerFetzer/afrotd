@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 4
+  - 1
+  - 4
+index: 1
+text: "Snapper A1 snappt den Ball, bevor dieser spielbereit ist. A2 mufft\nden Snap und B1 recovert den Ball."
+ruling: "Dead Ball Foul, Spielverzögerung. Strafe – 5 Meter vom Succeeding Spot, Team A’s Ball.\nDer Ball wird nicht zum Live Ball und alle Aktionen sollen sofort von den\nSchiedsrichtern unterbunden werden."

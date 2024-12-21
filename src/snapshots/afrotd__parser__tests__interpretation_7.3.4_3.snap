@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 4
+index: 3
+text: "Der Wide Receiver A88 wird von B1 ins Aus geblockt und läuft\ndann 20 Meter, bevor er inbounds zurückkehrt. A88 fängt einen legalen\nPass in Team B’s Endzone."
+ruling: "Foul für illegales Berühren wegen A88’s Unterlassung, sofort wieder ins Feld zurückzukehren. Strafe\n– Downverlust am Previous Spot."

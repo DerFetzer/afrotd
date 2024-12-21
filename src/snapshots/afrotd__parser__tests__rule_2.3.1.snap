@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 3
+  - 1
+title: Blocken
+text: "\ta) Blocken ist das Behindern eines Gegners durch absichtliches Berühren mit einem Teil des Körpers des Blockers.\n\tb) Wegdrücken (Pushing) eines Gegners ist das Blocken mit offenen Händen."
+interpretations: []

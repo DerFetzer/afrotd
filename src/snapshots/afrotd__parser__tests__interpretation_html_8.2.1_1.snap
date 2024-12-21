@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 8.2.1.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Während Ballträger A1 versucht zu punkten, berührt er mit seinem
+            Fuß den Pylon, der sich auf der rechten Schnittstelle der Goalline
+            mit der Seitenlinie befindet. Er trägt den Ball in seinem
+            ausgestreckten rechten Arm, der sich über der Seitenlinie befindet.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Ob ein Touchdown erzielt wurde oder nicht, hängt vom Forward
+                Progress des Balles in Bezug auf die Goalline ab, als der Ball
+                dead wird (Regel 4.2.4.d und 5.1.3.a).
+            </p>
+        </details>
+    </div>
+</article>

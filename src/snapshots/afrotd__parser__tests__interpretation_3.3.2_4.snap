@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 3
+  - 2
+index: 4
+text: "Zu einem späten Zeitpunkt in der zweiten oder vierten Spielperiode geht der Ballträger während eines Downs ins Aus. Als die Game\nClock angehalten wird, steht sie bei (a) 2:02; (b) 1:59."
+ruling: "Die\nGame Clock startet (a) beim Signal des Referees; (b) mit dem Snap."

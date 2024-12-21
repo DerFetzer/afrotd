@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 8
+index: 4
+text: "Beim Snap befindet sich A88 an der Scrimmage Line 10 Meter\nvon der Tackle Position entfernt und A44 befindet sich im Backfield, vier\nMeter hinter und seitlich von A88’s Innenseite. Bevor der Passer den\nBall loslässt, wird B1 von A88 fünf Meter jenseits der neutralen Zone\ngeblockt. Der Pass wird zu A44 geworfen, der sich vorwärts bewegt hat\nund zur Seite läuft, in den Bereich, in dem B1 von A88 geblockt wurde."
+ruling: "Team A-Foul. Offense Passbehinderung. Strafe – 15 Meter\nvom Previous Spot."

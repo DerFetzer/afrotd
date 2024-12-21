@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 2.27.12.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Ein Spieler wird in der zweiten Spielhälfte wegen eines Targeting
+            Fouls disqualifiziert.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Der Spieler muss den Platz innerhalb einer angemessenen Frist
+                verlassen. Er muss sich unter Aufsicht seines Teams außerhalb
+                des Platzes aufhalten und darf keinerlei Einfluss auf das
+                Spielgeschehen nehmen. Die Dauer der Sperre ergibt sich aus der
+                Entscheidung der zuständigen Stelle.
+            </p>
+        </details>
+    </div>
+</article>

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 5
+  - 1
+index: 8
+text: "B40 fängt einen Pass auf der B-4 ab. Sein Eigenschwung\nbringt ihn in Richtung der Endzone, als er den Ball an der B-1 fumbelt\nund (a) B40, der Fumbler, recovert den Ball in der Endzone oder (b)\nB45, ein Mitspieler des Fumblers, recovert den Fumble in der Endzone."
+ruling: Safety in beiden Fällen.

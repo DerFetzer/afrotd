@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 7
+index: 2
+text: "4. und 9 von der A-6. A1 wirft den Ball in seiner Endzone absichtlich zu Boden, um Raumverlust zu vermeiden."
+ruling: "Team B kann\ndie Strafe für einen Safety akzeptieren. Wenn sie die Strafe ablehnen,\nist es Team B’s Ball, First Down und Goal von der A-6."

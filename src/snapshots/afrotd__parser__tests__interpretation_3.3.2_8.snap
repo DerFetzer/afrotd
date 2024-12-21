@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 3
+  - 2
+index: 8
+text: "3. und 5 von der B-15. Zu einem späten Zeitpunkt in der vierten Spielperiode liegt Team A mit 7:10 zurück. Quarterback A11 muss\nausweichen, advanct und ist an der B-12, als er einen unvollständigen\nVorwärtspass wirft. Als der Ball dead wird, zeigt die Game Clock 0:13.\nTeam B nimmt die Strafe für den illegalen Vorwärtspass an."
+ruling: "4. und 7 von der B-17. Team B hat die Möglichkeit, einen 10-SekundenAbzug von der Game Clock zu wählen. Dann wird die Game Clock auf\n0:03 gesetzt und startet mit der Ballfreigabe durch den Referee."

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 27
+  - 15
+title: Spieler inbounds oder im Aus
+text: "\ta) im Aus\n\t\t1. Ein Spieler ist im Aus, wenn irgendein Körperteil dieses Spielers irgendetwas berührt, das sich auf oder außerhalb der Begrenzungslinien befindet, ausgenommen einen anderen Spieler oder einen Schiedsrichter.\n\t\t2. Ein Spieler im Aus, der zu einem in der Luft befindlichen Spieler (2.27.6.b) wird, bleibt solange im Aus, bis er den Boden inbounds berührt, ohne gleichzeitig im Aus zu sein.\n\tb) inbounds\n\t\t1. Ein Spieler inbounds ist ein Spieler, der sich nicht im Aus befindet.\n\t\t2. Ein Spieler inbounds, der zu einem in der Luft befindlichen Spieler (2.27.6.b) wird, bleibt solange inbounds, bis er sich im Aus befindet."
+interpretations: []

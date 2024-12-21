@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 18
+  - 2
+title: Offside
+text: "Nach der Ballfreigabe ereignet sich ein Offside (Regel 7.1.5), wenn ein Defense Spieler:\n\ta) sich in oder jenseits der neutralen Zone befindet, wenn der Ball legal gesnappt wird oder\n\tb) einen Gegner jenseits der neutralen Zone berührt, bevor der Ball gesnappt wird oder\n\tc) den Ball berührt, bevor dieser gesnappt wird oder\n\td) einen Offense Lineman angreift, der sofort darauf reagiert, bevor der Ball gesnappt wird (Regel 7.1.2.b.3 Ausnahme, A.R. 7.1.3.V Beachte) oder\n\te) die neutrale Zone überquert und einen Team A-Back angreift (A.R. 7.1.5.III) oder\n\tf) sich nicht hinter seiner Restraining Line befindet, während der Ball beim Free Kick gekickt wird (Regel 6.1.2). Offside ereignet sich, wenn sich ein oder mehrere Spieler des Kicking Teams nicht hinter ihrer Restraining Line befinden, wenn ein legaler Free Kick durchgeführt wird. (Ausnahme: Der Kicker und der Holder haben kein Offside begangen, wenn sie sich jenseits ihrer Restraining Line befinden.)"
+interpretations: []

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 16
+  - 4
+index: 1
+text: "Beim Free Kick zu Beginn eines Spieles benutzt der Kicker die\nSchuhspitze eines Mitspielers oder bildet aus Gras oder Erde ein provisorisches Kicking Tee, um den Ball vor dem Kick darauf zu platzieren."
+ruling: Illegaler Kick. Dead Ball Foul. Strafe – 5 Meter vom Succeeding Spot.

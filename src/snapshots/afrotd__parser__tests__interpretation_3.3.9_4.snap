@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 3
+  - 9
+index: 4
+text: "Während des Downs verliert A22 seinen Helm vollständig (nicht\nverbunden mit einem Foul durch die Defense) und A45 bleibt verletzt\nam Boden liegen. Der Ballträger wird im Spielfeld getackelt. Die Game\nClock hält an bei 0:58 in der vierten Spielperiode."
+ruling: "Da die\nVerletzung und der Helmverlust bei Spielern des gleichen Teams ge-\nschehen, hat Team B die Wahl eines 10-Sekunden-Abzuges von der\nGame Clock. Team A kann ein Timeout verbrauchen und damit den\n10-Sekunden-Abzug verhindern. A22 kann dann aufgrund des genommenen Timeouts im Spiel bleiben. A45 muss aufgrund der Verletzung\nfür mindestens einen Down aus dem Spiel bleiben."

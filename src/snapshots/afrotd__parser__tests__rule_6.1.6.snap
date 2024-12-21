@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 1
+  - 6
+title: Free Kick gefangen oder recovert
+text: "\ta) Wird der Free Kick von einem Spieler des Receiving Teams gefangen oder recovert, bleibt der Ball im Spiel (Ausnahmen: Regeln 4.1.3.g, 6.1.7, 6.5.1 und 6.5.2). Wird der Free Kick von einem Spieler des Kicking Teams gefangen oder recovert, wird der Ball dead. Der Ball gehört zum Receiving Team am Dead Ball Spot, es sei denn, das Kicking Team ist legal in Ballbesitz, wenn der Ball für dead erklärt wird. In diesem Fall gehört der Ball zum Kicking Team.\n\tb) Wenn gegnerische Spieler, die jeweils berechtigt sind, den Free Kick zu berühren, gleichzeitig einen Kick recovern oder fangen, wird der Ball durch den gemeinsamen Ballbesitz dead.\n\tc) Ein Kick, der in gemeinsamem Ballbesitz für dead erklärt wird, wird dem Receiving Team zuerkannt."
+interpretations: []

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 4
+  - 3
+index: 2
+text: "Beim dritten Down blockt B1 den Scrimmage Kick von Team A\nab und der Ball fliegt hoch in die Luft und überquert nicht die neutrale\nZone. Der Ball berührt nicht den Boden. A1 springt, erreicht den Ball\nim Flug und kommt zuerst im Seitenaus auf den Boden auf."
+ruling: "Team B’s Ball an dem Punkt, an dem der Ball die Seitenlinie überquert\nhat. First Down und 10 Meter (Regel 6.3.7)."

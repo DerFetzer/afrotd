@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 2
+  - 5
+title: Behinderung der Spieldurchführung
+text: "Während sich der Ball im Spiel befindet und bei den weiterführenden Aktionen, nachdem der Ball für dead erklärt wurde:\n\ta) Coaches, Ersatzspieler und berechtigte Personen in der Teamzone müssen sich hinter der Coaching Line aufhalten. Strafe: Wird als Dead Ball Foul behandelt. Erster Regelverstoß: Warnung für eine Behinderung an der Seitenlinie. Keine Meterstrafe [S15]. Zweiter und dritter Regelverstoß: Spielverzögerung für Behinderung an der Seitenlinie, 5 Meter vom Succeeding Spot [S21 und S29]. Vierter und jeder nachfolgende Regelverstoß: unsportliches Verhalten durch das Team für Behinderung an der Seitenlinie, 15 Meter vom Succeeding Spot. Automatisch First Down für Team B-Fouls, soweit dies nicht in Konflikt zu anderen Regeln steht [S27].\n\tb) Physischer Kontakt mit einem Schiedsrichter ist ein Foul für unsportliches Verhalten durch das betreffende Team (A.R. 9.2.5.I). Strafe: Unsportliches Verhalten durch das Team. Wird als Dead Ball Foul behandelt. 15 Meter vom Succeeding Spot. Automatisch First Down für Team B-Fouls, soweit das nicht in Konflikt zu anderen Regeln steht [S27]."
+interpretations: []

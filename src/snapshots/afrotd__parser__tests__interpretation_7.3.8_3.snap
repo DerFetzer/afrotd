@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 8
+index: 3
+text: "A83, ein Wide Receiver, befindet sich 10 Meter vom nächsten\ninneren Lineman entfernt. Er läuft in Richtung Spielfeldmitte. Bevor der\nBall geworfen wird, wird er von B1, einem Linebacker, legal geblockt\nund dadurch zu Boden geworfen."
+ruling: "Legal, es sei denn der\nBlock wurde unter der Gürtellinie ausgeführt (Regel 9.1.6)."

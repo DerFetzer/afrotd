@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 3
+  - 4
+title: Nichtbeachtung erzwungener Berührung
+text: "\ta) Wird ein im Feld befindlicher Spieler von einem Gegner in einen Scrimmage Kick geblockt, wird diese Berührung des Kicks im Feld nicht beachtet, sofern der Kick die neutrale Zone überquert hatte (A.R. 6.3.4.I bis 6.3.4.V und 2.11.4.I).\n\tb) Wird ein im Feld befindlicher Spieler von einem Ball berührt, der von einem Gegner geschlagen oder illegal getreten wurde, wird diese Berührung des Kicks nicht beachtet (Regel 2.11.4.c) (A.R. 6.3.4.II)."
+interpretations: []

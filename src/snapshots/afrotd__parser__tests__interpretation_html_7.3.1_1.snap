@@ -1,0 +1,37 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 7.3.1.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            1. und 10 von der A-25. QB A12 befindet sich in einer
+            ShotgunFormation an der A-15 und Slot Receiver A80, der sich auf
+            der weiten Seite der Formation aufgestellt hat, bewegt sich vor dem
+            Snap zurück auf A12 zu. A12 fängt den Snap und flippt den Ball
+            sofort dem, vor ihm vorbeilaufenden A80 zu. (a) A80 fängt den Ball
+            aus der Luft, als er an A12 vorbei ist und advanct downfield, bis
+            er an der A-40 ins Aus läuft oder (b) mufft den Ball, den ihm A12
+            zuwirft und der Ball fällt zu Boden.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Das kurze Flippen des Balles durch A12 wird als legaler
+                Vorwärtspass gewertet, solange er nicht klar und deutlich
+                rückwärts geworfen wird. (a) Vollständiger Vorwärtspass auf
+                A80, Team A’s Ball, 1. und 10 von der A-40, (b) wenn der Ball
+                auf den Boden trifft, wird das als unvollständiger Vorwärtspass
+                geregelt und das Vorwärtspass-Spiel ist vorbei.
+            </p>
+        </details>
+    </div>
+</article>

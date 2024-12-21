@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 1
+  - 4
+index: 6
+text: "A33 nimmt, als Ausnahme zur vorgeschriebenen Nummerierung, eine Position an der Scrimmage Line links neben Snapper A85\nein, wobei A85 am Ende der Line steht. Alle anderen Team A-Spieler\nan der Line befinden sich zu A33’s Linken. Nach einem Stopp von einer Sekunde shiften alle Spieler, ausgenommen A85, legal zur anderen\nSeite, wobei A33 nun als End postiert ist."
+ruling: "Wenn der Ball\ngesnappt wird, während sich A33 in dieser Position befindet, ist das ein\nFoul für eine illegale Formation. A33 muss sich beim Snap zwischen\nden End-Spielern befinden. Strafe – 5 Meter, Previous Spot."

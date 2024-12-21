@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 4
+index: 1
+text: "Der berechtigte A88 geht freiwillig ins Aus, kehrt zurück inbounds\nund ist der erste Spieler, der den legalen Vorwärtspass berührt. Diese\nBerührung durch A88 ereignet sich in Team B’s Endzone."
+ruling: Illegale Berührung. Strafe – Downverlust am Previous Spot.

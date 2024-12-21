@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 5
+  - 1
+index: 5
+text: "B1 fängt einen Vorwärtspass oder einen Fumble oder einen Freeoder Scrimmage Kick zwischen seiner B-5 und der Goalline von B ab\nund seine Eigenbewegung bringt ihn in die Endzone. Bevor der Ball für\ndead erklärt wird, clippt B2 in der Endzone. B1 verlässt die Endzone\nnicht und der Ball wird für dead erklärt."
+ruling: "Safety durch die\nStrafe. Der Basic Spot zur Durchführung der Strafe ist der Punkt, an\ndem B1 zwischen der 5 und der Goalline Ballbesitz erlangte und der\nPunkt des Fouls liegt hinter dem Basic Spot."

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 10
+  - 1
+  - 4
+index: 4
+text: "A1 wirft einen illegalen Vorwärtspass und Team B befindet sich\nbeim Snap in der neutralen Zone. B23 fängt den Pass ab und B10 clippt\nbeim Return. B23 wird im Spielfeld getackelt."
+ruling: "Keine Wahlmöglichkeit. Die Fouls heben sich auf und der Down wird wiederholt.\nTeam B kann die Aufhebung der Fouls nicht wählen, da es gefoult hat,\nbevor es in Ballbesitz kam."

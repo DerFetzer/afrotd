@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 2
+  - 3
+index: 2
+text: "Während eines Free Kicks durch Team A läuft die Spielzeit am\nEnde der zweiten Spielperiode aus. Team A begeht ein Offside beim\nKick."
+ruling: "Strafe – 5 Meter vom Previous Spot, dem Ende von\nTeam B’s Lauf oder dem Punkt des Touchbacks, und die Periode wird\nverlängert. Der Free Kick wird wiederholt oder Team B erhält einen\nDown ohne Zeit."

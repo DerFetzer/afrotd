@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 5
+  - 5
+index: 1
+text: "B1 und B2 zeigen beide einen Fair Catch an. B1 mufft und B2\nist im Begriff, den gemufften Ball zu fangen, als er von A1 getackelt\nwird."
+ruling: "Keine Behinderung, aber Halten. Strafe – 10 Meter\nvom Previous Spot oder von dem Punkt, an dem der anschließende\nDead Ball zu Team B gehört."

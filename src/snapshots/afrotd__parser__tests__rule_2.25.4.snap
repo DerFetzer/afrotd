@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 25
+  - 4
+title: Dead Ball Spot
+text: "Dead Ball Spot ist der Punkt, an dem der Ball dead wurde."
+interpretations: []

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 1
+  - 4
+index: 8
+text: "Team A stellt sich auf, wobei A11 sich in einer Linie 10 Meter hinter dem Snapper befindet. Die anderen drei Backs haben sich\nrechts und links außerhalb der Tackle Box verteilt. Nur vier der Offense\nLinemen tragen Trikots mit den Nummern von 50 bis 79. A11 erhält den\nRückpass vom Snapper, während sich Team A in dieser Formation befindet."
+ruling: "Live Ball Foul, illegale Formation. Es befinden sich\nnicht genug Spieler an der Scrimmage Line mit Nummern von 50 bis\n79. Team A befindet sich nicht in einer Scrimmage Kick Formation, da\nes in dieser Konstellation nicht offensichtlich ist, dass ein Kick versucht\nwerden wird (Regel 2.16.10)."

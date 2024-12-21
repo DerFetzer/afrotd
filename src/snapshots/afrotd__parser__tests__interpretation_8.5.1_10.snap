@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 5
+  - 1
+index: 10
+text: "3. und 5 von der B-30. B44 fängt in seiner Endzone einen Vorwärtspass ab. Während er sich noch in der Endzone befindet, fumbelt\ner. Der Ball rollt nach vorne ins Spielfeld und beim Kampf um den Ball\nrollt dieser zurück in B’s Endzone. Anschließend (a) recovert B44 am\nBoden liegend in der Endzone den Ball oder (b) rollt der Ball über die\nEndlinie ins Aus."
+ruling: "In beiden Fällen Safety, zwei Punkte für\nTeam A. Der Antrieb, der den Ball beim zweiten Mal in B’s Endzone\nbrachte, wurde durch B44’s Fumble verursacht. Der Kampf um den Ball\nbrachte keinen neuen Antrieb. Die Regel bezüglich Eigenschwung trifft\nnicht zu, da der Ball nicht in der Endzone verblieb (Regel 8.7.2)."

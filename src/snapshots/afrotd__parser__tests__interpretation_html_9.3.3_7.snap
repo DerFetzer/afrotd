@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 9.3.3.VII
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            A2 berührt mit seinen Händen den Rücken von B2, als sich dieser
+            umdreht, um dem Block von A2 zu entgehen. Nachdem A2 mit seinen
+            Händen den Kontakt zu B2 verloren hat, bewegt sich A2 vorwärts und
+            drückt B2 in den Rücken.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Illegaler Block in den Rücken. Strafe – 10 Meter. Die Strafe
+                wird vom Previous Spot geahndet, wenn sich das Foul hinter der
+                neutralen Zone ereignet (Regel 2.3.4). Safety, wenn sich das
+                Foul hinter Team A’s Goalline ereignet.
+            </p>
+        </details>
+    </div>
+</article>

@@ -1,0 +1,26 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 8.3.2.VIII
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Bei einem Try mufft A1 den Hand-zu-Hand-Snap vom Snapper und der
+            Ball wird von A2 recovert und in die gegnerische Endzone getragen.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team A erhält zwei Punkte zuerkannt (Regel 2.11.2).
+            </p>
+        </details>
+    </div>
+</article>

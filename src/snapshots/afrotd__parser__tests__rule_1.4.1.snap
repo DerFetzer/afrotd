@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 4
+  - 1
+title: Empfohlene Nummerierung
+text: "Es wird dringend empfohlen, dass die Offense Spieler gemäß dem folgenden Diagramm nummeriert sind. Das Diagramm stellt nur eine der vielen möglichen Offense-Formationen dar:"
+interpretations: []

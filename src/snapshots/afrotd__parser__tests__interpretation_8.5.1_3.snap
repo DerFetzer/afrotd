@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 8
+  - 5
+  - 1
+index: 3
+text: "B1 fängt tief in seiner Endzone einen legalen Vorwärtspass ab\n(kein Try), advanct, aber verlässt die Endzone nicht und wird dort zu\nBoden gebracht. Während seines Laufes clippt B2 in der Endzone A1."
+ruling: "Safety, da die Strafe den Ball in Team B’s Besitz in der Endzone belässt."

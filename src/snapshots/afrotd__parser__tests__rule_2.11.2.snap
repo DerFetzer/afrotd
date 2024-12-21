@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 11
+  - 2
+title: Muff
+text: Muffen ist die Berührung des Balles beim erfolglosen Versuch des Fangens oder Recoverns. Muffen des Balles ändert nicht dessen Status.
+interpretations: []

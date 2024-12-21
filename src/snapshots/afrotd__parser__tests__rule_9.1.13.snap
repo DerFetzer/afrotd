@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 13
+title: Hurdling
+text: "Hurdling ist verboten (Ausnahme: Der Ballträger darf einen Gegner überspringen)."
+interpretations: []

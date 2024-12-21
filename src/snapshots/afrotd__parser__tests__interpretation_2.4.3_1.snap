@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 4
+  - 3
+index: 1
+text: "B1 versucht, ohne Fair Catch-Signal einen Punt zu fangen, der\ndie neutrale Zone überquert. Der Ball streift seine Schulter (Muff) und\nprallt hoch in die Luft. Der Ball berührt nicht den Boden, und der in\nder Luft befindliche A1 erreicht den Ball im Flug und kommt erst im\nSeitenaus auf den Boden auf."
+ruling: "Team B’s Ball an dem Punkt,\nan dem der Ball die Seitenlinie überquert hat. First Down und 10 Meter."

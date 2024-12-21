@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 5
+  - 2
+index: 1
+text: "Ein oder mehrere Spieler, zusätzlich zu den elf seines Teams, ist\n(sind) offensichtlich ausgewechselt und will (wollen) das Spiel verlassen. Er hat (sie haben) eine Seitenauslinie noch nicht erreicht, als der\nBall ins Spiel gebracht wird. Er (sie) behinder(n)t weder das Spiel noch\ndie Spieler."
+ruling: "Strafe – 5 Meter vom Previous Spot (Regeln\n7.1.3 Strafe und 7.1.4 Strafe)."

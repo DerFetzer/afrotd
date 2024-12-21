@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 9
+  - 1
+  - 16
+index: 4
+text: "B1 läuft in den Spieler A1, der den Ball gekickt hat und ausreichend Zeit hatte, seine Balance wiederherzustellen."
+ruling: "Kein\nFoul durch B1, es sein denn, dass seine Aktion als Umlaufen oder Werfen gegen einen Gegner, der offensichtlich nicht am Spielgeschehen\nteilnimmt, angesehen wird (Regel 9.1.12)."

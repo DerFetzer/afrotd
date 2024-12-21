@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 2
+  - 11
+  - 5
+title: Blocken eines Scrimmage Kicks
+text: "Blocken eines Scrimmage Kicks ist das Berühren des gekickten Balles durch einen Gegner des Kicking Teams bei dem Versuch zu verhindern, dass der Ball die neutrale Zone überquert (Regel 6.3.1.b)."
+interpretations: []

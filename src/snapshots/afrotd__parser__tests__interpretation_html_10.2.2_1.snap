@@ -1,0 +1,32 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 10.2.2.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Ein Kickoff geht unberührt von Team B ins Aus, nachdem er von Team
+            A illegal berührt wurde. Team A begeht ein persönliches Foul oder
+            ein Holding-Foul während des Kicks.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Team B hat die folgenden Möglichkeiten: Es kann den Ball am
+                Punkt der illegalen Berührung snappen; eine 5-, 10- oder
+                15-Meterstrafe vom Previous Spot annehmen, wobei Team A den
+                Kickoff wiederholt; den Ball 5, 10 oder 15 Meter jenseits des
+                Punktes, an dem der Ball ins Aus ging, snappen oder den Ball 30
+                Meter jenseits Team A’s Restraining Line snappen.
+            </p>
+        </details>
+    </div>
+</article>

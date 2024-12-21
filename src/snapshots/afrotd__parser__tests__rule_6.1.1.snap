@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 1
+  - 1
+title: Restraining line
+text: "Für jede Free Kick-Formation ist die Restraining Line des Kicking Teams die Meterlinie, die sich durch den vordersten Punkt des Balles zieht, von dem aus dieser gekickt werden soll. Die Restraining Line des Receiving Teams muss 10 Meter von diesem Punkt entfernt sein. Soweit sie nicht durch eine Strafe verschoben wurde, ist die Restraining Line des Kicking Teams bei einem Kickoff die eigene 35-Meterlinie und für einen Free Kick nach einem Safety die eigene 20-Meterlinie."
+interpretations: []

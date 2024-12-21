@@ -1,0 +1,30 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 7.1.3.I
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            A21 hat sich legal am Ende der Scrimmage Line in der Nähe von A88
+            aufgestellt, der in einem Drei-Punkt-Stand steht. Team A steht in
+            dieser Formation für eine Sekunde still. Danach bewegt sich A21 zu
+            einer legalen Backfield Position und stoppt. Anschließend bewegt
+            sich A88 zu einer entfernteren Position an der Scrimmage Line.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Legal, wenn beide, A21 und A88, still stehen, wenn der Snap
+                beginnt (Regeln 2.22.1 und 7.1.4.a).
+            </p>
+        </details>
+    </div>
+</article>

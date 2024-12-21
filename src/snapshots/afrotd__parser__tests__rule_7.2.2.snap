@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 2
+  - 2
+title: Gefangen oder recovert
+text: "\ta) Wird ein Rückpass oder Fumble von irgendeinem Spieler inbounds gefangen oder recovert, bleibt der Ball im Spiel (A.R. 2.23.1.I).\n\tAusnahmen:\n\t\t1. Regel 8.3.2.d.5 (Team A-Fumble beim Try)\n\t\t2. Wird im vierten Down, vor dem Wechsel des Team Ballbesitzes, ein Team A-Fumble von einem Team A-Spieler gefangen oder recovert, der nicht der Fumbler ist, wird der Ball dead. Wird der Fumble jenseits des Fumble-Punktes gefangen oder recovert, wird der Ball zum Fumble-Punkt zurückgebracht. Wird der Fumble hinter dem Fumble-Punkt gefangen oder recovert, bleibt der Ball am Punkt des Fangens oder des Recoverns.\n\tb) Wird ein Rückpass oder ein Fumble gleichzeitig von gegnerischen Spielern gefangen oder recovert, wird der Ball dead und gehört dem Team, das zuletzt in Ballbesitz war (Ausnahme: Regel 7.2.2.a Ausnahmen)."
+interpretations: []

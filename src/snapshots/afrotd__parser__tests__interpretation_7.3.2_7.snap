@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 2
+index: 7
+text: "Mit nur noch einigen Sekunden verbleibender Spielzeit in einer\nHalbzeit ist der Ball freigegeben. Team A stellt sich schnell auf und der\nBall wird legal zu Quarterback A12 gesnappt, der den Ball sofort nach\nvorne zu Boden wirft. Team A’s Formation war zum Zeitpunkt des Snaps\nnicht legal. Als der Ball dead wurde, verbleiben noch zwei Sekunden\nSpielzeit."
+ruling: "Strafe – 5 Meter vom Previous Spot. Die Game\nClock startet mit dem Snap."

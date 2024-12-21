@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 1
+  - 2
+index: 1
+text: "Nach einem Huddle oder Shift kommen alle Team A-Spieler zum\nStillstand und bleiben für eine Sekunde still stehen. Dann, vor dem\nSnap, wechseln zwei oder mehr gleichzeitig ihre Positionen."
+ruling: "Alle elf Team A-Spieler müssen vor dem Snap erneut für eine Sekunde\nstill stehen bleiben, andernfalls ist es ein Live Ball Foul beim Snap für\neinen illegalen Shift. Strafe – 5 Meter vom Previous Spot (Regel 2.22.1)."

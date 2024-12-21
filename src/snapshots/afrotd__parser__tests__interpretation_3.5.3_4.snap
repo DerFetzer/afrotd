@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 5
+  - 3
+index: 4
+text: "3. und 5 von der B-35. Es befinden sich 12 Team B Spieler in\nder Formation auf dem Feld. B44 erkennt, dass er der zwölfte Spieler\nist und versucht das Feld zu verlassen. Als der Ball gesnappt wird, (a)\nbefindet sich B44 noch auf dem Feld, aber sein nächster Schritt bringt\nihn ins Aus oder (b) B44 berührt die Seitenlinie in dem Moment, als der\nSnap durchgeführt wird. Nach dem Snap erzielt A44 3 Meter Raumgewinn."
+ruling: "a) Live Ball Foul durch B44, Team A, 1. und 10 von\nder B-30. (b) Kein Foul durch B44, Team A, 4. und 2 von der B-32. Um\nnicht als zwölfter Spieler gezählt zu werden, muss sich B44 außerhalb\ndes Feldes befinden."

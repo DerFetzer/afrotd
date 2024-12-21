@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: rule
+snapshot_kind: text
+---
+article_nr:
+  - 7
+  - 3
+  - 11
+title: Illegales Berühren
+text: "Kein inbounds befindlicher, ursprünglich unberechtigter Spieler darf einen legalen Vorwärtspass absichtlich berühren, bevor dieser einen Gegner oder einen Schiedsrichter berührt hat (A.R. 5.2.3.I und A.R. 7.3.11.I bis 7.3.11.II). Strafe: 5 Meter vom Previous Spot und Downverlust [S16 und S9]."
+interpretations: []
