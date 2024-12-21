@@ -237,7 +237,7 @@ fn build_rss(rule: &Rule) -> String {
 fn css() -> Markup {
     html! {
         link rel="stylesheet" type="text/css"
-            href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+            href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css";
     }
 }
 
