@@ -6,7 +6,6 @@ use axum::{
 };
 use axum_extra::{headers::ContentType, TypedHeader};
 use chrono::prelude::*;
-use chrono_tz::{Europe::Berlin, Tz};
 use clap::{Args, Parser};
 use eyre::eyre;
 use indexmap::IndexMap;
@@ -15,7 +14,7 @@ use rand::{seq::SliceRandom, thread_rng, Rng};
 use rand_pcg::Pcg64;
 use rand_seeder::Seeder;
 use rss::{ChannelBuilder, ItemBuilder};
-use serenity::{all::GatewayIntents, builder::CreateMessage, Client};
+use serenity::{all::GatewayIntents, Client};
 use std::{
     path::PathBuf,
     sync::{atomic::AtomicBool, Arc, RwLock},
@@ -26,16 +25,15 @@ use tracing::{debug, error, info, warn};
 use tracing_subscriber::{layer::SubscriberExt, util::SubscriberInitExt};
 use veil::Redact;
 
-use discord::{build_discord_message, DiscordEventHandler};
-use rule::{ArticleNr, Rule};
-
-mod discord;
-mod parser;
-mod rule;
-
-const PUB_URL: &str = "https://ruleoftheday.de";
-const RSS_SVG: &str = "/res/rss.svg";
-const OPENGRAPH_PNG: &str = "/res/opengraph.png";
+use afrotd::{
+    discord::{build_discord_message, DiscordEventHandler},
+    get_current_date, get_current_datetime, AppState, DynamicState, OPENGRAPH_PNG, PUB_URL,
+    RSS_SVG,
+};
+use afrotd::{
+    parser,
+    rule::{ArticleNr, Rule},
+};
 
 #[derive(Debug, Clone, Parser)]
 struct Cli {
@@ -58,20 +56,6 @@ struct DiscordArgs {
     discord_post_hour: Option<u8>,
     #[arg(long)]
     discord_channel_id: Option<u64>,
-}
-
-struct AppState {
-    rules: IndexMap<ArticleNr, Rule>,
-    start_date: NaiveDate,
-    rule_order: Vec<usize>,
-    dynamic_state: RwLock<DynamicState>,
-}
-
-struct DynamicState {
-    current_date: NaiveDate,
-    current_rule_markup: Markup,
-    rss: String,
-    discord_message: CreateMessage,
 }
 
 #[tokio::main]
@@ -207,14 +191,6 @@ fn get_rule<'a>(
     let days_since_start = (current_date - start_date).num_days();
     assert!(days_since_start >= 0);
     &rules[rule_order[days_since_start as usize % rules.len()]]
-}
-
-fn get_current_date() -> NaiveDate {
-    get_current_datetime().date_naive()
-}
-
-fn get_current_datetime() -> DateTime<Tz> {
-    Utc::now().with_timezone(&Berlin)
 }
 
 fn build_rss(rule: &Rule) -> String {
