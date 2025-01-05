@@ -11,8 +11,7 @@ pub struct RulesParser;
 
 impl RulesParser {
     pub fn parse(rules_path: &Path) -> eyre::Result<IndexMap<ArticleNr, Rule>> {
-        let mut rules_text = Self::extract_text_from_pdf(rules_path)?;
-        rules_text = Self::preprocess_text(rules_text);
+        let rules_text = Self::load_rules_text(rules_path)?;
 
         let mut rules = Self::extract_rules(&rules_text)?;
         let interpretations = Self::extract_interpretations(&rules_text)?;
@@ -25,6 +24,19 @@ impl RulesParser {
         }
 
         Ok(rules)
+    }
+
+    pub fn parse_interpretations(
+        rules_path: &Path,
+    ) -> eyre::Result<IndexMap<ArticleNr, Vec<RuleInterpretation>>> {
+        let rules_text = Self::load_rules_text(rules_path)?;
+
+        Self::extract_interpretations(&rules_text)
+    }
+
+    fn load_rules_text(rules_path: &Path) -> eyre::Result<String> {
+        let rules_text = Self::extract_text_from_pdf(rules_path)?;
+        Ok(Self::preprocess_text(rules_text))
     }
 
     fn extract_text_from_pdf(rules_path: &Path) -> eyre::Result<String> {

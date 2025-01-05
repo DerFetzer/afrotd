@@ -128,12 +128,18 @@ pub struct RuleInterpretation {
     pub ruling: String,
 }
 
+impl RuleInterpretation {
+    pub fn get_title(&self) -> String {
+        format!("A.R. {}.{}", self.article_nr, self.index.to_roman())
+    }
+}
+
 impl Render for RuleInterpretation {
     fn render(&self) -> maud::Markup {
         html! {
             article.message ."is-size-5" .is-info {
                 div.message-header {
-                    p { "A.R. " (self.article_nr) "." (self.index.to_roman()) }
+                    p { (self.get_title()) }
                 }
                 div.message-body {
                     p { (self.text) }
