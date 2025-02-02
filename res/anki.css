@@ -4,3 +4,10 @@
 .ruling {
     font-weight: bold;
 }
+.cloze {
+    font-weight: bold;
+    color: blue;
+}
+.nightMode .cloze {
+    color: lightblue;
+}

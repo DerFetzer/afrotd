@@ -14,7 +14,7 @@ pub struct Rule {
 
 impl Rule {
     #[allow(clippy::comparison_chain)]
-    fn render_text(&self) -> maud::Markup {
+    pub fn render_text(&self) -> maud::Markup {
         let mut current_indent = 0u8;
         let processed_lines = self.text.lines().map(|l| {
             let (new_indent, list_type) = if l.starts_with("\t\t\t") {
