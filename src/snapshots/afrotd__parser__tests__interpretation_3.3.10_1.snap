@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 3
+  - 10
+index: 1
+text: "Nachdem der Ball dead ist, blockt A55 B33 gegen dessen Taille\nund dadurch zu Boden. Als B33 mit dem Kopf auf den Boden prallt, verliert er den Helm."
+ruling: "Dead Ball Foul. 15-Meterstrafe vom Succeeding Spot. B33 muss das Spiel für einen Down verlassen, da sein\nHelm durch das Spielgeschehen und nicht durch ein Helmfoul verloren\nwurde. B33 kann im Spiel bleiben, wenn Team B ein Timeout nimmt."

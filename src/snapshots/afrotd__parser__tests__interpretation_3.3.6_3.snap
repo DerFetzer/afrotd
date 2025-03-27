@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 3
+  - 6
+index: 3
+text: Auf B52’s Trikot befinden sich Blutspritzer.
+ruling: "Sofern\nein Schiedsrichter festgestellt, dass das Trikot nicht mit Blut durchtränkt\nist, kann B52 im Spiel verbleiben (Beachte: Durchtränkt wird definiert\nals von Feuchtigkeit durchdrungen. Wenn Blut durch das Gewebe auf\ndie Haut gelangt oder auf einen anderen Spieler oder Schiedsrichter\nübertragen werden kann, ist das Gewebe durchtränkt.)."

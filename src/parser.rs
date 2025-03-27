@@ -273,7 +273,7 @@ mod tests {
         rules_path.push("rules.pdf");
 
         let rules_response = reqwest::blocking::get(
-            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025.pdf",
+            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025-1.pdf",
         )
         .unwrap()
         .error_for_status()

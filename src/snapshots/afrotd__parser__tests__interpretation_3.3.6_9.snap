@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 3
+  - 6
+index: 9
+text: "Spät in einer Halbzeit wird Ballträger A35 jenseits der Line to\nGain getackelt. B79 bleibt mit einer Verletzung am Boden liegen."
+ruling: "Es gibt keine Wahlmöglichkeit zu einem 10-Sekunden-Abzug\nvon der Game Clock, da die Game Clock sowohl für den First Down als\nauch für die Verletzung angehalten wird. Die Game Clock startet mit der\nBallfreigabe durch den Referee."

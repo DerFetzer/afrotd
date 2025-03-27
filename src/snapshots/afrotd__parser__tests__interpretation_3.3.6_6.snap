@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 3
+  - 6
+index: 6
+text: "Während der Ball dead ist, bemerkt A85, dass er einen blutenden Schnitt am Arm hat. Er geht freiwillig zur Teamzone und wird durch\nA88 ersetzt."
+ruling: "Das ist eine legale Auswechselung, die keine\nAuswirkung auf die Game Clock hat. A85 kann in das Spiel zurückkehren, nachdem die Wunde behandelt wurde, aber er muss die Regeln\nbezüglich einer Auswechselung beachten."
