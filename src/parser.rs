@@ -1,4 +1,4 @@
-use eyre::{eyre, Context};
+use eyre::{Context, eyre};
 use indexmap::IndexMap;
 use once_cell::sync::Lazy;
 use regex::{Captures, Regex};

@@ -1,23 +1,23 @@
 use axum::{
+    Router,
     extract::{Path, State},
     http::StatusCode,
     routing::get,
-    Router,
 };
-use axum_extra::{headers::ContentType, TypedHeader};
+use axum_extra::{TypedHeader, headers::ContentType};
 use chrono::prelude::*;
 use clap::{Args, Parser};
 use eyre::eyre;
 use indexmap::IndexMap;
-use maud::{html, Markup, Render, DOCTYPE};
-use rand::{seq::SliceRandom, thread_rng, Rng};
+use maud::{DOCTYPE, Markup, Render, html};
+use rand::{Rng, seq::SliceRandom, thread_rng};
 use rand_pcg::Pcg64;
 use rand_seeder::Seeder;
 use rss::{ChannelBuilder, ItemBuilder};
-use serenity::{all::GatewayIntents, Client};
+use serenity::{Client, all::GatewayIntents};
 use std::{
     path::PathBuf,
-    sync::{atomic::AtomicBool, Arc, RwLock},
+    sync::{Arc, RwLock, atomic::AtomicBool},
 };
 use tokio::time;
 use tower_http::{services::ServeDir, trace::TraceLayer};
@@ -26,9 +26,9 @@ use tracing_subscriber::{layer::SubscriberExt, util::SubscriberInitExt};
 use veil::Redact;
 
 use afrotd::{
-    discord::{build_discord_message, DiscordEventHandler},
-    get_current_date, get_current_datetime, AppState, DynamicState, OPENGRAPH_PNG, PUB_URL,
-    RSS_SVG,
+    AppState, DynamicState, OPENGRAPH_PNG, PUB_URL, RSS_SVG,
+    discord::{DiscordEventHandler, build_discord_message},
+    get_current_date, get_current_datetime,
 };
 use afrotd::{
     parser,
@@ -201,11 +201,13 @@ fn build_rss(rule: &Rule) -> String {
         .description("Deine tägliche Dosis Regelwissen für American Football in Deutschland")
         .language("de".to_string())
         .last_build_date(now.clone())
-        .items(vec![ItemBuilder::default()
-            .title(rule.to_title())
-            .link(rule.to_url(PUB_URL))
-            .description(rule.to_description())
-            .build()])
+        .items(vec![
+            ItemBuilder::default()
+                .title(rule.to_title())
+                .link(rule.to_url(PUB_URL))
+                .description(rule.to_description())
+                .build(),
+        ])
         .build()
         .to_string()
 }

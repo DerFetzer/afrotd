@@ -1,5 +1,5 @@
 use eyre::eyre;
-use maud::{html, PreEscaped, Render};
+use maud::{PreEscaped, Render, html};
 use roman_numerals::ToRoman;
 use serde::Serialize;
 use std::{fmt::Display, str::FromStr};

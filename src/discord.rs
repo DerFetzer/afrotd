@@ -1,16 +1,16 @@
 use crate::rule::Rule;
-use crate::{get_current_datetime, AppState};
+use crate::{AppState, get_current_datetime};
 use crate::{OPENGRAPH_PNG, PUB_URL};
 
-use chrono::{prelude::*, NaiveDate};
+use chrono::{NaiveDate, prelude::*};
 use serenity::builder::{CreateEmbed, CreateMessage};
 use serenity::{
     all::{ChannelId, GuildId, Ready},
     client::{Context, EventHandler},
 };
 use std::sync::{
-    atomic::{AtomicBool, Ordering},
     Arc,
+    atomic::{AtomicBool, Ordering},
 };
 use tokio::time;
 use tracing::{error, info};

@@ -5,7 +5,7 @@ use afrotd::{
 use clap::{Parser, ValueEnum};
 use eyre::eyre;
 use genanki_rs::{Deck, Field, Model, Note, Template};
-use maud::{html, Markup};
+use maud::{Markup, html};
 use roman_numerals::ToRoman;
 use std::path::PathBuf;
 
@@ -82,9 +82,11 @@ fn create_interpretations_deck(cli: &Cli, model_id: i64, deck_id: i64) -> eyre::
             Field::new("Interpretation"),
             Field::new("Regelung"),
         ],
-        vec![Template::new("Interpretation")
-            .qfmt("{{Interpretation}}")
-            .afmt("{{Interpretation}}<hr id=answer>{{Regelung}}")],
+        vec![
+            Template::new("Interpretation")
+                .qfmt("{{Interpretation}}")
+                .afmt("{{Interpretation}}<hr id=answer>{{Regelung}}"),
+        ],
     )
     .css(CSS);
 
@@ -124,9 +126,11 @@ fn create_rules_template_deck(cli: &Cli, model_id: i64, deck_id: i64) -> eyre::R
             Field::new("Text"),
             Field::new("Back Extra"),
         ],
-        vec![Template::new("Regel")
-            .qfmt("{{cloze:Text}}")
-            .afmt("{{cloze:Text}}<br>{{Back Extra}}")],
+        vec![
+            Template::new("Regel")
+                .qfmt("{{cloze:Text}}")
+                .afmt("{{cloze:Text}}<br>{{Back Extra}}"),
+        ],
     )
     .model_type(genanki_rs::ModelType::Cloze)
     .css(CSS);
