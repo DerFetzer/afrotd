@@ -10,7 +10,7 @@ use clap::{Args, Parser};
 use eyre::eyre;
 use indexmap::IndexMap;
 use maud::{DOCTYPE, Markup, Render, html};
-use rand::{Rng, seq::SliceRandom, thread_rng};
+use rand::{Rng, rng, seq::SliceRandom};
 use rand_pcg::Pcg64;
 use rand_seeder::Seeder;
 use rss::{ChannelBuilder, ItemBuilder};
@@ -88,7 +88,7 @@ async fn main() -> eyre::Result<()> {
     info!("{} rules after exclusion", rules.len());
 
     let rule_order = {
-        let mut rng: Pcg64 = Seeder::from(&cli.start_date).make_rng();
+        let mut rng: Pcg64 = Seeder::from(&cli.start_date).into_rng();
         let mut rule_order: Vec<_> = (0..(rules.len())).collect();
         rule_order.shuffle(&mut rng);
         rule_order
@@ -293,9 +293,9 @@ fn insert_content_to_site(content: &dyn Render) -> Markup {
 }
 
 async fn get_random_rule(State(state): State<Arc<AppState>>) -> Markup {
-    let mut rng = thread_rng();
+    let mut rng = rng();
     let rules = &state.rules;
-    let rule_index = rng.gen_range(0..rules.len() - 1);
+    let rule_index = rng.random_range(0..rules.len() - 1);
     let rule = &rules[rule_index];
     insert_content_to_site(&html! {
         .container {
