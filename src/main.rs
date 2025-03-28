@@ -168,7 +168,7 @@ async fn main() -> eyre::Result<()> {
         .route("/", get(get_current_rule))
         .route("/all", get(get_all_rules))
         .route("/random", get(get_random_rule))
-        .route("/rule/:article_nr", get(get_single_rule))
+        .route("/rule/{article_nr}", get(get_single_rule))
         .route("/rss.xml", get(rss))
         .route("/health", get(|| async { "OK" }))
         .nest_service("/res", ServeDir::new("res"))
