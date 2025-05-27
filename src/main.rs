@@ -203,6 +203,7 @@ fn build_rss(rule: &Rule) -> String {
         .last_build_date(now.clone())
         .items(vec![
             ItemBuilder::default()
+                .pub_date(now)
                 .title(rule.to_title())
                 .link(rule.to_url(PUB_URL))
                 .description(rule.to_description())
