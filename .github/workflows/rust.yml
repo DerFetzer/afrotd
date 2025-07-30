@@ -31,3 +31,6 @@ jobs:
       run: cargo clippy --all-targets --verbose
     - name: Run tests
       run: cargo test --verbose
+      env:
+        CMAKE_POLICY_VERSION_MINIMUM: 3.5 # Workaround for https://github.com/insomnimus/tidy-sys/issues/1
+
