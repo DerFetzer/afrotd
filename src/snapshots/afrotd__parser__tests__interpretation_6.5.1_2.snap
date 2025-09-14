@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 5
+  - 1
+index: 2
+text: "B1 steht mit einem Bein im Aus und mit dem anderen im Spielfeld, als er ein gültiges oder ein ungültiges Fair Catch-Signal anzeigt. Er\nfängt dann den Kick inbounds."
+ruling: "Es gibt keine Regelung für\neinen Receiving Team Spieler, der während eines Kicks ins Aus geht.\nDas Fangen ist legal und der Ball wird mit dem Fangen dead."

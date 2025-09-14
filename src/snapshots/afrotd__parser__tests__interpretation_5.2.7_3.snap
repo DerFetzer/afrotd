@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 5
+  - 2
+  - 7
+index: 3
+text: "Beim 4. und 5 erzielt Team A sechs Meter Raumgewinn und\nbekommt eine neue Serie zuerkannt. Nachdem der Ball spielbereit ist\nund vor dem Snap begeht A55 (a) ein persönliches Foul oder (b) einen\nFehlstart."
+ruling: (a) 1. und 25. (b) 1. und 15.

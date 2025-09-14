@@ -148,6 +148,8 @@ impl RulesParser {
         text = re_section.replace_all(&text, "\nA.R.").to_string();
         text = re_article.replace_all(&text, "\nA.R.").to_string();
 
+        text = text.replace("Rege-\nlung", "Regelung");
+
         let interpretations_start = text.find("\nA.R. 1.3.2.I ").ok_or(eyre!(
             "Could not find '\\nA.R. 1.3.2.I ' inside the pdf text"
         ))?;
@@ -244,7 +246,7 @@ impl RulesParser {
         );
 
         if text.starts_with("a)") {
-            text = format!("\t{}", text);
+            text = format!("\t{text}");
         }
 
         Ok(Rule {
