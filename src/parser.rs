@@ -222,6 +222,12 @@ impl RulesParser {
                 .replace_all(&text, "\n\t$1")
                 .to_string();
         }
+
+        // Special handling for 3.5.2
+        if article_nr == ArticleNr(3, 5, 2) {
+            text = text.replace("c)\n", "\n\tc) \n");
+        }
+
         text = RE_NEWLINE_NUM_LISTING
             .replace_all(&text, "\n\t\t$1")
             .to_string();
