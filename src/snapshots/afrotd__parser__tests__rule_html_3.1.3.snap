@@ -115,27 +115,29 @@ snapshot_kind: text
                         </li>
                     </ol>
                 </li>
-                <li>Timeouts: Jedem Team wird ein Timeout für jede Extraperiode
-                zugestanden (Regel 3.3.8). Timeouts, die während der regulären
-                Spielzeit nicht genutzt wurden, können nicht mit in die
-                nachfolgende(n) Extraperiode(n) übernommen werden. Unbenutzte
-                Extraperiode(n)-Timeouts können nicht in andere Extraperioden
+                <li>Timeouts: Jedem Team wird ein Timeout für die erste
+                Extraperiode und ein Timeout für die zweite Extraperiode
+                zugestanden. Jedem Team wird ein Timeout, beginnend mit der
+                dritten Extraperiode, bis das Spiel beendet ist, zugestanden
+                (Regel 3.3.8). Timeouts, die während der regulären Spielzeit
+                nicht genutzt wurden, können nicht mit in die nachfolgende(n)
+                Extraperiode(n) übernommen werden. Unbenutzte
+                Extraperiode(n)Timeouts können nicht in andere Extraperioden
                 übertragen werden. Timeouts, die zwischen den Extraperioden
                 genommen werden, werden in der nachfolgenden Extraperiode
-                angerechnet. Radio- und TV-Timeouts sind nur zwischen den
+                angerechnet. Radio- und TVTimeouts sind nur zwischen den
                 Perioden (erste und zweite, zweite und dritte etc.) erlaubt.
-                Geforderte Team-Timeouts dürfen nicht für Radio- oder
-                TV-Belange verlängert werden. Die Extraperiode(n) beginnt
-                (beginnen), wenn der Ball zum ersten Mal gesnappt wird. Gibt es
-                kein TV- oder Radio-Timeout nach der zweiten und vierten
-                Extraperiode, wird eine zweiminütige Unterbrechung
-                vorgeschrieben.
+                Geforderte Team-Timeouts dürfen nicht für Radiooder TV-Belange
+                verlängert werden. Die Extraperiode(n) beginnt (beginnen), wenn
+                der Ball zum ersten Mal gesnappt wird. Gibt es kein TVoder
+                Radio-Timeout nach der zweiten und vierten Extraperiode, wird
+                eine zweiminütige Unterbrechung vorgeschrieben.
                 </li>
             </ol>
         </div>
         <div class="block">
             <a class="button is-medium" href=
-            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025-1.pdf#subsection.1.3.1.3"
+            "https://afsvd.de/content/files/2025/12/Football_Regelbuch_2026-1.pdf#subsection.1.3.1.3"
             target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
         </div>
         <div class="block"></div>

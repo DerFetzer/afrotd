@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 2
+  - 4
+index: 6
+text: "2. und 10 an der B-40. Zu einem späten Zeitpunkt im Spiel advanct A22 für acht Meter und wird kurz vor der Line to Gain getackelt.\nDie Game Clock zeigt 1:58, als A22 gestoppt wird. B54 verlor seinen\nHelm (nicht als Folge eines Fouls) während des Plays."
+ruling: "Die\nGame Clock wird für das Zwei-Minuten-Timeout und B54’s Helmverlust\nangehalten. Auch wenn ein Team B Helm verloren wird, wird die Play\nClock nach dem Zwei-Minuten-Timeout auf 25 Sekunden gesetzt und\ndie Game Clock startet mit dem nächsten Snap (Die gleiche Play ClockRegelung wird angewandt, wenn ein Team B Spieler bei dem Play verletzt worden wäre)."

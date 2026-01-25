@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 3
+  - 6
+index: 11
+text: "3. und 10 von der B-30. Zu einem späten Zeitpunkt in der vierten Spielperiode vervollständigt Team A einen Vorwärtspass über die\nMitte zu einem First Down. Beim Snap a) hatte Team B 12 Spieler auf\ndem Feld; b) war Team A’s Formation nicht legal; c) verlor A77 während\ndes Play seinen Helm vollständig (nicht als direkte Folge eines gegnerischen Fouls). A88 bleibt auf dem Boden liegen und der Referee nimmt\nein Timeout für einen verletzten Spieler. Die Game Clock steht bei 0:05."
+ruling: "a) Es gibt keine Möglichkeit zu einem 10-Sekundenabzug,\nda das Schiedsrichter-Timeout auch den Auswechselfehler von Team\nB mit einbezieht. b) Es gibt keine Möglichkeit zu einem 10-Sekundenabzug, da das Schiedsrichter-Timeout auch die illegale Formation von\nTeam A mit einbezieht. c) Team B hat die Möglichkeit zu einem 10-Sekundenabzug. Team A kann den 10-Sekundenabzug vermeiden, indem\nes, sofern verfügbar, ein Team-Timeout verlangt. Das Spiel ist vorüber,\nwenn der 10-Sekundenabzug durchgeführt wird."

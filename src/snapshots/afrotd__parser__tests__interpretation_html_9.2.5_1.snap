@@ -15,8 +15,9 @@ snapshot_kind: text
             trägt den Ball an Team B’s Seitenlinie entlang. Als der Sidejudge
             in der Schiedsrichterzone an der Seitenlinie entlang das
             Spielgeschehen verfolgt, läuft er entweder gegen einen Team B-Coach
-            oder ein B-Teammitglied oder muss einem Team B-Coach oder einem
-            BTeammitglied ausweichen. B22 wird an der A-20 ins Aus gedrängt.
+            oder ein Team B-Teammitglied oder muss einem Team B-Coach oder
+            einem Team B-Teammitglied ausweichen. B22 wird an der A-20 ins Aus
+            gedrängt.
         </p>
         <details>
             <summary>
@@ -25,9 +26,13 @@ snapshot_kind: text
             <p>
                 Beide Situationen sind physische Behinderungen eines
                 Schiedsrichters während eines Downs. Es gibt dafür keine
-                Warnung. Team BFoul für unsportliches Verhalten, welches als
-                Dead Ball Foul geahndet wird. Nach der 15-Meterstrafe ist es
-                Team B’s Ball, 1. und 10 von der A-35.
+                Warnung. Team B-Foul für unsportliches Verhalten, welches als
+                Dead Ball Foul geahndet wird. Wenn der Team B Coach oder das
+                Teammitglied eindeutig identifiziert werden kann, wird das
+                UNV-Foul dieser Person zugerechnet. Wird der Coach oder das
+                Teammitglied nicht eindeutig identifiziert, wird das UNV-Foul
+                den Team zugerechnet. Nach der 15Meterstrafe ist es Team B’s
+                Ball, 1. und 10 von der A-35.
             </p>
         </details>
     </div>

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 6
+  - 5
+  - 3
+index: 7
+text: "Während sich ein Free Kick in der Luft befindet, streckt B21\nbeide Arme seitlich aus („T –Signal“), ohne den Kick zurücktragen zu\nwollen. Der Kick wird an der B5 a) von B21 oder b) von B44 gefangen."
+ruling: "Der Ball wird mit dem Fangen dead. a) Team B’s Ball, 1. und\n10 an der B-25. b) Team B’s Ball, 1. und 10 an der B-5."

@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 5
+  - 3
+index: 9
+text: "1. und 10 von der B25. Team A snappt den Ball mit 12 Sekunden verbleibender Spielzeit in der vierten Spielperiode. QB A12 kann\nkeinen freien Receiver finden. Er verlässt die Tackle Box und wirft den\nBall weg, der jenseits der neutralen Zone landet. Das Play endet mit\n6 Sekunden verbleibender Spielzeit. Bei der Defense befanden sich 12\nSpieler auf dem Spielfeld, aber B21 versuchte, das Spielfeld zu verlassen. Der Ball wurde jedoch gesnappt, bevor B21 das Spielfeld verlassen konnte."
+ruling: "Foul durch Team B für einen Auswechselfehler.\nDie 5-Meterstrafe wird vom Previous Spot geahndet. Wenn B21 keinen\nEinfluss auf das Spielgeschehen nahm, wird die Game Clock nicht korrigiert."

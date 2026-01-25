@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 3
+  - 6
+index: 13
+text: "3. und 10 von der B-30. Zu einem späten Zeitpunkt in der vierten Spielperiode vervollständigt Team A einen Vorwärtspass über die\nMitte auf A88 zu einem First Down und A88 wird inbounds an der B-15\ngetackelt. B27 bleibt auf dem Boden liegen und der Referee hält die\nGame Clock für ein Verletzungs-Timeout an. Die Game Clock steht a)\nbei 0:05 oder b) bei 0:15."
+ruling: "a) Team A hat die Möglichkeit zu\neinem 10-Sekundenabzug, den es ablehnen kann und die Game Clock\nstartet mit dem Snap. b) Es gibt keine Möglichkeit zu einem 10-Sekundenabzug. Die Game Clock startet nach dem Verletzungs-Timeout\nbeim Signal des Referees."

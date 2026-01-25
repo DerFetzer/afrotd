@@ -1,0 +1,31 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 1.4.11.III
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Während eines Timeouts versammelt sich Team A in einem Huddle in
+            der Spielfeldmitte. Der Team A-Head Coach bringt eines der 18
+            genehmigten Tablets und bespricht das Video mit seinen Spielern in
+            der Spielfeldmitte.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Keine legale Nutzung des Tablets. Der Head Coach wird wegen
+                unsportlichen Verhaltens bestraft (Regel 1.4.11.b). Das ist ein
+                Dead Ball Foul und die 15-Meterstrafe wird vom Succeeding Spot
+                durchgeführt.
+            </p>
+        </details>
+    </div>
+</article>

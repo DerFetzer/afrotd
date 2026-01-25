@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.5.3.VIII
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            1. und 10 von der B25. Team A snappt den Ball mit 12 Sekunden
+            verbleibender Spielzeit in der vierten Spielperiode. QB A12 kann
+            keinen freien Receiver finden. Er verlässt die Tackle Box und wirft
+            den Ball weg, der jenseits der neutralen Zone landet. Das Play
+            endet mit 6 Sekunden verbleibender Spielzeit. Bei der Defense
+            nahmen 12 Spieler am Play teil.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Foul durch Team B für einen Auswechselfehler. Die 5-Meterstrafe
+                wird vom Previous Spot geahndet. Team A hat die Wahl, die Game
+                Clock auf 12 Sekunden zurücksetzen zu lassen. Die Game Clock
+                startet dann mit dem Snap.
+            </p>
+        </details>
+    </div>
+</article>

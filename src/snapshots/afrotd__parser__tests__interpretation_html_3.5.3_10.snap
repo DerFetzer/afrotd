@@ -1,0 +1,33 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 3.5.3.X
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            1. und 10 von der B25. Team A snappt den Ball mit 12 Sekunden
+            verbleibender Spielzeit in der vierten Spielperiode. QB A12 kann
+            keinen freien Receiver finden. Er verlässt die Tackle Box, advanct
+            zehn Meter und wird inbounds getackelt. Die Game Clock bleibt bei
+            0:05 stehen. Bei der Defense nahmen 12 Spieler am Play teil.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Foul durch Team B für einen Auswechselfehler. Es besteht keine
+                Verpflichtung, die Strafe zu akzeptieren, damit die Game Clock
+                zurückgesetzt werden kann. Team A kann die 5-Meterstrafe
+                ablehnen und die Game Clock auf 12 Sekunden zurückstellen
+                lassen. Die Game Clock startet dann mit dem nächsten Snap.
+            </p>
+        </details>
+    </div>
+</article>

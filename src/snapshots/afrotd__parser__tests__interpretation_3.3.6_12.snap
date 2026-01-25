@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 3
+  - 3
+  - 6
+index: 12
+text: "3. und 10 von der B-30. Zu einem späten Zeitpunkt in der vierten Spielperiode a) vervollständigt Team A einen Vorwärtspass auf A88, der an der B-15 zu einem First Down ins Aus läuft. b) wirft Team\nA einen unvollständigen Vorwärtspass auf A88. In beiden Fällen bleibt\nA88 auf dem Boden liegen und der Referee nimmt ein Timeout für einen\nverletzten Spieler und die Game Clock bleibt bei 0:05 stehen."
+ruling: "Es gibt keine Möglichkeit zu einem 10-Sekundenabzug, da a) der\nRunner ins Aus lief und damit die Game Clock anhielt; b) der unvollständige Vorwärtspass die Game Clock anhielt."

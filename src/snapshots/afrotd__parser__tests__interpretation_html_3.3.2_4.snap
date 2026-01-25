@@ -12,8 +12,9 @@ snapshot_kind: text
     <div class="message-body">
         <p>
             Zu einem späten Zeitpunkt in der zweiten oder vierten Spielperiode
-            geht der Ballträger während eines Downs ins Aus. Als die Game Clock
-            angehalten wird, steht sie bei (a) 2:02; (b) 1:59.
+            geht der Ballträger während eines Downs ins Aus. Die Game Clock
+            wird angehalten, a) vor dem Zwei-Minuten-Timeout; b) bei oder nach
+            dem Zwei-Minuten-Timeout.
         </p>
         <details>
             <summary>

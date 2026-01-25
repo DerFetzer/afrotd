@@ -1,0 +1,28 @@
+---
+source: src/parser.rs
+expression: interpretation_html
+snapshot_kind: text
+---
+<article class="message is-size-5 is-info">
+    <div class="message-header">
+        <p>
+            A.R. 1.4.11.II
+        </p>
+    </div>
+    <div class="message-body">
+        <p>
+            Während eines Timeouts versammelt sich Team A in der Nähe ihrer
+            Seitenlinie und vor ihrer Teamzone. Der Team A-Head Coach bringt
+            eines der 18 genehmigten Tablets und bespricht das Video mit seinen
+            Spielern.
+        </p>
+        <details>
+            <summary>
+                <b>Regelung</b>
+            </summary>
+            <p>
+                Legale Nutzung des Tablets.
+            </p>
+        </details>
+    </div>
+</article>

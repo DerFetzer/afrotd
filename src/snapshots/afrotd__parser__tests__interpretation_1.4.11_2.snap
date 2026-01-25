@@ -1,0 +1,12 @@
+---
+source: src/parser.rs
+expression: interpretation
+snapshot_kind: text
+---
+article_nr:
+  - 1
+  - 4
+  - 11
+index: 2
+text: "Während eines Timeouts versammelt sich Team A in der Nähe ihrer Seitenlinie und vor ihrer Teamzone. Der Team A-Head Coach\nbringt eines der 18 genehmigten Tablets und bespricht das Video mit\nseinen Spielern."
+ruling: Legale Nutzung des Tablets.

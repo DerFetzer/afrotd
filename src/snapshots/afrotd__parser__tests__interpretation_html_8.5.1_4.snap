@@ -13,7 +13,7 @@ snapshot_kind: text
         <p>
             B1 fängt einen Vorwärtspass oder einen Fumble oder einen Free oder
             Scrimmage Kick zwischen seiner B-5 und der Goalline von B ab und
-            seine Eigenbewegung trägt ihn in die Endzone. Der Ball wird in Team
+            sein Eigenschwung trägt ihn in die Endzone. Der Ball wird in Team
             B’s Besitz in der Endzone für dead erklärt.
         </p>
         <details>
@@ -22,9 +22,10 @@ snapshot_kind: text
             </summary>
             <p>
                 Team B’s Ball an der Stelle, an der der Pass oder Fumble
-                abgefangen oder der Kick gefangen wurde. Die Regelung ist die
-                gleiche, wenn B1 einen Fumble, einen Rückpass oder einen Kick
-                unter ähnlichen Bedingungen recovert.
+                abgefangen oder der gegnerische Kick gefangen wurde. Die
+                Regelung ist die gleiche, wenn B1 einen gegnerischen Fumble,
+                einen Rückpass oder einen Kick unter ähnlichen Bedingungen
+                recovert.
             </p>
         </details>
     </div>

@@ -20,13 +20,13 @@ snapshot_kind: text
                 <b>Regelung</b>
             </summary>
             <p>
-                Foul für Schlagen des Balles in der Endzone. Postscrimmage Kick
-                Enforcement ergibt einen Safety durch die Strafe. Der Ball
-                bleibt im Spiel und Team A kann das Ergebnis des Downs wählen.
-                Wenn Team A den Ball recovert, keine Punkte erzielt und die
-                Strafe annimmt oder sich das Geschehen während in einer
-                Extraperiode ereignet, wird die Strafe vom Previous Spot
-                durchgeführt.
+                Foul für Schlagen des Balles in der Endzone. Während der
+                regulären Spielzeit ergibt das Postscrimmage Kick Enforcement
+                einen Safety durch die Strafe. Der Ball bleibt im Spiel und
+                Team A kann das Ergebnis des Downs wählen. Wenn Team A den Ball
+                recovert, keine Punkte erzielt und die Strafe annimmt oder sich
+                das Geschehen während einer Extraperiode ereignet, wird die
+                Strafe vom Previous Spot durchgeführt.
             </p>
         </details>
     </div>

@@ -12,11 +12,15 @@ snapshot_kind: text
     <div class="message-body">
         <div class="content">
             <p>
-                Ein ungültiges Signal ist irgendein Winkzeichen eines Team
+                Ein ungültiges Signal ist ein Winkzeichen irgendeines Team
                 B-Spielers:
             </p>
             <ol type="a">
                 <li>das nicht den Anforderungen der Regel 2.8.2 entspricht;
+                </li>
+                <li>inklusive eines „T –Signals“, welches während eines
+                Scrimmage Kicks oder eines Free Kicks gegeben wird (A.R.
+                6.5.3.VII); oder
                 </li>
                 <li>das gegeben wird, nachdem ein Scrimmage Kick jenseits der
                 neutralen Zone gefangen wurde oder den Boden oder einen anderen
@@ -31,7 +35,7 @@ snapshot_kind: text
         </div>
         <div class="block">
             <a class="button is-medium" href=
-            "https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025-1.pdf#subsection.1.2.8.3"
+            "https://afsvd.de/content/files/2025/12/Football_Regelbuch_2026-1.pdf#subsection.1.2.8.3"
             target="_blank" rel="noreferrer noopener">Offizielles Regelwerk</a>
         </div>
         <div class="block"></div>
