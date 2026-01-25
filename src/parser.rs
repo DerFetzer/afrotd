@@ -84,9 +84,11 @@ impl RulesParser {
         );
 
         let re_new_page = Regex::new(r"-?\n\x0C").unwrap();
+        let re_new_page_inner = Regex::new(r"-\n\n\x0C").unwrap();
         let re_section = Regex::new(r"(?sm)^Abschnitt .*?Artikel").unwrap();
         let re_new_chapter = Regex::new(r"\n\x0C.*\n.*\n\n").unwrap();
 
+        text = re_new_page_inner.replace_all(&text, "").to_string();
         text = re_new_page.replace_all(&text, "").to_string();
         text = re_section.replace_all(&text, "\nArtikel").to_string();
         text = re_new_chapter.replace_all(&text, "").to_string();
@@ -149,6 +151,7 @@ impl RulesParser {
         text = re_article.replace_all(&text, "\nA.R.").to_string();
 
         text = text.replace("Rege-\nlung", "Regelung");
+        text = text.replace("-\n", "\n");
 
         let interpretations_start = text.find("\nA.R. 1.3.2.I ").ok_or(eyre!(
             "Could not find '\\nA.R. 1.3.2.I ' inside the pdf text"
