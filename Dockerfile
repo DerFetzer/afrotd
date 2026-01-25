@@ -11,7 +11,7 @@ FROM alpine:3.23
 RUN apk add --no-cache poppler-utils
 WORKDIR /afrotd
 COPY --from=builder /afrotd/target/x86_64-unknown-linux-musl/release/afrotd /afrotd/afrotd
-COPY --from=builder /afrotd/Football_Regelbuch_2025-1.pdf /afrotd/Football_Regelbuch_2025.pdf
+COPY --from=builder /afrotd/Football_Regelbuch_2026-1.pdf /afrotd/Football_Regelbuch_2026.pdf
 COPY res ./res
 EXPOSE 3000
 ENTRYPOINT ["/afrotd/afrotd"]
