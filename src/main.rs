@@ -26,7 +26,7 @@ use tracing_subscriber::{layer::SubscriberExt, util::SubscriberInitExt};
 use veil::Redact;
 
 use afrotd::{
-    AppState, DynamicState, OPENGRAPH_PNG, PUB_URL, RSS_SVG,
+    AppState, DynamicState, OPENGRAPH_PNG, PUB_URL, RSS_SVG, RULE_BOOK_URL,
     discord::{DiscordEventHandler, build_discord_message},
     get_current_date, get_current_datetime,
 };
@@ -272,7 +272,7 @@ fn insert_content_to_site(content: &dyn Render) -> Markup {
                                     "sich regelmäßig mit den Regeln im American Football in Deutschland zu beschäftigen."
                                     br;
                                     "Sie wurden unter freundlicher Genehmigung des " a href="https://afvd.de" { "AFVD" } " aus dem "
-                                    a href="https://afsvd.de/content/files/2025/12/Football_Regelbuch_2026-1.pdf" { "offiziellen Regelwerk des AFSVD" } " extrahiert. "
+                                    a href=(RULE_BOOK_URL) { "offiziellen Regelwerk des AFSVD" } " extrahiert. "
                                     "Fehler können nicht ausgeschlossen werden."
                                     br;
                                     "Die Verarbeitung der Inhalte auf dieser Website ist nur nach schriftlicher Genehmigung des AFVD zulässig."

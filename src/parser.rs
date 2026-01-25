@@ -269,6 +269,8 @@ impl RulesParser {
 
 #[cfg(test)]
 mod tests {
+    use crate::RULE_BOOK_URL;
+
     use super::*;
 
     use insta::{assert_snapshot, assert_yaml_snapshot};
@@ -283,12 +285,10 @@ mod tests {
         let mut rules_path = PathBuf::from(temp.as_ref());
         rules_path.push("rules.pdf");
 
-        let rules_response = reqwest::blocking::get(
-            "https://afsvd.de/content/files/2025/12/Football_Regelbuch_2026-1.pdf",
-        )
-        .unwrap()
-        .error_for_status()
-        .unwrap();
+        let rules_response = reqwest::blocking::get(RULE_BOOK_URL)
+            .unwrap()
+            .error_for_status()
+            .unwrap();
 
         std::fs::write(&rules_path, rules_response.bytes().unwrap()).unwrap();
 

@@ -1,3 +1,4 @@
+use crate::RULE_BOOK_URL;
 use eyre::eyre;
 use maud::{PreEscaped, Render, html};
 use roman_numerals::ToRoman;
@@ -104,7 +105,7 @@ impl Render for Rule {
                     (self.render_text())
                     div.block {
                         a .button .is-medium
-                            href=(format!("https://afsvd.de/content/files/2025/12/Football_Regelbuch_2026-1.pdf#{}", self.article_nr.to_pdf_destination()))
+                            href=(format!("{}#{}", RULE_BOOK_URL, self.article_nr.to_pdf_destination()))
                             target="_blank" rel="noreferrer noopener" {
                             "Offizielles Regelwerk"
                         }
