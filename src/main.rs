@@ -27,6 +27,7 @@ use veil::Redact;
 
 use afrotd::{
     AppState, DynamicState, OPENGRAPH_PNG, PUB_URL, RSS_SVG, RULE_BOOK_URL,
+    build::{PKG_VERSION, SHORT_COMMIT},
     discord::{DiscordEventHandler, build_discord_message},
     get_current_date, get_current_datetime,
 };
@@ -283,6 +284,9 @@ fn insert_content_to_site(content: &dyn Render) -> Markup {
                                     " • "
                                     a .has-text-grey-light href="https://legal.matthias-fetzer.de/privacy.html"
                                         target="_blank" rel="noreferrer noopener" { "Datenschutz" }
+                                }
+                                p .has-text-grey-dark {
+                                    (format!("Version {}@{}", PKG_VERSION, SHORT_COMMIT))
                                 }
                             }
                         }

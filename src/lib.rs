@@ -6,10 +6,13 @@ use indexmap::IndexMap;
 use maud::Markup;
 use rule::{ArticleNr, Rule};
 use serenity::all::CreateMessage;
+use shadow_rs::shadow;
 
 pub mod discord;
 pub mod parser;
 pub mod rule;
+
+shadow!(build);
 
 pub const PUB_URL: &str = "https://ruleoftheday.de";
 pub const RSS_SVG: &str = "/res/rss.svg";
