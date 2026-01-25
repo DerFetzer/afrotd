@@ -2,7 +2,7 @@ FROM rust:1.91.1-bullseye AS builder
 RUN apt-get update && apt-get install -y --no-install-recommends cmake musl-tools wget && rm -rf /var/lib/apt/lists/*
 RUN rustup target add x86_64-unknown-linux-musl
 WORKDIR /afrotd
-RUN wget -nv https://afsvd.de/content/files/2024/12/Football_Regelbuch_2025-1.pdf
+RUN wget -nv https://afsvd.de/content/files/2025/12/Football_Regelbuch_2026-1.pdf
 COPY . .
 
 RUN cargo build --target=x86_64-unknown-linux-musl --release
