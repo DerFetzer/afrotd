@@ -5,12 +5,12 @@ use axum::{
     routing::get,
 };
 use axum_extra::{TypedHeader, headers::ContentType};
-use chrono::prelude::*;
 use clap::{Args, Parser};
 use eyre::eyre;
 use indexmap::IndexMap;
+use jiff::{civil::Date, fmt::rfc2822};
 use maud::{DOCTYPE, Markup, Render, html};
-use rand::{Rng, rng, seq::SliceRandom};
+use rand::{RngExt, rng, seq::SliceRandom};
 use rand_pcg::Pcg64;
 use rand_seeder::Seeder;
 use rss::{ChannelBuilder, ItemBuilder};
@@ -29,7 +29,7 @@ use afrotd::{
     AppState, DynamicState, OPENGRAPH_PNG, PUB_URL, RSS_SVG, RULE_BOOK_URL,
     build::{PKG_VERSION, SHORT_COMMIT},
     discord::{DiscordEventHandler, build_discord_message},
-    get_current_date, get_current_datetime,
+    get_current_datetime,
 };
 use afrotd::{
     parser,
@@ -42,7 +42,7 @@ struct Cli {
     #[arg(short, long)]
     exclude_rule: Vec<ArticleNr>,
     #[arg(short, long)]
-    start_date: NaiveDate,
+    start_date: Date,
     #[command(flatten)]
     discord_args: DiscordArgs,
 }
@@ -76,7 +76,7 @@ async fn main() -> eyre::Result<()> {
 
     info!("{cli:?}");
 
-    let current_date = get_current_date();
+    let current_date = get_current_datetime().date();
     if cli.start_date > current_date {
         return Err(eyre!("Start date is later than current date!"));
     }
@@ -119,7 +119,7 @@ async fn main() -> eyre::Result<()> {
         let mut interval = time::interval(time::Duration::from_secs(60));
         loop {
             interval.tick().await;
-            let current_date = get_current_date();
+            let current_date = get_current_datetime().date();
             if current_date != state.dynamic_state.read().unwrap().current_date {
                 let mut dynamic_state = state.dynamic_state.write().unwrap();
                 dynamic_state.current_date = current_date;
@@ -184,18 +184,19 @@ async fn main() -> eyre::Result<()> {
 }
 
 fn get_rule<'a>(
-    start_date: NaiveDate,
-    current_date: NaiveDate,
+    start_date: Date,
+    current_date: Date,
     rules: &'a IndexMap<ArticleNr, Rule>,
     rule_order: &'a [usize],
 ) -> &'a Rule {
-    let days_since_start = (current_date - start_date).num_days();
+    let days_since_start = (current_date - start_date).get_days();
     assert!(days_since_start >= 0);
     &rules[rule_order[days_since_start as usize % rules.len()]]
 }
 
 fn build_rss(rule: &Rule) -> String {
-    let now = get_current_datetime().to_rfc2822();
+    let now =
+        rfc2822::to_string(&get_current_datetime()).expect("Could not format date as RFC 2822");
     ChannelBuilder::default()
         .title("Rule of the Day")
         .link(PUB_URL)

@@ -1,8 +1,7 @@
 use std::sync::RwLock;
 
-use chrono::{DateTime, NaiveDate, Utc};
-use chrono_tz::{Europe::Berlin, Tz};
 use indexmap::IndexMap;
+use jiff::{Timestamp, Zoned, civil::Date, tz::TimeZone};
 use maud::Markup;
 use rule::{ArticleNr, Rule};
 use serenity::all::CreateMessage;
@@ -22,22 +21,18 @@ pub const RULE_BOOK_URL: &str =
 
 pub struct AppState {
     pub rules: IndexMap<ArticleNr, Rule>,
-    pub start_date: NaiveDate,
+    pub start_date: Date,
     pub rule_order: Vec<usize>,
     pub dynamic_state: RwLock<DynamicState>,
 }
 
 pub struct DynamicState {
-    pub current_date: NaiveDate,
+    pub current_date: Date,
     pub current_rule_markup: Markup,
     pub rss: String,
     pub discord_message: CreateMessage,
 }
 
-pub fn get_current_date() -> NaiveDate {
-    get_current_datetime().date_naive()
-}
-
-pub fn get_current_datetime() -> DateTime<Tz> {
-    Utc::now().with_timezone(&Berlin)
+pub fn get_current_datetime() -> Zoned {
+    Timestamp::now().to_zoned(TimeZone::get("Europe/Berlin").expect("Could not get timezone"))
 }

@@ -2,7 +2,7 @@ use crate::rule::Rule;
 use crate::{AppState, get_current_datetime};
 use crate::{OPENGRAPH_PNG, PUB_URL};
 
-use chrono::{NaiveDate, prelude::*};
+use jiff::ToSpan;
 use serenity::builder::{CreateEmbed, CreateMessage};
 use serenity::{
     all::{ChannelId, GuildId, Ready},
@@ -37,15 +37,17 @@ impl EventHandler for DiscordEventHandler {
             let app_state = self.app_state.clone();
             tokio::spawn(async move {
                 let mut interval = time::interval(time::Duration::from_secs(30));
-                let mut last_send_date = NaiveDate::MIN;
+                let mut last_send_date = get_current_datetime()
+                    .checked_sub(1.days())
+                    .expect("Could not subtract day from current time")
+                    .date();
                 loop {
                     interval.tick().await;
                     let current_date_time = get_current_datetime();
 
                     if current_date_time.hour() as u8 == discord_post_hour
                         && current_date_time.minute() == 0
-                        && current_date_time.date_naive() - last_send_date
-                            > chrono::TimeDelta::zero()
+                        && current_date_time.date() > last_send_date
                     {
                         info!("Send message");
 
@@ -59,7 +61,7 @@ impl EventHandler for DiscordEventHandler {
                         {
                             error!("Could not send message: {err}");
                         }
-                        last_send_date = current_date_time.date_naive();
+                        last_send_date = current_date_time.date();
                     }
                 }
             });
