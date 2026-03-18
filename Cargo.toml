@@ -30,6 +30,7 @@ serde = { version = "1.0", features = ["derive"] }
 serde_json = { version = "1.0" }
 genanki-rs = "0.4.0"
 shadow-rs = { version = "1.7.1", default-features = false }
+anki_bridge = { version = "0.10.2", features = ["ureq_blocking"] }
 
 [build-dependencies]
 shadow-rs = "1.7.1"
