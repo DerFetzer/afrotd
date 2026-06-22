@@ -1,7 +1,10 @@
 use axum::{
     Router,
     extract::{Path, State},
-    http::StatusCode,
+    http::{
+        StatusCode,
+        header::{self, HeaderValue},
+    },
     routing::get,
 };
 use axum_extra::{TypedHeader, headers::ContentType};
@@ -20,7 +23,8 @@ use std::{
     sync::{Arc, RwLock, atomic::AtomicBool},
 };
 use tokio::time;
-use tower_http::{services::ServeDir, trace::TraceLayer};
+use tower::ServiceBuilder;
+use tower_http::{services::ServeDir, set_header::SetResponseHeaderLayer, trace::TraceLayer};
 use tracing::{debug, error, info, warn};
 use tracing_subscriber::{layer::SubscriberExt, util::SubscriberInitExt};
 use veil::Redact;
@@ -172,7 +176,15 @@ async fn main() -> eyre::Result<()> {
         .route("/rule/{article_nr}", get(get_single_rule))
         .route("/rss.xml", get(rss))
         .route("/health", get(|| async { "OK" }))
-        .nest_service("/res", ServeDir::new("res"))
+        .nest_service(
+            "/res",
+            ServiceBuilder::new()
+                .layer(SetResponseHeaderLayer::if_not_present(
+                    header::CACHE_CONTROL,
+                    HeaderValue::from_static("public, max-age=2592000"),
+                ))
+                .service(ServeDir::new("res")),
+        )
         .with_state(state)
         .layer(TraceLayer::new_for_http());
 

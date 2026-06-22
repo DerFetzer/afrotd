@@ -8,7 +8,8 @@ edition = "2024"
 [dependencies]
 axum = { version = "0.8.8", features = ["tracing"] }
 axum-extra = { version = "0.12.5", features = ["typed-header"] }
-tower-http = { version = "0.6.8", features = ["fs", "trace"] }
+tower = { version = "0.5.3" }
+tower-http = { version = "0.6.8", features = ["fs", "trace", "set-header"] }
 clap = { version = "4.6.0", features = ["derive"] }
 jiff = "0.2.23"
 eyre = "0.6.12"
