@@ -6,23 +6,23 @@ edition = "2024"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-axum = { version = "0.8.8", features = ["tracing"] }
-axum-extra = { version = "0.12.5", features = ["typed-header"] }
+axum = { version = "0.8.9", features = ["tracing"] }
+axum-extra = { version = "0.12.6", features = ["typed-header"] }
 tower = { version = "0.5.3" }
-tower-http = { version = "0.6.8", features = ["fs", "trace", "set-header"] }
-clap = { version = "4.6.0", features = ["derive"] }
-jiff = "0.2.23"
+tower-http = { version = "0.7.0", features = ["fs", "trace", "set-header"] }
+clap = { version = "4.6.1", features = ["derive"] }
+jiff = "0.2.29"
 eyre = "0.6.12"
-indexmap = { version = "2.13.0", features = ["serde"] }
+indexmap = { version = "2.14.0", features = ["serde"] }
 maud = { version = "0.27.0", features = ["axum"] }
 once_cell = "1.21.4"
-rand = "0.10.0"
-rand_pcg = "0.10.1"
+rand = "0.10.1"
+rand_pcg = "0.10.2"
 rand_seeder = "0.5.0"
-regex = "1.12.3"
+regex = "1.12.4"
 roman-numerals = "0.4.0"
-rss = "2.0.12"
-tokio = { version = "1.50.0", features = ["full"] }
+rss = "2.0.13"
+tokio = { version = "1.52.3", features = ["full"] }
 tracing = "0.1"
 tracing-subscriber = { version = "0.3", features = ["env-filter", "json"] }
 serenity = "0.12"
@@ -30,17 +30,17 @@ veil = "0.3"
 serde = { version = "1.0", features = ["derive"] }
 serde_json = { version = "1.0" }
 genanki-rs = "0.4.0"
-shadow-rs = { version = "1.7.1", default-features = false }
+shadow-rs = { version = "2.0.0", default-features = false }
 anki_bridge = { version = "0.10.2", features = ["ureq_blocking"] }
 
 [build-dependencies]
-shadow-rs = "1.7.1"
+shadow-rs = "2.0.0"
 
 [dev-dependencies]
-insta = { version = "1.46.3", features = ["yaml"] }
-reqwest = { version = "0.13.2", features = ["blocking"] }
+insta = { version = "1.48.0", features = ["yaml"] }
+reqwest = { version = "0.13.4", features = ["blocking"] }
 temp_testdir = "0.2.3"
-tidier = "0.5.5"
+tidier = "0.5.6"
 
 [profile.dev.package]
 insta.opt-level = 3
